@@ -1,0 +1,120 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Qik Process",
+    "short_name": "Qik Process",
+    "scope": "/qc_software/",
+    "display": "standalone",
+    "start_url": "https://betadev.github.io/qc_software",
+    "background_color": "#3e6ae7",
+    "theme_color": "transparent",
+    "description": "Qik Process",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+
+    "icons": [
+        {
+            "src": "images/899ca12d-d5c7-210a-0aaf-e75b10bc6c51.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "images/d6b55ebb-c4b9-f1dc-82cd-6129dee056f2.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "images/13624c00-8959-e09b-486a-71ddb1bdb567.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "images/43309210-9632-eec1-434c-71bb03277555.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/c2a38127-7087-d01d-64fe-fcf07a3436e4.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "images/200e435c-21b9-ca29-e33d-412d2c357ea5.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "images/d80ebb63-b11c-5e78-f932-5e5b520bd601.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "images/5ab49c1f-89aa-d1f9-23a0-636b2e024b4a.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "images/6d3d8a62-250f-c734-bae5-584ec44e2c1e.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/f6a519bc-bc37-a92e-ac94-f5e3adddabcf.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/a8106464-cb61-6982-a886-92f39b535d50.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/c285eaf5-3be9-e7cf-0b7f-6658c28b5034.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "images/df274e5a-c0b2-2ded-20fc-256eb86730a8.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fc92d1e2-e934-388c-6410-2391376f7421.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "images/0cfcb7b5-a5d0-0d35-e66e-7f87bd8c598f.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "images/8af13770-ef83-44ea-e5a5-2a3f39065290.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/3dbd1c83-1450-9c45-a7bb-f8ccbcaf6426.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "images/387a1c3f-a01f-920a-74ea-a0f0c8e517c2.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "images/127cba67-166a-f97c-f102-e3d2fef38bbb.webPlatform.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://betadev.github.io/qc_software",
+    "screenshots": []
+}

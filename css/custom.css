@@ -1,0 +1,9 @@
+.horizontal-group > .row {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .horizontal-group > .row > .col-sm-4 {
+    display: inline-block;
+    min-width: 350px;
+    float: none;
+  }

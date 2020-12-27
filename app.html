@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Qik Process</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="css/font-awesome.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/additional_styles.min.css">
+  <link rel="stylesheet" href="css/custom.css"/>
+  <link rel="stylesheet" href="DataTables/datatables.min.css"/>
+
+  <link rel="stylesheet" href="css/bootstrap-select.min.css">
+  <link rel="stylesheet" href="gijgo/css/gijgo.min.css">
+
+
+</head>
+
+
+<body>
+
+  <div class="container-fluid bg-gradient-primary text-white text-center" id="logo_div" style="height: 100vh"> <!-- Start of logo div-->
+    <div class="row">
+
+      <div class="col-sm-4"></div>
+
+      <div class="col-sm-4">
+        
+          <small>
+            <h1 class="display-3 text-center border-bottom border-white p-2 mt-3 mb-4">
+                  <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-droplet-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M8 16a6 6 0 0 0 6-6c0-1.655-1.122-2.904-2.432-4.362C10.254 4.176 8.75 2.503 8 0c0 0-6 5.686-6 10a6 6 0 0 0 6 6zM6.646 4.646c-.376.377-1.272 1.489-2.093 3.13l.894.448c.78-1.559 1.616-2.58 1.907-2.87l-.708-.708z"/>
+                    </svg>
+            <br>Qik<br/>Process        
+            </h1>
+            <h5 id="welcome_instruction"><div class="spinner-border text-white" style="width: 2rem; height: 2rem;"></div> <br><br>Loading</h5>
+          </small>  
+
+
+      </div>
+
+      <div class="col-sm-4"></div>
+
+    </div>
+
+  </div>
+
+  <div class="container-fluid" id="main_div" style = "display: none;"> <!-- Start of main div-->
+    
+    <!--   Navbar present on top for all sections - Opens Navigation menu when clicked     -->
+    <nav class="navbar navbar-expand-md navbar-light bg-white border-bottom shadow-sm mb-3" id="navigation_menu_btn" style="display: none;">
+      <a class="btn btn-block text-primary"><h5>Main Menu</h5></a>
+    </nav>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-white border-bottom shadow-sm mb-3" id="back_configure_settings_menu_btn" style="display: none;">
+      <a class="btn btn-block text-primary"><h5>Back to Settings</h5></a>
+    </nav>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-white border-bottom shadow-sm mb-3" id="back_dashboard_menu_btn" style="display: none;">
+      <a class="btn btn-block text-primary"><h5>Back to Dashboard</h5></a>
+    </nav>    
+
+    <div class="container-flex" id="alerts_container"></div>
+
+    <!--   Main Navigation Section with all menus     -->
+      <div id="navigation_menu" name="nav_section" style="display: none;">  
+
+        <div class="row">
+
+          <div class="col-sm-1"></div>
+
+          <div class="col-sm-10">
+
+
+        <div class="row d-flex justify-content-around mt-4">
+  
+          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_dashboard_btn" style = "display:none">
+            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-tachometer-alt"></i></h1></button>
+            <pre>View<br>Dashboard</pre>
+          </div>
+            
+           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_create_serial_btn" style = "display:none">
+            <button class="btn btn-primary"><h1 class="display-4 pl-2 pr-2"> <i class="fas fa-plus-circle"></i></h1></button>
+            <pre>Add<br/>New Job</pre>
+          </div>
+
+          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_update_serial_btn" style = "display:none">
+            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-edit"></i></h1></button>
+            <pre>Update<br>Job Status</pre>
+          </div>          
+          
+          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_process_disruptions_btn" style = "display:none">
+            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-exclamation-triangle"></i></h1></button>
+            <pre>Process<br>Disruptions</pre>
+          </div>          
+
+           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_settings_btn" style = "display:none">
+            <button class="btn btn-primary"><h1 class="display-4 pl-2 pr-2"> <i class="fas fa-cog"></i></h1></button>
+            <pre>Configure<br>Settings</pre>
+          </div>
+          
+        <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_view_credits_btn" style = "display:none">
+          <button class="btn btn-primary"><h1 class="display-4  pl-2 pr-2"><i class="fas fa-coins"></i></h1></button>
+          <pre>View<br>Credits</pre>
+        </div>                
+
+        <div class="col-xs-1 text-center ml-1 mr-1" id="logout_btn" style = "display:none">
+          <button class="btn btn-primary"><h1 class="display-4  pl-2 pr-2"><i class="fas fa-sign-out-alt"></i></h1></button>
+          <pre>Sign<br>Out</pre>
+        </div>
+
+        </div>
+
+        </div>
+
+        <div class="col-sm-1"></div>
+
+        </div>
+
+        <div class = "flex-container text-center text-primary">
+          <h2 id="navigation_company_name"></h2>
+          <h4 id="navigation_current_user"></h4>
+        </div>
+
+        <div class="text-center text-primary" id="navigation_company_name"></div>
+
+      </div>
+
+
+
+                <!--   Dashboard section to display sub sections    -->
+                <div id="navigation_dashboard" name="nav_section" style="display: none;">  
+
+                <div class="row p-1">
+
+                  <div class="col-sm-1"></div>
+
+                  <div class="col-sm-10">
+
+                        <div class="row d-flex justify-content-around mt-4" id="navigation_dashboard_1">
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_realtime_analytics_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-chart-line"></i></h1></button>
+                            <pre>Realtime<br>Operation<br>Analytics</pre>
+                          </div>
+                            
+                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_daily_operation_analytics_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-chart-bar"></i></h1></button>
+                            <pre>Daily<br>Operation<br>Analytics</pre>
+                          </div>
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_hourly_operation_analytics_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-clock"></i></h1></button>
+                            <pre>Hourly<br>Operation<br>Analytics</pre>
+                          </div>
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_operation_pending_jobs_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-list-ul"></i></h1></button>
+                            <pre>Pending<br>Jobs By<br>Operation</pre>
+                          </div>    
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_deviation_required_jobs_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-exclamation-circle"></i></h1></button>
+                            <pre>Jobs<br>Requiring<br>Deviations</pre>
+                          </div>                          
+                          
+                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_download_job_records_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-arrow-alt-circle-down"></i></h1></button>
+                            <pre>Download<br>Job<br>Records</pre>
+                          </div>
+
+                        </div> 
+                  </div>
+
+                  <div class="col-sm-1"></div>
+
+                </div>
+
+                </div>
+
+
+                        <!--   Section to display realtime analytics - sub section of dashboard    -->
+                        <div id="navigation_realtime_analytics" name="nav_section" style="display: none;">
+                          
+                          <div class="container text-center text-dark"> Please click "Fetch Data" button to download the latest Realtime Analytics data </div>
+                          
+                          <div class="row">
+                            <div class="col-sm-4"></div>
+
+                            <div class="col-sm-4">
+                              <div class="btn btn-primary btn-block mt-3" id= "fetch_realtime_analytics_data_btn" >Fetch Data</div>   
+                            </div>
+
+                            <div class="col-sm-4"></div>
+                          </div>
+
+                          <div class="container-fluid mt-4" id="realtime_content_container" style="display: none;">
+  
+                            <!-- Nav tabs -->
+                            <ul class="nav nav-tabs nav-justified" role="tablist">
+                              <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#realtime_analytics_graphs">Graphical View</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#realtime_analytics_raw_data">Table View</a>
+                              </li>
+                            </ul>
+                          
+                            <!-- Tab panes -->
+                            <div class="tab-content mb-4">
+                          
+                              <div id="realtime_analytics_graphs" class="tab-pane active"><br>
+                              
+                                <div class="row">
+                               
+                                  <div class = "col-sm-6"> 
+                                    <div class="card">
+                                      <div class="card-header bg-default text-dark">
+                                        
+                                        <div class = "row">
+                                          <div class="col">
+                                            Jobs Pending Per Operation
+                                          </div>
+                            
+                                          <div class="col text-right">
+                                            <select class="custom-select" id="pending_jobs_breakdown_select">
+                                              <option value="realtime_pending_jobs_default" selected>View Data By</option>
+                                              <option value="realtime_pending_jobs_model">Model ID</option>
+                                              <option value="realtime_pending_jobs_status">Job Status</option>
+                                            </select>           
+                                          </div>      
+                          
+                                      </div>
+                          
+                                      </div>
+                                      <div class="card-body">
+                                       
+                                        <div id = "realtime_pending_jobs_container" style="position: relative;"></div>
+                                      
+                                      </div> 
+                                    </div>
+                                  </div>
+                                
+                                  <div class = "col-sm-6"> 
+                                    <div class="card">
+                                      <div class="card-header bg-default text-dark">
+                          
+                                        <div class = "row">
+                                            <div class="col">
+                                              Jobs Completed Per Operation
+                                            </div>
+                              
+                                          <div class="col text-right">
+                                            <select class="custom-select" id="completed_jobs_breakdown_select">
+                                              <option value="realtime_completed_jobs_default" selected>View Data By</option>
+                                              <option value="realtime_completed_jobs_model">Model ID</option>
+                                              <option value="realtime_completed_jobs_workstation">Workstation</option>
+                                              <option value="realtime_completed_jobs_status">Job Status</option>
+                                              <option value="realtime_completed_jobs_user">User ID</option>
+                                            </select>           
+                                          </div>      
+                          
+                                        </div>
+                                            
+                                      </div>
+                                      <div class="card-body">
+                                       
+                                        <div id = "realtime_completed_jobs_container"></div>
+                          
+                                      </div> 
+                                    </div>
+                                  </div>
+                            
+                                </div>
+                            
+                              </div>
+                              
+                              <div id="realtime_analytics_raw_data" class="tab-pane fade"><br>
+                                  <div id="realtime_analytics_job_records_table_container"></div>
+                              </div>
+                          
+                            </div>
+                          
+                            </div>
+
+                        </div>
+
+
+                        <!--   Section to display daily operation analytics - sub section of dashboard    -->
+                        <div id="navigation_daily_operation_analytics" name="nav_section" style="display: none;">
+                          <div class="container-fluid mt-2">
+  
+                            <div class="row text-center text-dark">
+                              <div class="col mt-2">
+                                Please select start date, end date and operation name to view it's Daily Analytics Report. 
+                              </div>
+                            </div>
+                        
+                            <div class="row mt-3">
+                        
+                              <div class="col-sm-3 mt-3">  <input id="daily_analytics_start_datepicker" placeholder="Start Date" /></div>
+                        
+                              <div class="col-sm-3 mt-3">  <input id="daily_analytics_end_datepicker" placeholder="End Date" /></div>
+                        
+                              <div class="col-sm-3 mt-3"> 
+                                <select class="custom-select" id="daily_analytics_operation_select">
+                                  <option>Select Operation</option>                       
+                                </select>
+                              </div>
+                        
+                              <div class="col-sm-3 mt-3">
+                                <div class="btn btn-primary btn-block" id ="fetch_daily_analytics_data_btn">Get Data</div>
+                              </div>
+                        
+                        
+                            </div>
+                        
+                            <div id="daily_analytics_main_content" style="display: none;">  
+
+                              <!-- Nav tabs -->
+                              <ul class="nav nav-tabs nav-justified mt-4" role="tablist">
+                                <li class="nav-item">
+                                  <a class="nav-link active" data-toggle="tab" href="#daily_analytics_graphs">Graphical View</a>
+                                </li>
+                                <li class="nav-item">
+                                  <a class="nav-link" data-toggle="tab" href="#daily_analytics_raw_data">Table View</a>
+                                </li>
+                              </ul>
+                            
+                              <!-- Tab panes -->
+                              <div class="tab-content mb-4">
+                            
+                                <div id="daily_analytics_graphs" class="tab-pane active"><br>
+                                
+                                  <div class="row">
+                                
+                                    <div class = "col-sm-9"> 
+                                      <div class="card">
+                                        <div class="card-header bg-default text-dark">
+                                          
+                                          <div class = "row">
+                                            <div class="col">
+                                              Daily Operation Report
+                                            </div>
+                              
+                                            <div class="col text-right">
+                                              <select class="custom-select" id="daily_analytics_breakdown_select">
+                                                <option value="daily_analytics_graph_default" selected>View Data By</option>
+                                                <option value="daily_analytics_graph_model">Model ID</option>
+                                                <option value="daily_analytics_graph_status">Job Status</option>
+                                                <option value="daily_analytics_graph_workstation">Workstation</option>
+                                                <option value="daily_analytics_graph_user_id">User ID</option>
+                                                <option value="daily_analytics_graph_job_hours">Job Hours Completed</option>
+                            
+                                              </select>           
+                                            </div>      
+                            
+                                        </div>
+                            
+                                        </div>
+                                        <div class="card-body">
+                                        
+                                          <div id = "daily_analytics_charts_container" style="position: relative;">
+                                          </div>
+                                        
+                                        </div> 
+                                      </div>
+                                    </div>
+                                  
+                                    <div class = "col-sm-3 text-center text-primary" id="daily_analytics_filter_container"> 
+                            
+                                      <div>
+                                        <label for="daily_analytics_filter_date" class="h5 mt-2">Filter by Date</label><br>
+                                        <select class="selectpicker" multiple id="daily_analytics_filter_date"></select>
+                                      </div>
+
+                                      <div class="mt-3">
+                                        <label for="daily_analytics_filter_model" class="h5 mt-2">Filter by Model</label><br>
+                                        <select class="selectpicker" multiple id="daily_analytics_filter_model"></select>
+                                      </div>          
+
+                                      <div class="mt-3">
+                                        <label for="daily_analytics_filter_status" class="h5 mt-2">Filter by Operation Status</label><br>
+                                        <select class="selectpicker" multiple id="daily_analytics_filter_status"></select>
+                                      </div>          
+                            
+                                      <div class="mt-3">
+                                        <label for="daily_analytics_filter_workstation" class="h5 mt-2">Filter by Workstation</label><br>
+                                        <select class="selectpicker" multiple id="daily_analytics_filter_workstation"></select>
+                                      </div>          
+                            
+                                      <div class="mt-3">
+                                        <label for="daily_analytics_filter_user" class="h5 mt-2">Filter by User ID</label><br>
+                                        <select class="selectpicker" multiple id="daily_analytics_filter_user"></select>
+                                      </div>
+                            
+                                    </div>
+                              
+                                  </div>
+                              
+                                </div>
+                                
+                                <div id="daily_analytics_raw_data" class="tab-pane fade"><br>
+                                  <div id="daily_analytics_job_records_table_container"></div>                        
+                                </div>
+                            
+                              </div>
+
+                            </div>
+
+                          </div>
+
+                        </div>
+
+                        <!--   Section to display hourly operation analytics - sub section of dashboard    -->
+                        <div id="navigation_hourly_operation_analytics" name="nav_section" style="display: none;">
+                          <div class="container-fluid mt-2">
+  
+                            <div class="row text-center text-dark">
+                              <div class="col mt-2">
+                                Please start date, end date and operation name to view it's Hourly Analytics Report. 
+                              </div>
+                            </div>
+                        
+                            <div class="row mt-3">
+                              <div class="col-sm-3 mt-3">  <input id="hourly_analytics_start_datepicker" placeholder="Start Date" /></div>
+                        
+                              <div class="col-sm-3 mt-3">  <input id="hourly_analytics_end_datepicker" placeholder="End Date" /></div>
+                                               
+                              <div class="col-sm-3 mt-3"> 
+                                <select class="custom-select" id="hourly_analytics_operation_select">
+                                  <option>Select Operation</option>                       
+                                </select>
+                              </div>
+                        
+                              <div class="col-sm-3 mt-3">
+                                <div class="btn btn-primary btn-block" id ="fetch_hourly_analytics_data_btn">Get Data</div>
+                              </div>
+                        
+                        
+                            </div>
+                        
+                            <div id="hourly_analytics_main_content" style="display: none;">
+                              <!-- Nav tabs -->
+                              <ul class="nav nav-tabs nav-justified mt-4" role="tablist">
+                                <li class="nav-item">
+                                  <a class="nav-link active" data-toggle="tab" href="#hourly_analytics_graphs">Graphical View</a>
+                                </li>
+                                <li class="nav-item">
+                                  <a class="nav-link" data-toggle="tab" href="#hourly_analytics_raw_data">Table View</a>
+                                </li>
+                              </ul>
+                            
+                              <!-- Tab panes -->
+                              <div class="tab-content mb-4">
+                            
+                                <div id="hourly_analytics_graphs" class="tab-pane active"><br>
+                                
+                                  <div class="row">
+                                
+                                    <div class = "col-sm-9"> 
+                                      <div class="card">
+                                        <div class="card-header bg-default text-dark">
+                                          
+                                          <div class = "row">
+                                            <div class="col">
+                                              Hourly Operation Report
+                                            </div>
+                              
+                                            <div class="col text-right">
+                                              <select class="custom-select" id="hourly_analytics_breakdown_select">
+                                                <option value="hourly_analytics_graph_default" selected>View Data By</option>
+                                                <option value="hourly_analytics_graph_model">Model ID</option>
+                                                <option value="hourly_analytics_graph_status">Job Status</option>
+                                                <option value="hourly_analytics_graph_workstation">Workstation</option>
+                                                <option value="hourly_analytics_graph_user_id">User ID</option>
+                                                <option value="hourly_analytics_graph_job_hours">Job Hours Completed</option>
+                            
+                                              </select>           
+                                            </div>      
+                            
+                                        </div>
+                            
+                                        </div>
+                                        <div class="card-body">
+                                        
+                                          <div id = "hourly_analytics_charts_container" style="position: relative;">
+                                          </div>
+                                        
+                                        </div> 
+                                      </div>
+                                    </div>
+                                  
+                                    <div class = "col-sm-3 text-center text-primary" id="hourly_analytics_filter_container"> 
+                                                  
+                                      <div>
+                                        <label for="hourly_analytics_filter_date" class="h5 mt-2">Filter by Date</label><br>
+                                        <select class="selectpicker" multiple id="hourly_analytics_filter_date"></select>
+                                      </div>
+
+                                      <div class="mt-3">
+                                        <label for="hourly_analytics_filter_model" class="h5 mt-2">Filter by Model</label><br>
+                                        <select class="selectpicker" multiple id="hourly_analytics_filter_model"></select>
+                                      </div>
+                            
+                                      <div class="mt-3">
+                                        <label for="hourly_analytics_filter_Status" class="h5 mt-2">Filter by Job Status</label><br>
+                                        <select class="selectpicker" multiple id="hourly_analytics_filter_status"></select>
+                                      </div>     
+                            
+                                      <div class="mt-3">
+                                        <label for="hourly_analytics_filter_workstation" class="h5 mt-2">Filter by Workstation</label><br>
+                                        <select class="selectpicker" multiple id="hourly_analytics_filter_workstation"></select>
+                                      </div>          
+                            
+                                      <div class="mt-3">
+                                        <label for="hourly_analytics_filter_user" class="h5 mt-2">Filter by User ID</label><br>
+                                        <select class="selectpicker" multiple id="hourly_analytics_filter_user"></select>
+                                      </div>
+                            
+                                    </div>
+                              
+                                  </div>
+                              
+                                </div>
+                                
+                                <div id="hourly_analytics_raw_data" class="tab-pane fade"><br>
+                                  <div id="hourly_analytics_job_records_table_container"></div>
+                                </div>
+                            
+                              </div>
+
+                            </div>
+
+                          </div>
+
+                        </div>
+
+                        <!--   Section to display operation pending job records - sub section of dashboard    -->
+                        <div id="navigation_operation_pending_jobs" name="nav_section" style="display: none;">
+                          <div class="container text-center">Please select an operation and click "Fetch Data" to get list of pending jobs</div>
+                          <div class="row text-center p-2">
+
+                            <div class="col-sm-3 p-2">  </div>
+
+                            <div class="col-sm-3 p-2">
+                              <select class="custom-select" id="operation_pending_jobs_select">
+                              </select>                              
+                            </div>
+
+                            <div class="col-sm-3 p-2">
+                              <div class="btn btn-block btn-primary" id="fetch_data_operation_pending_jobs_btn">Fetch Data</div>
+                           </div>
+
+                            <div class="col-sm-3 p-2"></div>
+
+                          </div>
+                          <br>
+                          <div id="operation_pending_jobs_table_container" class="mt-n4"></div>
+                          <br>
+                        </div>
+
+
+                        <!--   Section to display deviation required job records - sub section of dashboard    -->
+                        <div id="navigation_deviation_required_jobs" name="nav_section" style="display: none;">
+                          <div class="container text-center">Please click "Fetch Data" to get the latest data on jobs that require deviations</div>
+                          <div class="row text-center p-2">
+
+                            <div class="col-sm-4 p-2">  </div>
+
+                            <div class="col-sm-4 p-2">
+                              <div class="btn btn-block btn-primary" id="fetch_data_deviation_required_jobs_btn">Fetch Data</div>
+                           </div>
+
+                            <div class="col-sm-4 p-2"></div>
+
+                          </div>
+                          <br>
+                          <div id="deviation_required_jobs_table_container" class="mt-n4"></div>
+                          <br>
+                        </div>
+                
+                        <!--   Section to display download job records - sub section of dashboard    -->
+                        <div id="navigation_download_job_records" name="nav_section" style="display: none;">
+                          <div class="container text-center">Please enter starting and ending serial numbers and click the "Download Job Records" button</div>
+
+                          <div class="row text-center p-2">
+
+                            <div class="col-sm-4 p-2">
+
+                              <div class="form-row">
+                                <input class="form-control input-lg text-center required" placeholder="Enter Starting Serial Number" id="from_serial_download_job_records_section" type="text">
+                            </div>
+
+                            </div>
+
+                            <div class="col-sm-4 p-2">
+
+                              <div class="form-row">
+                                <input class="form-control input-lg text-center required" placeholder="Enter Ending Serial Number" id="to_serial_download_job_records_section" type="text">
+                            </div>                              
+
+                            </div>
+
+                            <div class="col-sm-4 p-2">
+                              <div class="btn btn-block btn-primary" id="fetch_data_download_job_records_btn">Download Job Records</div>
+                            </div>
+
+                          </div>
+                          <br>
+                          <div id="download_job_records_table_container" class="mt-n4"> 
+                          </div>
+                          <br>
+                        </div>
+
+
+                <!--   Section to create new serial number for a given part     -->
+                <div id="navigation_create_serial" name="nav_section" style="display: none;">  
+
+                    <div class="row text-center" id="navigation_create_serial_1">
+                      <div class="col-sm-4"></div>
+                      
+                      <div class="col-sm-4">
+                        <br/>
+
+                        <div class="row">
+                          <h5 class="col">Enter a Serial Number / ID and select its Model to create a new Job</h5>
+                        </div>
+
+                        <br/>
+                        <div class="form-row">
+                          <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_create_section" type="text">
+                        </div>
+                        <br/>
+
+                        <div class="form-row">
+                        <select class="custom-select text-center text-primary" id="model_select_list"></select>
+                        </div>
+
+                      <br/>
+                      <div class="btn btn-block btn-primary" id="create_serial_btn">Continue</div>
+
+                      <p class="fixed-bottom" id="credits_remaining"></p>
+
+                    </div> 
+          
+                      <div class="col-sm-4"></div>
+                    </div>
+
+
+        
+                    <div class="row text-center" id="navigation_create_serial_2" style="display: none;">
+                      <div class="col-sm-4"></div>
+
+                      <div class="col-sm-4">
+                      <br/>
+ 
+                      <canvas id="qr_canvas" width="300" height="300" ></canvas>
+
+                      <a class="btn btn-block btn-primary" id="download_qr_btn" download="My_QR_Code.png">Download QR Label</a>
+
+                      <br/>
+                      <div class="btn btn-block btn-primary" id="reset_create_serial_btn">Create Another Serial Number</div>
+
+                      </div> 
+          
+                      <div class="col-sm-4"></div>
+                    </div>
+
+                </div>
+
+
+
+                <!--   Section to add / update records for a given part serial number     -->
+                <div id="navigation_update_serial" name="nav_section" style="display: none;">  
+
+                    <div class="row text-center" id="navigation_update_serial_1" >
+                      <div class="col-sm-4"></div>
+                      
+                      <div class="col-sm-4">
+                        <br/>
+
+                        <div class="row">
+                          <h5 class="col">Scan / Enter a Job's Serial Number or ID to update its status</h5>
+                        </div>
+                        <br/>
+                        <div class="btn btn-block btn-white border-secondary text-dark p-3" id="scan_qr_update_serial_btn">
+                        <img style="opacity: 0.3;" src="images/camera-scan.gif" width="64"> <br/>
+                        Scan QR
+                        </div>
+
+                        <br/>
+                        <div class="form-row">
+                            <input class="form-control input-lg text-center" placeholder="Enter Serial Number" id="serial_number_update_section" type="text">
+                        </div>
+                        <br/>
+                        <div class="btn btn-block btn-primary" id="update_serial_btn">Continue</div>
+
+                      </div> 
+
+                      <div class="col-sm-4"></div>
+                    </div>
+
+
+                    <div class="container text-center text-primary mt-2" id="navigation_update_serial_2" style="display: none;">
+                      <p id="navigation_update_serial_2_number">Serial Number: </p>
+                      <div class="row">
+
+                        <div class="col-xs-1 text-left"> <a class="btn btn-primary text-white" id="btn_prev_qc_stage_select"><h6> &#8810;-</h6></a></div>
+                        
+                        <div class="col text-center">
+                          <h6>
+                          <select class="custom-select border-primary text-center text-primary" id="qc_stage_select_list">
+                          </select>
+                        </h6>
+                        </div> 
+                        
+                        <div class="col-xs-1 text-right"> <a class="btn btn-primary text-white" id="btn_next_qc_stage_select"><h6>-&#8811; </h6></a></div>
+                        <br/>
+                        </div>
+
+                        <div id ="serial_qc_data_display"></div>
+
+                    </div>
+                    
+
+          <!--End of navigation_update_serial section-->
+                </div>
+
+
+                <!--   Section to view / report process disruptions     -->
+                <div id="navigation_process_disruption" name="nav_section" style="display: none;">  
+
+                  <div class="row text-center" id="navigation_process_disruption_1">
+                              
+                    <div class="col-sm-4"></div>
+
+                    
+                    <div class="col-sm-4">
+                      <br/>
+                      <ul class="nav nav-pills nav-justified" role="tablist">
+                        <li class="nav-item">
+                          <a class="nav-link active border border-primary" data-toggle="pill" href="#report_process_disruption_section">Report Process Disruption</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link border border-primary" data-toggle="pill" href="#view_process_disruptions_section">View Process Disruptions</a>
+                        </li>
+                      </ul>
+                      
+                      <div class="tab-content">
+
+                        <div id="report_process_disruption_section" class="container tab-pane active"></div>
+                        
+
+                        <div id="view_process_disruptions_section" class="container tab-pane fade"></div>
+                      
+                      </div>                      
+                    </div>
+
+                    <div class="col-sm-4"> </div>
+
+                  </div>
+        <!--End of navigation_process_disruption section-->
+              </div>
+
+
+                <!--   Setup Section   -->
+                <div id="navigation_configure_settings_section" name="nav_section" style="display: none;">  
+
+                  <div class="row">
+
+                    <div class="col-sm-4"></div>
+  
+                    <div class="col-sm-4">                  
+
+                      <div class="row d-flex justify-content-around mt-4" id="navigation_dashboard_1">
+
+                        <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_production_operations_btn" style = "display:none">
+                          <button class="btn btn-primary"><h1 class="display-4  pl-2 pr-2"><i class="fas fa-wrench"></i></h1></button>
+                          <pre>Configure<br>Operations</pre>
+                        </div>   
+                
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_model_qc_plans_btn" style = "display:none">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-3 pr-3"><i class="fas fa-clipboard-list"></i></h1></button>
+                            <pre>Setup<br/>Process Plans</pre>
+                          </div>
+                        
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_user_permission_btn" style = "display:none">
+                            <button class="btn btn-primary"><h1 class="display-4"><i class="fas fa-users"></i></h1></button>
+                            <pre>Configure<br>Users</pre>
+                          </div>  
+
+                      </div>
+
+                    </div>
+
+                    <div class="col-sm-4"></div>
+
+                  </div>
+
+                </div>
+
+                          <!--  Section to configure Production Operations : sub section of Setup    -->
+                          <div id="navigation_configure_production_operations" name="nav_section" style="display: none;">  
+
+                                                  
+                            <div class="row text-center">
+                              <div class="col-sm-4"></div>
+
+                              <div class="col-sm-4">
+                                <div class="row text-center">
+                                  <h5 class="col text-primary">Add operations used in all your different processes below</h5>
+                                  <h2 class=" col-xs-1 mr-2 text-primary text-left" id="process_operation_help"><i class="fas fa-question-circle"></i></h2>
+                                </div>
+                              </div>
+
+                              <div class="col-sm-4"></div>
+
+                            </div>
+
+                            <div class = "container text-center text-secondary mt-3">Scroll right or press right arrow key to view additional operation stages --></div>
+
+                            <div class="horizontal-group mt-2">
+                              <div class="row text-center flex-nowrap" id="production_operation_list_dynamic"></div>
+                            </div>
+                            <br/><br/><br/><br/>
+
+                            <div class="row justify-content-center mx-auto fixed-bottom bg-white p-2">
+                              <div class="btn btn-primary mr-1 mb-1" id="add_production_operation_btn">+ Operation</div>
+                              <div class="btn btn-primary mr-1 mb-1" id="remove_production_operation_btn">- Operation</div>
+                              <div class="btn btn-primary ml-1 mb-1" id="save_production_operation_btn">Save Changes</div>
+                            </div>
+              
+                        </div>
+
+                          <!--  Section to Configure QC Plan for a part / model : sub section of Setup      -->
+                          <div id="navigation_model_qc_plans" name="nav_section" style="display: none;">  
+
+                            <div class="row text-center" id="navigation_model_qc_plans_1">
+                              <div class="col-sm-4"></div>
+                              
+                              <div class="col-sm-4">
+                  
+                                <div class="row">
+                                  <h5 class="col">Enter a Model to create a Process Plan for it</h5>
+                                  <h2 class=" col-xs-1 mr-2 text-primary" id="process_plan_help"><i class="fas fa-question-circle"></i></h2>
+                                </div>
+
+                                <div class="form-row">
+                                    <input class="form-control input-lg text-center" placeholder="Enter Model Name" id="model_id_qc_plan_section" type="text" maxlength="40" required>
+            
+                                </div>
+                                <br/>
+
+                                <h5>or select an existing Process Plan to update</h5> 
+                                <div class="form-row">
+                                  
+                                  <select class="custom-select text-center text-primary" id="select_model_id_qc_plan_section">
+                                  </select>
+
+                                </div>
+
+
+                                <br/>
+                                <div class="btn btn-block btn-primary" id="create_model_qc_plan_btn">Continue</div>
+                                </div>
+
+                              </div> 
+                  
+                              <div class="col-sm-4"></div>
+
+
+                            <div class="container-flex text-center" id="navigation_model_qc_plans_2" style="display:none;">
+                            
+                            <div >
+                              <p id="qc_plan_create_header" class="text-primary h4">Process Plan</p>
+                              <p class = "text-secondary">Scroll right or press right arrow key to view additional operation stages --></p>
+                              <div class="horizontal-group mt-2">
+                                <div class="row text-center flex-nowrap" id="create_qc_plan_dynamic"></div>
+                              </div>
+
+                              <br/><br/><br/><br/>
+                            <nav class="navbar navbar-expand-sm justify-content-center mx-auto fixed-bottom bg-white">
+
+                              <div class="btn btn-primary mr-1 mb-2" id="add_stage_qc_plan_btn">+ Operation</div>
+                              <div class="btn btn-primary ml-1 mr-1 mb-2" id="remove_stage_qc_plan_btn">- Operation</div>
+                              <div class="btn btn-primary ml-1 mb-2" id="save_qc_plan_btn">Save Process Plan</div>
+
+                            </nav>
+                          
+                            </div>
+                            </div>
+
+                          </div>
+
+                          <!--  Admin section to add / remove user privelleges : sub section of Setup   -->
+                          <div id="navigation_user_permission" name="nav_section" style="display: none;">  
+
+                            <div class="row text-center" id="navigation_user_permission_1">
+                              
+                              <div class="col-sm-4"></div>
+
+                              
+                              <div class="col-sm-4">
+                                <br/>
+                                <ul class="nav nav-pills nav-justified" role="tablist">
+                                  <li class="nav-item">
+                                    <a class="nav-link active border border-primary" data-toggle="pill" href="#create_new_user_section">Create New User</a>
+                                  </li>
+                                  <li class="nav-item">
+                                    <a class="nav-link border border-primary" data-toggle="pill" href="#edit_user_permissions_section">Set User Access</a>
+                                  </li>
+                                </ul>
+                                
+                                <div class="tab-content">
+
+                                  <div id="create_new_user_section" class="container tab-pane active"><br>
+                                    
+                                    <div class="row">
+                                      <h5 class="col">Enter an Email ID and Password to create a new User</h5>
+                                    </div>
+                                    <br/>
+                                    <div class="form-row">
+                                        <input class="form-control form-control-user input-lg text-center" placeholder="Enter Email" id="email_user_permission_section" type="text">
+                                    </div>
+                                    <br/>
+                                    <div class="form-row">
+                                      <input class="form-control form-control-user input-lg text-center" placeholder="Enter Password" id="password_user_permission_section" type="password">
+                                    </div>
+                                    <br/>
+                                    <div class="btn btn-block btn-primary" id="create_new_user_btn">Create User</div>
+                                    <br/>
+                                    
+                                  </div>
+                                  
+
+                                  <div id="edit_user_permissions_section" class="container tab-pane fade"><br>
+                                  
+                                    <div class="row">
+                                      <h5 class="col">Select an existing User to update their permissions</h5>
+                                    </div>
+                                    <br/>
+                                    <div class="form-row">
+                                      <select class="custom-select text-center text-primary" id="select_email_user_permission_section">
+                                      </select>
+                                    </div>
+                                    <br/>
+                                    <div class="btn btn-block btn-primary" id="set_user_permission_btn">Edit User Permissions</div>
+                                    <br/>
+                                    
+                                  </div>
+                                
+                                </div>                      
+                              </div>
+
+                              <div class="col-sm-4"> </div>
+
+                            </div>
+
+                            <div class="container-flex text-center" id="navigation_user_permission_2" style="display:none;">
+                            
+                            <div >
+                              <div id="user_permission_create_header" class="text-primary h4 text-wrap text-break">User Permission</div>
+
+                            <nav class="navbar navbar-expand-sm justify-content-center mx-auto fixed-bottom bg-white mt-2">
+
+                              <div class="btn btn-primary ml-1 mr-1 mb-2" id="delete_user_btn">Delete User</div>
+                              <div class="btn btn-primary ml-1 mb-2" id="save_user_btn">Save Changes</div>
+
+                            </nav>
+                          
+                            </div>
+
+                            <div class = "row">
+                              <div class = "col-sm-4 p-2">
+                                <h4>Section Access Permissions</h4><br>
+                                <div class="container" id="create_user_permission_static"></div>
+                              </div>
+
+                              <div class = "col-sm-4 p-2">
+                                <h4>Operation Access Permissions</h4><br/>
+                                <div class="container" id="create_user_permission_basic_info"></div>
+                                <div class="container" id="create_user_permission_dynamic"></div>  
+                              </div>
+
+                              <div class = "col-sm-4 p-2">
+                                <h4>Receive Disruption Alerts</h4><br>
+                                <div class="container" id="create_user_permission_alert"></div>
+                              </div>                              
+
+                            </div>
+
+
+
+                            </div>
+
+
+                          </div>            
+
+
+              
+    
+
+
+                <!--   View Credits section to display credit balance & usage   -->
+                <div id="navigation_view_credits" name="nav_section" style="display: none;">  
+
+                  <div id="credit_balance" class="container col-sm-6 text-center"></div>                
+
+                </div>
+
+            </div>  <!-- End of main div-->
+
+
+    <!-- Confirmation Modal -->
+    <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="confirmationModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Alert</h4>
+          </div>
+          <div class="modal-body" id="confirmation_modal_message">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal" id ="no_confirmation_modal_btn" >
+              No
+            </button>
+            <button type="button" class="btn btn-success" data-dismiss="modal" id ="yes_confirmation_modal_btn">
+              Yes
+            </button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+
+    <!-- Error Modal -->
+    <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="errorModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Error</h4>
+          </div>
+          <div class="modal-body" id="error_modal_message">
+            <p>There was an error. Please try again later or contact support.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal" >
+              Close
+            </button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+
+    <!-- Info Modal -->
+    <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="infoModal" role="dialog">
+          <div class="modal-dialog modal-sm">
+    
+            <div class="modal-content">
+              <div class="modal-header">
+                <h4 class="modal-title">Info</h4>
+              </div>
+              <div class="modal-body" id="info_modal_message">
+                <p> </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-block btn-primary" data-dismiss="modal" >
+                  Close
+                </button>
+              </div>
+            </div>
+            
+          </div>
+    </div>
+
+        <!-- Info Modal - no cancel -->
+        <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="infoModal_no_dismiss" role="dialog">
+          <div class="modal-dialog modal-sm">
+    
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="info_modal_no_dismiss_message"></h5>
+              </div>
+            </div>
+            
+          </div>
+    </div>
+
+    <!-- Help Modal -->
+    <div class="modal fade text-left" data-backdrop="static" data-keyboard="false" id="helpModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+
+          <div class="modal-body" id="help_modal_message">
+            <p> </p>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="button" class="btn btn-block btn-primary" data-dismiss="modal" >
+              Close
+            </button>
+          </div>
+        </div>
+        
+      </div>
+</div>    
+
+    <!-- Scanning Modal -->
+    <div class="modal fade text-center mx-auto" data-backdrop="static" data-keyboard="false" id="scanModal" role="dialog">
+      <div class="modal-dialog">
+  
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title mx-auto">Scan QR Code</h4>
+          </div>
+  
+          <div class="modal-body mx-auto" id="modal_message">
+              <canvas id="qr-canvas"></canvas>
+          </div>
+  
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger mx-auto" id="stop_scan_btn" data-dismiss="modal" >
+              Stop Scanning
+            </button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+
+    <!-- Loading Modal -->
+    <div class="modal text-center" data-backdrop="static" data-keyboard="false" id="loadingModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+
+          <div class="modal-body">
+              <br/>
+              <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;"></div>
+              <br/><br/>
+              <h4 class="text-primary">Loading...</h4>
+              <br/>
+          </div>
+          <div class="modal-footer" style="display: none;" id="loading_modal_footer">
+            <p class="text-primary mb-3">Loading is taking a while. Please check your internet connection.</p>
+            <button type="button" class="btn btn-primary btn-block mx-auto" id="stop_loading_btn" data-dismiss="modal" >
+              Close
+            </button>
+          </div>          
+        </div>
+        
+      </div>
+    </div>    
+
+    <!-- Deviation Modal -->
+    <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="deviationModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Alert</h4>
+          </div>
+          <div class="modal-body">
+
+            <p id="deviation_modal_message"></p>
+            <div class="form-group">
+              <textarea class="form-control" rows="5" id="deviation_remark" placeholder="Enter Remark"></textarea>
+            </div> 
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal" id ="no_deviation_modal_btn" >
+              No
+            </button>
+            <button type="button" class="btn btn-success" data-dismiss="modal" id ="yes_deviation_modal_btn">
+              Yes
+            </button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+
+    <!-- Rejection Modal -->
+    <div class="modal fade text-center" data-backdrop="static" data-keyboard="false" id="rejectionModal" role="dialog">
+      <div class="modal-dialog modal-sm">
+
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Alert</h4>
+          </div>
+          <div class="modal-body">
+
+            <p id="rejection_modal_message"></p>
+            <div class="form-group">
+              <textarea class="form-control" rows="5" id="rejection_remark" placeholder="Enter Remark"></textarea>
+            </div> 
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal" id ="no_rejection_modal_btn" >
+              No
+            </button>
+            <button type="button" class="btn btn-success" data-dismiss="modal" id ="yes_rejection_modal_btn">
+              Yes
+            </button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+
+ </body>
+
+
+ <script src="common/jquery.min.js"></script>
+ <script src="common/popper.min.js"></script>
+ <script src="common/bootstrap.min.js"></script>
+
+ <script src="common/firebase-app.min.js"></script>
+ <script src="common/firebase-auth.min.js"></script>
+ <script src="common/firebase-firestore.min.js"></script>
+ <script src="common/firebase-functions.min.js"></script>
+
+ <script src="common/Chart.min.js"></script>
+ <script src="common/jspdf.umd.min.js"></script>
+ <script src="common/jspdf.plugin.autotable.js"></script>
+
+ <script src="common/code_reader.js"></script>
+ <script src="DataTables/datatables.min.js"></script>
+ 
+ <script src="js/common.js"></script>
+ <script src="js/app.js"> </script>
+
+
+ <script src="common/bootstrap-select.min.js"></script>
+ <script src="gijgo/js/gijgo.min.js" type="text/javascript"></script>
+
+
+ </html>
+
+
+
