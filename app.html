@@ -622,57 +622,96 @@
                 <!--   Section to create new serial number for a given part     -->
                 <div id="navigation_create_serial" name="nav_section" style="display: none;">  
 
-                    <div class="row text-center" id="navigation_create_serial_1">
-                      <div class="col-sm-4"></div>
-                      
-                      <div class="col-sm-4">
-                        <br/>
-
-                        <div class="row">
-                          <h5 class="col">Enter a Serial Number / ID and select its Model to create a new Job</h5>
-                        </div>
-
-                        <br/>
-                        <div class="form-row">
-                          <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_create_section" type="text">
-                        </div>
-                        <br/>
-
-                        <div class="form-row">
-                        <select class="custom-select text-center text-primary" id="model_select_list"></select>
-                        </div>
-
+                  <div class="row text-center" id="navigation_create_serial_1">
+                    <div class="col-sm-4"></div>
+                    
+                    <div class="col-sm-4">
                       <br/>
-                      <div class="btn btn-block btn-primary" id="create_serial_btn">Continue</div>
 
-                      <p class="fixed-bottom" id="credits_remaining"></p>
+                      <ul class="nav nav-pills nav-justified" role="tablist">
+                        <li class="nav-item">
+                          <a class="nav-link active border border-primary" data-toggle="pill" href="#create_new_serial_number">Add Job</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link border border-primary" data-toggle="pill" href="#delete_serial_number">Delete Job</a>
+                        </li>
+                      </ul>
+                      
+                      <div class="tab-content">
+
+                        <div id="create_new_serial_number" class="container tab-pane active"><br>
+
+                          <div class="row">
+                            <h5 class="col">Enter starting Serial Number, Model type and total consecutive IDs to be created</h5>
+                          </div>
+  
+                          <br/>
+                          <div class="form-row">
+                            <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_create_section" type="text">
+                          </div>
+                          <br>
+  
+                          <div class="form-row">
+                          <select class="custom-select text-center text-primary" id="model_select_list"></select>
+                          </div><br>
+  
+                          <div class="form-row">
+                            <select class="custom-select text-center text-primary" id="total_serial_number_select_list"></select>
+                            </div><br>
+                            
+                        <div class="btn btn-block btn-primary mt-2" id="create_serial_btn">Continue</div>
+                             
+                        </div>
+                        
+
+                        <div id="delete_serial_number" class="container tab-pane fade"><br>
+
+                          <div class="row">
+                            <h5 class="col">Enter Serial Number of Job to be deleted</h5>
+                          </div>
+  
+                          <br/>
+                          <div class="form-row">
+                            <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_delete_section" type="text">
+                          </div>
+                          <br>
+
+                          <div class="btn btn-block btn-primary mt-2" id="delete_create_serial_btn">Delete Serial Number</div><br>
+
+                          <div class="text-primary">Only Job IDs with no information added can be deleted</div>
+
+                        </div>
+                      
+                      </div>  
+
+                  </div> 
+        
+                    <div class="col-sm-4"></div>
+                  </div>
+
+
+      
+                  <div class="row text-center" id="navigation_create_serial_2" style="display: none;">
+                    <div class="col-sm-4"></div>
+
+                    <div class="col-sm-4">
+                    <br/>
+
+                    <canvas id="qr_canvas" width="300" height="300" ></canvas>
+
+                    <a class="btn btn-block btn-primary" id="download_qr_btn" download="My_QR_Code.png">Download QR Label</a>
+
+                    <br/>
+                    <div class="btn btn-block btn-primary" id="reset_create_serial_btn">Create Next Serial Number</div>
 
                     </div> 
-          
-                      <div class="col-sm-4"></div>
-                    </div>
-
-
         
-                    <div class="row text-center" id="navigation_create_serial_2" style="display: none;">
-                      <div class="col-sm-4"></div>
-
-                      <div class="col-sm-4">
-                      <br/>
- 
-                      <canvas id="qr_canvas" width="300" height="300" ></canvas>
-
-                      <a class="btn btn-block btn-primary" id="download_qr_btn" download="My_QR_Code.png">Download QR Label</a>
-
-                      <br/>
-                      <div class="btn btn-block btn-primary" id="reset_create_serial_btn">Create Another Serial Number</div>
-
-                      </div> 
-          
-                      <div class="col-sm-4"></div>
-                    </div>
+                    <div class="col-sm-4"></div>
+                  </div>
 
                 </div>
+
+
 
 
 
