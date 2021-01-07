@@ -591,7 +591,7 @@
 
                           <div class="row text-center p-2">
 
-                            <div class="col-sm-4 p-2">
+                            <div class="col-sm-3 p-2">
 
                               <div class="form-row">
                                 <input class="form-control input-lg text-center required" placeholder="Enter Starting Serial Number" id="from_serial_download_job_records_section" type="text">
@@ -599,7 +599,7 @@
 
                             </div>
 
-                            <div class="col-sm-4 p-2">
+                            <div class="col-sm-3 p-2">
 
                               <div class="form-row">
                                 <input class="form-control input-lg text-center required" placeholder="Enter Ending Serial Number" id="to_serial_download_job_records_section" type="text">
@@ -607,7 +607,15 @@
 
                             </div>
 
-                            <div class="col-sm-4 p-2">
+                            <div class="col-sm-3 p-2">
+                              <select class="form-control text-center" id="search_mode_download_job_records_section">
+                                <option selected> Search By</option>
+                                <option> Serial Number</option>
+                                <option> External ID</option>
+                              </select>
+                            </div>                            
+
+                            <div class="col-sm-3 p-2">
                               <div class="btn btn-block btn-primary" id="fetch_data_download_job_records_btn">Download Job Records</div>
                             </div>
 
