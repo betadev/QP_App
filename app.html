@@ -836,12 +836,16 @@
                             <button class="btn btn-primary"><h1 class="display-4 pl-3 pr-3"><i class="fas fa-clipboard-list"></i></h1></button>
                             <pre>Setup<br/>Process Plans</pre>
                           </div>
-                        
-
+                             
                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_user_permission_btn" style = "display:none">
                             <button class="btn btn-primary"><h1 class="display-4"><i class="fas fa-users"></i></h1></button>
                             <pre>Configure<br>Users</pre>
                           </div>  
+
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_notifications_btn" style = "display:none">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-2 pr-2"><i class="fas fa-envelope"></i></h1></button>
+                            <pre>Notification<br/>Settings</pre>
+                          </div>                    
 
                       </div>
 
@@ -1050,7 +1054,44 @@
 
                           </div>            
 
+                          <!--  Section to configure notifications : sub section of Setup   -->
+                          <div id="navigation_configure_notifications" name="nav_section" style="display:none;">  
 
+                            <div class="container-flex mt-4 text-center" id="navigation_configure_notifications_1">
+                            
+                              <div class="h4 text-secondary">Add upto 3 emails to receive notifications associated with the following events</div><br>
+                                <div class="row mx-auto justify-content-center">
+                                  <div class="col-md-4 text-center">
+                                  <div class="card">
+                                    <div class="card-header text-primary">Low Credit Balance</div>
+                                    <div class="card-body">
+                                     <input type="email" class="form-control mt-1" placeholder="Enter Email 1" id="low_credit_notification_email_1"> 
+                                     <input type="email" class="form-control mt-3" placeholder="Enter Email 2" id="low_credit_notification_email_2"> 
+                                     <input type="email" class="form-control mt-3" placeholder="Enter Email 3" id="low_credit_notification_email_3"> 
+                                    </div> 
+                                  </div>
+                                  </div>
+                                  
+                                  <div class="col-md-4 text-center">
+                                  <div class="card">
+                                    <div class="card-header text-primary">Machine Maintenance</div>
+                                    <div class="card-body">
+                                     <input type="email" class="form-control mt-1" placeholder="Enter Email 1" id="machine_maintenance_notification_email_1"> 
+                                     <input type="email" class="form-control mt-3" placeholder="Enter Email 2" id="machine_maintenance_notification_email_2"> 
+                                     <input type="email" class="form-control mt-3" placeholder="Enter Email 3" id="machine_maintenance_notification_email_3">     
+                                    </div> 
+                                  </div>
+                                  </div>  
+                                </div> 
+                                
+                            <nav class="navbar navbar-expand-sm justify-content-center mx-auto fixed-bottom bg-white mt-2">
+
+                              <div class="btn btn-primary ml-1 mb-2" id="save_configure_notifications_btn">Save Changes</div>
+                            
+                            </nav><br>
+                            </div>
+
+                          </div>   
               
     
 
