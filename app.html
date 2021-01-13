@@ -32,7 +32,7 @@
                   <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-droplet-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" d="M8 16a6 6 0 0 0 6-6c0-1.655-1.122-2.904-2.432-4.362C10.254 4.176 8.75 2.503 8 0c0 0-6 5.686-6 10a6 6 0 0 0 6 6zM6.646 4.646c-.376.377-1.272 1.489-2.093 3.13l.894.448c.78-1.559 1.616-2.58 1.907-2.87l-.708-.708z"/>
                     </svg>
-            <br>Qik<br/>Process        
+            <br>Qik<br>Process        
             </h1>
             <h5 id="welcome_instruction"><div class="spinner-border text-white" style="width: 2rem; height: 2rem;"></div> <br><br>Loading</h5>
           </small>  
@@ -82,7 +82,7 @@
             
            <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_create_serial_btn" style = "display:none">
             <button class="btn btn-primary"><h1 class="display-4 pl-2 pr-2"> <i class="fas fa-plus-circle"></i></h1></button>
-            <pre>Add<br/>New Job</pre>
+            <pre>Add<br>New Job</pre>
           </div>
 
           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_update_serial_btn" style = "display:none">
@@ -634,7 +634,7 @@
                     <div class="col-sm-4"></div>
                     
                     <div class="col-sm-4">
-                      <br/>
+                      <br>
 
                       <ul class="nav nav-pills nav-justified" role="tablist">
                         <li class="nav-item">
@@ -653,7 +653,7 @@
                             <h5 class="col">Enter starting Serial Number, Model type and total consecutive IDs to be created</h5>
                           </div>
   
-                          <br/>
+                          <br>
                           <div class="form-row">
                             <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_create_section" type="text">
                           </div>
@@ -678,7 +678,7 @@
                             <h5 class="col">Enter Serial Number of Job to be deleted</h5>
                           </div>
   
-                          <br/>
+                          <br>
                           <div class="form-row">
                             <input class="form-control input-lg text-center" placeholder="Enter Serial Number / ID" id="serial_number_delete_section" type="text">
                           </div>
@@ -703,13 +703,13 @@
                     <div class="col-sm-4"></div>
 
                     <div class="col-sm-4">
-                    <br/>
+                    <br>
 
                     <canvas id="qr_canvas" width="300" height="300" ></canvas>
 
                     <a class="btn btn-block btn-primary" id="download_qr_btn" download="My_QR_Code.png">Download QR Label</a>
 
-                    <br/>
+                    <br>
                     <div class="btn btn-block btn-primary" id="reset_create_serial_btn">Create Next Serial Number</div>
 
                     </div> 
@@ -730,22 +730,22 @@
                       <div class="col-sm-4"></div>
                       
                       <div class="col-sm-4">
-                        <br/>
+                        <br>
 
                         <div class="row">
                           <h5 class="col">Scan / Enter a Job's Serial Number or ID to update its status</h5>
                         </div>
-                        <br/>
+                        <br>
                         <div class="btn btn-block btn-white border-secondary text-dark p-3" id="scan_qr_update_serial_btn">
-                        <img style="opacity: 0.3;" src="images/camera-scan.gif" width="64"> <br/>
+                        <img style="opacity: 0.3;" src="images/camera-scan.gif" width="64"> <br>
                         Scan QR
                         </div>
 
-                        <br/>
+                        <br>
                         <div class="form-row">
                             <input class="form-control input-lg text-center" placeholder="Enter Serial Number" id="serial_number_update_section" type="text">
                         </div>
-                        <br/>
+                        <br>
                         <div class="btn btn-block btn-primary" id="update_serial_btn">Continue</div>
 
                       </div> 
@@ -768,7 +768,7 @@
                         </div> 
                         
                         <div class="col-xs-1 text-right"> <a class="btn btn-primary text-white" id="btn_next_qc_stage_select"><h6>-&#8811; </h6></a></div>
-                        <br/>
+                        <br>
                         </div>
 
                         <div id ="serial_qc_data_display"></div>
@@ -789,7 +789,7 @@
 
                     
                     <div class="col-sm-4">
-                      <br/>
+                      <br>
                       <ul class="nav nav-pills nav-justified" role="tablist">
                         <li class="nav-item">
                           <a class="nav-link active border border-primary" data-toggle="pill" href="#report_process_disruption_section">Report Process Disruption</a>
@@ -821,27 +821,32 @@
 
                   <div class="row">
 
-                    <div class="col-sm-4"></div>
+                    <div class="col-sm-3"></div>
   
-                    <div class="col-sm-4">                  
+                    <div class="col-sm-6">                  
 
                       <div class="row d-flex justify-content-around mt-4" id="navigation_dashboard_1">
 
                         <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_production_operations_btn" style = "display:none">
-                          <button class="btn btn-primary"><h1 class="display-4  pl-2 pr-2"><i class="fas fa-wrench"></i></h1></button>
-                          <pre>Configure<br>Operations</pre>
+                          <button class="btn btn-primary"><h1 class="display-4  pl-1 pr-1"><i class="fas fa-cogs"></i></h1></button>
+                          <pre>Operation<br>Settings</pre>
                         </div>   
                 
                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_model_qc_plans_btn" style = "display:none">
                             <button class="btn btn-primary"><h1 class="display-4 pl-3 pr-3"><i class="fas fa-clipboard-list"></i></h1></button>
-                            <pre>Setup<br/>Process Plans</pre>
+                            <pre>Process Plan<br>Settings</pre>
                           </div>
                              
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_maintenance_schedule_btn" style = "display:none">
+                            <button class="btn btn-primary"><h1 class="display-4  pl-2 pr-2"><i class="fas fa-wrench"></i></h1></button>
+                            <pre>Maintenance<br>Settings</pre>
+                          </div>   
+
                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_configure_notifications_btn" style = "display:none">
                             <button class="btn btn-primary"><h1 class="display-4 pl-2 pr-2"><i class="fas fa-envelope"></i></h1></button>
-                            <pre>Notification<br/>Settings</pre>
+                            <pre>Notification<br>Settings</pre>
                           </div>  
-                                                    
+
                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_user_permission_btn" style = "display:none">
                             <button class="btn btn-primary"><h1 class="display-4"><i class="fas fa-users"></i></h1></button>
                             <pre>Configure<br>Users</pre>
@@ -851,7 +856,7 @@
 
                     </div>
 
-                    <div class="col-sm-4"></div>
+                    <div class="col-sm-3"></div>
 
                   </div>
 
@@ -880,7 +885,7 @@
                             <div class="horizontal-group mt-2">
                               <div class="row text-center flex-nowrap" id="production_operation_list_dynamic"></div>
                             </div>
-                            <br/><br/><br/><br/>
+                            <br><br><br><br>
 
                             <div class="row justify-content-center mx-auto fixed-bottom bg-white p-2">
                               <div class="btn btn-primary mr-1 mb-1" id="add_production_operation_btn">+ Operation</div>
@@ -907,7 +912,7 @@
                                     <input class="form-control input-lg text-center" placeholder="Enter Model Name" id="model_id_qc_plan_section" type="text" maxlength="40" required>
             
                                 </div>
-                                <br/>
+                                <br>
 
                                 <h5>or select an existing Process Plan to update</h5> 
                                 <div class="form-row">
@@ -918,7 +923,7 @@
                                 </div>
 
 
-                                <br/>
+                                <br>
                                 <div class="btn btn-block btn-primary" id="create_model_qc_plan_btn">Continue</div>
                                 </div>
 
@@ -936,12 +941,71 @@
                                 <div class="row text-center flex-nowrap" id="create_qc_plan_dynamic"></div>
                               </div>
 
-                              <br/><br/><br/><br/>
+                              <br><br><br><br>
                             <nav class="navbar navbar-expand-sm justify-content-center mx-auto fixed-bottom bg-white">
 
                               <div class="btn btn-primary mr-1 mb-2" id="add_stage_qc_plan_btn">+ Operation</div>
                               <div class="btn btn-primary ml-1 mr-1 mb-2" id="remove_stage_qc_plan_btn">- Operation</div>
                               <div class="btn btn-primary ml-1 mb-2" id="save_qc_plan_btn">Save Process Plan</div>
+
+                            </nav>
+                          
+                            </div>
+                            </div>
+
+                          </div>
+
+                          <!--  Section to Configure Maintenane Schedule Plan : sub section of Setup      -->
+                          <div id="navigation_configure_maintenance_schedule" name="nav_section" style="display: none;">  
+
+                            <div class="row text-center" id="navigation_configure_maintenance_schedule_1" style="display:none">
+                              <div class="col-sm-4"></div>
+                              
+                              <div class="col-sm-4">
+                  
+                                <div class="row">
+                                  <h5 class="col">Enter Name for Machine Maintenance Plan to be created</h5>
+                                </div>
+
+                                <div class="form-row">
+                                    <input class="form-control input-lg text-center" placeholder="Enter Maintenance Plan Name" id="plan_id_configure_maintenance_section" type="text" maxlength="50" required>
+            
+                                </div>
+                                <br>
+
+                                <h5>or select an existing Maintenance Plan to update</h5> 
+                                <div class="form-row">
+                                  
+                                  <select class="custom-select text-center text-primary" id="select_plan_id_configure_maintenance_section">
+                                  </select>
+
+                                </div>
+
+
+                                <br>
+                                <div class="btn btn-block btn-primary" id="create_maintenance_plan_btn">Continue</div>
+                                </div>
+
+                              </div> 
+                  
+                              <div class="col-sm-4"></div>
+
+
+                            <div class="container-flex text-center" id="navigation_configure_maintenance_schedule_2" style="display:none;">
+                            
+                            <div >
+                              <p id="maintenance_plan_create_header" class="text-primary h4">Maintenance Plan</p>
+                         <!--     <p class = "text-secondary">Scroll right or press right arrow key to view additional operation stages --></p> -->
+                              <div class="horizontal-group mt-2">
+                                <div class="row text-center flex-nowrap" id="create_maintenance_plan_dynamic"></div>
+                              </div>
+
+                              <br><br><br><br>
+                            <nav class="navbar navbar-expand-sm justify-content-center mx-auto fixed-bottom bg-white">
+
+                              <div class="btn btn-primary mr-1 mb-2" id="add_parameter_maintenance_plan_btn">+ Parameter</div>
+                              <div class="btn btn-primary ml-1 mr-1 mb-2" id="remove_parameter_maintenance_plan_btn">- Parameter</div>
+                              <div class="btn btn-primary ml-1 mb-2" id="save_maintenance_plan_btn">Save Maintenance Plan</div>
 
                             </nav>
                           
@@ -998,7 +1062,7 @@
 
                               
                               <div class="col-sm-4">
-                                <br/>
+                                <br>
                                 <ul class="nav nav-pills nav-justified" role="tablist">
                                   <li class="nav-item">
                                     <a class="nav-link active border border-primary" data-toggle="pill" href="#create_new_user_section">Create New User</a>
@@ -1015,17 +1079,17 @@
                                     <div class="row">
                                       <h5 class="col">Enter an Email ID and Password to create a new User</h5>
                                     </div>
-                                    <br/>
+                                    <br>
                                     <div class="form-row">
                                         <input class="form-control form-control-user input-lg text-center" placeholder="Enter Email" id="email_user_permission_section" type="text">
                                     </div>
-                                    <br/>
+                                    <br>
                                     <div class="form-row">
                                       <input class="form-control form-control-user input-lg text-center" placeholder="Enter Password" id="password_user_permission_section" type="password">
                                     </div>
-                                    <br/>
+                                    <br>
                                     <div class="btn btn-block btn-primary" id="create_new_user_btn">Create User</div>
-                                    <br/>
+                                    <br>
                                     
                                   </div>
                                   
@@ -1035,14 +1099,14 @@
                                     <div class="row">
                                       <h5 class="col">Select an existing User to update their permissions</h5>
                                     </div>
-                                    <br/>
+                                    <br>
                                     <div class="form-row">
                                       <select class="custom-select text-center text-primary" id="select_email_user_permission_section">
                                       </select>
                                     </div>
-                                    <br/>
+                                    <br>
                                     <div class="btn btn-block btn-primary" id="set_user_permission_btn">Edit User Permissions</div>
-                                    <br/>
+                                    <br>
                                     
                                   </div>
                                 
@@ -1074,7 +1138,7 @@
                               </div>
 
                               <div class = "col-sm-4 p-2">
-                                <h4>Operation Access Permissions</h4><br/>
+                                <h4>Operation Access Permissions</h4><br>
                                 <div class="container" id="create_user_permission_basic_info"></div>
                                 <div class="container" id="create_user_permission_dynamic"></div>  
                               </div>
@@ -1235,11 +1299,11 @@
         <div class="modal-content">
 
           <div class="modal-body">
-              <br/>
+              <br>
               <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;"></div>
-              <br/><br/>
+              <br><br>
               <h4 class="text-primary">Loading...</h4>
-              <br/>
+              <br>
           </div>
           <div class="modal-footer" style="display: none;" id="loading_modal_footer">
             <p class="text-primary mb-3">Loading is taking a while. Please check your internet connection.</p>
