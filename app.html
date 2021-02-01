@@ -160,6 +160,11 @@
                             <pre>Hourly<br>Operation<br>Analytics</pre>
                           </div>
 
+                          <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_wip_inventory_analytics_btn">
+                            <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-cubes"></i></h1></button>
+                            <pre>WIP<br>Inventory<br>Analytics</pre>
+                          </div>
+
                           <div class="col-xs-1 text-center ml-1 mr-1" id="navigation_process_disruption_analytics_btn">
                             <button class="btn btn-primary"><h1 class="display-4 pl-1 pr-1"> <i class="fas fa-pause-circle"></i></h1></button>
                             <pre>Process<br>Disruption<br>Analytics</pre>
@@ -553,6 +558,83 @@
                             </div>
 
                           </div>
+
+                        </div>
+
+                        <!--   Section to display WIP inventory analytics - sub section of dashboard    -->
+                        <div id="navigation_wip_inventory_analytics" name="nav_section" style="display: none;">
+                          
+                          <div class="container text-center text-dark"> Please select Model and click "Fetch Data" button to download the latest Work In Progress Inventory data </div>
+                          
+
+                          <div class="row mt-3">
+                        
+                            <div class="col-sm-3"></div>
+                                            
+                            <div class="col-sm-3 mt-3"> 
+                              <select class="custom-select" id="wip_inventory_analytics_model_select">
+                                <option>Select Model</option>                       
+                              </select>
+                            </div>
+                      
+                            <div class="col-sm-3 mt-3">
+                              <div class="btn btn-primary btn-block" id ="fetch_wip_inventory_analytics_data_btn">Fetch Data</div>
+                            </div>
+                      
+                            <div class="col-sm-3"></div>
+                      
+                          </div>
+
+                          <div class="container-fluid mt-4" id="wip_inventory_content_container" style="display: none;">
+  
+                            <!-- Nav tabs -->
+                            <ul class="nav nav-tabs nav-justified" role="tablist">
+                              <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#wip_inventory_analytics_graphs">Graphical View</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#wip_inventory_analytics_raw_data">Table View</a>
+                              </li>
+                            </ul>
+                          
+                            <!-- Tab panes -->
+                            <div class="tab-content mb-4">
+                          
+                              <div id="wip_inventory_analytics_graphs" class="tab-pane active"><br>
+                              
+                                <div class="row">
+                               
+                                  <div class = "col-sm-6"> 
+                                    <div class="card">
+                                      <div class="card-header bg-default text-dark">
+                                        
+                                        <div class = "row">
+                                          <div class="col">
+                                            Pending Inventory per Operation Stage
+                                          </div>
+                                                     
+                                      </div>
+                          
+                                      </div>
+                                      <div class="card-body">
+                                       
+                                        <div id = "wip_inventory_container" style="position: relative;"></div>
+                                      
+                                      </div> 
+                                    </div>
+                                  </div>
+                                                            
+                                </div>
+                            
+                              </div>
+                              
+                              <div id="wip_inventory_analytics_raw_data" class="tab-pane fade"><br>
+                                  <div id="wip_inventory_analytics_job_records_table_container"></div>
+                              </div>
+                          
+                            </div>
+                          
+                            </div>
 
                         </div>
 
