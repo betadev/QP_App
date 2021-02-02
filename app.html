@@ -561,32 +561,35 @@
 
                         </div>
 
-                        <!--   Section to display WIP inventory analytics - sub section of dashboard    -->
+                        <!--   Section to display Process Disruption Analytics - sub section of dashboard    -->
                         <div id="navigation_wip_inventory_analytics" name="nav_section" style="display: none;">
-                          
-                          <div class="container text-center text-dark"> Please select Model and click "Fetch Data" button to download the latest Work In Progress Inventory data </div>
-                          
-
-                          <div class="row mt-3">
-                        
-                            <div class="col-sm-3"></div>
-                                            
-                            <div class="col-sm-3 mt-3"> 
-                              <select class="custom-select" id="wip_inventory_analytics_model_select">
-                                <option>Select Model</option>                       
-                              </select>
-                            </div>
-                      
-                            <div class="col-sm-3 mt-3">
-                              <div class="btn btn-primary btn-block" id ="fetch_wip_inventory_analytics_data_btn">Fetch Data</div>
-                            </div>
-                      
-                            <div class="col-sm-3"></div>
-                      
-                          </div>
-
-                          <div class="container-fluid mt-4" id="wip_inventory_content_container" style="display: none;">
+                          <div class="container-fluid mt-2">
   
+                            <div class="row text-center text-dark">
+                              <div class="col mt-2">
+                                Please select Model and click "Fetch Data" button to download the latest Work In Progress Inventory data
+                              </div>
+                            </div>
+                        
+                            <div class="row mt-3 justify-content-center">
+                        
+                              <div class="col-sm-3 mt-3"> 
+                                <select class="custom-select" id="wip_inventory_analytics_model_select">
+                                  <option>Select Model</option>                       
+                                </select>
+                              </div>
+                        
+                              <div class="col-sm-3 mt-3">
+                                <div class="btn btn-primary btn-block" id ="fetch_wip_inventory_analytics_data_btn">Fetch Data</div>
+                              </div>
+                                                
+                            </div>
+                        
+                        
+                          </div>
+                      
+                          <div class="container-fluid mt-4" id="wip_inventory_analytics_main_content" style="display: none;">
+
                             <!-- Nav tabs -->
                             <ul class="nav nav-tabs nav-justified" role="tablist">
                               <li class="nav-item">
@@ -602,15 +605,15 @@
                           
                               <div id="wip_inventory_analytics_graphs" class="tab-pane active"><br>
                               
-                                <div class="row">
+                                <div class="row justify-content-center">
                                
-                                  <div class = "col-sm-6"> 
-                                    <div class="card">
+                                  <div class = "col-sm-12"> 
+                                    <div class="card mt-4">
                                       <div class="card-header bg-default text-dark">
                                         
                                         <div class = "row">
                                           <div class="col">
-                                            Pending Inventory per Operation Stage
+                                            Work In Progress Inventory Status
                                           </div>
                                                      
                                       </div>
@@ -618,7 +621,7 @@
                                       </div>
                                       <div class="card-body">
                                        
-                                        <div id = "wip_inventory_container" style="position: relative;"></div>
+                                        <div id = "wip_inventory_charts_container" style="position: relative;"></div>
                                       
                                       </div> 
                                     </div>
@@ -634,9 +637,9 @@
                           
                             </div>
                           
-                            </div>
+                          </div>
 
-                        </div>
+                      </div>
 
                         <!--   Section to display Process Disruption Analytics - sub section of dashboard    -->
                         <div id="navigation_process_disruption_analytics" name="nav_section" style="display: block;">
