@@ -1,1 +1,10813 @@
-var _0x72bb=['tYLNq','\x20mb-2','RQcWV','firestore','Parameter\x20Name\x20cannot\x20be\x20blank.','Process\x20Disruption\x20Report\x20could\x20not\x20be\x20created.\x20Please\x20try\x20again\x20later\x20or\x20contact\x20your\x20system\x20administrator.','#daily_analytics_filter_date','iObel','WsHPC','update_dt','lSVDw','environment','return\x20/\x22\x20+\x20this\x20+\x20\x22/','dmdIU','company','MxpLD','In\x20Progress\x20(deviation\x20required)','serial_number_update_section','zvCCb','Qik\x20Process','UYiya','AIicG','S.no.','btn\x20btn-light\x20text-center\x20text-break','credit_amt','yTNId',':00','process_disruption_analytics_start_datepicker','nanoseconds','ggvoo','Workstation\x20Name\x20cannot\x20be\x20empty','Select\x20Operation','BAwXi','maintenance_history_report_main_content','xtFtb','Read','https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=','jzLbU','navigation_update_serial','total_serial_number_select_list','gWUKf','OPcHs','Param4','object','jsPDF','hourly_analytics_filter_user','Number\x20of\x20Disruptions\x20Reported\x20for\x20each\x20Operation','Please\x20fill\x20all\x20fields\x20before\x20submitting','Starting\x20creation\x20of\x20','navigation_process_disruption','#loadingModal','#d9d9d9','#maintenance_updateModal','alert\x20alert-warning\x20alert-dismissible','2339699OGpTEt','<h4>','center','xNVKP','zPIQf','<div\x20class=\x22col-sm-12\x20text-dark\x20mb-2\x22>','oWsrJ','col\x20mb-2\x20mt-4\x20text-danger','yphYI','Operation\x20name\x20cannot\x20be\x20\x27Basic\x20Info\x27\x20','loading_modal_footer','default','form-control\x20input\x20mt-n1\x20mb-2\x20text-center\x20text-dark\x20bg-white','#hourly_analytics_filter_user','navigation_maintenance_updates','Test\x20entry','<small>','MnTEK','Days','yvcFR','Param3','maintenance_plan_card','MZaIt','You\x20don\x27t\x20have\x20sufficient\x20permissions\x20to\x20view\x20this\x20section.\x20Contact\x20your\x20administrator\x20for\x20access.','custom-select\x20text-center','jTBXF','Pending\x20since\x20(date)','255-255-255','Sample\x20[Lot\x20size:\x20','BcmIm','115mpuwYh','Deviation\x20Allowed','onfocus','Please\x20add\x20https://\x20before\x20all\x20Parameter\x20Reference\x20Link\x20urls.','navigation_view_credits','custom-select\x20mb-2\x20text-center\x20col-sm-6','toLocaleTimeString','Powered\x20by\x20Qik\x20Process','Operation\x20Details','Value','body','RIPUd','aoAyC','download_qr_btn','BqzWh','current_operation','IUxlw','Are\x20you\x20sure\x20you\x20want\x20to\x20mark\x20disruption\x20as\x20fixed\x20?','\x20border-danger','Max\x20Value','href','Dispatch\x20Details','YHadE','Mean\x20Time\x20Between\x20Failure\x20(in\x20Days)','SLvgk','RWeKG','DataTable','maintenance_mtbf_operation_breakdown_select','Lwwkv','card-body\x20text-center','wip_inventory_analytics_table','XzWto','getDate','dataset','previousElementSibling','Can\x27t\x20delete\x20own\x20account','Time','width:100%','gger','excel','copy','<div\x20class=\x27text-center\x20m-3\x20text-primary\x27>No\x20internet\x20connection\x20available.\x20Please\x20check\x20your\x20device\x20settings.</div>','Show\x20all','hourly_analytics_graph_disruption_count','machine_maintenance_notification_email_2','sort','srcObject','navigation_model_qc_plans_1','setSeconds','deviation_by','serial_number_delete_section','FBsXZ','mb-2\x20text-dark','hourly_analytics_breakdown_select','readOnly','credits_purchased','font','USWOG','qr-canvas','wKoKx','<h5>Average\x20Usage</h5>','XPqDW','pjecR','wWSrs','table\x20table-responsive\x20table-striped\x20table-bordered\x20nowrap\x20display\x20stripe\x20row-border','create_user_permission_static','ZLQPJ','placeholder','YfNzJ','bElEP','TDuHV','minor_deviation_list','create_maintenance_plan_dynamic','DnkMO','Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20Maintenance\x20Plan\x20for\x20','Disruption\x20Reason','Nov','realtime_pending_jobs_container','internal','getFullYear','KltoO','ZMZVX','THLwz','QjAFA','#2F8ECE','+\x20Parameter','Model\x20Y','arUAA','ovBUa','dAzJQ','realtime_completed_jobs_user','push','company_id','Serial\x20Number\x20','Month','YdmHA','Mar','qrcode','Sep','call','set','Corrective','FWNQC','navigation_deviation_required_jobs','Page\x20','download_maintenance_history_data','crossOrigin','process_plan','parse','Maintenance\x20Type','styles','AxtPi','wIBTu','Scan\x20QR','process_disruption_analytics_table','machine_maintenance_notification_email_3','End\x20Time','qr_canvas','MRLAU','btn\x20btn-primary\x20btn-block\x20mt-3','logout_btn','All\x20parameter\x20names\x20in\x20an\x20operation\x20should\x20be\x20unique','text-center\x20','eXiSW','neOvh','bPWpC','Please\x20select\x20Workstation\x20ID\x20before\x20saving.','round','reload','Please\x20select\x20Operation\x20before\x20fetching\x20data','kzwKP','No\x20Manpower','tbTii','focus','RqtzO','HdxKK','ktIyi','VgXRn','functions','#hourly_analytics_filter_model','dhUsL','width:60%','#4363d8','user_list','Actual','NErZY','replace','card-body','mRcmW','KReYh','Atleast\x20one\x20workstation\x20is\x20required\x20for\x20every\x20operation.','pending_since_dt','Update\x20By','CEIIM','gZDZy','YfwqP','xQFoQ','text-break','uHEeN','XPmvw','QNXAf','Operation\x20could\x20not\x20be\x20completed.\x20Please\x20try\x20again\x20later.','okVMh','Status\x20(','log','param_list','IStNm','text-center\x20text-dark\x20text-break\x20mt-3\x20mb-2','abs','Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.','\x20-\x20Work\x20In\x20Progress\x20Inventory\x20Status','form-control\x20mt-n2\x20text-primary\x20bg-white','maintenance_history_report_start_datepicker','Credit\x20Amt','vyRrn','password_user_permission_section','qc_plan_create_header','info_modal_no_dismiss_message','Report\x20Process\x20Disruptions','DfENK','ArxXU','innerText','disruption_analytics_graph_disruption_count','update_by','QFIsn','operation_body','egZSP','none','help_modal_message','size','Serial\x20Number\x20cannot\x20contain\x20\x27\x20/\x20\x27\x20(forward-slash)','disruptions','modal','current_op','maintenance_modal_remark_section','getElementById','update','XGBqH','online','hourly_analytics_filter_date','fJaIQ','completed_jobs_breakdown_select','start_time','pBUjR','daily_analytics_filter_model','white','Count\x20of\x20Maintenance\x20Work\x20Done','rcQJd','form-control\x20mb-2\x20text-center\x20col-sm-6','Record\x20for\x20Serial\x20No:\x20','hourly_analytics_graph_user_id','current_log_doc','text-dark','ikubp','AfScK','card-title','Unauthorized\x20request','\x20min(s)\x20','input','emailVerified','xdMhx','\x20QC\x20stages\x20allowed','number','#\x20of\x20Jobs','hourly_analytics_filter_workstation','tJQbU','play','dNVeS','padStart','Please\x20check\x20parameter\x20input\x20values','constructor','Punching','Process\x20Record\x20for\x20Serial\x20Number\x20:\x20','created_by','Completed','Save\x20/\x20Update\x20Data','<br>Remark:\x20','name','lCwge','maintenance_record','return\x20(function()\x20','CZOqj','mt-4\x20mb-4','Please\x20select\x20start\x20and\x20end\x20date\x20before\x20fetching\x20data','#errorModal','keys','function\x20*\x5c(\x20*\x5c)','Enter\x20value\x20(max\x2050\x20characters)','kiOHU','XFyhf','User\x20already\x20exists','ytSxz','#42d4f4','https://web.com','disruption_records','<small><b>','Timestamp','\x20deleted\x20successfully','gzWNR','email_user_permission_section','View\x20Dashboard','Closing\x20Balance','Workstation\x20ID','test','add','HwZBF','gBJlY','Opening\x20Balance','Model','LYfWO','4348tZplox','mediaDevices','click','wmydd','className','\x20pcs]','Aajof','hourly_analytics_graph_default','#process_plan_template_select_Modal','tQtwR','realtime_analytics_job_records_table_container','daily_analytics_graph_disruption_mins','navigation_configure_maintenance_schedule_2','error_modal_message','custom-select\x20text-center\x20mb-5','navigation_model_qc_plans_2','jCNhG','Max\x20limit\x20reached.\x20Only\x20','toUpperCase','+\x20Workstation','End\x20Date\x20should\x20be\x20greater\x20than\x20or\x20same\x20as\x20Start\x20Date','fillStyle','Maintenance\x20Description','navigation_configure_maintenance_schedule_btn','maintenance_list','\x20,\x20Max\x20Value:\x20','daily_analytics_end_datepicker','kMkjP','Update\x20Date','Internal\x20error.\x20Please\x20refresh\x20and\x20try\x20again.','empty','toLowerCase','sp_maintenance','end_user','location','qFKpi','TMmSe','jkLhw','LMUZA','KrIlh','form-control\x20col\x20input-lg\x20text-center','<div\x20class=\x22col-sm-12\x22><a\x20class=\x22btn\x20btn-primary\x20float-right\x20pl-3\x20pr-3\x20rounded-circle\x22\x20target=\x22_blank\x22\x20rel\x20=\x20\x22noopener\x20nofollow\x20external\x20noreferrer\x22\x20\x20href=\x22','disruption_analytics_graph_disruption_mins','#9C5700','FJIiI','col-sm-6\x20mb-2\x20text-dark','#rejectionModal','hide','#hourly_analytics_filter_date','#ffed6f','adm','email','All','navigation_realtime_analytics','innerHTML','Reported\x20By<br>','custom-select\x20mb-2\x20col-sm-6\x20text-center','maintenance_count_by_operation_charts_container','rWOKz','display','<h5>Subscription\x20Expiry\x20Date</h5>','CfVxr','HTXWx','Rejected\x20by\x20','navigation_user_permission','</div>','#C6EFCE','sp_user_perm','\x20credits/day</h5>','OewuZ','form-row\x20justify-content-center\x20mt-2','-\x20Parameter','process_disruption_analytics_breakdown_select','NzPTM','setTextColor','sp_create_serial','navigation_model_qc_plans_btn','WZsKR','tacjT','Email\x20/\x20Password\x20cannot\x20be\x20blank','counter','Start\x20Time','toDate','DqEXv','rejection_modal_message','\x20Maintenance\x20done','navigation_current_user','px\x20Verdana','alert_subscriber_list','_seconds','grid','segQy','MdiWJ','workstation','Notification\x20settings\x20updated\x20successfully','QRELT','Bjzyw','textAlign','ACIKi','user1@gm.com','User\x20deleted\x20successfully','bzKsh','VPeND','Reject\x20Part','GKLeh','231909TJeuRz','op_order','Not\x20Ok\x201,Not\x20Ok\x202','iFeyk','Update','chain','select_model_id_qc_plan_section','Add\x20/\x20Edit\x20Dispatch\x20Details','navigation_configure_maintenance_schedule','alerts_container','delete','setAttribute','setDate','Update\x20Status','floor','getNumberOfPages','navigation_user_permission_1','Process\x20Plan\x20for\x20','cfPoL','FfaVL','Please\x20enter\x20serial\x20number\x20to\x20continue.','Operations\x20are\x20individual\x20stages\x20of\x20a\x20process.<br><br>Example:\x20Suppose\x20you\x20want\x20to\x20make\x20a\x20table.\x20It\x27s\x20process\x20plan\x20could\x20have\x20operations\x20like-<br><br><ul><li>Make\x204\x20table\x20legs</li><li>Make\x201\x20table\x20top</li><li>Assemble\x20table\x20legs\x20and\x20top</li></ul>','timestamp','You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.','Measurement\x20Frequency','gLccC',':hidden','text-dark\x20text-right','user','Jan','817ZdEmWZ','</u>\x20Type\x20Job\x20ID','Jul','hourly_analytics_charts_canvas','middle','splitTextToSize','auth','text-dark\x20mt-4','IREel','onAuthStateChanged','oKeGa','#4E73DF','maxLength','signOut','daily_analytics_start_datepicker','Parameter\x20Name','text-center\x20text-danger\x20text-break','vYFWF','#80b1d3','Start\x20New','gmDdV','KZcfe','fillColor','maintenance_modal_title_section','realtime_pending_jobs_default','canvas','getContext','workstation_id','operation_index','Data\x20saved\x20successfully','height','select_workstation_corrective_maintenance_section','getMonth','CkxTn','error','navigation_configure_notifications','#daily_analytics_end_datepicker','Serial\x20ID','col-sm-4\x20card\x20shadow\x20cursor-pointer\x20mb-2\x20justify-content-center\x20text-center','create_user_permission_basic_info','MiyTV','daily_analytics_breakdown_select','selectpicker','qhsRC','ULHTJ','IGbPZ','vmVST','wLals','credit_logs','navigation_wip_inventory_analytics','anonymous','<hr>','Ready\x20for\x20Dispatch','FieldValue','lpVKR','users','realtime_completed_jobs_default','asia-east2','RSllJ','Configure\x20Users','Deviation\x20Date\x20(','console','miMnp','init','PKwuW','Periodic\x20Maintenance\x20Interval\x20(Days)','pSPep','main_div','app','process_disruption_analytics_main_content','In\x20Progress','addPage','left','QxLGI','ailzb','Credit\x20Balance','claims','btn\x20btn-outline-primary\x20btn-block\x20mt-2','navigation_operation_pending_jobs','text-dark\x20mt-4\x20mb-4','lKtiu','credit_balance','navigation_menu','BamrZ','uxEhC','lastChild','Acceptable\x20Option\x20values\x20required\x20for\x20\x27Option\x20List\x27\x20type\x20parameter.','Total\x20Cycle\x20Time\x20of\x20Jobs\x20Processed\x20per\x20Day\x20(hours)','string','daily_analytics_job_records_table_container','navigation_user_permission_btn','qc_step_group','new_process_plan_template_select','rMHcQ','KmMvU','oKnpp','edjRB','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','Company\x20Name:\x20','current_status_value','ceil','card-header','gBere','download_operation_pending_jobs_data','textarea','RRQla','\x20Process\x20Disruption(s)\x20currently\x20active','addImage','MotOT',')</small>','model','wcWGe','stringify','sp_process_disruptions','split','Operation\x20&\x20Workstation<br>','toFixed','clearRect','HBank','user_permission_create_header','value','User','Credits\x20Used','KgCym','machine_maintenance_notification_email_1','HcLhX','navigation_process_disruption_analytics','axis_labels','https://reference-link.com','Free\x20Response','Write','Incorrect\x20Parts','Operation\x20Cycle\x20Time\x20(minutes)','Operation\x20Status','No\x20changes\x20yet!','download_deviation_required_jobs_data','card\x20mt-3\x20mb-3','daily_analytics_filter_workstation','Serial\x20Number\x20record\x20could\x20not\x20be\x20created.\x20Please\x20check\x20if\x20you\x20have\x20sufficient\x20credits\x20remaining.','div','wNyzY','tbody','navigation_maintenance_history_analytics','VCbbl','style','Please\x20select\x20an\x20operation\x20for\x20every\x20step.\x20[Step\x20','fillText','min','LomVz','Free\x20response\x20allows\x20a\x20user\x20to\x20enter\x20any\x20value\x20(max\x2050\x20characters).\x20Input\x20value\x20is\x20not\x20checked/validated.','daily_analytics_records_table','Njpof','maintenance_count_by_operation_chart','maintenance_count_by_workstation_chart','Minor\x20Deviation\x20Present','user1@gmail.com','IjLOv','External\x20ID','realtime_pending_jobs_model','innerWidth','JaeFV','IiHKI','dQZym','Update\x20Maintenance\x20Records','thead','</small>','ERaCu','sample\x20remark','search_mode_download_job_records_section','MTBF\x20in\x20Days','Maintenance\x20Due\x20in','TfNmI','getTracks','navigation_configure_production_operations','Yes','#maintenance_history_report_end_datepicker','Job\x20Status','Enter\x20Workstation\x20Name\x20/\x20ID','</b>?','Current\x20Operation','QvmNT','days','SdMDk','row\x20text-center\x20mt-3','MGNjM','selectAll','<h5>Available\x20Credits</h5>','Apr','form-row\x20justify-content-center\x20mt-4','ciqMn','operation_pending_jobs_select','150px','btn\x20btn-primary\x20btn-block\x20mt-4','rhZJn','uwTat','#helpModal','text-dark\x20mt-2','btn\x20btn-block\x20btn-primary','Dispatch\x20Date','#infoModal_no_dismiss','fyaFZ','deviation_dt','uCmIn','Please\x20add\x20atleast\x201\x20parameter\x20for\x20every\x20operation.\x20[','substr','XpgRN','stateObject','hourly_analytics_filter_container','Param1','back_dashboard_menu_btn','Ergpa','cell','Status','KoGIT','option','UnxLC','col-sm-12\x20text-center','Acceptable\x20Option\x20values\x20required\x20for\x20\x27Option\x20List\x27\x20type\x20parameter.\x20[','join','start_log_doc','realtime_pending_jobs','custom-select\x20text-center\x20border-danger','model_id','btn\x20btn-outline-primary\x20btn-block','index','charAt','rPFyu','cycle_time','refresh','#daily_analytics_filter_workstation','Values\x20should\x20be\x20a\x20number\x20for\x20\x27Numeric\x20Range\x27\x20type\x20parameter.\x20[','#9C0006','rWXeW','Parameter\x20Name\x20cannot\x20be\x20blank.\x20[','LYdwn','WAFOJ','operation_pending_jobs_table_container','YnKVo','arrayUnion','syYQj','1JMFyLI','playsinline','Export\x20Data','daily_analytics_filter_status','navigation_maintenance_updates_btn','remark','random','seconds','rGIYn','\x20to\x20','TWpwC','n/a','#scanModal','1zzsrgA','pMjGL','Rejected','col\x20btn\x20btn-outline-dark\x20text-dark','value1','message','col-sm-6\x20mx-auto\x20text-center\x20text-primary\x20mt-2','QOpeL','Aug','FweRw','Failed\x20to\x20access\x20camera.<br/><br/>Please\x20ensure\x20camera\x20access\x20permission\x20for\x20your\x20current\x20browser\x20is\x20granted\x20in\x20your\x20device\x20settings\x20&\x20refresh\x20to\x20try\x20again.','\x27\x20has\x20to\x20be\x20completed\x20before\x20this\x20step.\x20Check\x20\x27Basic\x20Info\x27\x20section\x20for\x20more\x20info.','11031CpyhbC','fromDate','maintenance_update_container_dynamic','form-control\x20mb-3','ANvGB','section','\x20Operations\x20allowed.','Download\x20Dispatch\x20QR\x20Label','textColor','reason','model_select_list','maintenance_modal_params_section','avg_daily_usage','start_user','zXBtM','production_operation_list_dynamic','navigation_configure_maintenance_schedule_1','records','Credit\x20Usage\x20Details','HTkqP','sjSiX','AaZBO','TjNiS','daily_analytics_charts_canvas','bpPhx','back_configure_settings_menu_btn','Values\x20should\x20be\x20a\x20number\x20for\x20\x27Numeric\x20Range\x27\x20type\x20parameter.','maintenance_mtbf_by_workstation_chart','add_new_user','indexOf','toString','Dispatch\x20ID','DwImL','Min\x20Value','low_credit_notification_email_1','navigation_dashboard_btn','nZmdc','col\x20mb-2\x20text-primary','gRCrp','download_job_records_table','UYIwV','NOT\x20OK','navigation_update_serial_2_number','Do\x20you\x20want\x20to\x20Reject\x20the\x20current\x20part?','Measurement\x20Method:\x20','#006100','length','RJjRm','daily_analytics_graph_workstation','gbNjK','maintenance_count_by_workstation_charts_container','#\x20Disruptions\x20Reported\x20for\x20','Mhnzh','Number\x20of\x20Jobs\x20Per\x20Hour\x20(','alerts','TzezJ','pending_jobs_breakdown_select','wLccg','GJxAs','Corrective\x20Maintenance','addEventListener','lEmtQ','#fccde5','TFxbn','maintenance','ZUuMy','jTjLr','fCNfH','llzYz','AKFif','QfJyJ','yefvA','navigation_menu_btn','hourly_analytics_graph_status','Do\x20you\x20want\x20to\x20allow\x20deviation\x20for\x20the\x20current\x20operation\x20(','decode','offline','Wbpll','download_wip_invenotry_analytics_data','Search\x20By','sp_dashboard','Serial\x20Number\x20not\x20found.','childNodes','891231CDfAdf','maintenance_plan_card_body','RvzXz','text-primary\x20mt-4','Basic\x20info','confirmation_modal_message','\x20on\x20','Are\x20you\x20sure\x20you\x20want\x20to\x20create\x20serial\x20number\x20<b>','ipmPo','index.html','Select\x20a\x20Job\x20Type.\x20This\x20input\x20allows\x20linking\x20of\x20child\x20/\x20sub\x20jobs\x20of\x20selected\x20Job\x20Type.','CLdEA','serverTimestamp','operation_pending_jobs_table','#infoModal','Enter\x20Operation\x20Name','<div\x20class=\x22col-sm-12\x20text-dark\x22>','AVxhN','status','Other','row\x20text-break\x20mb-2','table','SLPzm','parentElement','PmkMQ','autoTable','SIjmD','eBOxU','Data\x20could\x20not\x20be\x20saved\x20as\x20part\x20is\x20already\x20rejected.','button','Select\x20Viewing\x20Mode','Operation\x20Name\x20cannot\x20be\x20empty','#000000','maintenance_mtbf_by_operation_charts_container','znLrc','qMyic','select_email_user_permission_section','text-dark\x20mb-1','navigation_create_serial_1','#process_disruption_analytics_end_datepicker','\x20text-primary','jDtEa','navigation_company_name','#9A6324','text-primary\x20text-break','tHlYh','getSeconds','ttQMA','col-sm-6\x20mx-auto\x20text-center\x20mt-2','realtime_completed_jobs_status','unMbr','model_list','dispatchEvent','toDateString','SmoWr','hourly_analytics_operation_select','Starting\x20serial\x20number\x20cannot\x20be\x20greater\x20than\x20ending\x20serial\x20number.','serial_qc_data_display','200','AATFr','hourly_analytics_graph_job_hours','flex','daily_analytics_graph_user_id','update_time','Event','column','portrait','colvisGroup','major_deviation_list','form-row\x20justify-content-center','card-title\x20text-break','form-control\x20col-sm-12\x20mt-1\x20input-lg\x20text-center','form-control\x20input\x20mt-n2\x20text-center\x20text-primary\x20bg-white','Data\x20already\x20saved','value2','Model\x20B','All\x20operations\x20already\x20saved.','scan-btn','wip_inventory_analytics_main_content','_nanoseconds','rsqML','agBGe','<button\x20type=\x22button\x22\x20class=\x22close\x20ml-n2\x22\x20data-dismiss=\x22alert\x22>&times;</button><strong>Alert!</strong>\x20','bootstrap4','Deviation\x20allowed\x20by\x20','Ok\x201,Ok\x202,Ok\x203','record_time','update_type','fillRect','col-sm-12\x20text-primary\x20text-wrap','cTgTf','collection','#daily_analytics_start_datepicker','#confirmationModal','Select\x20Reason','ccYow','5\x20Nov\x2020','No,Maybe','WixWo','PHMkW','realtime_analytics_records_table','daily_analytics_filter_user','Notification\x20settings\x20could\x20not\x20be\x20updated.\x20Please\x20try\x20again\x20later.','yBZhM','<\x22row\x22<\x22col-sm-12\x20p-2\x22Bf>><t><\x22row\x22<\x22col-sm-4\x20mb-2\x20mt-2\x20text-left\x22l><\x22col-sm-4\x20mb-2\x20text-center\x22i><\x22col-sm-4\x20text-right\x20mb-2\x22p>>','prototype','AMYMf','rObcf','Data\x20corrupted.\x20Please\x20refresh\x20and\x20try\x20again','Last\x20updated\x20by\x20','hourly_analytics_main_content','view_process_disruptions_section','vZmMs','col-sm-12','ZwEyu','<br/>(','_all','stop','Each\x20Process\x20Plan\x20is\x20a\x20set\x20of\x20specifications\x20that\x20define\x20a\x20particular\x20product\x20model.<br><br>Example:\x20Suppose\x20you\x20make\x20tables\x20of\x203\x20different\x20sizes.\x20You\x20would\x20have\x20to\x20create\x20a\x20Process\x20Plan\x20for\x20each\x20different\x20table\x20model-<br><br><ul><li>4\x20seater\x20table</li><li>6\x20seater\x20table</li><li>8\x20seater\x20table</li></ul>','appendChild','Parameter\x20Reference\x20Link','to_serial_download_job_records_section','wrNQW','Model\x20ID:\x20','Major\x20Deviation\x20Present','viuIj','horizontalBar','Remark<br>','navigation_dashboard','#e6194B','aUTqz','qASQU','save','\x20|\x20','KVhCh','csv','\x20-\x20','Please\x20fill\x20out\x20empty\x20fields\x20to\x20continue.','Oeyly','.<hr>Are\x20you\x20sure\x20you\x20want\x20to\x20create\x20serial\x20number\x20<b>','maintenance_mtbf_by_workstation_charts_container','xmZdj','zDzOT','Entry\x20By','bjFiY',':00\x20-\x20','Allow\x20Deviation','WS\x202','AGTDm','158bwLhRt','drawImage','<br>','OJIfs','Bprgr','xeahd','black','Uinxq','</b></small>','visual','EXTL','Min\x20Value:\x20','setMinutes','Credits\x20Purchased','#ffffff','reset_create_serial_btn','No\x20active\x20process\x20disruptions','May','hourly_analytics_graph_workstation','setHours','RUsir','Remark\x20(','videoHeight','#daily_analytics_filter_model','Model\x20X','form-control\x20col\x20input-lg\x20text-center\x20text-primary','setPage','Operation\x20Failed.\x20Please\x20try\x20again\x20later.','Data\x20Updated','Aebxt','maintenance_history_report_end_datepicker','</b>\x20of\x20type\x20<b>','Enter\x20Remark','Serial\x20number\x20could\x20not\x20be\x20created.','lENjf','logo_div','operation','\x20could\x20not\x20be\x20deleted.\x20Please\x20check\x20if\x20it\x20exists\x20&\x20no\x20information\x20is\x20entered','create_qc_plan_dynamic','form-control\x20mb-3\x20col\x20input-lg\x20text-center','.<hr>','\x20(minutes)','from','text-primary','{}.constructor(\x22return\x20this\x22)(\x20)','#hourly_analytics_start_datepicker','entry_by','daily_analytics_graph_job_hours','Bad\x20Quality\x20Parts','fill','Maintenance\x20By','width','daily_analytics_charts_container','#FFEB9C','onchange','card-header\x20bg-white','select','OcIbC','\x20text-success','<h5>','Preventive\x20Maintenance','lastAutoTable','Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20Serial\x20Number\x20<b>','download_operation_analytics_data','<b>Invalid\x20email</b>\x20entered\x20for\x20<b>Machine\x20Maintenance\x20Notifications</b>.\x20Please\x20check\x20and\x20try\x20again.','Step\x20','Buy\x20more\x20credits','WxJnQ','vTDjP','awXvi','col-sm-12\x20mb-2\x20text-primary\x20text-wrap','maintenance_plan','realtime_completed_jobs_container','_an','Total\x20Cycle\x20Time\x20of\x20Jobs\x20Processed\x20per\x20Hour\x20(hours)','navigation_view_credits_btn','cJZFC','\x20serial\x20numbers\x20from\x20','low_credit_notification_email_3','zKIJX','\x20,\x20','Date:\x20','EcKSz','QuckF','odhaM','daily_analytics_graph_status','end_time','FwaGM','maintenance_count_operation_breakdown_select','maintenance_plan_create_header','hourly_analytics_filter_model','currentUser','operation_list','text-danger','Major','IJAmu','form-control\x20col-sm-6\x20input-lg\x20text-center','_label.pdf','pRtRy','nlLET','from_serial_download_job_records_section','Bending','<h3>Credit\x20Details</h3>','YhXip','Dispatched','gcqQn','navigation_model_qc_plans','daily_analytics_graph_default','childElementCount','realtime_pending_jobs_status','slice','process_disruption_analytics_end_datepicker','bar','ImYDT','right','JyqqP','wip_inventory_analytics_charts_canvas','</h5>','100px','\x20workstations\x20allowed\x20per\x20operation','max','Workstation\x20ID\x20(','daily_analytics_operation_select','realtime_completed_jobs','xKYiI','initializeApp','change','warn','Dispatch\x20Remarks','</b>\x20already\x20exists.\x20Do\x20you\x20want\x20to\x20view\x20the\x20QR\x20label\x20again?','#ffd8b1','FydXK','data','gfjLe','raw','Add\x20New\x20Job','YUwrM','maintenance_mtbf_by_operation_chart','getElementsByName','zhRvz','nav_section','</b>\x20?','rows','WjiDB','external_id','bind','form-control\x20mb-2\x20col-sm-6\x20input-lg\x20text-center','ehhCj','removeChild','realtime_content_container','400','sMgIE','Enter\x20minimum\x20and\x20maximum\x20acceptable\x20numeric\x20values\x20of\x20parameter.\x20Leave\x20blank\x20if\x20no\x20limit.','httpsCallable','serial_number_create_section','sp_system_settings','freq_remaining','LtEqb','YccxU','UVOPM','BlIHo','qc_stage_select_list','navigation_user_permission_2','UbBLP','searchBuilder','low_credit','Param2','.selectpicker','navigation_update_serial_2','Max\x20','All\x20parameter\x20names\x20in\x20an\x20operation\x20should\x20be\x20unique.\x20[','actual_value','finalY','tKICv','selected','#f032e6','method','xQXtA','user_email','Operation\x20failed.\x20Please\x20try\x20again\x20later.','\x20Type\x20Sub-Component','Operation\x20names\x20should\x20be\x20unique.','Valid\x20Options:\x20','Data\x20corrupted\x200.\x20Please\x20refresh\x20and\x20try\x20again.','bQtnb','wQKRQ','Overall\x20Status','poKmC','xEYKk','text-muted\x20text-break','WS\x201','create_user_permission_dynamic','link','action','Are\x20you\x20sure\x20you\x20want\x20to\x20remove\x20the\x20last\x20operation?\x20You\x20won\x27t\x20be\x20able\x20to\x20monitor\x20it\x20in\x20the\x20dashboard\x20if\x20removed!','</strong>\x20in\x20<strong>','Download\x20Record\x20PDF','global','block','navigation_create_serial','deviation_modal_message','Preventive','<b>Invalid\x20email</b>\x20entered\x20for\x20<b>Low\x20Credit\x20Balance\x20Notifications</b>.\x20Please\x20check\x20and\x20try\x20again.','okbtN',')\x20?','hourly_analytics_end_datepicker','aezdj','Total\x20Down\x20Time\x20(Minutes)','Total\x20Disruption\x20Time\x20for\x20each\x20Operation\x20(minutes)','Failed\x20to\x20display\x20QR\x20label.\x20Please\x20try\x20again.','lCXWZ','Serial\x20Number\x20record\x20could\x20not\x20be\x20created.\x20Please\x20check\x20if\x20you\x20have\x20sufficient\x20credits\x20remaining\x20&\x20subscription\x20is\x20not\x20expired.','apply','IwZHx','-\x20Workstation','No\x20preventive\x20maintenance\x20scheduled\x20for\x20workstations.\x20Please\x20setup\x20in\x20Maintenance\x20Settings.','rMYwn','Option\x20List','Sub-Assembly\x20Part\x20Model\x20cannot\x20be\x20same\x20as\x20Current\x20Plan\x20Model.\x20[','OGWoy','aXGAA','Parameter\x20Criticality','last_update','DEVIATION','custom-select\x20text-center\x20mb-2','navigation_update_serial_1','getIdTokenResult','#FFC7CE','Credit\x20Usage\x20Statement','\x20of\x20','sPWLu','FbkNn','freq','Pending\x20since\x20(days)','Operation','rrbeS','daily_analytics_filter_date','Job\x20Hours\x20Completed','Data\x20entered\x20by\x20','admin','CDBcx','EKlOg','serial','src','info_modal_message','Periodic\x20Maintenance\x20Interval\x20cannot\x20be\x20less\x20than\x201\x20Day','Basic\x20Info','gVuHN','table\x20table-responsive\x20table-striped\x20table-bordered\x20wrap\x20display\x20stripe\x20row-border','<small\x20class=\x27text-break\x27>(','jibnM','KFZln','\x22><i\x20class=\x22fa\x20fa-info\x22></i></a></div>','concat','YPIvy','navigation_configure_notifications_btn','tNXwv','BgDEk','Power\x20Failure','\x20parameters\x20allowed','Number\x20of\x20Jobs','Disruptions\x20Reported\x20for\x20','QQnjv','deviation_required_jobs_table','Entry\x20Date','Disruption\x20Fixed','model_id_qc_plan_section','iHdYj','iaVLM','pending_op','text','deviation_remark','tioOc','Data\x20Entered','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','\x20Active\x20Process\x20Disruption(s)\x20Reported\x20by\x20you','iEUeT','Jundu','Are\x20you\x20sure\x20you\x20want\x20to\x20Report\x20Process\x20Disruption','createElement','navigation_daily_operation_analytics','ZsgQt','setFontSize','#daily_analytics_filter_user','debu','Measurement\x20Method','AJCLc','\x20text-danger','select_workstation_id_maintenance_section','realtime_completed_jobs_model','TAzOx','Set\x20User\x20Permissions\x20for\x20','Operations\x20with\x20Major\x20Deviation','onclick','UxqlW','miHsI','trace','Summary\x20','Resolved\x20By','Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20this\x20user?','XXOCY','datepicker','nVkSL','btn\x20btn-outline-dark','videoWidth','__proto__','Update\x20Date\x20(','pop','aGnTu','Minor','PNG','credits_used','Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.','text-primary\x20mt-1','landscape','hourly_analytics_filter_status','iQgpA','display\x20:\x20block','#deviationModal','Remark','Completed\x20(with\x20deviation)','get','val','validity','exists','nAYoQ','hourly_analytics_charts_container','vFqls','Enter\x20<u>','VFSgb','Data\x20corrupted\x202.\x20Please\x20refresh\x20and\x20try\x20again.','Numeric\x20Range','KEELV','Tap\x20anywhere\x20to\x20begin','text-center\x20text-primary\x20text-break','report_process_disruption_section','onSnapshot','</h4>','onLine','CUBVF','rejection_remark','navigation_hourly_operation_analytics','You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.\x20Please\x20contact\x20your\x20admin.','col-sm-4\x20card\x20cursor-pointer\x20mb-2\x20justify-content-center\x20text-center','getHours','FembC','Model\x20A','Completed\x20Jobs','weiGW','fTKWH','level','maintenance_modal_error_message_section','#FFFFFF','Dbrlk','.\x20Remarks-\x20','entry_dt','Operation\x20failed.\x20Please\x20try\x20again\x20later','filter','#daily_analytics_filter_status','181906WqSbqk','Model:\x20','download_job_records_table_container','job_records','includes','card\x20p-2\x20mb-3','JmOaN','Jdtts','forEach','Configure\x20System\x20Settings','jKiRt','type','navigation_configure_production_operations_btn','Previous\x20operation\x20has\x20to\x20be\x20completed\x20before\x20current\x20operation\x20can\x20be\x20updated.','text-primary\x20mt-4\x20mb-4','navigation_configure_settings_section','exception','navigation_create_serial_2','gLxDB','low_credit_notification_email_2','Operation\x20Description','hourly_analytics_job_records_table_container','Operations\x20with\x20Minor\x20Deviation','daily_analytics_graph_disruption_count','No\x20operations\x20remaining.\x20Add\x20more\x20in\x20\x27Configure\x20Production\x20Operations\x27\x20before\x20continuing','doc','Disruption\x20status\x20updated\x20successfully','107CgpGKA','hourly_analytics_graph_disruption_mins'];var _0x390981=_0x577e;(function(_0x2a22db,_0x18f7e7){var _0x19999d=_0x577e;while(!![]){try{var _0x4978a0=parseInt(_0x19999d(0x166))*-parseInt(_0x19999d(0x281))+-parseInt(_0x19999d(0x4dc))+-parseInt(_0x19999d(0x184))*-parseInt(_0x19999d(0x54d))+-parseInt(_0x19999d(0x2e0))*parseInt(_0x19999d(0x274))+-parseInt(_0x19999d(0x4f7))*parseInt(_0x19999d(0x28d))+parseInt(_0x19999d(0x375))*parseInt(_0x19999d(0xfd))+parseInt(_0x19999d(0x52f));if(_0x4978a0===_0x18f7e7)break;else _0x2a22db['push'](_0x2a22db['shift']());}catch(_0x2f6bc5){_0x2a22db['push'](_0x2a22db['shift']());}}}(_0x72bb,0x9b18b));var _0x584c12=function(){var _0xcdac14=!![];return function(_0x111648,_0x462ac2){var _0x272277=_0x577e;if(_0x272277(0x622)===_0x272277(0x622)){var _0x4a72c1=_0xcdac14?function(){var _0x255f6d=_0x272277;if(_0x462ac2){if(_0x255f6d(0x224)==='alTZG'){_0x54f66b['getElementById'](_0x54a081)['value']='',_0xde776d[_0x255f6d(0x610)](_0x255f6d(0x520))[_0x255f6d(0x1fc)]=0x1;var _0x1bb3c6=_0x398385[_0x255f6d(0x610)]('qr_canvas'),_0x3550e5=_0x1bb3c6[_0x255f6d(0x19e)]('2d');_0x3550e5[_0x255f6d(0x1f9)](0x0,0x0,_0x1bb3c6[_0x255f6d(0x3a8)],_0x1bb3c6[_0x255f6d(0x1a2)]),_0x1667b6[_0x255f6d(0x610)](_0x255f6d(0x4ed))[_0x255f6d(0x214)][_0x255f6d(0x138)]='none',_0x224ea5['getElementById'](_0x255f6d(0x306))[_0x255f6d(0x214)][_0x255f6d(0x138)]=_0x255f6d(0x31d);}else{var _0x41fd4c=_0x462ac2[_0x255f6d(0x449)](_0x111648,arguments);return _0x462ac2=null,_0x41fd4c;}}}:function(){};return _0xcdac14=![],_0x4a72c1;}else _0x1cc526['innerText']=_0x272277(0x2b9)+_0x158417[_0x3cb94a][_0x272277(0x425)],_0x5a653b[_0x272277(0x357)](_0x5a1d97);};}(),_0x998fcc=_0x584c12(this,function(){var _0xa44a7b=function(){var _0x472198=_0x577e,_0x14876d=_0xa44a7b['constructor'](_0x472198(0x505))()[_0x472198(0x633)](_0x472198(0x1e5));return!_0x14876d[_0x472198(0xf6)](_0x998fcc);};return _0xa44a7b();});_0x998fcc();var _0x46730c=function(){var _0x934d64=!![];return function(_0xa4cb39,_0xe1f3ab){var _0x5bd974=_0x934d64?function(){var _0x2a363b=_0x577e;if(_0xe1f3ab){var _0x105fa3=_0xe1f3ab[_0x2a363b(0x449)](_0xa4cb39,arguments);return _0xe1f3ab=null,_0x105fa3;}}:function(){};return _0x934d64=![],_0x5bd974;};}();(function(){_0x46730c(this,function(){var _0x4343fb=_0x577e;if(_0x4343fb(0x5d1)!==_0x4343fb(0x50e)){var _0x176887=new RegExp(_0x4343fb(0xe5)),_0xd20b96=new RegExp(_0x4343fb(0x487),'i'),_0x210e19=_0x100238(_0x4343fb(0x1c3));if(!_0x176887[_0x4343fb(0xf6)](_0x210e19+_0x4343fb(0x16b))||!_0xd20b96[_0x4343fb(0xf6)](_0x210e19+_0x4343fb(0x627))){if(_0x4343fb(0x1c6)===_0x4343fb(0x46c)){if(_0x118003(_0x2babd5[_0x23e317][_0x59157a][_0x4343fb(0x5f1)][_0x4343fb(0x57e)]))_0x5c41ce=_0x4343fb(0xd9);else _0x2f817b=_0x4343fb(0x4b5);}else _0x210e19('0');}else{if(_0x4343fb(0x480)==='iHdYj')_0x100238();else{let _0xf4e838=_0x2f3dd6['createElement']('option');_0xf4e838[_0x4343fb(0x602)]=_0x3f4324[_0x394d17],_0x1cf336[_0x4343fb(0x357)](_0xf4e838);}}}else{_0x43ffe4=_0x3a10c9[_0x4343fb(0x56e)],_0x52ea79=_0x4f0c68['axis_labels'];var _0x48a396=_0xaafffe+_0x4343fb(0x5f7);_0x3c6ddb(_0x4f6507);var _0x498d94=_0x36dde0['createElement'](_0x4343fb(0x19d));_0x498d94['id']=_0x4343fb(0x3e9),_0x3c1c06[_0x4343fb(0x357)](_0x498d94);var _0x4bdba8=_0x498d94[_0x4343fb(0x19e)]('2d'),_0x92ee36=[];for(var _0x11d877=0x0;_0x11d877<_0x13e2c1[_0x4343fb(0x2bb)];_0x11d877++)_0x92ee36[_0x11d877]=_0x59d118(_0x78781d[_0x11d877]);var _0x399537={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x48a396}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':_0x4343fb(0x31d)}]},'legend':{'display':!![]}},_0x1b82f9=new _0x326034(_0x4bdba8,{'type':'horizontalBar','data':{'labels':_0x92ee36,'datasets':_0x335572},'options':_0x399537});}})();}());var _0x3aeb60=function(){var _0x5ac2d0=!![];return function(_0x3eb9fe,_0x4e97b6){var _0x4d5f63=_0x577e;if(_0x4d5f63(0x500)!=='iObel')return _0x22981b(_0x4d5f63(0x26d)+_0x5489de[_0x33eb2f]+']'),![];else{var _0x365501=_0x5ac2d0?function(){if(_0x4e97b6){var _0xe6501a=_0x4e97b6['apply'](_0x3eb9fe,arguments);return _0x4e97b6=null,_0xe6501a;}}:function(){};return _0x5ac2d0=![],_0x365501;}};}(),_0xbd4e04=_0x3aeb60(this,function(){var _0x3ca841=_0x577e,_0x4982de=function(){var _0x2b2449=_0x577e,_0x209f3f;try{_0x209f3f=Function(_0x2b2449(0xdf)+_0x2b2449(0x3a1)+');')();}catch(_0x22dba8){_0x209f3f=window;}return _0x209f3f;},_0x1a7fe3=_0x4982de(),_0x1cc2ae=_0x1a7fe3[_0x3ca841(0x1c1)]=_0x1a7fe3[_0x3ca841(0x1c1)]||{},_0x567ee5=[_0x3ca841(0x5f1),_0x3ca841(0x3f4),'info',_0x3ca841(0x1a6),_0x3ca841(0x4ec),'table',_0x3ca841(0x49d)];for(var _0x4efc4e=0x0;_0x4efc4e<_0x567ee5['length'];_0x4efc4e++){var _0x3479dc=_0x3aeb60[_0x3ca841(0x633)]['prototype'][_0x3ca841(0x406)](_0x3aeb60),_0x293778=_0x567ee5[_0x4efc4e],_0x378f96=_0x1cc2ae[_0x293778]||_0x3479dc;_0x3479dc[_0x3ca841(0x4a6)]=_0x3aeb60['bind'](_0x3aeb60),_0x3479dc[_0x3ca841(0x2ab)]=_0x378f96['toString']['bind'](_0x378f96),_0x1cc2ae[_0x293778]=_0x3479dc;}});_0xbd4e04(),firebase[_0x390981(0x3f2)](Config);const db=firebase[_0x390981(0x4fc)]();firebase[_0x390981(0x18a)]()[_0x390981(0x18d)](async function(_0x4aa797){var _0x3bbb80=_0x390981;if(!_0x4aa797||_0x4aa797[_0x3bbb80(0x628)]==![])sign_out_user();else{await set_user_auth(),document[_0x3bbb80(0x610)]('welcome_instruction')[_0x3bbb80(0x602)]=_0x3bbb80(0x4c2),logo_div[_0x3bbb80(0x49a)]=async function(){await set_navigation_section_display();};var _0x498ccc=0x0;if(gl_user_permission[_0x3bbb80(0x464)]==0x1)_0x3bbb80(0xe0)!=='CZOqj'?_0x4a661c[_0x3bbb80(0x5a8)](_0x3ff6b8[_0x5449be]):_0x498ccc=0x1;else{if('QxLGI'!==_0x3bbb80(0x1cd))return _0x19211b(_0x3bbb80(0x346)),![];else{const _0x239694=Object[_0x3bbb80(0xe4)](gl_user_permission);for(var _0x4abad5=0x0;_0x4abad5<_0x239694['length'];_0x4abad5++){if(_0x239694[_0x4abad5][_0x3bbb80(0x250)](_0x239694[_0x4abad5]['length']-0x3)==_0x3bbb80(0x3be))_0x498ccc=0x1;}}}if(_0x498ccc)await subscribe_alert_notifications();}});var functions=firebase['app']()[_0x390981(0x5d7)](_0x390981(0x1bd)),current_user_profile,current_user_token;const max_qc_stages=0xf,max_qc_stage_parameters=0x14,max_maintenance_stage_parameters=0xf,param_name_max_length=0x64,param_value_max_length=0x32,url_max_length=0xa0,max_production_operations=0x19,max_workstations_per_operation=0x14,max_serial_number_length=0x32,max_email_length=0x64,max_password_length=0x64,remark_max_length=0xfa,gl_image_scale_factor=0.7,gl_max_credit_usage_log_months=0x3,gl_max_credit_logs_per_doc=0x1388,gl_credit_validity_max_years=0x1,milli_sec_per_year=0x16d*0x18*0x3c*0x3c*0x3e8;document['getElementById'](_0x390981(0x50a))[_0x390981(0x190)]=max_serial_number_length,document[_0x390981(0x610)]('serial_number_create_section')[_0x390981(0x190)]=max_serial_number_length,document[_0x390981(0x610)](_0x390981(0xf2))[_0x390981(0x190)]=max_email_length,document[_0x390981(0x610)](_0x390981(0x5fc))[_0x390981(0x190)]=max_password_length,document[_0x390981(0x610)](_0x390981(0x3d9))[_0x390981(0x190)]=max_serial_number_length,document[_0x390981(0x610)]('to_serial_download_job_records_section')[_0x390981(0x190)]=max_serial_number_length;const status_list=[_0x390981(0xd9),_0x390981(0x21e),_0x390981(0x1ca),_0x390981(0x35c),_0x390981(0x283)],status_list_color=[_0x390981(0x3af),_0x390981(0x494),_0x390981(0x308),_0x390981(0x494),_0x390981(0x3d2)],data_types=[_0x390981(0x4c0),_0x390981(0x44e),'Sub-Job',_0x390981(0x205)],parameter_criticality_level=[_0x390981(0x4aa),_0x390981(0x3d3)],section_permission_list={[_0x390981(0x4e5)]:_0x390981(0x410),['Configure\x20Users']:_0x390981(0x140),[_0x390981(0xf3)]:_0x390981(0x2dd),[_0x390981(0x3fc)]:_0x390981(0x148),[_0x390981(0x5ff)]:_0x390981(0x1f5),['Update\x20Maintenance\x20Records']:_0x390981(0x11d)},permission_list_no_yes=['No','Yes'],permission_list_access=['None',_0x390981(0x51c),_0x390981(0x206),'Update'],indexcolors=[_0x390981(0x196),'#b3de69',_0x390981(0x361),'#bebada',_0x390981(0x12e),_0x390981(0x3f7),_0x390981(0x5db),_0x390981(0x2cb),_0x390981(0x52c),'#f58231','#bc80bd','#ccebc5',_0x390981(0xeb),'#8dd3c7','#ffffb3','#800000',_0x390981(0x30b),'#808000',_0x390981(0x424),'#000000'],pending_jobs_charts_list=[_0x390981(0x19c),_0x390981(0x222),_0x390981(0x3e2)],completed_jobs_charts_list=[_0x390981(0x1bc),_0x390981(0x496),'realtime_completed_jobs_workstation',_0x390981(0x311),_0x390981(0x5a7)],disruption_reasons=['Machinery\x20Breakdown','No\x20Parts\x20Available',_0x390981(0x207),_0x390981(0x3a5),_0x390981(0x5d0),_0x390981(0x477),_0x390981(0x2f3)],monthNames=[_0x390981(0x183),'Feb',_0x390981(0x5ad),_0x390981(0x23f),_0x390981(0x386),'Jun',_0x390981(0x186),_0x390981(0x289),_0x390981(0x5af),'Oct',_0x390981(0x599),'Dec'];var gl_curr_user_details={},gl_user_permission={},company_id,gl_current_operations_list=[],gl_model_list=[],gl_user_list=[],gl_curr_record={},gl_curr_process_plan={},gl_curr_maintenance_plan={},gl_credits_obj={},gl_maintenance_updates_list={},gl_disruption_alerts,gl_disruption_alerts_is_subscribed=![],curr_rec={},gl_maintenance_plan_list={},gl_analytics_operation_name='',gl_analytics_records_list=[],gl_analytics_disruption_records_list=[],gl_anlytics_maintenance_records_list=[],gl_pending_multi_serial_number_create_list=[],gl_parameter_cache={};const gl_parameter_cache_expiry_hours=0x5;async function alert_notification_update(_0x61d49b){var _0x4ed8b2=_0x390981,_0x1e1cf1=document['getElementById'](_0x4ed8b2(0x16f)),_0x5cfb44=_0x61d49b;if(gl_disruption_alerts==undefined)gl_disruption_alerts=[];_0x5cfb44[_0x4ed8b2(0x57a)](function(_0x51bb62,_0x210203){var _0xfbe226=_0x4ed8b2;if(_0xfbe226(0x1c4)===_0xfbe226(0x1c4))return _0x51bb62[_0xfbe226(0x617)]-_0x210203[_0xfbe226(0x617)];else _0x4a4222(_0xfbe226(0x4eb));}),_0x61d49b=_0x5cfb44;if(_0x61d49b[_0x4ed8b2(0x2bb)]-gl_disruption_alerts['length']==0x1){var _0x5b833d=_0x61d49b[_0x61d49b['length']-0x1],_0x3d84a7=document[_0x4ed8b2(0x48c)](_0x4ed8b2(0x20f));_0x3d84a7['className']='alert\x20alert-danger\x20alert-dismissible\x20text-break',_0x3d84a7['innerHTML']='\x20\x20<button\x20type=\x22button\x22\x20class=\x22close\x22\x20data-dismiss=\x22alert\x22>&times;</button><strong>'+_0x5b833d['reason']+_0x4ed8b2(0x438)+_0x5b833d['operation']+'\x20('+_0x5b833d[_0x4ed8b2(0x15a)]+')</strong>.<br>Reported\x20by\x20'+_0x5b833d['start_user'];if(!is_null(_0x5b833d['remark']))_0x3d84a7[_0x4ed8b2(0x133)]+=_0x4ed8b2(0xdb)+_0x5b833d[_0x4ed8b2(0x279)];if(gl_user_permission[_0x4ed8b2(0x464)]==0x1||gl_user_permission[_0x5b833d[_0x4ed8b2(0x399)]+'_an']==0x1&&new Date()-new Date(_0x5b833d['start_time'])<0x7530)_0x1e1cf1['appendChild'](_0x3d84a7);}else{if(_0x61d49b[_0x4ed8b2(0x2bb)]>gl_disruption_alerts[_0x4ed8b2(0x2bb)]){var _0x2dc1ca=0x0;for(var _0x3c6bcd=0x0;_0x3c6bcd<_0x61d49b['length'];_0x3c6bcd++){if(_0x4ed8b2(0x2d1)!==_0x4ed8b2(0x2d1)){_0x45698c[0x0]=[_0x4ed8b2(0x462)];for(var _0xb2b805=0x0;_0xb2b805<_0x42f4e0[_0x4ed8b2(0x2bb)];_0xb2b805++){_0x92176a[_0x299e87[_0xb2b805]]=new _0x358f03(_0xf1f636[_0x4ed8b2(0x2bb)])['fill'](0x0);}for(var _0xb2b805=0x0;_0xb2b805<_0x380f53['length'];_0xb2b805++){var _0x260bbe=_0xc2a4e5(_0x55ab1c[_0xb2b805][_0x588c1c][_0x4ed8b2(0x5f1)][_0x4ed8b2(0x4d8)],0x1),_0x547671=_0x260bbe[_0x4ed8b2(0x4cd)]()+':00\x20-\x20'+(_0x260bbe[_0x4ed8b2(0x4cd)]()+0x1)+':00',_0x429ead=_0x42495b[_0x4ed8b2(0x2aa)](_0x547671);_0x31f4fc[_0x49b12c[0x0]][_0x429ead]+=_0x158536[_0xb2b805][_0x3b33c8][_0x4ed8b2(0x267)]/0x3c;}for(var _0xb2b805=0x0;_0xb2b805<_0x2ff5f1[_0x4ed8b2(0x2bb)];_0xb2b805++){_0x667b6[_0x5c5e3c[0x0]][_0xb2b805]=_0x5d9d31(_0x100ef2[_0x157d7b[0x0]][_0xb2b805])['toFixed'](0x1);}}else{if(gl_user_permission[_0x4ed8b2(0x464)]==0x1||gl_user_permission[_0x61d49b[_0x3c6bcd]['operation']+_0x4ed8b2(0x3be)]==0x1)_0x2dc1ca+=0x1;}}var _0x3d84a7=document[_0x4ed8b2(0x48c)]('div');_0x3d84a7[_0x4ed8b2(0x101)]=_0x4ed8b2(0x52e),_0x3d84a7['innerHTML']=_0x4ed8b2(0x332)+_0x2dc1ca+_0x4ed8b2(0x1ee);if(_0x2dc1ca>0x0)_0x1e1cf1[_0x4ed8b2(0x357)](_0x3d84a7);}}return gl_disruption_alerts=_0x61d49b,await initialize_process_disruption_section(),!![];}function is_null(_0x221ded,_0x45a72d=[]){var _0x1c2ef9=_0x390981;if(_0x45a72d[_0x1c2ef9(0x2aa)](_0x221ded)>=0x0)return!![];if(typeof _0x221ded=='string'&&_0x221ded!='')return![];else{if(_0x221ded==''||isObject(_0x221ded)&&JSON[_0x1c2ef9(0x1f4)](_0x221ded)[_0x1c2ef9(0x2bb)]<=0x2&&Object['keys'](_0x221ded)[_0x1c2ef9(0x2bb)]==0x0&&_0x221ded[_0x1c2ef9(0x3e1)]==undefined||_0x221ded==undefined||_0x221ded==![]||_0x221ded==[])return!![];else return![];}}function isObject(_0x5df499){var _0x4161c9=_0x390981;return _0x5df499!=null&&typeof _0x5df499===_0x4161c9(0x524);}function compare_objects(_0x1826a3,_0x5ce5cc){var _0x5bce33=_0x390981;if(!isObject(_0x1826a3)||!isObject(_0x5ce5cc))return![];const _0x530d9a=Object[_0x5bce33(0xe4)](_0x1826a3),_0x36145d=Object[_0x5bce33(0xe4)](_0x5ce5cc);if(_0x530d9a[_0x5bce33(0x2bb)]!==_0x36145d[_0x5bce33(0x2bb)])return _0x5bce33(0x2fb)==='eBOxU'?![]:(_0x384196(_0x5bce33(0xe2)),![]);for(const _0xee4497 of _0x530d9a){const _0x48b58c=_0x1826a3[_0xee4497],_0x24bc6f=_0x5ce5cc[_0xee4497],_0x50bf06=isObject(_0x48b58c)&&isObject(_0x24bc6f);if(_0x50bf06&&!compare_objects(_0x48b58c,_0x24bc6f)||!_0x50bf06&&_0x48b58c!==_0x24bc6f)return _0x5bce33(0x2a3)!==_0x5bce33(0x17f)?![]:(_0x4d8228(_0x5bce33(0x34c)),![]);}return!![];}function remove_string_from_array(_0x4dcbcc,_0x2bff19){var _0x54119b=_0x390981,_0x4a80e4=[];for(var _0x29f878=0x0;_0x29f878<_0x4dcbcc[_0x54119b(0x2bb)];_0x29f878++){if(_0x4dcbcc[_0x29f878]!=_0x2bff19)_0x4a80e4['push'](_0x4dcbcc[_0x29f878]);}return _0x4a80e4;}function validate_email(_0x54dcf0){const _0x25fd7e=/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return _0x25fd7e['test'](String(_0x54dcf0)['toLowerCase']());}function set_navigation_section_display(){var _0x489725=_0x390981;if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x2dd)]==0x1)document[_0x489725(0x610)](_0x489725(0x2b0))['style']='display\x20:\x20block';if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x148)]==0x1)document[_0x489725(0x610)]('navigation_create_serial_btn')[_0x489725(0x214)]='display\x20:\x20block';if(gl_user_permission['admin']==0x1||gl_user_permission[_0x489725(0x46b)]>=0x1)document['getElementById']('navigation_update_serial_btn')[_0x489725(0x214)]=_0x489725(0x4b2);if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x1f5)]==0x1)document['getElementById']('navigation_process_disruptions_btn')['style']=_0x489725(0x4b2);if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission['sp_maintenance']==0x1)document[_0x489725(0x610)](_0x489725(0x278))[_0x489725(0x214)]=_0x489725(0x4b2);if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x140)]==0x1||gl_user_permission['sp_system_settings']==0x1)document[_0x489725(0x610)]('navigation_configure_settings_btn')[_0x489725(0x214)]=_0x489725(0x4b2);if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission['sp_user_perm']==0x1){if(_0x489725(0x473)!==_0x489725(0x473))return _0x3c8b2b(_0x489725(0x396)),![];else document[_0x489725(0x610)](_0x489725(0x1de))[_0x489725(0x214)]=_0x489725(0x4b2);}(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x410)]==0x1)&&(document[_0x489725(0x610)]('navigation_model_qc_plans_btn')[_0x489725(0x214)]=_0x489725(0x4b2),document[_0x489725(0x610)](_0x489725(0x4e8))[_0x489725(0x214)]=_0x489725(0x4b2),document[_0x489725(0x610)](_0x489725(0x474))['style']='display\x20:\x20block',document[_0x489725(0x610)]('navigation_configure_maintenance_schedule_btn')[_0x489725(0x214)]=_0x489725(0x4b2));if(gl_user_permission[_0x489725(0x464)]==0x1||gl_user_permission[_0x489725(0x148)]==0x1||gl_user_permission[_0x489725(0x2dd)]==0x1)document['getElementById'](_0x489725(0x3c0))[_0x489725(0x214)]=_0x489725(0x4b2);document[_0x489725(0x610)](_0x489725(0x5c5))[_0x489725(0x214)]=_0x489725(0x4b2),document[_0x489725(0x610)](_0x489725(0x30a))[_0x489725(0x133)]=_0x489725(0x53f)+gl_curr_user_details['company']+_0x489725(0x229),document[_0x489725(0x610)](_0x489725(0x153))[_0x489725(0x133)]=_0x489725(0x46e)+gl_curr_user_details[_0x489725(0x130)]+_0x489725(0x1f1),document[_0x489725(0x610)](_0x489725(0x398))[_0x489725(0x214)]='display\x20:\x20none',document[_0x489725(0x610)](_0x489725(0x1c7))[_0x489725(0x214)]=_0x489725(0x4b2);}function navigation_helper(_0x170700){var _0x3dd002=_0x390981,_0x1a06d5=document[_0x3dd002(0x3ff)](_0x3dd002(0x401));for(var _0x4963b2 of _0x1a06d5){document[_0x3dd002(0x610)](_0x4963b2['id'])[_0x3dd002(0x214)]['display']=_0x3dd002(0x608);}if(_0x170700==_0x3dd002(0x1d6))document[_0x3dd002(0x610)](_0x3dd002(0x2d5))[_0x3dd002(0x214)][_0x3dd002(0x138)]=_0x3dd002(0x608);else document['getElementById'](_0x3dd002(0x2d5))[_0x3dd002(0x214)][_0x3dd002(0x138)]=_0x3dd002(0x43b);if(_0x170700=='navigation_download_job_records'||_0x170700==_0x3dd002(0x48d)||_0x170700=='navigation_hourly_operation_analytics'||_0x170700==_0x3dd002(0x132)||_0x170700==_0x3dd002(0x1d2)||_0x170700==_0x3dd002(0x5b4)||_0x170700==_0x3dd002(0x202)||_0x170700==_0x3dd002(0x212)||_0x170700=='navigation_wip_inventory_analytics')_0x3dd002(0x220)!=='IjLOv'?_0x406579[_0x3dd002(0x2aa)](_0x3aef51[_0x3341a6][_0x2758b3][_0x3dd002(0x15a)])<0x0&&_0x4ea43a['push'](_0xf3e890[_0x49da03][_0x9ab6cf][_0x3dd002(0x15a)]):(document[_0x3dd002(0x610)](_0x3dd002(0x2d5))['style'][_0x3dd002(0x138)]=_0x3dd002(0x608),document['getElementById']('back_dashboard_menu_btn')[_0x3dd002(0x214)][_0x3dd002(0x138)]='block');else document[_0x3dd002(0x610)](_0x3dd002(0x255))[_0x3dd002(0x214)][_0x3dd002(0x138)]=_0x3dd002(0x608);if(_0x170700==_0x3dd002(0x13d)||_0x170700==_0x3dd002(0x3df)||_0x170700=='navigation_configure_production_operations'||_0x170700==_0x3dd002(0x16e)||_0x170700==_0x3dd002(0x1a7))document[_0x3dd002(0x610)](_0x3dd002(0x2d5))['style'][_0x3dd002(0x138)]=_0x3dd002(0x608),document[_0x3dd002(0x610)](_0x3dd002(0x2a6))['style'][_0x3dd002(0x138)]=_0x3dd002(0x43b);else document['getElementById']('back_configure_settings_menu_btn')[_0x3dd002(0x214)][_0x3dd002(0x138)]=_0x3dd002(0x608);return document[_0x3dd002(0x610)](_0x170700)[_0x3dd002(0x214)][_0x3dd002(0x138)]=_0x3dd002(0x43b),!![];}function decode_date(_0xcef0c,_0x229bdf=0x0){var _0x29721a=_0x390981;if(is_null(_0xcef0c))return'';var _0x4291b1;if(!is_null(_0xcef0c[_0x29721a(0x27b)])&&(!is_null(_0xcef0c[_0x29721a(0x515)])||_0xcef0c[_0x29721a(0x515)]==0x0))_0x4291b1=new firebase['firestore'][(_0x29721a(0xef))](_0xcef0c[_0x29721a(0x27b)],_0xcef0c['nanoseconds'])['toDate']();else{if(!is_null(_0xcef0c[_0x29721a(0x156)])&&(!is_null(_0xcef0c[_0x29721a(0x32f)])||_0xcef0c['_nanoseconds']==0x0))_0x4291b1=new firebase['firestore'][(_0x29721a(0xef))](_0xcef0c[_0x29721a(0x156)],_0xcef0c[_0x29721a(0x32f)])[_0x29721a(0x14f)]();else _0x4291b1=new Date(_0xcef0c);}if(_0x229bdf==0x1)return _0x4291b1;if(_0x229bdf==0x2){if(_0x29721a(0x165)==='JVDfP'){_0x1bc9c8['push'](_0x28b99c(_0x2ecb48[_0x47f855][_0x44ad47][_0x29721a(0x5f1)][_0x29721a(0x4d8)],0x2)),_0x3b1a3b[_0x29721a(0x5a8)](_0x1837ad[_0x78a3d0]['Basic\x20Info'][_0x29721a(0x1f2)]),_0x546d2a[_0x29721a(0x5a8)](_0x5f0ca[_0x4bab76][_0x3b4fb0][_0x29721a(0x15a)]),_0x1bad07['push'](_0x3c516f[_0x2f2ecd][_0x323627][_0x29721a(0x5f1)][_0x29721a(0x3a3)]);if(_0x42ce60[_0x3edade][_0x360e2b]['status']==0x4)_0x1b0517[_0x29721a(0x5a8)]('Rejected');else{if(_0x3850e6[_0x2c507e][_0x3afd9f][_0x29721a(0x2f2)]==0x0){if(_0x3e2576(_0xed06b1[_0x42be28][_0x17db19]['log'][_0x29721a(0x57e)]))_0x36df84[_0x29721a(0x5a8)](_0x29721a(0xd9));else _0x91e2f6[_0x29721a(0x5a8)]('Completed\x20(with\x20deviation)');}else _0x3b5efb[_0x29721a(0x5a8)](_0x29721a(0x509));}}else{var _0x4ec2d3=_0x4291b1[_0x29721a(0x56d)]()+'-'+monthNames[_0x4291b1[_0x29721a(0x1a4)]()][_0x29721a(0x250)](0x0,0x3)+'-'+_0x4291b1['getFullYear']();return _0x4ec2d3;}}var _0x4ec2d3=_0x4291b1['toDateString']()+',\x20'+_0x4291b1[_0x29721a(0x553)]();return _0x4ec2d3;}function display_elapsed_time(_0x772245,_0x351381){var _0x3ae12e=_0x390981,_0x15623d=new Date(),_0x3a5d6d=Math['abs'](_0x15623d-_0x772245)/0x3e8;min=Math[_0x3ae12e(0x174)](_0x3a5d6d/0x3c),_0x3a5d6d-=min*0x3c,sec=Math[_0x3ae12e(0x174)](_0x3a5d6d%0x3c),_0x351381[_0x3ae12e(0x133)]=_0x3ae12e(0xee)+min+_0x3ae12e(0x626)+sec+'\x20sec(s)'+_0x3ae12e(0x37d);}async function display_error(_0x5c2f3e){var _0x149ae0=_0x390981;await dismiss_all_modals(),document[_0x149ae0(0x610)](_0x149ae0(0x10a))[_0x149ae0(0x133)]=_0x5c2f3e,$(_0x149ae0(0xe3))[_0x149ae0(0x60d)]();}async function display_info(_0x2335af){var _0x11083a=_0x390981;await dismiss_all_modals(),document['getElementById'](_0x11083a(0x469))[_0x11083a(0x133)]=_0x2335af,$(_0x11083a(0x2ee))[_0x11083a(0x60d)]();}async function display_info_no_dismiss(_0x385eaf){var _0x22d085=_0x390981;await dismiss_all_modals(),document[_0x22d085(0x610)](_0x22d085(0x5fe))['innerHTML']=_0x385eaf,$(_0x22d085(0x24b))[_0x22d085(0x60d)]();}async function display_help(_0x4dbe99){var _0x31c064=_0x390981;await dismiss_all_modals(),document[_0x31c064(0x610)](_0x31c064(0x609))['innerHTML']=_0x4dbe99,$(_0x31c064(0x247))[_0x31c064(0x60d)]();}async function display_confirmation(_0x589acb,_0x2dca64,_0x3ad0ce='',_0x346c3a='',_0x57c9b9='',_0xd68d65='',_0x28e9b7=''){var _0x3e4125=_0x390981;await dismiss_all_modals(),document[_0x3e4125(0x610)](_0x3e4125(0x2e5))[_0x3e4125(0x133)]='<div\x20class=\x27text-break\x27>'+_0x589acb+_0x3e4125(0x13e),yes_confirmation_modal_btn[_0x3e4125(0x49a)]=async function(){var _0x2d38a9=_0x3e4125;if(_0x2d38a9(0x1ba)===_0x2d38a9(0x2ca))return _0x2a418b(_0x2d38a9(0x25d)+_0x419722[_0xf40b74]['name']+_0x2d38a9(0x368)+_0x19f86d[_0x39ef23]+']'),![];else await _0x2dca64(_0x3ad0ce,_0x346c3a,_0x57c9b9,_0xd68d65,_0x28e9b7);},$(_0x3e4125(0x33d))['modal']();}async function display_process_plan_template_selection_modal(_0x42bfdf,_0x32977b){var _0x481ee2=_0x390981;await dismiss_all_modals(),new_process_plan_template_select_container=document[_0x481ee2(0x610)](_0x481ee2(0x1e0)),empty_container_byReference(new_process_plan_template_select_container);var _0x31eaac=[_0x481ee2(0x197)];for(var _0x282482=0x0;_0x282482<_0x32977b[_0x481ee2(0x2bb)];_0x282482++){_0x32977b[_0x282482]!=_0x42bfdf&&(_0x481ee2(0x5ac)!==_0x481ee2(0x476)?_0x31eaac[_0x481ee2(0x5a8)](_0x32977b[_0x282482]):_0x5e0876[_0x481ee2(0x2aa)](_0x4412c6[_0xb4effd][_0x42e489][_0x481ee2(0x5f1)][_0x481ee2(0x3a3)])<0x0&&_0x5d5fc8[_0x481ee2(0x5a8)](_0x2a8fef[_0x1b6115][_0x358d29][_0x481ee2(0x5f1)][_0x481ee2(0x3a3)]));}set_select_options(new_process_plan_template_select_container,_0x31eaac),$(_0x481ee2(0x105))[_0x481ee2(0x60d)](),process_plan_template_select_btn[_0x481ee2(0x49a)]=async function(){var _0x2b3864=_0x481ee2,_0x15a8ae={};if(new_process_plan_template_select_container['value']!='Start\x20New')_0x15a8ae=await read_qc_plan(new_process_plan_template_select_container[_0x2b3864(0x1fc)]);await await_loading(populate_process,_0x15a8ae);};}function generate_min_max_array(_0x12d08b,_0xb0de1d){var _0x420a5a=[];for(var _0x176361=_0x12d08b;_0x176361<=_0xb0de1d;_0x176361++)_0x420a5a['push'](_0x176361);return _0x420a5a;}function validate_input(_0x532d9c){var _0x49c75d=_0x390981;if(_0x532d9c=='')return display_error(_0x49c75d(0x369)),![];else return!![];}function validate_serial_number(_0x25a763){var _0x4e8aef=_0x390981;if(_0x25a763=='')return display_error(_0x4e8aef(0x17a)),![];if(_0x25a763[_0x4e8aef(0x2aa)]('/')>=0x0)return display_error(_0x4e8aef(0x60b)),![];else return!![];}function empty_container(_0x469e4a){var _0x5d1717=_0x390981;let _0x3d1eaf=document[_0x5d1717(0x610)](_0x469e4a);while(_0x3d1eaf[_0x5d1717(0x3e1)])_0x3d1eaf[_0x5d1717(0x409)](_0x3d1eaf[_0x5d1717(0x1d9)]);return!![];}function empty_container_byReference(_0x347963){var _0x597fcc=_0x390981;while(_0x347963[_0x597fcc(0x3e1)])_0x347963[_0x597fcc(0x409)](_0x347963[_0x597fcc(0x1d9)]);return!![];}async function resize_canvas(_0x19c678,_0x89c754){var _0x46fd23=_0x390981,_0x444a1f=document[_0x46fd23(0x48c)](_0x46fd23(0x19d));_0x444a1f[_0x46fd23(0x3a8)]=_0x19c678[_0x46fd23(0x3a8)]*_0x89c754,_0x444a1f['height']=_0x19c678[_0x46fd23(0x1a2)]*_0x89c754;var _0x507794=_0x19c678[_0x46fd23(0x3a8)]*_0x89c754,_0x244395=_0x19c678[_0x46fd23(0x1a2)]*_0x89c754,_0x506e86=_0x444a1f[_0x46fd23(0x19e)]('2d');return _0x506e86[_0x46fd23(0x376)](_0x19c678,0x0,0x0,_0x507794,_0x244395),_0x444a1f;}async function reset_sections(){var _0x2ee4f0=_0x390981;gl_analytics_operation_name='',gl_analytics_records_list=[],gl_analytics_disruption_records_list=[],gl_anlytics_maintenance_records_list=[],empty_container('deviation_required_jobs_table_container'),document[_0x2ee4f0(0x610)](_0x2ee4f0(0x3d9))['value']='',document[_0x2ee4f0(0x610)](_0x2ee4f0(0x359))['value']='',await empty_container('download_job_records_table_container'),gl_pending_multi_serial_number_create_list=[],document[_0x2ee4f0(0x610)](_0x2ee4f0(0x384))[_0x2ee4f0(0xff)](),document[_0x2ee4f0(0x610)](_0x2ee4f0(0x40f))['value']='',document['getElementById'](_0x2ee4f0(0x57f))[_0x2ee4f0(0x1fc)]='',await empty_container(_0x2ee4f0(0x319)),await empty_container(_0x2ee4f0(0x416)),gl_curr_record={},document['getElementById']('serial_number_update_section')[_0x2ee4f0(0x1fc)]='',document['getElementById'](_0x2ee4f0(0x456))[_0x2ee4f0(0x214)]['display']=_0x2ee4f0(0x31d),document[_0x2ee4f0(0x610)](_0x2ee4f0(0x41d))[_0x2ee4f0(0x214)][_0x2ee4f0(0x138)]=_0x2ee4f0(0x608),gl_curr_maintenance_plan={},await empty_container(_0x2ee4f0(0x39b)),empty_container(_0x2ee4f0(0x29c)),document[_0x2ee4f0(0x610)](_0x2ee4f0(0xf2))[_0x2ee4f0(0x1fc)]='',document[_0x2ee4f0(0x610)](_0x2ee4f0(0x5fc))[_0x2ee4f0(0x1fc)]='',await empty_container(_0x2ee4f0(0x58e)),await empty_container(_0x2ee4f0(0x1ab)),await empty_container('create_user_permission_dynamic'),gl_credits_obj={},empty_container(_0x2ee4f0(0x1d5));}function set_select_options(_0x4707d3,_0x28f2d9){var _0x57fa7f=_0x390981;for(var _0x5bb800=0x0;_0x5bb800<_0x28f2d9['length'];_0x5bb800++){let _0x16c4d9=document[_0x57fa7f(0x48c)](_0x57fa7f(0x25a));_0x16c4d9['value']=_0x28f2d9[_0x5bb800],_0x16c4d9[_0x57fa7f(0x602)]=_0x28f2d9[_0x5bb800],_0x4707d3[_0x57fa7f(0x357)](_0x16c4d9);}}var flag_start_loading_ver;const gl_loading_dismiss_time=0xc;function start_loading(){var _0x390d75=_0x390981;flag_start_loading_ver=new Date(),flag_start_loading_ver[_0x390d75(0x57d)](flag_start_loading_ver[_0x390d75(0x30e)]()+gl_loading_dismiss_time-0x1),document['getElementById'](_0x390d75(0x539))['style']['display']=_0x390d75(0x608),$('#loadingModal')[_0x390d75(0x60d)](),setTimeout(function(){var _0x2fcc67=_0x390d75;if(_0x2fcc67(0x569)!==_0x2fcc67(0x569))return _0xeffe0('<b>Invalid\x20email</b>\x20entered\x20for\x20<b>Machine\x20Maintenance\x20Notifications</b>.\x20Please\x20check\x20and\x20try\x20again.'),![];else{if(new Date()>=flag_start_loading_ver)document[_0x2fcc67(0x610)](_0x2fcc67(0x539))['style'][_0x2fcc67(0x138)]='block';}},gl_loading_dismiss_time*0x3e8);}function stop_loading(){var _0x1fd0e3=_0x390981;$(_0x1fd0e3(0x52b))[_0x1fd0e3(0x60d)]('hide');}async function dismiss_all_modals(){var _0x45bfd1=_0x390981;return await $('.modal')[_0x45bfd1(0x60d)](_0x45bfd1(0x12c)),!![];}function copy_disruption_record(_0x53af82){var _0x4b47db=_0x390981,_0x309415=[],_0x573f14=[];for(var _0x531240=0x0;_0x531240<_0x53af82['length'];_0x531240++){var _0x4538a3={['id']:_0x53af82[_0x531240]['id'],[_0x4b47db(0x399)]:_0x53af82[_0x531240][_0x4b47db(0x399)],[_0x4b47db(0x15a)]:_0x53af82[_0x531240][_0x4b47db(0x15a)],[_0x4b47db(0x296)]:_0x53af82[_0x531240][_0x4b47db(0x296)],['remark']:_0x53af82[_0x531240][_0x4b47db(0x279)],[_0x4b47db(0x29a)]:_0x53af82[_0x531240]['start_user'],['start_time']:new Date(_0x53af82[_0x531240]['start_time'])};_0x573f14[_0x4b47db(0x5a8)](_0x4538a3);}return _0x309415=_0x573f14,_0x309415;}function copy_record(_0x2565a6){var _0x4fe67d=_0x390981,_0x316b54=JSON['parse'](JSON['stringify'](_0x2565a6)),_0x4eb62f=Object[_0x4fe67d(0xe4)](_0x2565a6);for(var _0x131413=0x0;_0x131413<_0x4eb62f[_0x4fe67d(0x2bb)];_0x131413++){if(!is_null(_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x3a3)]))try{_0x316b54[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x4d8)]=_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x4d8)][_0x4fe67d(0x14f)]();}catch(_0x416109){_0x316b54[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)]['entry_dt']=_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x4d8)];}if(!is_null(_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x604)]))try{if(_0x4fe67d(0x563)!==_0x4fe67d(0x563)){var _0x29e77d='';if(_0x1c908a[_0x2bebf7['value']][_0x4fe67d(0x5f1)][_0x4fe67d(0x3a3)]!=''&&_0x385c14[_0xedb837[_0x4fe67d(0x1fc)]][_0x4fe67d(0x5f1)][_0x4fe67d(0x3a3)]!=_0x16404e){var _0x230489=_0x3b3ed1[_0x1570bd[_0x4fe67d(0x1fc)]]['log'][_0x4fe67d(0x3a3)],_0x4d6e3b=_0xcd4ba0(_0x387369[_0x25805a['value']][_0x4fe67d(0x5f1)][_0x4fe67d(0x4d8)]);_0x29e77d=_0x29e77d+_0x4fe67d(0x463)+_0x230489+'\x20on\x20'+_0x4d6e3b+_0x4fe67d(0x39d);}if(_0x402b09[_0x1f4cc2['value']]['log'][_0x4fe67d(0x604)]!=''&&_0x15ddce[_0x794e41['value']][_0x4fe67d(0x5f1)]['update_by']!=_0x149123){var _0x230489=_0x1fa0a3[_0x2e5e0e[_0x4fe67d(0x1fc)]]['log']['update_by'],_0x4d6e3b=_0x298355(_0x37b490[_0x2cdef4[_0x4fe67d(0x1fc)]]['log']['update_dt']);_0x29e77d=_0x29e77d+_0x4fe67d(0x34d)+_0x230489+_0x4fe67d(0x2e6)+_0x4d6e3b+_0x4fe67d(0x39d);}if(_0x3a07f4[_0x95d1a[_0x4fe67d(0x1fc)]][_0x4fe67d(0x5f1)][_0x4fe67d(0x57e)]!=''&&_0x5dae45[_0x5739b9[_0x4fe67d(0x1fc)]][_0x4fe67d(0x5f1)][_0x4fe67d(0x57e)]!=_0x2e479d){var _0x230489=_0x414c10[_0x27a8f0['value']][_0x4fe67d(0x5f1)][_0x4fe67d(0x57e)],_0x4d6e3b=_0x4c75ce(_0x3bd447[_0x30606a[_0x4fe67d(0x1fc)]][_0x4fe67d(0x5f1)]['deviation_dt']),_0x7fd773=_0x3cb209[_0x2bcf73[_0x4fe67d(0x1fc)]][_0x4fe67d(0x5f1)]['remark'],_0x160555=_0x4fe67d(0x334);if(_0xe865b[_0x4fa0f8[_0x4fe67d(0x1fc)]]['status']==0x4)_0x160555=_0x4fe67d(0x13c);_0x29e77d=_0x29e77d+_0x160555+_0x230489+_0x4fe67d(0x2e6)+_0x4d6e3b+_0x4fe67d(0x4d7)+_0x7fd773+_0x4fe67d(0x1b7);}if(_0x29e77d=='')_0x29e77d=_0x4fe67d(0x20a);_0x2aba91(_0x29e77d);}else _0x316b54[_0x4eb62f[_0x131413]]['log'][_0x4fe67d(0x502)]=_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x502)][_0x4fe67d(0x14f)]();}catch(_0x314f76){_0x316b54[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x502)]=_0x2565a6[_0x4eb62f[_0x131413]]['log'][_0x4fe67d(0x502)];}if(!is_null(_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x57e)]))try{_0x316b54[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x24d)]=_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x24d)]['toDate']();}catch(_0x5d02a5){_0x316b54[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x24d)]=_0x2565a6[_0x4eb62f[_0x131413]][_0x4fe67d(0x5f1)][_0x4fe67d(0x24d)];}}return _0x316b54;}async function sign_out_user(){var _0x5adf19=_0x390981;await firebase[_0x5adf19(0x18a)]()[_0x5adf19(0x191)](),window['location'][_0x5adf19(0x561)]=_0x5adf19(0x2e9);}async function set_user_auth(){var _0x2cf88e=_0x390981;try{current_user_profile=firebase[_0x2cf88e(0x18a)]()[_0x2cf88e(0x3d0)];var _0x891164=await current_user_profile[_0x2cf88e(0x457)](),_0x372ddc=_0x891164[_0x2cf88e(0x1d0)];current_user_token=_0x372ddc;if(is_null(_0x372ddc[_0x2cf88e(0x5a9)]))console[_0x2cf88e(0x5f1)](_0x372ddc);gl_curr_user_details[_0x2cf88e(0xdc)]=current_user_profile['displayName'],gl_curr_user_details[_0x2cf88e(0x130)]=current_user_profile[_0x2cf88e(0x130)],gl_curr_user_details['company']=current_user_token[_0x2cf88e(0x507)],gl_curr_user_details[_0x2cf88e(0x5a9)]=current_user_token['company_id'],company_id=current_user_token[_0x2cf88e(0x5a9)];if(_0x372ddc['admin']==0x1)gl_user_permission={'admin':0x1};else gl_user_permission=await read_user_permission(),gl_user_permission[_0x2cf88e(0x464)]=0x0;return!![];}catch(_0x3d0154){if(_0x2cf88e(0x137)!=='dhVKT')sign_out_user();else return _0x4d4479(_0x2cf88e(0x32c)),_0xa56438(),![];}}var qrcode_scanner=window[_0x390981(0x5ae)];const video=document[_0x390981(0x48c)]('video'),canvasElement=document[_0x390981(0x610)](_0x390981(0x587)),canvas=canvasElement[_0x390981(0x19e)]('2d');var outputData;let scanning=![];setInterval(function(){_0x100238();},0xfa0);function tick(){var _0x304003=_0x390981;canvasElement['width']=Math['min'](window[_0x304003(0x223)]*0.8,0x12c),canvasElement[_0x304003(0x1a2)]=video[_0x304003(0x38b)]/video[_0x304003(0x4a5)]*canvasElement['width'],canvas[_0x304003(0x376)](video,0x0,0x0,canvasElement[_0x304003(0x3a8)],canvasElement['height']),scanning&&requestAnimationFrame(tick);}function scan(){var _0x7ed147=_0x390981;try{_0x7ed147(0x1e4)!==_0x7ed147(0x1e4)?_0x116dbf[_0x7ed147(0x5a8)]({'id':_0x68e765[_0x163732],'operation':_0x15bbcc[_0x53821f[_0x5a1a2b]]['operation'],'workstation':_0x19254e[_0x2570cf[_0x3d007c]][_0x7ed147(0x15a)],'reason':_0x141fba[_0x5f4579[_0x1843bd]][_0x7ed147(0x296)],'remark':_0x3a8529[_0x3a5a9d[_0x54053c]]['remark'],'start_user':_0x124a0d[_0x26b19e[_0x3b9826]][_0x7ed147(0x29a)],'start_time':new _0x2fd546(_0x4fd926(_0x3b8ba9[_0x38aee4[_0x179bc8]][_0x7ed147(0x617)],0x1))}):qrcode_scanner[_0x7ed147(0x2d8)]();}catch(_0x1995c6){setTimeout(scan,0x12c);}}stop_scan_btn['onclick']=function(){var _0x7f6239=_0x390981;scanning=![],video[_0x7f6239(0x57b)][_0x7f6239(0x230)]()[_0x7f6239(0x4e4)](_0x1ce73b=>{var _0x1ca058=_0x7f6239;if(_0x1ca058(0x54c)!==_0x1ca058(0x54c)){var _0x1cd359=_0xe9a6f(_0x581b4c[_0x1d5f27][_0x25b843][_0x1ca058(0x5f1)][_0x1ca058(0x4d8)],0x1),_0x22e5b1=_0x1cd359['getHours']()+_0x1ca058(0x371)+(_0x1cd359[_0x1ca058(0x4cd)]()+0x1)+_0x1ca058(0x513),_0xdd4f13=_0xeb0b9d['indexOf'](_0x22e5b1);_0x38fe7a[_0xcbae79[0x0]][_0xdd4f13]+=_0x1ef2f9[_0x5b44b1][_0x138b52]['cycle_time']/0x3c;}else _0x1ce73b['stop']();});},qrcode_scanner['callback']=_0xc3e5b=>{var _0x425129=_0x390981;if(_0xc3e5b){if(_0x425129(0x3c4)==='GVvzF')return _0xa78965(_0x425129(0x111)),![];else outputData[_0x425129(0x1fc)]=_0xc3e5b,outputData['dispatchEvent'](new Event(_0x425129(0x3f3),{'bubbles':!![]})),scanning=![],video[_0x425129(0x57b)][_0x425129(0x230)]()['forEach'](_0x10890e=>{_0x10890e['stop']();}),stop_scan_btn['click']();}};async function popup_scanner(_0x31aeaa){var _0x1fb272=_0x390981;try{outputData=_0x31aeaa;let _0x3dcdc4=await navigator[_0x1fb272(0xfe)]['getUserMedia']({'video':{'facingMode':_0x1fb272(0x504)}});{scanning=!![],video[_0x1fb272(0x171)](_0x1fb272(0x275),!![]),video[_0x1fb272(0x57b)]=_0x3dcdc4,video[_0x1fb272(0x62f)](),tick(),scan(),await $(_0x1fb272(0x280))[_0x1fb272(0x60d)]();}return!![];}catch(_0x46475e){return await display_error(_0x1fb272(0x28b)),![];}}function compare_active(_0x2d440a,_0xf5508e){var _0x4d271e=_0x390981;const _0x14623c=_0x2d440a['days'],_0x488d07=_0xf5508e[_0x4d271e(0x239)];let _0x5737ed=0x0;if(_0x14623c<_0x488d07){if(_0x4d271e(0x36d)!==_0x4d271e(0x5ec))_0x5737ed=0x1;else{var _0x2ae825='';if(_0x25961f[_0x717694][_0x20060d][_0x4d271e(0x2f2)]==0x4)_0x2ae825=_0x4d271e(0x283);else{if(_0x1d5bd9[_0x2f0b79][_0x25f896]['status']==0x0){if(_0x1ef10d(_0x438159[_0x18cfe1][_0x3391b5][_0x4d271e(0x5f1)]['deviation_by']))_0x2ae825=_0x4d271e(0xd9);else _0x2ae825=_0x4d271e(0x4b5);}else _0x2ae825=_0x4d271e(0x509);}_0x2d7ab1[_0x4d271e(0x2aa)](_0x2ae825)<0x0&&_0x127743['push'](_0x2ae825);}}else{if(_0x14623c>_0x488d07){if(_0x4d271e(0x201)!=='HcLhX'){var _0x1cb01f=_0x3269a7[new _0x2056f1(_0x24493f[_0x30c3ba])['getMonth']()]+_0x4d271e(0x368)+new _0x175972(_0xf91856[_0x510cca])[_0x4d271e(0x59c)]();const _0x125c2e=_0x3d90ea[_0x1858b2[_0x2133f8]][_0x4d271e(0x584)],_0x44479=_0x5b2605[_0x36aeb7[_0x522db0]]['credits_used'];_0x5a9cf6+=_0x125c2e+_0x44479,_0x4b41b7['push']([_0x1cb01f,_0x125c2e,_0xabf12['abs'](_0x44479),_0x446c61]);}else _0x5737ed=-0x1;}}return _0x5737ed;}function initialize_dashboard(){if(!![])return![];}function render_table_job_records(_0x4bb0f7,_0x147a9f,_0x17ef83=[]){var _0x2f2af4=_0x390981,_0x2fff0f=[],_0x3a96ee={};if(!is_null(_0x17ef83)){if(_0x2f2af4(0x430)==='qkLpG'){var _0x1d6688=_0x117b30['getElementById'](_0x2f2af4(0x39b));_0x1d6688[_0x2f2af4(0x409)](_0x1d6688[_0x2f2af4(0x1d9)]);}else _0x2fff0f=_0x17ef83;}else{if('gZrRZ'!==_0x2f2af4(0x58a))for(var _0x33b962=0x0;_0x33b962<_0x4bb0f7[_0x2f2af4(0x2bb)];_0x33b962++){var _0x4bd38f=Object['keys'](_0x4bb0f7[_0x33b962]);_0x2fff0f=_0x2fff0f['concat'](_0x4bd38f),_0x2fff0f=Array[_0x2f2af4(0x39f)](new Set(_0x2fff0f));}else{var _0xf6f493=[],_0x4f3f56=[];if(_0x169a6c(_0xe52688))_0x366149=_0x2003f6();_0x23c079=_0x242244[_0x2f2af4(0xe4)](_0x20ac1b);for(var _0x302508=0x0;_0x302508<_0x46f902[_0x2f2af4(0x3e1)];_0x302508++){if(_0x954c5a[_0x2f2af4(0x2df)][_0x302508][_0x2f2af4(0x2df)][0x0][_0x2f2af4(0x2df)][0x1][_0x2f2af4(0x1fc)]!=='')_0xf6f493[_0x2f2af4(0x5a8)](_0x1399f2[_0x2f2af4(0x2df)][_0x302508]['childNodes'][0x0][_0x2f2af4(0x2df)][0x1][_0x2f2af4(0x1fc)]);}for(var _0x302508=0x0;_0x302508<_0x5a2877[_0x2f2af4(0x2bb)];_0x302508++){if(!_0xf6f493[_0x2f2af4(0x4e0)](_0x394b8f[_0x302508]))_0x4f3f56[_0x2f2af4(0x5a8)](_0x1e137d[_0x302508]);}return _0x4f3f56;}}var _0x50a8b2=[];for(var _0x33b962=0x0;_0x33b962<_0x2fff0f[_0x2f2af4(0x2bb)];_0x33b962++){if(_0x2fff0f[_0x33b962]!=_0x2f2af4(0x46b)){if(_0x2f2af4(0x225)==='iIYsA'){_0x2f1b30[_0x453081[_0x3835ee]]=[];for(var _0x26a10c=0x0;_0x26a10c<_0x4d53b6[_0x2f2af4(0x2bb)];_0x26a10c++){if(_0x1ad364[_0x26a10c][_0x407e1f[_0x2c252f]])_0xc6f39e[_0x125fea[_0x5e52c5]]=_0x30fa9e[_0x26f4f1[_0x3b67b4]]['concat'](_0x2a793e[_0x2f2af4(0xe4)](_0x19f0a5[_0x26a10c][_0x23e947[_0x1775e6]][_0x2f2af4(0x420)])||[]);_0x4c9761[_0x513006[_0x444d64]]=_0x58a0c3['from'](new _0x99f39(_0x4c6766[_0x2862ac[_0x34ad6a]]));}}else{if(gl_user_permission[_0x2f2af4(0x464)]==0x1||gl_user_permission[_0x2fff0f[_0x33b962]]>=0x1)_0x50a8b2[_0x2f2af4(0x5a8)](_0x2fff0f[_0x33b962]);}}}_0x2fff0f=_0x50a8b2;for(var _0x33b962=0x0;_0x33b962<_0x2fff0f[_0x2f2af4(0x2bb)];_0x33b962++){if(_0x2f2af4(0x533)==='zPIQf'){_0x3a96ee[_0x2fff0f[_0x33b962]]=[];for(var _0x14968f=0x0;_0x14968f<_0x4bb0f7['length'];_0x14968f++){if(_0x4bb0f7[_0x14968f][_0x2fff0f[_0x33b962]])_0x3a96ee[_0x2fff0f[_0x33b962]]=_0x3a96ee[_0x2fff0f[_0x33b962]]['concat'](Object['keys'](_0x4bb0f7[_0x14968f][_0x2fff0f[_0x33b962]][_0x2f2af4(0x420)])||[]);_0x3a96ee[_0x2fff0f[_0x33b962]]=Array['from'](new Set(_0x3a96ee[_0x2fff0f[_0x33b962]]));}}else _0x16fa55[_0x2f2af4(0x2aa)](_0x4680a5[_0x53f814][_0x2f2af4(0x296)])<0x0&&_0x39e2d9[_0x2f2af4(0x5a8)](_0x47ceba[_0x5aaa15][_0x2f2af4(0x296)]);}let _0x12b547=document['getElementById'](_0x147a9f),_0x48da93=document[_0x2f2af4(0x48c)]('thead'),_0x4f97f2=document[_0x2f2af4(0x48c)]('tr'),_0x1a9fe2=document['createElement']('th');_0x1a9fe2['innerText']=_0x2f2af4(0xfb),_0x4f97f2['appendChild'](_0x1a9fe2);let _0x7b95f8=document[_0x2f2af4(0x48c)]('th');_0x7b95f8[_0x2f2af4(0x602)]=_0x2f2af4(0x1a9),_0x4f97f2[_0x2f2af4(0x357)](_0x7b95f8);let _0x194a6f=document[_0x2f2af4(0x48c)]('th');_0x194a6f['innerText']=_0x2f2af4(0x221),_0x4f97f2[_0x2f2af4(0x357)](_0x194a6f);let _0x2cf8d4=document[_0x2f2af4(0x48c)]('th');_0x2cf8d4[_0x2f2af4(0x602)]=_0x2f2af4(0x258),_0x4f97f2[_0x2f2af4(0x357)](_0x2cf8d4);let _0x5b5cc1=document['createElement']('th');_0x5b5cc1[_0x2f2af4(0x602)]=_0x2f2af4(0x47d),_0x4f97f2[_0x2f2af4(0x357)](_0x5b5cc1);let _0x312f1a=document['createElement']('th');_0x312f1a[_0x2f2af4(0x602)]=_0x2f2af4(0x36f),_0x4f97f2['appendChild'](_0x312f1a);let _0x565df5=document[_0x2f2af4(0x48c)]('th');_0x565df5[_0x2f2af4(0x602)]=_0x2f2af4(0x119),_0x4f97f2['appendChild'](_0x565df5);let _0x376797=document[_0x2f2af4(0x48c)]('th');_0x376797['innerText']='Update\x20By',_0x4f97f2[_0x2f2af4(0x357)](_0x376797);for(var _0x33b962=0x0;_0x33b962<_0x2fff0f[_0x2f2af4(0x2bb)];_0x33b962++){let _0x27d3d2=document[_0x2f2af4(0x48c)]('th');_0x27d3d2[_0x2f2af4(0x602)]=_0x2f2af4(0x5f0)+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x27d3d2);let _0x296212=document[_0x2f2af4(0x48c)]('th');_0x296212['innerText']=_0x2f2af4(0x3ee)+_0x2fff0f[_0x33b962]+')',_0x4f97f2['appendChild'](_0x296212);var _0x5b12f4=_0x3a96ee[_0x2fff0f[_0x33b962]];for(var _0x14968f=0x0;_0x14968f<_0x5b12f4[_0x2f2af4(0x2bb)];_0x14968f++){let _0x241e0b=document[_0x2f2af4(0x48c)]('th');_0x241e0b[_0x2f2af4(0x602)]=_0x5b12f4[_0x14968f]+'\x20('+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x241e0b);}let _0x309159=document['createElement']('th');_0x309159[_0x2f2af4(0x602)]='Entry\x20Date\x20('+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x309159);let _0xbeaa0a=document[_0x2f2af4(0x48c)]('th');_0xbeaa0a[_0x2f2af4(0x602)]='Entry\x20By\x20('+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0xbeaa0a);let _0x34adc0=document[_0x2f2af4(0x48c)]('th');_0x34adc0[_0x2f2af4(0x602)]=_0x2f2af4(0x4a7)+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x34adc0);let _0x314f97=document['createElement']('th');_0x314f97[_0x2f2af4(0x602)]='Update\x20By\x20('+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x314f97);let _0x6db055=document[_0x2f2af4(0x48c)]('th');_0x6db055[_0x2f2af4(0x602)]=_0x2f2af4(0x1c0)+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x6db055);let _0xc98edd=document['createElement']('th');_0xc98edd['innerText']='Deviation\x20By\x20('+_0x2fff0f[_0x33b962]+')',_0x4f97f2['appendChild'](_0xc98edd);let _0x3b8804=document[_0x2f2af4(0x48c)]('th');_0x3b8804[_0x2f2af4(0x602)]=_0x2f2af4(0x38a)+_0x2fff0f[_0x33b962]+')',_0x4f97f2[_0x2f2af4(0x357)](_0x3b8804);}_0x48da93[_0x2f2af4(0x357)](_0x4f97f2);let _0x5cb84f=document[_0x2f2af4(0x48c)](_0x2f2af4(0x211));_0x5cb84f[_0x2f2af4(0x101)]=_0x2f2af4(0x5ea);for(var _0x33b962=0x0;_0x33b962<_0x4bb0f7['length'];_0x33b962++){let _0x4e319b=document[_0x2f2af4(0x48c)]('tr'),_0x4c5da0=document[_0x2f2af4(0x48c)]('td');_0x4c5da0[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)][_0x2f2af4(0x1f2)],_0x4e319b[_0x2f2af4(0x357)](_0x4c5da0);let _0x195fb5=document['createElement']('td');_0x195fb5[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962]['Basic\x20Info'][_0x2f2af4(0x467)],_0x4e319b['appendChild'](_0x195fb5);let _0x727c88=document[_0x2f2af4(0x48c)]('td');_0x727c88[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)][_0x2f2af4(0x405)],_0x4e319b[_0x2f2af4(0x357)](_0x727c88);let _0x591116=document[_0x2f2af4(0x48c)]('td');_0x591116[_0x2f2af4(0x602)]=status_list[_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)]['status']]||'-';if(_0x591116['innerText']==status_list[0x0]&&_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)]['log'][_0x2f2af4(0x3a3)]=='')_0x591116[_0x2f2af4(0x602)]=_0x2f2af4(0x1b8);else{if(_0x591116[_0x2f2af4(0x602)]==status_list[0x0]&&_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)][_0x2f2af4(0x5f1)][_0x2f2af4(0x3a3)]!='')_0x591116[_0x2f2af4(0x602)]=_0x2f2af4(0x3dd);}_0x4e319b[_0x2f2af4(0x357)](_0x591116);let _0x2aad68=document[_0x2f2af4(0x48c)]('td');_0x2aad68[_0x2f2af4(0x602)]=decode_date(_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)][_0x2f2af4(0x5f1)][_0x2f2af4(0x4d8)])||'-',_0x4e319b[_0x2f2af4(0x357)](_0x2aad68);let _0x453353=document['createElement']('td');_0x453353[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962]['Basic\x20Info'][_0x2f2af4(0x5f1)]['entry_by']||'-',_0x4e319b[_0x2f2af4(0x357)](_0x453353);let _0x4944db=document[_0x2f2af4(0x48c)]('td');_0x4944db[_0x2f2af4(0x602)]=decode_date(_0x4bb0f7[_0x33b962]['Basic\x20Info'][_0x2f2af4(0x5f1)]['update_dt'])||'-',_0x4e319b['appendChild'](_0x4944db);let _0x2d4688=document[_0x2f2af4(0x48c)]('td');_0x2d4688[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2f2af4(0x46b)][_0x2f2af4(0x5f1)][_0x2f2af4(0x604)]||'-',_0x4e319b['appendChild'](_0x2d4688);for(_0x14968f=0x0;_0x14968f<_0x2fff0f['length'];_0x14968f++){let _0xa13d96=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0xa13d96[_0x2f2af4(0x602)]=status_list[_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]['status']]||'-';else _0xa13d96['innerText']=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0xa13d96);let _0x104a66=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x104a66[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x15a)][_0x2f2af4(0x2ab)]()||'-';else _0x104a66[_0x2f2af4(0x602)]='n/a';_0x4e319b[_0x2f2af4(0x357)](_0x104a66);var _0x5b12f4=_0x3a96ee[_0x2fff0f[_0x14968f]];for(var _0x5c0de0=0x0;_0x5c0de0<_0x5b12f4[_0x2f2af4(0x2bb)];_0x5c0de0++){if(_0x2f2af4(0x1b3)!=='VgIIt'){let _0x19e7d6=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]){if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x420)][_0x5b12f4[_0x5c0de0]]==undefined||_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x420)][_0x5b12f4[_0x5c0de0]][0x0]=='')_0x19e7d6[_0x2f2af4(0x602)]='-';else _0x19e7d6[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]['actual_value'][_0x5b12f4[_0x5c0de0]][0x0]||'-';}else _0x19e7d6[_0x2f2af4(0x602)]=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0x19e7d6);}else _0x78752d=_0x53fc20['createElement']('select'),_0x2bc529['className']=_0x2f2af4(0x547),_0x5277bc(_0x4bf0db,_0x26f329),_0x2c0e64=_0x259754[_0x2f2af4(0x48c)](_0x2f2af4(0x627)),_0x462fc6[_0x2f2af4(0x4e7)]=_0x2f2af4(0x483),_0x34c002['className']='form-control\x20col-sm-6\x20input-lg\x20text-center',_0x24b135['maxLength']=0x0,_0x1f0e09['style'][_0x2f2af4(0x138)]=_0x2f2af4(0x608),_0x42f00d=_0x3bf5c9[_0x2f2af4(0x48c)]('p'),_0xfeff0f[_0x2f2af4(0x101)]='col-sm-12\x20text-primary\x20text-wrap',_0x131a3c[_0x2f2af4(0x602)]='Select\x20a\x20Job\x20Type.\x20This\x20input\x20allows\x20linking\x20of\x20child\x20/\x20sub\x20jobs\x20of\x20selected\x20Job\x20Type.',_0x470536=_0x52d720[_0x2f2af4(0x48c)]('hr'),_0x36ac8b[_0x2f2af4(0x101)]=_0x2f2af4(0x351);}let _0x80d120=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x80d120[_0x2f2af4(0x602)]=decode_date(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x5f1)]['entry_dt'])||'-';else _0x80d120[_0x2f2af4(0x602)]=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0x80d120);let _0x13267d=document['createElement']('td');_0x13267d[_0x2f2af4(0x101)]=_0x2f2af4(0x5ea);if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x13267d[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x5f1)][_0x2f2af4(0x3a3)]||'-';else _0x13267d[_0x2f2af4(0x602)]=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0x13267d);let _0x3312e0=document['createElement']('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x3312e0['innerText']=decode_date(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x5f1)][_0x2f2af4(0x502)])||'-';else _0x3312e0[_0x2f2af4(0x602)]='n/a';_0x4e319b['appendChild'](_0x3312e0);let _0x495289=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x495289['innerText']=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]][_0x2f2af4(0x5f1)][_0x2f2af4(0x604)]||'-';else _0x495289[_0x2f2af4(0x602)]='n/a';_0x4e319b['appendChild'](_0x495289);let _0x21de0b=document['createElement']('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x21de0b[_0x2f2af4(0x602)]=decode_date(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]['log'][_0x2f2af4(0x24d)])||'-';else _0x21de0b[_0x2f2af4(0x602)]=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0x21de0b);let _0x5a0cf8=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x5a0cf8['innerText']=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]['log'][_0x2f2af4(0x57e)]||'-';else _0x5a0cf8[_0x2f2af4(0x602)]='n/a';_0x4e319b[_0x2f2af4(0x357)](_0x5a0cf8);let _0x218157=document[_0x2f2af4(0x48c)]('td');if(_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]])_0x218157[_0x2f2af4(0x602)]=_0x4bb0f7[_0x33b962][_0x2fff0f[_0x14968f]]['log'][_0x2f2af4(0x279)]||'-';else _0x218157[_0x2f2af4(0x602)]=_0x2f2af4(0x27f);_0x4e319b[_0x2f2af4(0x357)](_0x218157);}_0x5cb84f[_0x2f2af4(0x357)](_0x4e319b);}_0x12b547['appendChild'](_0x48da93),_0x12b547['appendChild'](_0x5cb84f);var _0x990601=_0x4f97f2[_0x2f2af4(0x3e1)],_0x7cac64=generate_min_max_array(0x0,_0x990601-0x1),_0x12a4fe=0x8,_0x5be0ba=[0x0,0x1],_0x301587=generate_min_max_array(_0x5be0ba[_0x2f2af4(0x2bb)],_0x12a4fe-0x1),_0x144346=[],_0x582a0c={'extend':_0x2f2af4(0x323),'text':_0x2f2af4(0x46b),'show':_0x5be0ba[_0x2f2af4(0x472)](_0x301587),'hide':generate_diff_array(_0x7cac64,_0x5be0ba[_0x2f2af4(0x472)](_0x301587))};_0x144346[_0x2f2af4(0x5a8)](_0x582a0c);for(var _0x33b962=0x0;_0x33b962<_0x2fff0f['length'];_0x33b962++){if(_0x2f2af4(0x450)==='OGWoy'){var _0x51c1e9=_0x3a96ee[_0x2fff0f[_0x33b962]][_0x2f2af4(0x2bb)],_0x2919fc=generate_min_max_array(_0x12a4fe,_0x12a4fe+0x9+_0x51c1e9-0x1),_0x27cf2d={'extend':_0x2f2af4(0x323),'text':_0x2fff0f[_0x33b962],'show':_0x5be0ba[_0x2f2af4(0x472)](_0x2919fc),'hide':generate_diff_array(_0x7cac64,_0x5be0ba[_0x2f2af4(0x472)](_0x2919fc))};_0x144346[_0x2f2af4(0x5a8)](_0x27cf2d),_0x12a4fe=_0x12a4fe+0x9+_0x51c1e9;}else{var _0x17337b=_0x531861[_0x2f2af4(0x610)](_0x1cb660),_0xf065d3=_0x17337b[_0x2f2af4(0x3e1)];if(_0xf065d3+0x1>_0xa20f86)_0x393f91('Max\x20'+_0x4a4146+_0x2f2af4(0x3ec));else{var _0x30f0fa=_0x49718d[_0x2f2af4(0x48c)](_0x2f2af4(0x20f));_0x30f0fa[_0x2f2af4(0x101)]=_0x2f2af4(0x325);var _0x44eaed=_0x527a6f[_0x2f2af4(0x48c)](_0x2f2af4(0x627));_0x44eaed['type']=_0x2f2af4(0x483),_0x44eaed['className']=_0x2f2af4(0x39c),_0x44eaed[_0x2f2af4(0x590)]=_0x2f2af4(0x235),_0x44eaed[_0x2f2af4(0x190)]=_0x2cc90b;if(_0x1b31c!='')_0x44eaed[_0x2f2af4(0x1fc)]=_0x38e024;return _0x30f0fa['appendChild'](_0x44eaed),_0x17337b[_0x2f2af4(0x357)](_0x30f0fa),_0x30f0fa;}}}var _0x459c84={'extend':_0x2f2af4(0x323),'text':_0x2f2af4(0x577),'show':_0x2f2af4(0x180)};return _0x144346[_0x2f2af4(0x5a8)](_0x459c84),$('#'+_0x147a9f)[_0x2f2af4(0x567)]({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,'All']],'lengthChange':!![],'columnDefs':[{'targets':_0x5be0ba[_0x2f2af4(0x472)](_0x301587),'visible':!![],'width':'100px'},{'targets':_0x2f2af4(0x354),'visible':![],'width':_0x2f2af4(0x3eb)}],'colReorder':!![],'fixedColumns':{'leftColumns':0x2},'paging':!![],'dom':_0x2f2af4(0x348),'buttons':[{'extend':_0x2f2af4(0x33b),'text':_0x2f2af4(0x2fe),'buttons':_0x144346},_0x2f2af4(0x419),{'extend':_0x2f2af4(0x33b),'text':_0x2f2af4(0x276),'buttons':[_0x2f2af4(0x575),_0x2f2af4(0x574),_0x2f2af4(0x367)]}]}),!![];}function generate_diff_array(_0x520118,_0x14de29){var _0x46b635=_0x390981,_0x54384a=[];for(var _0x2f87ee=0x0;_0x2f87ee<_0x520118[_0x46b635(0x2bb)];_0x2f87ee++){if(_0x14de29[_0x46b635(0x2aa)](_0x520118[_0x2f87ee])<0x0)_0x54384a[_0x46b635(0x5a8)](_0x520118[_0x2f87ee]);}return _0x54384a;}function _0x577e(_0xef8ce1,_0xe74c58){return _0x577e=function(_0x4e15bf,_0xbd4e04){_0x4e15bf=_0x4e15bf-0xd6;var _0x3aeb60=_0x72bb[_0x4e15bf];return _0x3aeb60;},_0x577e(_0xef8ce1,_0xe74c58);}function pass_filter_criteria(_0x3b9a61,_0x51e3b4,_0x235232='',_0x14ab0d='',_0x558e4d='',_0x12420a='',_0x2d8094=''){var _0x4c274d=_0x390981,_0x522fc7=get_multi_selected_values(_0x2d8094),_0x569707=get_multi_selected_values(_0x235232),_0x490994=get_multi_selected_values(_0x14ab0d),_0x5c477d=get_multi_selected_values(_0x558e4d),_0x5822d2=get_multi_selected_values(_0x12420a);if(_0x522fc7[_0x4c274d(0x2aa)](decode_date(_0x3b9a61[_0x51e3b4][_0x4c274d(0x5f1)][_0x4c274d(0x4d8)],0x2))<0x0)return![];if(_0x569707['indexOf'](_0x3b9a61[_0x4c274d(0x46b)][_0x4c274d(0x1f2)])<0x0)return![];var _0x34fdf5;if(_0x3b9a61[_0x51e3b4][_0x4c274d(0x2f2)]==0x4)_0x34fdf5=_0x4c274d(0x283);else{if(_0x3b9a61[_0x51e3b4][_0x4c274d(0x2f2)]==0x0){if(is_null(_0x3b9a61[_0x51e3b4]['log'][_0x4c274d(0x57e)]))_0x34fdf5=_0x4c274d(0xd9);else _0x34fdf5='Completed\x20(with\x20deviation)';}else _0x34fdf5=_0x4c274d(0x509);}if(_0x490994[_0x4c274d(0x2aa)](_0x34fdf5)<0x0)return![];if(_0x5c477d[_0x4c274d(0x2aa)](_0x3b9a61[_0x51e3b4]['workstation'])<0x0)return![];if(_0x5822d2['indexOf'](_0x3b9a61[_0x51e3b4][_0x4c274d(0x5f1)]['entry_by'])<0x0)return![];return!![];}function pass_disruption_filter_criteria(_0x15f7c5,_0x585d64,_0x527c1d='',_0x4e50de='',_0x4d84d8='',_0x30213b='',_0x4cdeda=''){var _0x19e015=_0x390981,_0x4191b8=get_multi_selected_values(_0x4cdeda),_0x48bf4a=get_multi_selected_values(_0x527c1d),_0x3ea21b=get_multi_selected_values(_0x4e50de),_0x45c0b8=get_multi_selected_values(_0x4d84d8),_0x327bf4=get_multi_selected_values(_0x30213b);if(_0x4191b8[_0x19e015(0x2aa)](decode_date(_0x15f7c5['start_time'],0x2))<0x0)return![];if(_0x45c0b8['indexOf'](_0x15f7c5[_0x19e015(0x15a)])<0x0)return![];if(_0x327bf4[_0x19e015(0x2aa)](_0x15f7c5[_0x19e015(0x29a)])<0x0)return![];return!![];}function get_multi_selected_values(_0xb8467c){var _0x131f19=_0x390981;if(_0xb8467c=='')return[];var _0x3d2632=document[_0x131f19(0x610)](_0xb8467c),_0x41e11f=[];for(var _0x196877=0x0;_0x196877<_0x3d2632[_0x131f19(0x2bb)];_0x196877++){if(_0x3d2632[_0x196877][_0x131f19(0x423)]==!![])_0x41e11f[_0x131f19(0x5a8)](_0x3d2632[_0x196877][_0x131f19(0x602)]);}return _0x41e11f;}async function initialize_realtime_analytics_section(){var _0x1bf081=_0x390981;await reset_sections(),await reset_canvases();var _0x302848=document[_0x1bf081(0x610)](_0x1bf081(0x2c5)),_0x35376f=document['getElementById'](_0x1bf081(0x616));_0x302848[_0x1bf081(0x1fc)]=_0x1bf081(0x19c),_0x35376f[_0x1bf081(0x1fc)]='realtime_completed_jobs_default',set_realtime_chart_visiblity(),document['getElementById'](_0x1bf081(0x40a))[_0x1bf081(0x214)][_0x1bf081(0x138)]=_0x1bf081(0x608),_0x302848['onchange']=function(){set_realtime_chart_visiblity();},_0x35376f[_0x1bf081(0x3ab)]=function(){set_realtime_chart_visiblity();},fetch_realtime_analytics_data_btn[_0x1bf081(0x49a)]=async function(){var _0x37d1f1=_0x1bf081;if(_0x37d1f1(0x586)===_0x37d1f1(0x3b8)){const _0x1d0fdf=_0x568c5a(_0x50137e[_0x102212]);_0x11c56f[_0x37d1f1(0x5a8)](_0x1d0fdf);}else{if(gl_user_permission[_0x37d1f1(0x464)]==0x1||gl_user_permission[section_permission_list[_0x37d1f1(0xf3)]]==0x1){if(_0x37d1f1(0x24c)===_0x37d1f1(0x24c)){var _0xc4681a=new Date(),_0x3fbf66=new Date();_0xc4681a[_0x37d1f1(0x388)](0x0),_0xc4681a[_0x37d1f1(0x381)](0x0),_0xc4681a[_0x37d1f1(0x57d)](0x0),_0xc4681a=firebase[_0x37d1f1(0x4fc)][_0x37d1f1(0xef)][_0x37d1f1(0x28e)](_0xc4681a),_0x3fbf66[_0x37d1f1(0x388)](0x17),_0x3fbf66['setMinutes'](0x3b),_0x3fbf66['setSeconds'](0x3b),_0x3fbf66=firebase['firestore'][_0x37d1f1(0xef)][_0x37d1f1(0x28e)](_0x3fbf66);try{if(_0x37d1f1(0x4a3)!==_0x37d1f1(0x4a3)){_0x6d6366['push'](_0x3df1c3);return;}else{start_loading();const _0x5740a6=functions[_0x37d1f1(0x40e)]('download_realtime_analytics_data');gl_analytics_records_list=(await _0x5740a6({'start_date':_0xc4681a,'end_date':_0x3fbf66}))[_0x37d1f1(0x3f9)],await reset_canvases();var _0x11d3c3=document[_0x37d1f1(0x610)](_0x37d1f1(0x107));empty_container_byReference(_0x11d3c3);let _0x167788=document[_0x37d1f1(0x48c)](_0x37d1f1(0x2f5));_0x167788['className']='table\x20table-responsive\x20table-striped\x20table-bordered\x20wrap\x20display\x20stripe\x20row-border',_0x167788[_0x37d1f1(0x214)]=_0x37d1f1(0x572),_0x167788['id']=_0x37d1f1(0x344),_0x11d3c3['appendChild'](_0x167788),await process_realtime_chart_data(gl_analytics_records_list),await render_table_job_records(gl_analytics_records_list,_0x167788['id']),stop_loading();}}catch(_0x37fd21){if(_0x37d1f1(0x343)!==_0x37d1f1(0x343)){if(new _0x31877d()>=_0x268df5)_0x57e6b8['getElementById']('loading_modal_footer')[_0x37d1f1(0x214)][_0x37d1f1(0x138)]='block';}else return display_error(_0x37fd21[_0x37d1f1(0x286)]),![];}return set_realtime_chart_visiblity(),document[_0x37d1f1(0x610)](_0x37d1f1(0x40a))[_0x37d1f1(0x214)][_0x37d1f1(0x138)]=_0x37d1f1(0x43b),!![];}else{if(_0x245125[_0x37d1f1(0x2df)][_0x2e4795][_0x37d1f1(0x2df)][0x0]['childNodes'][0x1][_0x37d1f1(0x1fc)]!=='')_0x395a69[_0x37d1f1(0x5a8)](_0x3b6785[_0x37d1f1(0x2df)][_0x13ddc5][_0x37d1f1(0x2df)][0x0]['childNodes'][0x1][_0x37d1f1(0x1fc)]);}}else return display_error(_0x37d1f1(0x4cb)),![];}};}function reset_canvases(){var _0x323971=_0x390981,_0x1d710e=document[_0x323971(0x610)](_0x323971(0x59a)),_0x45ab64=document['getElementById'](_0x323971(0x3bd));empty_container_byReference(_0x1d710e),empty_container_byReference(_0x45ab64);for(var _0x2b2f70=0x0;_0x2b2f70<pending_jobs_charts_list[_0x323971(0x2bb)];_0x2b2f70++){if(_0x323971(0x422)===_0x323971(0x422)){var _0x212d1a=document[_0x323971(0x48c)]('canvas');_0x212d1a['id']=pending_jobs_charts_list[_0x2b2f70],_0x212d1a[_0x323971(0xdc)]=_0x323971(0x260),_0x212d1a[_0x323971(0x214)][_0x323971(0x138)]=_0x323971(0x608),_0x1d710e[_0x323971(0x357)](_0x212d1a);}else _0x5e8bde[_0x3ac1a9]!=_0x323971(0x46b)&&(_0x46ba18[_0x382ad6[_0x8152af]]={},_0x3fe71f[_0x276343[_0x43bd6d]]['cycle_time']=_0x5a1231[_0x50d897[_0x4078d0]]['cycle_time'],_0x269877[_0x1d671e[_0xdaf3b]][_0x323971(0x5f2)]=_0x61c2dd[_0xfcbf18[_0x2eca0a]][_0x323971(0x5f2)]);}for(var _0x2b2f70=0x0;_0x2b2f70<completed_jobs_charts_list[_0x323971(0x2bb)];_0x2b2f70++){var _0x212d1a=document[_0x323971(0x48c)](_0x323971(0x19d));_0x212d1a['id']=completed_jobs_charts_list[_0x2b2f70],_0x212d1a[_0x323971(0xdc)]=_0x323971(0x3f0),_0x212d1a[_0x323971(0x214)][_0x323971(0x138)]=_0x323971(0x608),_0x45ab64[_0x323971(0x357)](_0x212d1a);}}function process_realtime_chart_data(_0xa13dd1){var _0x4f18df=_0x390981,_0x5586a3=[];for(var _0x38de5e=0x0;_0x38de5e<_0xa13dd1[_0x4f18df(0x2bb)];_0x38de5e++){_0x5586a3=_0x5586a3[_0x4f18df(0x472)](_0xa13dd1[_0x38de5e]['Basic\x20Info'][_0x4f18df(0x167)]),_0x5586a3=Array[_0x4f18df(0x39f)](new Set(_0x5586a3));}var _0x131a84={'Pending\x20Jobs':new Array(_0x5586a3[_0x4f18df(0x2bb)])['fill'](0x0)},_0x752ca6={},_0x14e6bb={};for(var _0x38de5e=0x0;_0x38de5e<_0xa13dd1['length'];_0x38de5e++){if(_0x4f18df(0x4c8)!=='CUBVF')return _0x1aae46(_0x4f18df(0x2fc)),![];else{if(_0xa13dd1[_0x38de5e][_0x4f18df(0x46b)][_0x4f18df(0x2f2)]>0x0&&_0xa13dd1[_0x38de5e][_0x4f18df(0x46b)]['status']<0x4){var _0x1c96c2=_0xa13dd1[_0x38de5e]['Basic\x20Info'][_0x4f18df(0x482)];if(is_null(_0x1c96c2))_0x1c96c2=_0xa13dd1[_0x38de5e][_0x4f18df(0x46b)]['op_order'][0x0];var _0x2364d7=_0xa13dd1[_0x38de5e][_0x4f18df(0x46b)]['model'],_0x690362=_0xa13dd1[_0x38de5e][_0x1c96c2][_0x4f18df(0x2f2)];_0x131a84['Pending\x20Jobs'][_0x5586a3[_0x4f18df(0x2aa)](_0x1c96c2)]+=0x1;if(_0x752ca6[_0x2364d7])_0x752ca6[_0x2364d7][_0x5586a3['indexOf'](_0x1c96c2)]+=0x1;else _0x752ca6[_0x2364d7]=new Array(_0x5586a3[_0x4f18df(0x2bb)])['fill'](0x0),_0x752ca6[_0x2364d7][_0x5586a3[_0x4f18df(0x2aa)](_0x1c96c2)]+=0x1;if(_0x14e6bb[status_list[_0x690362]])_0x14e6bb[status_list[_0x690362]][_0x5586a3['indexOf'](_0x1c96c2)]+=0x1;else _0x14e6bb[status_list[_0x690362]]=new Array(_0x5586a3[_0x4f18df(0x2bb)])['fill'](0x0),_0x14e6bb[status_list[_0x690362]][_0x5586a3[_0x4f18df(0x2aa)](_0x1c96c2)]+=0x1;}}}var _0x47a68e={'Completed\x20Jobs':new Array(_0x5586a3[_0x4f18df(0x2bb)])[_0x4f18df(0x3a6)](0x0)},_0x319afd={},_0x165ba7={},_0x5e1028={},_0x206a14={},_0x4eb18a=new Date();for(var _0x38de5e=0x0;_0x38de5e<_0xa13dd1[_0x4f18df(0x2bb)];_0x38de5e++){if(_0x4f18df(0x2c1)!==_0x4f18df(0x27e)){var _0x4d6963=_0xa13dd1[_0x38de5e][_0x4f18df(0x46b)][_0x4f18df(0x167)];for(var _0x4d8f41=0x0;_0x4d8f41<_0x4d6963['length'];_0x4d8f41++){if((_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x2f2)]==0x0||_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]]['status']==0x4)&&(!is_null(_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x5f1)][_0x4f18df(0x3a3)])&&is_same_day(decode_date(_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x5f1)][_0x4f18df(0x4d8)],0x1),_0x4eb18a)||!is_null(_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x5f1)][_0x4f18df(0x604)])&&is_same_day(decode_date(_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x5f1)][_0x4f18df(0x502)],0x1),_0x4eb18a))){var _0x474b90=_0x4d6963[_0x4d8f41],_0x55558f=_0xa13dd1[_0x38de5e]['Basic\x20Info'][_0x4f18df(0x1f2)],_0x4106ea=_0xa13dd1[_0x38de5e][_0x474b90]['status'],_0x48f147=_0xa13dd1[_0x38de5e][_0x474b90]['workstation'],_0x49670d=is_same_day(decode_date(_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]]['log'][_0x4f18df(0x4d8)],0x1),_0x4eb18a)?_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]]['log'][_0x4f18df(0x3a3)]:_0xa13dd1[_0x38de5e][_0x4d6963[_0x4d8f41]][_0x4f18df(0x5f1)][_0x4f18df(0x604)];_0x47a68e[_0x4f18df(0x4d0)][_0x5586a3['indexOf'](_0x474b90)]+=0x1;if(_0x319afd[_0x55558f])_0x319afd[_0x55558f][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;else{if(_0x4f18df(0x5eb)!=='uHEeN'){if(_0x1f81cc(_0x921bf6[_0x3e44bf][_0x4f18df(0x5f1)][_0x4f18df(0x57e)]))_0x4229a0=_0x4f18df(0xd9);else _0x1dd862=_0x4f18df(0x4b5);}else _0x319afd[_0x55558f]=new Array(_0x5586a3[_0x4f18df(0x2bb)])[_0x4f18df(0x3a6)](0x0),_0x319afd[_0x55558f][_0x5586a3['indexOf'](_0x474b90)]+=0x1;}if(_0x165ba7[status_list[_0x4106ea]])_0x165ba7[status_list[_0x4106ea]][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;else _0x165ba7[status_list[_0x4106ea]]=new Array(_0x5586a3[_0x4f18df(0x2bb)])[_0x4f18df(0x3a6)](0x0),_0x165ba7[status_list[_0x4106ea]][_0x5586a3['indexOf'](_0x474b90)]+=0x1;if(_0x5e1028[_0x48f147])_0x5e1028[_0x48f147][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;else _0x5e1028[_0x48f147]=new Array(_0x5586a3[_0x4f18df(0x2bb)])['fill'](0x0),_0x5e1028[_0x48f147][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;if(_0x206a14[_0x49670d])_0x206a14[_0x49670d][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;else{if(_0x4f18df(0x4fb)!=='RQcWV'){if(_0x27018e[_0x4f18df(0x2aa)](_0x336520)>=0x0)return!![];if(typeof _0x53b6c2=='string'&&_0xa37424!='')return![];else{if(_0x324f57==''||_0x3969db(_0x1ea9ba)&&_0x479874[_0x4f18df(0x1f4)](_0x190ce2)[_0x4f18df(0x2bb)]<=0x2&&_0x154f0d[_0x4f18df(0xe4)](_0x599c01)[_0x4f18df(0x2bb)]==0x0&&_0x4903c2[_0x4f18df(0x3e1)]==_0x35a264||_0x40cae0==_0x5e339e||_0x998288==![]||_0x2f0140==[])return!![];else return![];}}else _0x206a14[_0x49670d]=new Array(_0x5586a3[_0x4f18df(0x2bb)])[_0x4f18df(0x3a6)](0x0),_0x206a14[_0x49670d][_0x5586a3[_0x4f18df(0x2aa)](_0x474b90)]+=0x1;}}}}else _0x5ef8df['getElementById'](_0x4f18df(0x4c9))[_0x4f18df(0x1fc)]='',_0x4f48d8['getElementById']('rejection_modal_message')[_0x4f18df(0x602)]='Do\x20you\x20want\x20to\x20Reject\x20the\x20current\x20part?',_0x4b049b[_0x4f18df(0x49a)]=function(){var _0x52b533=_0x4f18df,_0x5d6682=_0x3a38b4[_0x52b533(0x610)](_0x52b533(0x4c9))[_0x52b533(0x1fc)];_0x530ddb(_0x400cd5,_0x5766d9,_0x5d6682);},_0x5d2d85(_0x4f18df(0x12b))[_0x4f18df(0x60d)]();}var _0x9f6134=document[_0x4f18df(0x610)](_0x4f18df(0x59a));_0x9f6134['style']['height']=_0x5586a3[_0x4f18df(0x2bb)]*0xa+0xc+'vh';var _0x53e7fc=document[_0x4f18df(0x610)](_0x4f18df(0x3bd));_0x53e7fc['style']['height']=_0x5586a3[_0x4f18df(0x2bb)]*0xa+0xc+'vh',render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x131a84),_0x4f18df(0x19c)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x752ca6),_0x4f18df(0x222)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x14e6bb),_0x4f18df(0x3e2)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x47a68e),_0x4f18df(0x1bc)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x319afd),_0x4f18df(0x496)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x165ba7),_0x4f18df(0x311)),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x5e1028),'realtime_completed_jobs_workstation'),render_realtime_chart(_0x5586a3,convert_data_to_chart_dataset(_0x206a14),_0x4f18df(0x5a7));}function set_realtime_chart_visiblity(){var _0x154962=_0x390981;for(var _0x34e4ff=0x0;_0x34e4ff<pending_jobs_charts_list[_0x154962(0x2bb)];_0x34e4ff++){if(_0x154962(0x36a)==='Oeyly')document[_0x154962(0x610)](pending_jobs_charts_list[_0x34e4ff])[_0x154962(0x214)][_0x154962(0x138)]='none';else{let _0x5da4bf=_0x5c881e[_0x154962(0x48c)]('p');_0x5da4bf[_0x154962(0x101)]=_0x154962(0x621),_0x5da4bf[_0x154962(0x602)]='Current\x20Operation';let _0xa99b45=_0x25ecf3['createElement']('a');_0xa99b45['className']=_0x154962(0x510),_0xa99b45[_0x154962(0x602)]=_0x59a468,_0xa99b45[_0x154962(0x49a)]=function(){var _0x376a54=_0x154962;_0x1c972c[_0x376a54(0x1fc)]=_0x194bee,_0x30561c(_0xe6ca37,_0x562c23,_0x526c05,_0x1d054a);},_0x1e3b19=_0x5e0d6f[_0x154962(0x48c)]('hr'),_0x515eef['className']='col-sm-12\x20text-center',_0x4e5299[_0x154962(0x214)]=_0x154962(0x5da),_0x167195['appendChild'](_0x5da4bf),_0x25a9d1[_0x154962(0x357)](_0xa99b45),_0x45e066[_0x154962(0x357)](_0xe9e024);}}var _0x936523=document[_0x154962(0x610)](_0x154962(0x2c5))['value'];document['getElementById'](_0x936523)[_0x154962(0x214)][_0x154962(0x138)]='block';for(var _0x34e4ff=0x0;_0x34e4ff<completed_jobs_charts_list[_0x154962(0x2bb)];_0x34e4ff++){_0x154962(0x36e)===_0x154962(0x30d)?_0x2fefca[_0x2e460e[_0x5b0f61]][_0x154962(0x5f1)]['entry_dt']=_0x553e62[_0x4eeb60[_0x39d4a9]][_0x154962(0x5f1)][_0x154962(0x4d8)]:document[_0x154962(0x610)](completed_jobs_charts_list[_0x34e4ff])[_0x154962(0x214)][_0x154962(0x138)]=_0x154962(0x608);}var _0x2e7559=document[_0x154962(0x610)]('completed_jobs_breakdown_select')[_0x154962(0x1fc)];document['getElementById'](_0x2e7559)['style'][_0x154962(0x138)]=_0x154962(0x43b);}function formatLabel(_0x54f0de,_0xdf43e6=0xa){var _0x5bb498=_0x390981,_0x16c928=[],_0x7241eb=_0x54f0de[_0x5bb498(0x1f6)]('\x20'),_0x54b123='';return _0x7241eb[_0x5bb498(0x4e4)](function(_0x2512a4,_0x54d540){var _0x1a26ff=_0x5bb498;if(_0x54b123[_0x1a26ff(0x2bb)]>0x0){var _0x5430b7=_0x54b123+'\x20'+_0x2512a4;if(_0x5430b7[_0x1a26ff(0x2bb)]>_0xdf43e6)_0x16c928['push'](_0x54b123),_0x54b123='';else{if(_0x1a26ff(0x55b)!=='BqzWh')_0x5e4a5e['push'](_0x38a532[_0x32ec52][_0x13b676]['workstation']);else{if(_0x54d540==_0x7241eb['length']-0x1){_0x16c928[_0x1a26ff(0x5a8)](_0x5430b7);return;}else{_0x54b123=_0x5430b7;return;}}}}if(_0x54d540==_0x7241eb[_0x1a26ff(0x2bb)]-0x1){if(_0x1a26ff(0x2bc)!==_0x1a26ff(0x2bc))_0x225707[_0x1a26ff(0x1fc)]=_0x3df994[_0x1a26ff(0xdc)],_0x5bbb80[_0x1a26ff(0x1fc)]=_0x1bedd7[_0x1a26ff(0x435)],_0x55747f['childNodes'][0x6][_0x1a26ff(0x1fc)]=_0x48b0cf['value1'],_0x3d339b[_0x1a26ff(0x2df)][0x7][_0x1a26ff(0x1fc)]=_0x94f923['value2'];else{_0x16c928['push'](_0x2512a4);return;}}_0x2512a4[_0x1a26ff(0x2bb)]<_0xdf43e6?_0x54b123=_0x2512a4:_0x16c928[_0x1a26ff(0x5a8)](_0x2512a4);}),_0x16c928;}function is_same_day(_0x1b508e,_0x215578){var _0x282e07=_0x390981;if(_0x1b508e[_0x282e07(0x59c)]()==_0x215578['getFullYear']()&&_0x1b508e[_0x282e07(0x1a4)]()==_0x215578[_0x282e07(0x1a4)]()&&_0x1b508e[_0x282e07(0x56d)]()==_0x215578[_0x282e07(0x56d)]())return!![];else return![];}function convert_data_to_chart_dataset(_0x217fe9){var _0x14b60f=_0x390981,_0xec78f5=[],_0x929d2a=Object['keys'](_0x217fe9);for(var _0x247962=0x0;_0x247962<_0x929d2a[_0x14b60f(0x2bb)];_0x247962++){if(_0x14b60f(0x389)!==_0x14b60f(0x389))_0x13d6d3(_0x365055['id']);else{var _0x1d3687={'label':_0x929d2a[_0x247962],'data':_0x217fe9[_0x929d2a[_0x247962]],'stack':0x1,'maxBarThickness':0x32,'barThickness':_0x14b60f(0x31d),'backgroundColor':_0x929d2a[_0x14b60f(0x2bb)]<=indexcolors[_0x14b60f(0x2bb)]?indexcolors[_0x247962]:_0x14b60f(0x18f)};_0xec78f5[_0x14b60f(0x5a8)](_0x1d3687);}}return _0xec78f5;}function render_realtime_chart(_0x4287ce,_0x32885d,_0x50f799,_0x1558ab=_0x390981(0x479)){var _0x486577=_0x390981,_0x47d757=[];for(var _0x491302=0x0;_0x491302<_0x4287ce[_0x486577(0x2bb)];_0x491302++)_0x47d757[_0x491302]=formatLabel(_0x4287ce[_0x491302]);var _0x248514={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x1558ab}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![]}]},'legend':{'display':!![]}},_0x2f8e6d=document[_0x486577(0x610)](_0x50f799)[_0x486577(0x19e)]('2d'),_0x50da8d=new Chart(_0x2f8e6d,{'type':_0x486577(0x35e),'data':{'labels':_0x47d757,'datasets':_0x32885d},'options':_0x248514});}async function initialize_daily_operation_analytics_section(){var _0x592655=_0x390981;reset_sections(),document['getElementById']('daily_analytics_start_datepicker')['value']='',document[_0x592655(0x610)](_0x592655(0x117))[_0x592655(0x1fc)]='',empty_container(_0x592655(0x3ef)),document[_0x592655(0x610)]('daily_analytics_main_content')['style'][_0x592655(0x138)]=_0x592655(0x608),$(_0x592655(0x33c))[_0x592655(0x4a2)]({'uiLibrary':_0x592655(0x333)}),$(_0x592655(0x1a8))[_0x592655(0x4a2)]({'uiLibrary':_0x592655(0x333)});if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x411034=Object[_0x592655(0xe4)](gl_current_operations_list);_0x411034=_0x411034['sort']();var _0x33db9d=[_0x592655(0x518)];for(var _0x2bebda=0x0;_0x2bebda<_0x411034[_0x592655(0x2bb)];_0x2bebda++){if(_0x592655(0x601)==='ZoKph')_0x739e3e['push'](_0x187e55[_0x41e326][_0x5426df][_0x592655(0x15a)]);else{if(gl_user_permission['admin']==0x1||gl_user_permission[_0x411034[_0x2bebda]]>=0x1)_0x33db9d['push'](_0x411034[_0x2bebda]);}}set_select_options(document[_0x592655(0x610)]('daily_analytics_operation_select'),_0x33db9d),fetch_daily_analytics_data_btn['onclick']=async function(){var _0x18f94b=_0x592655,_0x58451c=document[_0x18f94b(0x610)](_0x18f94b(0x192))[_0x18f94b(0x1fc)],_0x2d0221=document[_0x18f94b(0x610)](_0x18f94b(0x117))[_0x18f94b(0x1fc)];gl_analytics_operation_name=document[_0x18f94b(0x610)]('daily_analytics_operation_select')[_0x18f94b(0x1fc)];if(is_null(_0x58451c)||is_null(_0x2d0221)||is_null(gl_analytics_operation_name))return display_error(_0x18f94b(0xe2)),![];else _0x58451c=new Date(_0x58451c),_0x2d0221=new Date(_0x2d0221);if(_0x2d0221-_0x58451c<0x0){if(_0x18f94b(0x40c)==='sMgIE')return display_error(_0x18f94b(0x111)),![];else{if(_0x41d814[_0x40e664][_0x18f94b(0x423)]==!![])_0x21a1cc[_0x18f94b(0x5a8)](_0x4b249a[_0x1b2fbd]['innerText']);}}if(gl_analytics_operation_name==_0x18f94b(0x518)){if('nEhdD'!=='nEhdD')_0x5dd300[_0x18f94b(0x5a8)](_0x17e9a0[_0xc501c9]['reason']);else return display_error(_0x18f94b(0x5ce)),![];}if(gl_user_permission[_0x18f94b(0x464)]!=0x1&&(gl_user_permission[gl_analytics_operation_name]<0x1||gl_user_permission[section_permission_list[_0x18f94b(0xf3)]]!=0x1)){if('iQgpA'===_0x18f94b(0x4b1))return display_error(_0x18f94b(0x4cb)),![];else{if(_0x4da545(_0x1ccf19[_0x2b1e19],_0x5a9444,_0x18f94b(0x619),_0x18f94b(0x277),'daily_analytics_filter_workstation','daily_analytics_filter_user',_0x18f94b(0x461))){_0x321982[_0x18f94b(0x5a8)](_0xf30290[_0x3cbe0a]);var _0x146802=_0x4cb2fa(_0x237fd5[_0x11b888][_0x18f94b(0x617)],0x1),_0x202978=_0x146802[_0x18f94b(0x56d)]()+'-'+_0x1df916[_0x146802[_0x18f94b(0x1a4)]()][_0x18f94b(0x250)](0x0,0x3)+'-'+_0x146802[_0x18f94b(0x59c)]();if(_0x52be52[_0x18f94b(0x2aa)](_0x202978)<0x0)_0x2833d6[_0x18f94b(0x5a8)](_0x202978);}}}_0x58451c['setHours'](0x0),_0x58451c[_0x18f94b(0x381)](0x0),_0x58451c[_0x18f94b(0x57d)](0x0),_0x2d0221['setHours'](0x17),_0x2d0221[_0x18f94b(0x381)](0x3b),_0x2d0221['setSeconds'](0x3b);const _0x13eedd=firebase[_0x18f94b(0x4fc)]['Timestamp']['fromDate'](_0x58451c),_0x4ff992=firebase[_0x18f94b(0x4fc)][_0x18f94b(0xef)][_0x18f94b(0x28e)](_0x2d0221);try{start_loading();const _0x1697c3=functions[_0x18f94b(0x40e)](_0x18f94b(0x3b4)),_0x40ca59=(await _0x1697c3({'start_date':_0x13eedd,'end_date':_0x4ff992,'operation_name':gl_analytics_operation_name}))[_0x18f94b(0x3f9)];gl_analytics_records_list=_0x40ca59[_0x18f94b(0x4df)],gl_analytics_disruption_records_list=_0x40ca59['disruption_records'];var _0x3ef2fc=document[_0x18f94b(0x610)](_0x18f94b(0x1dd));empty_container_byReference(_0x3ef2fc);let _0x58e405=document[_0x18f94b(0x48c)](_0x18f94b(0x2f5));_0x58e405[_0x18f94b(0x101)]=_0x18f94b(0x46d),_0x58e405[_0x18f94b(0x214)]=_0x18f94b(0x572),_0x58e405['id']=_0x18f94b(0x21a),_0x3ef2fc[_0x18f94b(0x357)](_0x58e405),await process_daily_analytics_data(gl_analytics_records_list,gl_analytics_disruption_records_list,gl_analytics_operation_name),await render_table_job_records(gl_analytics_records_list,_0x58e405['id'],[gl_analytics_operation_name]),document['getElementById']('daily_analytics_main_content')['style'][_0x18f94b(0x138)]=_0x18f94b(0x43b),stop_loading();}catch(_0x574bc3){return display_error(_0x574bc3['message']),![];}};}function process_daily_analytics_data(_0x3647db,_0x5c69cf,_0x4cad03){var _0x1347ae=_0x390981;document[_0x1347ae(0x610)]('daily_analytics_breakdown_select')[_0x1347ae(0x1fc)]=_0x1347ae(0x3e0);var _0xe2acdf=[],_0x12f4cf=[],_0x534897=[],_0x52fa55=[],_0x1c1e80=[];for(var _0x8668f3=0x0;_0x8668f3<_0x3647db[_0x1347ae(0x2bb)];_0x8668f3++){_0xe2acdf[_0x1347ae(0x5a8)](decode_date(_0x3647db[_0x8668f3][_0x4cad03][_0x1347ae(0x5f1)][_0x1347ae(0x4d8)],0x2)),_0x12f4cf[_0x1347ae(0x5a8)](_0x3647db[_0x8668f3][_0x1347ae(0x46b)]['model']),_0x52fa55['push'](_0x3647db[_0x8668f3][_0x4cad03][_0x1347ae(0x15a)]),_0x1c1e80[_0x1347ae(0x5a8)](_0x3647db[_0x8668f3][_0x4cad03][_0x1347ae(0x5f1)][_0x1347ae(0x3a3)]);if(_0x3647db[_0x8668f3][_0x4cad03]['status']==0x4)_0x534897[_0x1347ae(0x5a8)](_0x1347ae(0x283));else{if(_0x3647db[_0x8668f3][_0x4cad03][_0x1347ae(0x2f2)]==0x0){if(is_null(_0x3647db[_0x8668f3][_0x4cad03][_0x1347ae(0x5f1)][_0x1347ae(0x57e)]))_0x534897[_0x1347ae(0x5a8)]('Completed');else _0x534897[_0x1347ae(0x5a8)]('Completed\x20(with\x20deviation)');}else _0x534897[_0x1347ae(0x5a8)](_0x1347ae(0x509));}}for(var _0x8668f3=0x0;_0x8668f3<_0x5c69cf['length'];_0x8668f3++){if('eYIig'!==_0x1347ae(0x34a))_0xe2acdf['push'](decode_date(_0x5c69cf[_0x8668f3][_0x1347ae(0x617)],0x2)),_0x52fa55[_0x1347ae(0x5a8)](_0x5c69cf[_0x8668f3]['workstation']),_0x1c1e80[_0x1347ae(0x5a8)](_0x5c69cf[_0x8668f3]['start_user']);else{var _0x2e4794=_0x1b65d8(_0x1930ff[_0x1c8898][_0x572514][_0x1347ae(0x5f1)]['entry_dt'],0x1),_0x2222d0=_0x2e4794[_0x1347ae(0x4cd)]()+':00\x20-\x20'+(_0x2e4794[_0x1347ae(0x4cd)]()+0x1)+_0x1347ae(0x513),_0x36bbef=_0x5ae7fe[_0x1347ae(0x2aa)](_0x2222d0),_0x38a36d=_0x4c47ee[_0xd5b0a0][_0x5bff96][_0x1347ae(0x15a)];_0x13f4e1[_0x38a36d][_0x36bbef]+=0x1;}}_0xe2acdf=Array[_0x1347ae(0x39f)](new Set(_0xe2acdf))['sort'](),_0x12f4cf=Array[_0x1347ae(0x39f)](new Set(_0x12f4cf))['sort'](),_0x534897=Array['from'](new Set(_0x534897))[_0x1347ae(0x57a)](),_0x52fa55=Array[_0x1347ae(0x39f)](new Set(_0x52fa55))[_0x1347ae(0x57a)](),_0x1c1e80=Array['from'](new Set(_0x1c1e80))[_0x1347ae(0x57a)](),empty_container(_0x1347ae(0x461)),empty_container(_0x1347ae(0x619)),empty_container(_0x1347ae(0x277)),empty_container('daily_analytics_filter_workstation'),empty_container('daily_analytics_filter_user'),set_select_options(document['getElementById'](_0x1347ae(0x461)),_0xe2acdf),set_select_options(document[_0x1347ae(0x610)]('daily_analytics_filter_model'),_0x12f4cf),set_select_options(document[_0x1347ae(0x610)](_0x1347ae(0x277)),_0x534897),set_select_options(document[_0x1347ae(0x610)](_0x1347ae(0x20d)),_0x52fa55),set_select_options(document[_0x1347ae(0x610)]('daily_analytics_filter_user'),_0x1c1e80),$(_0x1347ae(0x41c))[_0x1347ae(0x1ae)]('refresh'),$(_0x1347ae(0x4ff))['selectpicker'](_0x1347ae(0x23d)),$(_0x1347ae(0x38c))['selectpicker'](_0x1347ae(0x23d)),$(_0x1347ae(0x4db))[_0x1347ae(0x1ae)](_0x1347ae(0x23d)),$(_0x1347ae(0x269))['selectpicker'](_0x1347ae(0x23d)),$(_0x1347ae(0x490))[_0x1347ae(0x1ae)](_0x1347ae(0x23d));var _0x3deca3=document['getElementById'](_0x1347ae(0x3a9));_0x3deca3[_0x1347ae(0x214)]['height']=0x32+'vh';var _0xea6e24=document[_0x1347ae(0x610)](_0x1347ae(0x1ad)),_0x325cd8=convert_data_to_daily_analytics_chart_dataset(_0x3647db,_0x4cad03);render_daily_analytics_graph(_0x3deca3,_0x325cd8,_0x4cad03,_0xea6e24[_0x1347ae(0x1fc)]),_0xea6e24[_0x1347ae(0x3ab)]=function(){var _0x478337=_0x1347ae;if('FBSDi'!==_0x478337(0x414)){var _0x3d4a07={};if(_0xea6e24[_0x478337(0x1fc)]==_0x478337(0x108)||_0xea6e24[_0x478337(0x1fc)]=='daily_analytics_graph_disruption_count')_0x3d4a07=convert_disruption_data_to_daily_analytics_chart_dataset(_0x5c69cf,_0x4cad03,_0xea6e24[_0x478337(0x1fc)]);else _0x3d4a07=convert_data_to_daily_analytics_chart_dataset(_0x3647db,_0x4cad03,_0xea6e24[_0x478337(0x1fc)]);render_daily_analytics_graph(_0x3deca3,_0x3d4a07,_0x4cad03,_0xea6e24['value']);}else{_0x5814aa=_0x289db5['dataset'],_0x2ca379=_0x486472[_0x478337(0x203)];var _0x5af9a1='Number\x20of\x20Jobs\x20Per\x20Day\x20('+_0x3b9755+')';if(_0x20a581==_0x478337(0x3a4))_0x5af9a1=_0x478337(0x1db);if(_0x3bf108==_0x478337(0x108))_0x5af9a1=_0x478337(0x47a)+_0x1f3f3a+_0x478337(0x39e);if(_0x316edd==_0x478337(0x4f3))_0x5af9a1='#\x20Disruptions\x20Reported\x20for\x20'+_0x2a2f16;_0x147262(_0x1fd53e);var _0x478371=_0x5ba412[_0x478337(0x48c)](_0x478337(0x19d));_0x478371['id']='daily_analytics_charts_canvas',_0x45d8a7[_0x478337(0x357)](_0x478371);var _0x59cda3=_0x478371[_0x478337(0x19e)]('2d'),_0x495f83=[];for(var _0x414950=0x0;_0x414950<_0x29457f[_0x478337(0x2bb)];_0x414950++)_0x495f83[_0x414950]=_0x2c63e8(_0x5ec800[_0x414950]);var _0x1c8ec3={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x5af9a1}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':_0x478337(0x31d)}]},'legend':{'display':!![]}},_0x5e2c47=new _0x41c9ad(_0x59cda3,{'type':'bar','data':{'labels':_0x495f83,'datasets':_0x66df73},'options':_0x1c8ec3});}};var _0x48d777=document[_0x1347ae(0x610)]('daily_analytics_filter_container');return _0x48d777[_0x1347ae(0x3ab)]=function(){var _0x212dbd=_0x1347ae,_0x2c2a3d={};if(_0xea6e24[_0x212dbd(0x1fc)]==_0x212dbd(0x108)||_0xea6e24['value']==_0x212dbd(0x4f3))_0x2c2a3d=convert_disruption_data_to_daily_analytics_chart_dataset(_0x5c69cf,_0x4cad03,_0xea6e24[_0x212dbd(0x1fc)]);else _0x2c2a3d=convert_data_to_daily_analytics_chart_dataset(_0x3647db,_0x4cad03,_0xea6e24['value']);render_daily_analytics_graph(_0x3deca3,_0x2c2a3d,_0x4cad03,_0xea6e24[_0x212dbd(0x1fc)]);},!![];}function convert_data_to_daily_analytics_chart_dataset(_0x54c517=[],_0x4bb5a9,_0x443870='daily_analytics_graph_default'){var _0x1d9c2d=_0x390981,_0x45e30f=[],_0x346dac=[];for(var _0x4e48b4=0x0;_0x4e48b4<_0x54c517[_0x1d9c2d(0x2bb)];_0x4e48b4++){if(pass_filter_criteria(_0x54c517[_0x4e48b4],_0x4bb5a9,_0x1d9c2d(0x619),_0x1d9c2d(0x277),_0x1d9c2d(0x20d),_0x1d9c2d(0x345),_0x1d9c2d(0x461))){_0x45e30f[_0x1d9c2d(0x5a8)](_0x54c517[_0x4e48b4]);var _0x4edcc0=decode_date(_0x54c517[_0x4e48b4][_0x4bb5a9]['log'][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x4edcc0[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x4edcc0[_0x1d9c2d(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x4edcc0[_0x1d9c2d(0x59c)]();if(_0x346dac['indexOf'](_0x162d82)<0x0)_0x346dac['push'](_0x162d82);}}var _0x3a49c2={},_0x585d70=[];if(_0x443870=='daily_analytics_graph_default'){_0x585d70[0x0]=['#\x20of\x20Jobs'];for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac[_0x1d9c2d(0x2bb)])[_0x1d9c2d(0x3a6)](0x0);}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x1b9d5a[_0x1d9c2d(0x59c)](),_0x239bf0=_0x346dac['indexOf'](_0x162d82);_0x3a49c2[_0x585d70[0x0]][_0x239bf0]+=0x1;}}if(_0x443870=='daily_analytics_graph_model'){if(_0x1d9c2d(0x2ce)!==_0x1d9c2d(0x2ce)){let _0x3b978c=_0x3abe7b[_0x1d9c2d(0x48c)](_0x1d9c2d(0x20f));_0x3b978c[_0x1d9c2d(0x101)]=_0x1d9c2d(0x4cc);let _0x245810=_0x46871b['createElement']('div');_0x245810[_0x1d9c2d(0x101)]=_0x1d9c2d(0x1e9);let _0x325d19=_0x40c42e[_0x1d9c2d(0x48c)]('h5');_0x325d19[_0x1d9c2d(0x602)]=_0x1d9c2d(0x555),_0x325d19[_0x1d9c2d(0x101)]=_0x1d9c2d(0x624);let _0x54c68e=_0x229b90[_0x1d9c2d(0x48c)](_0x1d9c2d(0x627));_0x54c68e[_0x1d9c2d(0x4e7)]=_0x1d9c2d(0x483),_0x54c68e['maxLength']=_0x389ac4,_0x54c68e['className']=_0x1d9c2d(0x38e),_0x54c68e[_0x1d9c2d(0x590)]='Enter\x20Operation\x20Name',_0x245810[_0x1d9c2d(0x357)](_0x325d19),_0x245810['appendChild'](_0x54c68e);let _0x52fbde=_0x58ff3f['createElement'](_0x1d9c2d(0x20f));_0x52fbde[_0x1d9c2d(0x101)]='row\x20text-center\x20mt-3';let _0x1e64ce=_0xec5870[_0x1d9c2d(0x48c)]('a');_0x1e64ce['className']=_0x1d9c2d(0x284),_0x1e64ce[_0x1d9c2d(0x602)]=_0x1d9c2d(0x110),_0x1e64ce[_0x1d9c2d(0x49a)]=function(){_0x5590be(_0x4f7a46['id']);};let _0x518afe=_0x2c7813['createElement']('a');_0x518afe[_0x1d9c2d(0x101)]=_0x1d9c2d(0x284),_0x518afe['innerText']=_0x1d9c2d(0x44b),_0x518afe[_0x1d9c2d(0x49a)]=function(){_0x3d9863(_0x4f7a46['id']);},_0x52fbde[_0x1d9c2d(0x357)](_0x1e64ce),_0x52fbde['appendChild'](_0x518afe),_0x245810[_0x1d9c2d(0x357)](_0x52fbde);let _0x4f7a46=_0xaba675[_0x1d9c2d(0x48c)](_0x1d9c2d(0x20f));_0x4f7a46['className']=_0x1d9c2d(0x56a),_0x4f7a46['id']='operation_body'+_0x53112f,_0x3b978c[_0x1d9c2d(0x357)](_0x245810),_0x3b978c[_0x1d9c2d(0x357)](_0x4f7a46),_0x35b99a[_0x1d9c2d(0x357)](_0x3b978c),_0x19923c(_0x4f7a46['id']);}else{for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){if(_0x1d9c2d(0x548)!==_0x1d9c2d(0x5e1))_0x585d70[_0x1d9c2d(0x2aa)](_0x45e30f[_0x4e48b4][_0x1d9c2d(0x46b)][_0x1d9c2d(0x1f2)])<0x0&&_0x585d70[_0x1d9c2d(0x5a8)](_0x45e30f[_0x4e48b4][_0x1d9c2d(0x46b)][_0x1d9c2d(0x1f2)]);else{const _0x4b1f33=_0x1cf01b(_0x32d247[_0x1d9c2d(0x1f6)](':')[0x0]),_0x2de801=_0x1240be(_0x57c408[_0x1d9c2d(0x1f6)](':')[0x0]);return _0x4b1f33-_0x2de801;}}_0x585d70=_0x585d70[_0x1d9c2d(0x57a)]();for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac[_0x1d9c2d(0x2bb)])[_0x1d9c2d(0x3a6)](0x0);}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x1b9d5a['getFullYear'](),_0x239bf0=_0x346dac[_0x1d9c2d(0x2aa)](_0x162d82),_0x120a93=_0x45e30f[_0x4e48b4][_0x1d9c2d(0x46b)][_0x1d9c2d(0x1f2)];_0x3a49c2[_0x120a93][_0x239bf0]+=0x1;}}}if(_0x443870==_0x1d9c2d(0x3ca)){for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){var _0x2fd61c='';if(_0x45e30f[_0x4e48b4][_0x4bb5a9]['status']==0x4)_0x2fd61c=_0x1d9c2d(0x283);else{if(_0x45e30f[_0x4e48b4][_0x4bb5a9]['status']==0x0){if(_0x1d9c2d(0x29b)===_0x1d9c2d(0x2be)){var _0x285dd=_0x4f3e01[_0xb462ce[_0x438685]][_0x1af73d];if(_0x285dd['length']>_0x2bf01e)return _0x3f270f(_0x1d9c2d(0x11a)),![];}else{if(is_null(_0x45e30f[_0x4e48b4][_0x4bb5a9]['log']['deviation_by']))_0x2fd61c=_0x1d9c2d(0xd9);else _0x2fd61c=_0x1d9c2d(0x4b5);}}else _0x2fd61c=_0x1d9c2d(0x509);}_0x585d70['indexOf'](_0x2fd61c)<0x0&&_0x585d70[_0x1d9c2d(0x5a8)](_0x2fd61c);}_0x585d70=_0x585d70['sort']();for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70['length'];_0x4e48b4++){if('xCdno'!=='KcKmf')_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac['length'])[_0x1d9c2d(0x3a6)](0x0);else{var _0x2f0949=_0x1e79f8(_0x1700a5[_0x547adf][_0x1d9c2d(0x15a)]);_0x79593d[_0x1d9c2d(0x2aa)](_0x2f0949)>=0x0&&(_0x508d71=_0x2c1fd1[_0x1d9c2d(0x472)](_0x586ccc[_0x1d9c2d(0xe4)](_0x3c0f06[_0x5db6b2][_0x1d9c2d(0x5f2)])));}}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){if(_0x1d9c2d(0x50d)!==_0x1d9c2d(0x50d))_0x1a6732[_0x1d9c2d(0x257)][_0x1d9c2d(0x5bb)]['fillColor']=_0x1d9c2d(0x13f),_0x294adf[_0x1d9c2d(0x257)][_0x1d9c2d(0x5bb)]['textColor']='#006100';else{var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()][_0x1d9c2d(0x250)](0x0,0x3)+'-'+_0x1b9d5a['getFullYear'](),_0x239bf0=_0x346dac[_0x1d9c2d(0x2aa)](_0x162d82),_0x120a93='';if(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x2f2)]==0x4)_0x120a93=_0x1d9c2d(0x283);else{if(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x2f2)]==0x0){if(_0x1d9c2d(0x31b)===_0x1d9c2d(0x1d4)){_0xec0023['push'](_0x48818b[_0x1e1d54]);var _0x18bc31=_0x28cfe4(_0x169827[_0x1e6ef3][_0x1992b6]['log'][_0x1d9c2d(0x4d8)],0x1),_0x606e3d=_0x18bc31[_0x1d9c2d(0x56d)]()+'-'+_0xef0ccb[_0x18bc31[_0x1d9c2d(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x18bc31[_0x1d9c2d(0x59c)]();if(_0x52d2b7[_0x1d9c2d(0x2aa)](_0x606e3d)<0x0)_0x3cffb8[_0x1d9c2d(0x5a8)](_0x606e3d);}else{if(is_null(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x57e)]))_0x120a93='Completed';else _0x120a93=_0x1d9c2d(0x4b5);}}else _0x120a93=_0x1d9c2d(0x509);}_0x3a49c2[_0x120a93][_0x239bf0]+=0x1;}}}if(_0x443870==_0x1d9c2d(0x2bd)){for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){if('UBGCt'!=='peFVK'){if(_0x585d70[_0x1d9c2d(0x2aa)](_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x15a)])<0x0){if(_0x1d9c2d(0x5de)===_0x1d9c2d(0x5de))_0x585d70[_0x1d9c2d(0x5a8)](_0x45e30f[_0x4e48b4][_0x4bb5a9]['workstation']);else{var _0x49bda7=_0x408404(_0x313b57),_0x590847=_0x3fffce(_0x529a4d),_0x38038a=_0x84b00e(_0x22e884),_0x2112b2=_0x49590f(_0x4cfbe0),_0x235d7e=_0x152e95(_0x41766d);if(_0x49bda7['indexOf'](_0x2e3fc0(_0x5e3bd0[_0x1d9c2d(0x617)],0x2))<0x0)return![];if(_0x2112b2['indexOf'](_0x34894b[_0x1d9c2d(0x15a)])<0x0)return![];if(_0x235d7e[_0x1d9c2d(0x2aa)](_0x194179[_0x1d9c2d(0x29a)])<0x0)return![];return!![];}}}else{let _0x5c187d=_0x44bb91[_0x1d9c2d(0x610)](_0x20423c),_0x52289a=_0x203bfb['createElement'](_0x1d9c2d(0x228)),_0x1df534=_0x617d39['createElement']('tr'),_0x4a9e11=_0x584899[_0x1d9c2d(0x48c)]('th');_0x4a9e11[_0x1d9c2d(0x602)]=_0x1d9c2d(0x45f),_0x1df534['appendChild'](_0x4a9e11);let _0x3bf3d8=_0x1b000a[_0x1d9c2d(0x48c)]('th');_0x3bf3d8['innerText']='Model',_0x1df534[_0x1d9c2d(0x357)](_0x3bf3d8);let _0x2f738b=_0x23f0ef[_0x1d9c2d(0x48c)]('th');_0x2f738b[_0x1d9c2d(0x602)]=_0x1d9c2d(0x1a9),_0x1df534[_0x1d9c2d(0x357)](_0x2f738b);let _0x4524fd=_0x3ca2b9[_0x1d9c2d(0x48c)]('th');_0x4524fd[_0x1d9c2d(0x602)]=_0x1d9c2d(0x258),_0x1df534[_0x1d9c2d(0x357)](_0x4524fd);let _0x198ba2=_0x1eb2c3[_0x1d9c2d(0x48c)]('th');_0x198ba2['innerText']=_0x1d9c2d(0xf5),_0x1df534['appendChild'](_0x198ba2);let _0x59c91e=_0x3f0a80[_0x1d9c2d(0x48c)]('th');_0x59c91e[_0x1d9c2d(0x602)]=_0x1d9c2d(0x45e),_0x1df534[_0x1d9c2d(0x357)](_0x59c91e);let _0x186394=_0x4c2ec1['createElement']('th');_0x186394[_0x1d9c2d(0x602)]='Entry\x20Date',_0x1df534[_0x1d9c2d(0x357)](_0x186394);let _0x2e7040=_0x3c133f[_0x1d9c2d(0x48c)]('th');_0x2e7040[_0x1d9c2d(0x602)]=_0x1d9c2d(0x36f),_0x1df534['appendChild'](_0x2e7040),_0x52289a['appendChild'](_0x1df534);let _0x482228=_0x3fbbae[_0x1d9c2d(0x48c)](_0x1d9c2d(0x211));_0x482228['className']=_0x1d9c2d(0x5ea);for(var _0x11c20f=0x0;_0x11c20f<_0x266964['length'];_0x11c20f++){let _0x1372df=_0x5ad068['createElement']('tr'),_0x5cd5de=_0x538661[_0x1d9c2d(0x48c)]('td');_0x5cd5de[_0x1d9c2d(0x602)]=_0x452138[_0x11c20f][_0x1d9c2d(0x399)],_0x1372df[_0x1d9c2d(0x357)](_0x5cd5de);let _0x430d18=_0x1cbbf6['createElement']('td');_0x430d18[_0x1d9c2d(0x602)]=_0x31c733[_0x11c20f][_0x1d9c2d(0x1f2)],_0x1372df['appendChild'](_0x430d18);let _0x218c5a=_0x33b1ca[_0x1d9c2d(0x48c)]('td');_0x218c5a[_0x1d9c2d(0x602)]=_0x509dae[_0x11c20f]['serial'],_0x1372df[_0x1d9c2d(0x357)](_0x218c5a);let _0x47f76a=_0x3dc35d[_0x1d9c2d(0x48c)]('td');_0x47f76a['innerText']=_0x30bf20[_0xe2ed1[_0x11c20f]['status']],_0x1372df[_0x1d9c2d(0x357)](_0x47f76a);let _0x27c10d=_0x37534f['createElement']('td');_0x27c10d[_0x1d9c2d(0x602)]=_0x598a16[_0x11c20f][_0x1d9c2d(0x15a)][_0x1d9c2d(0x2ab)](),_0x1372df[_0x1d9c2d(0x357)](_0x27c10d);let _0x4ba984=_0xa281e7[_0x1d9c2d(0x48c)]('td');var _0x35ccb6=_0x3c1be8[_0x1d9c2d(0x5f5)](new _0x7d734e()-_0x233700(_0x2653c9[_0x11c20f][_0x1d9c2d(0x4d8)],0x1))/(0x3e8*0x3c*0x3c*0x18);_0x4ba984[_0x1d9c2d(0x602)]=_0x35ccb6[_0x1d9c2d(0x1f8)](0x0),_0x1372df['appendChild'](_0x4ba984);let _0x5cc712=_0x25c2e8[_0x1d9c2d(0x48c)]('td');_0x5cc712['innerText']=_0x1e879b(_0x2b792e[_0x11c20f][_0x1d9c2d(0x4d8)]),_0x1372df['appendChild'](_0x5cc712);let _0x10bdb8=_0x384236[_0x1d9c2d(0x48c)]('td');_0x10bdb8['className']=_0x1d9c2d(0x5ea),_0x10bdb8[_0x1d9c2d(0x602)]=_0x349156[_0x11c20f]['entry_by'],_0x1372df['appendChild'](_0x10bdb8),_0x482228[_0x1d9c2d(0x357)](_0x1372df);}return _0x5c187d[_0x1d9c2d(0x357)](_0x52289a),_0x5c187d[_0x1d9c2d(0x357)](_0x482228),_0x3202d1('#'+_0x563053)[_0x1d9c2d(0x567)]({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,_0x1d9c2d(0x131)]],'lengthChange':!![],'colReorder':!![],'paging':!![],'dom':_0x1d9c2d(0x348),'buttons':[_0x1d9c2d(0x419),{'extend':_0x1d9c2d(0x33b),'text':_0x1d9c2d(0x276),'buttons':[_0x1d9c2d(0x575),_0x1d9c2d(0x574),'csv']}]}),!![];}}_0x585d70=_0x585d70[_0x1d9c2d(0x57a)]();for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac[_0x1d9c2d(0x2bb)])[_0x1d9c2d(0x3a6)](0x0);}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f['length'];_0x4e48b4++){var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x1b9d5a[_0x1d9c2d(0x59c)](),_0x239bf0=_0x346dac['indexOf'](_0x162d82),_0x120a93=_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x15a)];_0x3a49c2[_0x120a93][_0x239bf0]+=0x1;}}if(_0x443870==_0x1d9c2d(0x31e)){for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){if('dAzJQ'===_0x1d9c2d(0x5a6))_0x585d70['indexOf'](_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)]['entry_by'])<0x0&&_0x585d70['push'](_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x3a3)]);else return _0x30d1b6(_0x1d9c2d(0x4fd)),![];}_0x585d70=_0x585d70[_0x1d9c2d(0x57a)]();for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){if(_0x1d9c2d(0x497)!==_0x1d9c2d(0x45c))_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac[_0x1d9c2d(0x2bb)])[_0x1d9c2d(0x3a6)](0x0);else{var _0x379484=0x0;for(var _0x513494=0x0;_0x513494<_0x5616fe[_0x1d9c2d(0x2bb)];_0x513494++){if(_0x18fcd4[_0x1d9c2d(0x464)]==0x1||_0x4ee298[_0xf2a31a[_0x513494][_0x1d9c2d(0x399)]+_0x1d9c2d(0x3be)]==0x1)_0x379484+=0x1;}var _0x520e3b=_0x356507['createElement']('div');_0x520e3b[_0x1d9c2d(0x101)]='alert\x20alert-warning\x20alert-dismissible',_0x520e3b['innerHTML']=_0x1d9c2d(0x332)+_0x379484+_0x1d9c2d(0x1ee);if(_0x379484>0x0)_0x4c6910[_0x1d9c2d(0x357)](_0x520e3b);}}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a['getDate']()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()][_0x1d9c2d(0x250)](0x0,0x3)+'-'+_0x1b9d5a['getFullYear'](),_0x239bf0=_0x346dac[_0x1d9c2d(0x2aa)](_0x162d82),_0x120a93=_0x45e30f[_0x4e48b4][_0x4bb5a9]['log'][_0x1d9c2d(0x3a3)];_0x3a49c2[_0x120a93][_0x239bf0]+=0x1;}}if(_0x443870=='daily_analytics_graph_job_hours'){if(_0x1d9c2d(0x18e)===_0x1d9c2d(0x5d3))_0x1eb5c8[_0x473e4c[_0x471ca9]]=new _0x1828d6(_0x41fea9[_0x1d9c2d(0x2bb)])['fill'](0x0);else{_0x585d70[0x0]=[_0x1d9c2d(0x462)];for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0x3a49c2[_0x585d70[_0x4e48b4]]=new Array(_0x346dac[_0x1d9c2d(0x2bb)])[_0x1d9c2d(0x3a6)](0x0);}for(var _0x4e48b4=0x0;_0x4e48b4<_0x45e30f[_0x1d9c2d(0x2bb)];_0x4e48b4++){if('IqgRj'===_0x1d9c2d(0x522))return _0xdc4dbc(_0x1d9c2d(0x60b)),![];else{var _0x1b9d5a=decode_date(_0x45e30f[_0x4e48b4][_0x4bb5a9][_0x1d9c2d(0x5f1)][_0x1d9c2d(0x4d8)],0x1),_0x162d82=_0x1b9d5a[_0x1d9c2d(0x56d)]()+'-'+monthNames[_0x1b9d5a[_0x1d9c2d(0x1a4)]()][_0x1d9c2d(0x250)](0x0,0x3)+'-'+_0x1b9d5a[_0x1d9c2d(0x59c)](),_0x239bf0=_0x346dac[_0x1d9c2d(0x2aa)](_0x162d82);_0x3a49c2[_0x585d70[0x0]][_0x239bf0]+=_0x45e30f[_0x4e48b4][_0x4bb5a9]['cycle_time']/0x3c;}}for(var _0x4e48b4=0x0;_0x4e48b4<_0x346dac[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0x3a49c2[_0x585d70[0x0]][_0x4e48b4]=Number(_0x3a49c2[_0x585d70[0x0]][_0x4e48b4])['toFixed'](0x1);}}}var _0xf9786d=[];for(var _0x4e48b4=0x0;_0x4e48b4<_0x585d70[_0x1d9c2d(0x2bb)];_0x4e48b4++){_0xf9786d[_0x1d9c2d(0x5a8)]({'label':_0x585d70[_0x4e48b4],'data':_0x3a49c2[_0x585d70[_0x4e48b4]],'stack':0x1,'backgroundColor':_0x4e48b4<=indexcolors[_0x1d9c2d(0x2bb)]?indexcolors[_0x4e48b4]:'#4E73DF','maxBarThickness':0x3c});}return{'dataset':_0xf9786d,'stack_labels':_0x585d70,'axis_labels':_0x346dac};}function convert_disruption_data_to_daily_analytics_chart_dataset(_0x36a916=[],_0x386756,_0xbc8f1d=_0x390981(0x108)){var _0xb82a5f=_0x390981,_0x1140b3=[],_0x2a4071=[];for(var _0x586956=0x0;_0x586956<_0x36a916[_0xb82a5f(0x2bb)];_0x586956++){if(pass_disruption_filter_criteria(_0x36a916[_0x586956],_0x386756,'daily_analytics_filter_model','daily_analytics_filter_status',_0xb82a5f(0x20d),_0xb82a5f(0x345),_0xb82a5f(0x461))){_0x1140b3[_0xb82a5f(0x5a8)](_0x36a916[_0x586956]);var _0x277b11=decode_date(_0x36a916[_0x586956]['start_time'],0x1),_0x55a543=_0x277b11['getDate']()+'-'+monthNames[_0x277b11[_0xb82a5f(0x1a4)]()][_0xb82a5f(0x250)](0x0,0x3)+'-'+_0x277b11['getFullYear']();if(_0x2a4071[_0xb82a5f(0x2aa)](_0x55a543)<0x0)_0x2a4071[_0xb82a5f(0x5a8)](_0x55a543);}}var _0x115e63={},_0x1661bb=[];if(_0xbc8f1d==_0xb82a5f(0x108)){for(var _0x586956=0x0;_0x586956<_0x1140b3[_0xb82a5f(0x2bb)];_0x586956++){if(_0x1661bb[_0xb82a5f(0x2aa)](_0x1140b3[_0x586956][_0xb82a5f(0x296)])<0x0){if('vNDDk'!==_0xb82a5f(0x413))_0x1661bb['push'](_0x1140b3[_0x586956][_0xb82a5f(0x296)]);else{const _0x33f5dc=_0xb57f0c[_0xb82a5f(0xe4)](_0x157cbd);for(var _0x34ee80=0x0;_0x34ee80<_0x33f5dc[_0xb82a5f(0x2bb)];_0x34ee80++){if(_0x33f5dc[_0x34ee80]['substr'](_0x33f5dc[_0x34ee80]['length']-0x3)==_0xb82a5f(0x3be))_0x25bef1=0x1;}}}}_0x1661bb=_0x1661bb[_0xb82a5f(0x57a)]();for(var _0x586956=0x0;_0x586956<_0x1661bb[_0xb82a5f(0x2bb)];_0x586956++){_0x115e63[_0x1661bb[_0x586956]]=new Array(_0x2a4071[_0xb82a5f(0x2bb)])[_0xb82a5f(0x3a6)](0x0);}for(var _0x586956=0x0;_0x586956<_0x1140b3[_0xb82a5f(0x2bb)];_0x586956++){var _0x3d75ad=decode_date(_0x1140b3[_0x586956]['start_time'],0x1),_0x55a543=_0x3d75ad[_0xb82a5f(0x56d)]()+'-'+monthNames[_0x3d75ad['getMonth']()][_0xb82a5f(0x250)](0x0,0x3)+'-'+_0x3d75ad[_0xb82a5f(0x59c)](),_0x422559=_0x2a4071[_0xb82a5f(0x2aa)](_0x55a543),_0x2c873b=_0x1140b3[_0x586956][_0xb82a5f(0x296)],_0x504485=(decode_date(_0x1140b3[_0x586956][_0xb82a5f(0x3cb)]||new Date(),0x1)-decode_date(_0x1140b3[_0x586956]['start_time'],0x1))/(0x3e8*0x3c);_0x504485=Math[_0xb82a5f(0x5cc)](_0x504485),_0x115e63[_0x2c873b][_0x422559]+=_0x504485;}}if(_0xbc8f1d==_0xb82a5f(0x4f3)){for(var _0x586956=0x0;_0x586956<_0x1140b3['length'];_0x586956++){if(_0xb82a5f(0x2b3)===_0xb82a5f(0x2b3))_0x1661bb[_0xb82a5f(0x2aa)](_0x1140b3[_0x586956][_0xb82a5f(0x296)])<0x0&&_0x1661bb[_0xb82a5f(0x5a8)](_0x1140b3[_0x586956]['reason']);else{var _0x39e00a=[],_0x9f122e=_0x4d71ff[_0xb82a5f(0xe4)](_0x3eb363);for(var _0x1c1426=0x0;_0x1c1426<_0x9f122e[_0xb82a5f(0x2bb)];_0x1c1426++){var _0xe0d90={'label':_0x9f122e[_0x1c1426],'data':_0x342523[_0x9f122e[_0x1c1426]],'maxBarThickness':0x32,'barThickness':_0xb82a5f(0x31d),'stack':0x1,'backgroundColor':_0x9f122e['length']<=_0x1e7cd4[_0xb82a5f(0x2bb)]?_0x5f5630[_0x1c1426]:_0xb82a5f(0x18f)};_0x39e00a[_0xb82a5f(0x5a8)](_0xe0d90);}return _0x39e00a;}}_0x1661bb=_0x1661bb['sort']();for(var _0x586956=0x0;_0x586956<_0x1661bb[_0xb82a5f(0x2bb)];_0x586956++){_0xb82a5f(0x58b)===_0xb82a5f(0x58b)?_0x115e63[_0x1661bb[_0x586956]]=new Array(_0x2a4071[_0xb82a5f(0x2bb)])['fill'](0x0):_0x32e7e9();}for(var _0x586956=0x0;_0x586956<_0x1140b3[_0xb82a5f(0x2bb)];_0x586956++){if(_0xb82a5f(0x475)!==_0xb82a5f(0x475))_0x2136ef[_0xb82a5f(0x5a8)](_0x5f5c78[_0x53d7b7][_0x5ed099]['log'][_0xb82a5f(0x3a3)]);else{var _0x3d75ad=decode_date(_0x1140b3[_0x586956]['start_time'],0x1),_0x55a543=_0x3d75ad['getDate']()+'-'+monthNames[_0x3d75ad['getMonth']()][_0xb82a5f(0x250)](0x0,0x3)+'-'+_0x3d75ad[_0xb82a5f(0x59c)](),_0x422559=_0x2a4071[_0xb82a5f(0x2aa)](_0x55a543),_0x2c873b=_0x1140b3[_0x586956][_0xb82a5f(0x296)];_0x115e63[_0x2c873b][_0x422559]+=0x1;}}}var _0x4bfbca=[];for(var _0x586956=0x0;_0x586956<_0x1661bb[_0xb82a5f(0x2bb)];_0x586956++){if(_0xb82a5f(0x5e7)!==_0xb82a5f(0x21b))_0x4bfbca[_0xb82a5f(0x5a8)]({'label':_0x1661bb[_0x586956],'data':_0x115e63[_0x1661bb[_0x586956]],'stack':0x1,'backgroundColor':_0x586956<=indexcolors[_0xb82a5f(0x2bb)]?indexcolors[_0x586956]:'#4E73DF','maxBarThickness':0x3c});else{if(_0x15bb82(_0x4831dd[_0xb82a5f(0x2ab)]()||_0x2ac3de['toString']()[_0xb82a5f(0x2bb)]>_0xb5285d))return![];}}return{'dataset':_0x4bfbca,'stack_labels':_0x1661bb,'axis_labels':_0x2a4071};}function render_daily_analytics_graph(_0x2936ef,_0x5da5b9,_0x3407cb,_0x3908f6=_0x390981(0x3e0)){var _0x25abb6=_0x390981;chart_data=_0x5da5b9[_0x25abb6(0x56e)],chart_labels=_0x5da5b9[_0x25abb6(0x203)];var _0xed2f70='Number\x20of\x20Jobs\x20Per\x20Day\x20('+_0x3407cb+')';if(_0x3908f6=='daily_analytics_graph_job_hours')_0xed2f70=_0x25abb6(0x1db);if(_0x3908f6=='daily_analytics_graph_disruption_mins')_0xed2f70='Disruptions\x20Reported\x20for\x20'+_0x3407cb+_0x25abb6(0x39e);if(_0x3908f6==_0x25abb6(0x4f3))_0xed2f70='#\x20Disruptions\x20Reported\x20for\x20'+_0x3407cb;empty_container_byReference(_0x2936ef);var _0x5bac03=document[_0x25abb6(0x48c)](_0x25abb6(0x19d));_0x5bac03['id']=_0x25abb6(0x2a4),_0x2936ef[_0x25abb6(0x357)](_0x5bac03);var _0x5b5cf4=_0x5bac03['getContext']('2d'),_0x1f8735=[];for(var _0x3a4bfc=0x0;_0x3a4bfc<chart_labels[_0x25abb6(0x2bb)];_0x3a4bfc++)_0x1f8735[_0x3a4bfc]=formatLabel(chart_labels[_0x3a4bfc]);var _0x436d27={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0xed2f70}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':_0x25abb6(0x31d)}]},'legend':{'display':!![]}},_0x3725a7=new Chart(_0x5b5cf4,{'type':_0x25abb6(0x3e5),'data':{'labels':_0x1f8735,'datasets':chart_data},'options':_0x436d27});}async function initialize_hourly_operation_analytics_section(){var _0x3400bd=_0x390981;reset_sections(),document[_0x3400bd(0x610)]('hourly_analytics_start_datepicker')[_0x3400bd(0x1fc)]='',document[_0x3400bd(0x610)]('hourly_analytics_end_datepicker')[_0x3400bd(0x1fc)]='',empty_container(_0x3400bd(0x317)),document[_0x3400bd(0x610)](_0x3400bd(0x34e))['style']['display']='none',$(_0x3400bd(0x3a2))['datepicker']({'uiLibrary':_0x3400bd(0x333)}),$('#hourly_analytics_end_datepicker')[_0x3400bd(0x4a2)]({'uiLibrary':'bootstrap4'});if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x1221ef=Object[_0x3400bd(0xe4)](gl_current_operations_list);_0x1221ef=_0x1221ef[_0x3400bd(0x57a)]();var _0x27a31d=[_0x3400bd(0x518)];for(var _0x5050db=0x0;_0x5050db<_0x1221ef['length'];_0x5050db++){if(gl_user_permission[_0x3400bd(0x464)]==0x1||gl_user_permission[_0x1221ef[_0x5050db]]>=0x1)_0x27a31d['push'](_0x1221ef[_0x5050db]);}set_select_options(document[_0x3400bd(0x610)](_0x3400bd(0x317)),_0x27a31d),fetch_hourly_analytics_data_btn[_0x3400bd(0x49a)]=async function(){var _0x8c861d=_0x3400bd,_0x18f1f6=document[_0x8c861d(0x610)]('hourly_analytics_start_datepicker')[_0x8c861d(0x1fc)],_0x3d5a4a=document[_0x8c861d(0x610)](_0x8c861d(0x442))[_0x8c861d(0x1fc)];gl_analytics_operation_name=document[_0x8c861d(0x610)](_0x8c861d(0x317))['value'];if(is_null(_0x18f1f6)||is_null(_0x3d5a4a)||is_null(gl_analytics_operation_name)){if('GQoVA'===_0x8c861d(0x2c7))_0x2b28e1[_0x8c861d(0x147)](0x64),_0x2085cd[_0x8c861d(0x48f)](0xa),_0x36fa2a[_0x8c861d(0x38f)](_0x13522c),_0x1a7dcd[_0x8c861d(0x483)](_0x8c861d(0x5b5)+_0x9675+_0x8c861d(0x45a)+_0x1c39c7[_0x8c861d(0x59b)][_0x8c861d(0x175)](),_0x885fe3-0xa,0x7,{'align':_0x8c861d(0x3e7)}),_0x536b4e[_0x8c861d(0x483)](_0x8c861d(0x554),_0x399213-0xa,_0x3a1005-0x5,{'align':_0x8c861d(0x3e7)});else return display_error(_0x8c861d(0xe2)),![];}else _0x18f1f6=new Date(_0x18f1f6),_0x3d5a4a=new Date(_0x3d5a4a);if(_0x3d5a4a-_0x18f1f6<0x0){if('WbVLH'===_0x8c861d(0x288))_0x49a0ae[_0x1e1ecb[0x0]][_0x2f1ee0]=_0x15ab88(_0x18ca78[_0x37ce27[0x0]][_0x413b87])['toFixed'](0x1);else return display_error(_0x8c861d(0x111)),![];}if(gl_analytics_operation_name==_0x8c861d(0x518)){if(_0x8c861d(0x2d3)!==_0x8c861d(0x246))return display_error('Please\x20select\x20Operation\x20before\x20fetching\x20data'),![];else{const _0x2a4103=_0x23f931[_0x496c52][_0x8c861d(0x399)];if(_0x47b8bc[_0x8c861d(0x464)]==0x1||_0x535c49[_0x2a4103]>=0x1)_0x35eb74['push'](_0x2386c3[_0x1f5601]);}}if(gl_user_permission[_0x8c861d(0x464)]!=0x1&&(gl_user_permission[gl_analytics_operation_name]<0x1||gl_user_permission[section_permission_list[_0x8c861d(0xf3)]]!=0x1))return display_error(_0x8c861d(0x4cb)),![];_0x18f1f6[_0x8c861d(0x388)](0x0),_0x18f1f6[_0x8c861d(0x381)](0x0),_0x18f1f6[_0x8c861d(0x57d)](0x0),_0x3d5a4a[_0x8c861d(0x388)](0x17),_0x3d5a4a['setMinutes'](0x3b),_0x3d5a4a[_0x8c861d(0x57d)](0x3b);const _0x3585a3=firebase[_0x8c861d(0x4fc)]['Timestamp'][_0x8c861d(0x28e)](_0x18f1f6),_0x1f670c=firebase[_0x8c861d(0x4fc)]['Timestamp']['fromDate'](_0x3d5a4a);try{start_loading();const _0x5bfc65=functions['httpsCallable']('download_operation_analytics_data'),_0x1f952f=(await _0x5bfc65({'start_date':_0x3585a3,'end_date':_0x1f670c,'operation_name':gl_analytics_operation_name}))[_0x8c861d(0x3f9)];gl_analytics_records_list=_0x1f952f[_0x8c861d(0x4df)],gl_analytics_disruption_records_list=_0x1f952f[_0x8c861d(0xed)];var _0x42ca18=document[_0x8c861d(0x610)](_0x8c861d(0x4f1));empty_container_byReference(_0x42ca18);let _0x29f09c=await document[_0x8c861d(0x48c)](_0x8c861d(0x2f5));_0x29f09c[_0x8c861d(0x101)]=_0x8c861d(0x46d),_0x29f09c['style']=_0x8c861d(0x572),_0x29f09c['id']='hourly_analytics_records_table',_0x42ca18[_0x8c861d(0x357)](_0x29f09c),await process_hourly_analytics_data(gl_analytics_records_list,gl_analytics_disruption_records_list,gl_analytics_operation_name),await render_table_job_records(gl_analytics_records_list,_0x29f09c['id'],[gl_analytics_operation_name]),document[_0x8c861d(0x610)](_0x8c861d(0x34e))[_0x8c861d(0x214)][_0x8c861d(0x138)]=_0x8c861d(0x43b),stop_loading();}catch(_0x15f809){return display_error(_0x15f809['message']),![];}};}function process_hourly_analytics_data(_0x1c0555,_0x1e957d,_0x2eccd8){var _0x280427=_0x390981;document['getElementById'](_0x280427(0x582))['value']=_0x280427(0x104);var _0x221f6e=[],_0x40948f=[],_0x397115=[],_0x8aa79d=[],_0x107560=[];for(var _0x21b8a2=0x0;_0x21b8a2<_0x1c0555[_0x280427(0x2bb)];_0x21b8a2++){if(_0x280427(0x4ce)===_0x280427(0x418))_0x5556d6[_0x54f0db[_0x4c25f6]]=new _0x381615(_0x1f9aca[_0x280427(0x2bb)])[_0x280427(0x3a6)](0x0);else{_0x221f6e['push'](decode_date(_0x1c0555[_0x21b8a2][_0x2eccd8]['log']['entry_dt'],0x2)),_0x40948f['push'](_0x1c0555[_0x21b8a2][_0x280427(0x46b)][_0x280427(0x1f2)]),_0x8aa79d[_0x280427(0x5a8)](_0x1c0555[_0x21b8a2][_0x2eccd8][_0x280427(0x15a)]),_0x107560['push'](_0x1c0555[_0x21b8a2][_0x2eccd8][_0x280427(0x5f1)][_0x280427(0x3a3)]);if(_0x1c0555[_0x21b8a2][_0x2eccd8][_0x280427(0x2f2)]==0x4)_0x397115['push'](_0x280427(0x283));else{if(_0x1c0555[_0x21b8a2][_0x2eccd8][_0x280427(0x2f2)]==0x0){if(_0x280427(0x266)!==_0x280427(0x3ae)){if(_0x1c0555[_0x21b8a2][_0x2eccd8][_0x280427(0x5f1)][_0x280427(0x57e)]=='')_0x397115[_0x280427(0x5a8)](_0x280427(0xd9));else _0x397115[_0x280427(0x5a8)](_0x280427(0x4b5));}else _0x51ea19+=0x1,_0x5bb970[_0x455d0f]='';}else _0x397115[_0x280427(0x5a8)](_0x280427(0x509));}}}for(var _0x21b8a2=0x0;_0x21b8a2<_0x1e957d[_0x280427(0x2bb)];_0x21b8a2++){if(_0x280427(0x623)==='AfScK')_0x221f6e['push'](decode_date(_0x1e957d[_0x21b8a2]['start_time'],0x2)),_0x8aa79d[_0x280427(0x5a8)](_0x1e957d[_0x21b8a2]['workstation']),_0x107560['push'](_0x1e957d[_0x21b8a2][_0x280427(0x29a)]);else{let _0x14293b=_0x50d578[_0x280427(0x48c)](_0x280427(0x25a));_0x14293b[_0x280427(0x1fc)]=_0x2a46e3[_0x412b42],_0x14293b[_0x280427(0x602)]=_0x5741af[_0xe79689],_0x2bdba9[_0x280427(0x357)](_0x14293b);}}_0x221f6e=Array[_0x280427(0x39f)](new Set(_0x221f6e)),_0x40948f=Array[_0x280427(0x39f)](new Set(_0x40948f))[_0x280427(0x57a)](),_0x397115=Array[_0x280427(0x39f)](new Set(_0x397115))[_0x280427(0x57a)](),_0x8aa79d=Array[_0x280427(0x39f)](new Set(_0x8aa79d))[_0x280427(0x57a)](),_0x107560=Array[_0x280427(0x39f)](new Set(_0x107560))[_0x280427(0x57a)](),empty_container(_0x280427(0x614)),empty_container(_0x280427(0x3cf)),empty_container('hourly_analytics_filter_status'),empty_container(_0x280427(0x62d)),empty_container(_0x280427(0x526)),set_select_options(document[_0x280427(0x610)]('hourly_analytics_filter_date'),_0x221f6e),set_select_options(document[_0x280427(0x610)](_0x280427(0x3cf)),_0x40948f),set_select_options(document[_0x280427(0x610)]('hourly_analytics_filter_status'),_0x397115),set_select_options(document['getElementById'](_0x280427(0x62d)),_0x8aa79d),set_select_options(document['getElementById'](_0x280427(0x526)),_0x107560),$(_0x280427(0x41c))['selectpicker'](_0x280427(0x268)),$(_0x280427(0x12d))[_0x280427(0x1ae)](_0x280427(0x23d)),$(_0x280427(0x5d8))['selectpicker'](_0x280427(0x23d)),$('#hourly_analytics_filter_status')[_0x280427(0x1ae)](_0x280427(0x23d)),$('#hourly_analytics_filter_workstation')['selectpicker'](_0x280427(0x23d)),$(_0x280427(0x53c))[_0x280427(0x1ae)](_0x280427(0x23d));var _0x12181f=document[_0x280427(0x610)](_0x280427(0x4bb));_0x12181f[_0x280427(0x214)][_0x280427(0x1a2)]=0x32+'vh';var _0x1f001a=document[_0x280427(0x610)](_0x280427(0x582)),_0x2cfa76=convert_data_to_hourly_analytics_chart_dataset(_0x1c0555,_0x2eccd8);render_hourly_analytics_graph(_0x12181f,_0x2cfa76,_0x2eccd8,_0x1f001a[_0x280427(0x1fc)]),_0x1f001a[_0x280427(0x3ab)]=function(){var _0x5690da=_0x280427,_0x1ae4cd={};if(_0x1f001a[_0x5690da(0x1fc)]=='hourly_analytics_graph_disruption_mins'||_0x1f001a['value']=='hourly_analytics_graph_disruption_count')_0x1ae4cd=convert_disruption_data_to_hourly_analytics_chart_dataset(_0x1e957d,_0x2eccd8,_0x1f001a['value']);else _0x1ae4cd=convert_data_to_hourly_analytics_chart_dataset(_0x1c0555,_0x2eccd8,_0x1f001a[_0x5690da(0x1fc)]);render_hourly_analytics_graph(_0x12181f,_0x1ae4cd,_0x2eccd8,_0x1f001a[_0x5690da(0x1fc)]);};var _0x287c06=document['getElementById'](_0x280427(0x253));return _0x287c06[_0x280427(0x3ab)]=function(){var _0x3e41ac=_0x280427,_0x4d557e={};if(_0x1f001a[_0x3e41ac(0x1fc)]==_0x3e41ac(0x4f8)||_0x1f001a[_0x3e41ac(0x1fc)]==_0x3e41ac(0x578))_0x4d557e=convert_disruption_data_to_hourly_analytics_chart_dataset(_0x1e957d,_0x2eccd8,_0x1f001a['value']);else _0x4d557e=convert_data_to_hourly_analytics_chart_dataset(_0x1c0555,_0x2eccd8,_0x1f001a[_0x3e41ac(0x1fc)]);render_hourly_analytics_graph(_0x12181f,_0x4d557e,_0x2eccd8,_0x1f001a[_0x3e41ac(0x1fc)]);},!![];}function convert_data_to_hourly_analytics_chart_dataset(_0x2f21b6=[],_0x4ada71,_0x55cbd7='hourly_analytics_graph_default'){var _0x33ebe3=_0x390981,_0x167e6f=[],_0x3326e1=[];for(var _0x556880=0x0;_0x556880<_0x2f21b6[_0x33ebe3(0x2bb)];_0x556880++){if(_0x33ebe3(0x42d)!=='YTGZJ'){if(pass_filter_criteria(_0x2f21b6[_0x556880],_0x4ada71,_0x33ebe3(0x3cf),_0x33ebe3(0x4b0),_0x33ebe3(0x62d),_0x33ebe3(0x526),_0x33ebe3(0x614))){_0x167e6f[_0x33ebe3(0x5a8)](_0x2f21b6[_0x556880]);var _0x4e9493=decode_date(_0x2f21b6[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x4d8)],0x1),_0x5bc7a0=_0x4e9493[_0x33ebe3(0x4cd)]()+_0x33ebe3(0x371)+(_0x4e9493[_0x33ebe3(0x4cd)]()+0x1)+_0x33ebe3(0x513);if(_0x3326e1['indexOf'](_0x5bc7a0)<0x0)_0x3326e1['push'](_0x5bc7a0);}}else return _0x2656a2(_0x404bf1[_0x33ebe3(0x286)]),![];}_0x3326e1=_0x3326e1['sort'](function(_0x5981a6,_0x4c055c){var _0x2d637a=_0x33ebe3;const _0x160542=Number(_0x5981a6[_0x2d637a(0x1f6)](':')[0x0]),_0x252712=Number(_0x4c055c[_0x2d637a(0x1f6)](':')[0x0]);return _0x160542-_0x252712;});var _0x504980={},_0x45c4b5=[];if(_0x55cbd7==_0x33ebe3(0x104)){if(_0x33ebe3(0x600)!=='DfENK'){_0x1bb3d9[0x0]=['Job\x20Hours\x20Completed'];for(var _0x1eb2fe=0x0;_0x1eb2fe<_0x3d3f15[_0x33ebe3(0x2bb)];_0x1eb2fe++){_0x2f0adb[_0xd87aa1[_0x1eb2fe]]=new _0x4b66ab(_0x59ce84[_0x33ebe3(0x2bb)])[_0x33ebe3(0x3a6)](0x0);}for(var _0x1eb2fe=0x0;_0x1eb2fe<_0x193e4e[_0x33ebe3(0x2bb)];_0x1eb2fe++){var _0x572190=_0x4080c6(_0x136c65[_0x1eb2fe][_0x1638ff]['log'][_0x33ebe3(0x4d8)],0x1),_0x31ba44=_0x572190[_0x33ebe3(0x56d)]()+'-'+_0x1c04cb[_0x572190[_0x33ebe3(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x572190[_0x33ebe3(0x59c)](),_0x5ebc70=_0xf326e1[_0x33ebe3(0x2aa)](_0x31ba44);_0x5876c0[_0x1fe041[0x0]][_0x5ebc70]+=_0x4895d5[_0x1eb2fe][_0x41d7b6][_0x33ebe3(0x267)]/0x3c;}for(var _0x1eb2fe=0x0;_0x1eb2fe<_0x197f96[_0x33ebe3(0x2bb)];_0x1eb2fe++){_0xc82755[_0x314b3d[0x0]][_0x1eb2fe]=_0x27dd29(_0x1c0e4b[_0x41ca85[0x0]][_0x1eb2fe])[_0x33ebe3(0x1f8)](0x1);}}else{_0x45c4b5[0x0]=[_0x33ebe3(0x62c)];for(var _0x556880=0x0;_0x556880<_0x45c4b5[_0x33ebe3(0x2bb)];_0x556880++){_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1[_0x33ebe3(0x2bb)])[_0x33ebe3(0x3a6)](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71]['log'][_0x33ebe3(0x4d8)],0x1),_0x5bc7a0=_0x224780['getHours']()+':00\x20-\x20'+(_0x224780[_0x33ebe3(0x4cd)]()+0x1)+_0x33ebe3(0x513),_0x4fd0a4=_0x3326e1['indexOf'](_0x5bc7a0);_0x504980[_0x45c4b5[0x0]][_0x4fd0a4]+=0x1;}}}if(_0x55cbd7=='hourly_analytics_graph_model'){for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){_0x45c4b5[_0x33ebe3(0x2aa)](_0x167e6f[_0x556880]['Basic\x20Info']['model'])<0x0&&_0x45c4b5['push'](_0x167e6f[_0x556880][_0x33ebe3(0x46b)]['model']);}_0x45c4b5=_0x45c4b5[_0x33ebe3(0x57a)]();for(var _0x556880=0x0;_0x556880<_0x45c4b5['length'];_0x556880++){_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1[_0x33ebe3(0x2bb)])[_0x33ebe3(0x3a6)](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f['length'];_0x556880++){var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)]['entry_dt'],0x1),_0x5bc7a0=_0x224780['getHours']()+_0x33ebe3(0x371)+(_0x224780[_0x33ebe3(0x4cd)]()+0x1)+':00',_0x4fd0a4=_0x3326e1[_0x33ebe3(0x2aa)](_0x5bc7a0),_0x41b4bd=_0x167e6f[_0x556880]['Basic\x20Info'][_0x33ebe3(0x1f2)];_0x504980[_0x41b4bd][_0x4fd0a4]+=0x1;}}if(_0x55cbd7==_0x33ebe3(0x2d6)){if(_0x33ebe3(0x2f1)!==_0x33ebe3(0x3c1)){for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){if(_0x33ebe3(0x2e2)!==_0x33ebe3(0x2e2))return _0x32e92f('Internal\x20error.\x20Please\x20refresh\x20and\x20try\x20again.'),_0x15cb17(),![];else{var _0x3b5897='';if(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x2f2)]==0x4)_0x3b5897=_0x33ebe3(0x283);else{if(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x2f2)]==0x0){if(is_null(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x57e)]))_0x3b5897=_0x33ebe3(0xd9);else _0x3b5897='Completed\x20(with\x20deviation)';}else _0x3b5897=_0x33ebe3(0x509);}if(_0x45c4b5['indexOf'](_0x3b5897)<0x0){if('WAmNG'==='foqNV'){var _0xa39093=new _0x30772b(_0x33ebe3(0xe5)),_0x19e07a=new _0x20c494('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i'),_0x1a1816=_0x42c3b4(_0x33ebe3(0x1c3));!_0xa39093['test'](_0x1a1816+'chain')||!_0x19e07a[_0x33ebe3(0xf6)](_0x1a1816+_0x33ebe3(0x627))?_0x1a1816('0'):_0x2844f5();}else _0x45c4b5[_0x33ebe3(0x5a8)](_0x3b5897);}}}_0x45c4b5=_0x45c4b5[_0x33ebe3(0x57a)]();for(var _0x556880=0x0;_0x556880<_0x45c4b5[_0x33ebe3(0x2bb)];_0x556880++){_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1[_0x33ebe3(0x2bb)])['fill'](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){if(_0x33ebe3(0x4be)===_0x33ebe3(0x4a1)){var _0x57f99e=_0x2872c4(_0x141631[_0x270d10][_0x33ebe3(0x617)],0x1),_0x3c0ce5=_0x57f99e[_0x33ebe3(0x4cd)]()+_0x33ebe3(0x371)+(_0x57f99e['getHours']()+0x1)+_0x33ebe3(0x513),_0x56e7b8=_0x2db194['indexOf'](_0x3c0ce5),_0x529528=_0x2bb5df[_0x4184ea][_0x33ebe3(0x296)];_0x19fcd9[_0x529528][_0x56e7b8]+=0x1;}else{var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71]['log'][_0x33ebe3(0x4d8)],0x1),_0x5bc7a0=_0x224780['getHours']()+':00\x20-\x20'+(_0x224780[_0x33ebe3(0x4cd)]()+0x1)+_0x33ebe3(0x513),_0x4fd0a4=_0x3326e1[_0x33ebe3(0x2aa)](_0x5bc7a0),_0x41b4bd='';if(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x2f2)]==0x4)_0x41b4bd=_0x33ebe3(0x283);else{if(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x2f2)]==0x0){if('YPaDV'!=='HjyBF'){if(is_null(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x57e)]))_0x41b4bd=_0x33ebe3(0xd9);else _0x41b4bd=_0x33ebe3(0x4b5);}else _0x19c382[_0x39bc32[_0x59656b]]=new _0x2a6bf2(_0x24b3ca['length'])['fill'](0x0);}else _0x41b4bd=_0x33ebe3(0x509);}_0x504980[_0x41b4bd][_0x4fd0a4]+=0x1;}}}else _0x593fdf[_0x1d674e[_0x55c29e]]=_0x189e9d[_0x499235[_0x2e7e2a]];}if(_0x55cbd7==_0x33ebe3(0x387)){if(_0x33ebe3(0x5e8)===_0x33ebe3(0x5e8)){for(var _0x556880=0x0;_0x556880<_0x167e6f['length'];_0x556880++){_0x45c4b5[_0x33ebe3(0x2aa)](_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x15a)])<0x0&&_0x45c4b5[_0x33ebe3(0x5a8)](_0x167e6f[_0x556880][_0x4ada71]['workstation']);}_0x45c4b5=_0x45c4b5[_0x33ebe3(0x57a)]();for(var _0x556880=0x0;_0x556880<_0x45c4b5[_0x33ebe3(0x2bb)];_0x556880++){_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1[_0x33ebe3(0x2bb)])[_0x33ebe3(0x3a6)](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)]['entry_dt'],0x1),_0x5bc7a0=_0x224780['getHours']()+_0x33ebe3(0x371)+(_0x224780['getHours']()+0x1)+_0x33ebe3(0x513),_0x4fd0a4=_0x3326e1[_0x33ebe3(0x2aa)](_0x5bc7a0),_0x41b4bd=_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x15a)];_0x504980[_0x41b4bd][_0x4fd0a4]+=0x1;}}else _0x228ea8[_0x5f4a3a]={'value':_0x246995,'freq_remaining':_0x275091[_0x142f97][_0x33ebe3(0x45d)]-0x1,'record_time':new _0x4f85fb()};}if(_0x55cbd7==_0x33ebe3(0x61f)){for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){if('vFqls'===_0x33ebe3(0x4bc))_0x45c4b5[_0x33ebe3(0x2aa)](_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x3a3)])<0x0&&(_0x33ebe3(0x59d)!==_0x33ebe3(0x59d)?_0x2594ac[_0x198506][_0x33ebe3(0x411)]=_0x188eb1[_0x443e06][_0x33ebe3(0x411)]-0x1:_0x45c4b5[_0x33ebe3(0x5a8)](_0x167e6f[_0x556880][_0x4ada71]['log'][_0x33ebe3(0x3a3)]));else for(var _0x15bc71=0x0;_0x15bc71<_0x22f95a[_0x33ebe3(0x2bb)];_0x15bc71++){let _0x32e781=_0x26bb66[_0x33ebe3(0x48c)](_0x33ebe3(0x25a));_0x32e781[_0x33ebe3(0x1fc)]=_0x54adcf[_0x15bc71],_0x32e781[_0x33ebe3(0x602)]=_0x49e59e[_0x15bc71],_0x4922e1[_0x33ebe3(0x357)](_0x32e781);}}_0x45c4b5=_0x45c4b5[_0x33ebe3(0x57a)]();for(var _0x556880=0x0;_0x556880<_0x45c4b5[_0x33ebe3(0x2bb)];_0x556880++){_0x33ebe3(0x630)!==_0x33ebe3(0x630)?_0x520239[_0x33ebe3(0x2aa)](_0x6b96fe[_0x29da8f][_0x33ebe3(0x46b)][_0x33ebe3(0x1f2)])<0x0&&_0x4e73f3[_0x33ebe3(0x5a8)](_0x518f8a[_0x13e66e][_0x33ebe3(0x46b)][_0x33ebe3(0x1f2)]):_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1[_0x33ebe3(0x2bb)])[_0x33ebe3(0x3a6)](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x4d8)],0x1),_0x5bc7a0=_0x224780[_0x33ebe3(0x4cd)]()+':00\x20-\x20'+(_0x224780['getHours']()+0x1)+_0x33ebe3(0x513),_0x4fd0a4=_0x3326e1[_0x33ebe3(0x2aa)](_0x5bc7a0),_0x41b4bd=_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x3a3)];_0x504980[_0x41b4bd][_0x4fd0a4]+=0x1;}}if(_0x55cbd7==_0x33ebe3(0x31c)){if(_0x33ebe3(0x378)!==_0x33ebe3(0x5a5)){_0x45c4b5[0x0]=[_0x33ebe3(0x462)];for(var _0x556880=0x0;_0x556880<_0x45c4b5['length'];_0x556880++){_0x504980[_0x45c4b5[_0x556880]]=new Array(_0x3326e1['length'])[_0x33ebe3(0x3a6)](0x0);}for(var _0x556880=0x0;_0x556880<_0x167e6f[_0x33ebe3(0x2bb)];_0x556880++){var _0x224780=decode_date(_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x5f1)][_0x33ebe3(0x4d8)],0x1),_0x5bc7a0=_0x224780['getHours']()+_0x33ebe3(0x371)+(_0x224780[_0x33ebe3(0x4cd)]()+0x1)+':00',_0x4fd0a4=_0x3326e1['indexOf'](_0x5bc7a0);_0x504980[_0x45c4b5[0x0]][_0x4fd0a4]+=_0x167e6f[_0x556880][_0x4ada71][_0x33ebe3(0x267)]/0x3c;}for(var _0x556880=0x0;_0x556880<_0x3326e1[_0x33ebe3(0x2bb)];_0x556880++){_0x504980[_0x45c4b5[0x0]][_0x556880]=Number(_0x504980[_0x45c4b5[0x0]][_0x556880])['toFixed'](0x1);}}else{const _0x3445a6=_0x33ebe3(0x3c6)+_0x1c8b5c;_0x42875e(_0x2d491e,_0x3445a6,_0x5b5999+_0x58e061[_0x33ebe3(0x3a8)],_0x44ffb5,_0x2b96c6,_0x2c0e79,_0x33ebe3(0x1cc)),_0x1e266c+=(_0x1d256c[_0x33ebe3(0x174)](_0x3445a6['length']/_0x27c2f8)+0x2)*_0x1b2c93;}}var _0x1f7591=[];for(var _0x556880=0x0;_0x556880<_0x45c4b5[_0x33ebe3(0x2bb)];_0x556880++){_0x1f7591[_0x33ebe3(0x5a8)]({'label':_0x45c4b5[_0x556880],'data':_0x504980[_0x45c4b5[_0x556880]],'stack':0x1,'backgroundColor':_0x556880<=indexcolors[_0x33ebe3(0x2bb)]?indexcolors[_0x556880]:_0x33ebe3(0x18f),'maxBarThickness':0x3c});}return{'dataset':_0x1f7591,'stack_labels':_0x45c4b5,'axis_labels':_0x3326e1};}function convert_disruption_data_to_hourly_analytics_chart_dataset(_0x44978e=[],_0x8b058b,_0x33ffa0=_0x390981(0x4f8)){var _0x1bda74=_0x390981,_0x1bf7dc=[],_0x2cb21d=[];for(var _0x5f4891=0x0;_0x5f4891<_0x44978e[_0x1bda74(0x2bb)];_0x5f4891++){if(pass_disruption_filter_criteria(_0x44978e[_0x5f4891],_0x8b058b,_0x1bda74(0x3cf),'hourly_analytics_filter_status',_0x1bda74(0x62d),_0x1bda74(0x526),_0x1bda74(0x614))){if(_0x1bda74(0x56c)===_0x1bda74(0x15c))return _0x1e987c('You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.'),![];else{_0x1bf7dc[_0x1bda74(0x5a8)](_0x44978e[_0x5f4891]);var _0x421a81=decode_date(_0x44978e[_0x5f4891][_0x1bda74(0x617)],0x1),_0x3fa7a5=_0x421a81[_0x1bda74(0x4cd)]()+_0x1bda74(0x371)+(_0x421a81['getHours']()+0x1)+_0x1bda74(0x513);if(_0x2cb21d[_0x1bda74(0x2aa)](_0x3fa7a5)<0x0)_0x2cb21d[_0x1bda74(0x5a8)](_0x3fa7a5);}}}_0x2cb21d=_0x2cb21d[_0x1bda74(0x57a)](function(_0x29abbb,_0x205f2f){var _0x36abf4=_0x1bda74;if(_0x36abf4(0x226)!==_0x36abf4(0x3c7)){const _0x2ccf04=Number(_0x29abbb['split'](':')[0x0]),_0x189dfd=Number(_0x205f2f[_0x36abf4(0x1f6)](':')[0x0]);return _0x2ccf04-_0x189dfd;}else{if(_0x41ecff[_0x1be537][_0x36abf4(0x45d)]!=_0x3b48d8&&_0x3c487c[_0x160796][_0x36abf4(0x45d)]>0x1){const _0x3def88=_0x38c508+'.'+_0x21fad6+'.'+_0xb5822b[_0x3819f7][_0x36abf4(0xdc)],_0x5e67f6=_0x59da48[_0x62d70a][_0x36abf4(0x420)][_0x224def[_0x1d6113][_0x36abf4(0xdc)]][0x0];if(_0x3ba8aa[_0x3def88]==_0x4f20cb||_0x521d0c[_0x3def88]['freq_remaining']<=0x0||_0x1a002d[_0x3def88][_0x36abf4(0x1fc)]!=_0x5e67f6)_0x2b1da5[_0x3def88]={'value':_0x5e67f6,'freq_remaining':_0x837735[_0x1f20ba][_0x36abf4(0x45d)]-0x1,'record_time':new _0x3b7377()};else _0x1a4ceb[_0x3def88]!=_0xbf4534&&_0x1ba858[_0x3def88][_0x36abf4(0x411)]>0x0&&_0x41325c[_0x3def88][_0x36abf4(0x1fc)]==_0x5e67f6&&(_0x6f386a[_0x3def88]['freq_remaining']=_0x368c48[_0x3def88][_0x36abf4(0x411)]-0x1);}}});var _0x48b295={},_0x5a3b78=[];if(_0x33ffa0==_0x1bda74(0x4f8)){for(var _0x5f4891=0x0;_0x5f4891<_0x1bf7dc['length'];_0x5f4891++){if(_0x1bda74(0x3fd)!==_0x1bda74(0x42e))_0x5a3b78[_0x1bda74(0x2aa)](_0x1bf7dc[_0x5f4891][_0x1bda74(0x296)])<0x0&&_0x5a3b78['push'](_0x1bf7dc[_0x5f4891][_0x1bda74(0x296)]);else{var _0x581430=[];for(var _0x4b42c9=0x0;_0x4b42c9<_0x23ae85[_0x1bda74(0x2bb)];_0x4b42c9++)_0x581430[_0x4b42c9]=_0x5410b2(_0x36d1fb[_0x4b42c9]);var _0x30fdda={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x1f9882}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![]}]},'legend':{'display':!![]}},_0x3a51f5=_0x163775['getElementById'](_0x27f819)['getContext']('2d'),_0x5da455=new _0x594046(_0x3a51f5,{'type':_0x1bda74(0x35e),'data':{'labels':_0x581430,'datasets':_0x209e58},'options':_0x30fdda});}}_0x5a3b78=_0x5a3b78[_0x1bda74(0x57a)]();for(var _0x5f4891=0x0;_0x5f4891<_0x5a3b78[_0x1bda74(0x2bb)];_0x5f4891++){if(_0x1bda74(0x3d4)!=='XsmHB')_0x48b295[_0x5a3b78[_0x5f4891]]=new Array(_0x2cb21d[_0x1bda74(0x2bb)])[_0x1bda74(0x3a6)](0x0);else return _0x535945('You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.'),![];}for(var _0x5f4891=0x0;_0x5f4891<_0x1bf7dc['length'];_0x5f4891++){var _0x50c183=decode_date(_0x1bf7dc[_0x5f4891][_0x1bda74(0x617)],0x1),_0x3fa7a5=_0x50c183[_0x1bda74(0x4cd)]()+_0x1bda74(0x371)+(_0x50c183[_0x1bda74(0x4cd)]()+0x1)+':00',_0x1c427a=_0x2cb21d[_0x1bda74(0x2aa)](_0x3fa7a5),_0xc0676d=_0x1bf7dc[_0x5f4891][_0x1bda74(0x296)],_0x21ff2d=(decode_date(_0x1bf7dc[_0x5f4891][_0x1bda74(0x3cb)]||new Date(),0x1)-decode_date(_0x1bf7dc[_0x5f4891][_0x1bda74(0x617)],0x1))/(0x3e8*0x3c);_0x21ff2d=Math[_0x1bda74(0x5cc)](_0x21ff2d),_0x48b295[_0xc0676d][_0x1c427a]+=_0x21ff2d;}}if(_0x33ffa0==_0x1bda74(0x578)){for(var _0x5f4891=0x0;_0x5f4891<_0x1bf7dc[_0x1bda74(0x2bb)];_0x5f4891++){if(_0x5a3b78[_0x1bda74(0x2aa)](_0x1bf7dc[_0x5f4891][_0x1bda74(0x296)])<0x0){if(_0x1bda74(0x4f9)===_0x1bda74(0x5f3)){if(!_0xfaf376(_0xa106d3[_0x3a116b])&&_0x5bf1b0[_0x316036]!='')return _0x1ba819(_0x1bda74(0x3b5)),![];if(_0x15d227(_0x87a45c[_0x5ef0dc]))_0x937775['push'](_0x2f5fb0[_0x5b1073]);}else _0x5a3b78[_0x1bda74(0x5a8)](_0x1bf7dc[_0x5f4891][_0x1bda74(0x296)]);}}_0x5a3b78=_0x5a3b78[_0x1bda74(0x57a)]();for(var _0x5f4891=0x0;_0x5f4891<_0x5a3b78[_0x1bda74(0x2bb)];_0x5f4891++){_0x48b295[_0x5a3b78[_0x5f4891]]=new Array(_0x2cb21d['length'])['fill'](0x0);}for(var _0x5f4891=0x0;_0x5f4891<_0x1bf7dc[_0x1bda74(0x2bb)];_0x5f4891++){var _0x50c183=decode_date(_0x1bf7dc[_0x5f4891][_0x1bda74(0x617)],0x1),_0x3fa7a5=_0x50c183[_0x1bda74(0x4cd)]()+_0x1bda74(0x371)+(_0x50c183[_0x1bda74(0x4cd)]()+0x1)+_0x1bda74(0x513),_0x1c427a=_0x2cb21d[_0x1bda74(0x2aa)](_0x3fa7a5),_0xc0676d=_0x1bf7dc[_0x5f4891]['reason'];_0x48b295[_0xc0676d][_0x1c427a]+=0x1;}}var _0x4a22c7=[];for(var _0x5f4891=0x0;_0x5f4891<_0x5a3b78['length'];_0x5f4891++){_0x4a22c7[_0x1bda74(0x5a8)]({'label':_0x5a3b78[_0x5f4891],'data':_0x48b295[_0x5a3b78[_0x5f4891]],'stack':0x1,'backgroundColor':_0x5f4891<=indexcolors[_0x1bda74(0x2bb)]?indexcolors[_0x5f4891]:_0x1bda74(0x18f),'maxBarThickness':0x3c});}return{'dataset':_0x4a22c7,'stack_labels':_0x5a3b78,'axis_labels':_0x2cb21d};}function render_hourly_analytics_graph(_0x391c6a,_0x20c226,_0x3212cd,_0x9ad26d='hourly_analytics_graph_default'){var _0x2b67f7=_0x390981;chart_data=_0x20c226[_0x2b67f7(0x56e)],chart_labels=_0x20c226[_0x2b67f7(0x203)];var _0x56d760=_0x2b67f7(0x2c2)+_0x3212cd+')';if(_0x9ad26d==_0x2b67f7(0x31c))_0x56d760=_0x2b67f7(0x3bf);if(_0x9ad26d==_0x2b67f7(0x4f8))_0x56d760='Disruptions\x20Reported\x20for\x20'+_0x3212cd+_0x2b67f7(0x39e);if(_0x9ad26d==_0x2b67f7(0x578))_0x56d760=_0x2b67f7(0x2c0)+_0x3212cd;empty_container_byReference(_0x391c6a);var _0x13aebd=document[_0x2b67f7(0x48c)](_0x2b67f7(0x19d));_0x13aebd['id']=_0x2b67f7(0x187),_0x391c6a[_0x2b67f7(0x357)](_0x13aebd);var _0x1dbe7e=_0x13aebd['getContext']('2d'),_0x1a6ca7=[];for(var _0x1c9605=0x0;_0x1c9605<chart_labels[_0x2b67f7(0x2bb)];_0x1c9605++)_0x1a6ca7[_0x1c9605]=formatLabel(chart_labels[_0x1c9605]);var _0x35f4ba={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x56d760}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':'flex'}]},'legend':{'display':!![]}},_0xacb44=new Chart(_0x1dbe7e,{'type':_0x2b67f7(0x3e5),'data':{'labels':_0x1a6ca7,'datasets':chart_data},'options':_0x35f4ba});}async function initialize_wip_inventory_analytics_section(){var _0xe162fe=_0x390981;await reset_sections();var _0x2fef65=document[_0xe162fe(0x610)]('wip_inventory_analytics_model_select');empty_container_byReference(_0x2fef65),document[_0xe162fe(0x610)]('wip_inventory_analytics_main_content')[_0xe162fe(0x214)][_0xe162fe(0x138)]=_0xe162fe(0x608);if(is_null(gl_model_list))gl_model_list=await read_model_list();set_select_options(_0x2fef65,gl_model_list[_0xe162fe(0x57a)]()),fetch_wip_inventory_analytics_data_btn[_0xe162fe(0x49a)]=async function(){var _0x522bc7=_0xe162fe;if('gLxDB'===_0x522bc7(0x4ee)){const _0x43bc42=_0x2fef65[_0x522bc7(0x1fc)];try{if(_0x522bc7(0x123)!==_0x522bc7(0x123)){if(_0x54d3b3(_0x3f028b[_0x386104])==!![]&&_0x1f4f98==-0x1)_0x150b07=_0x104cb3+0x1;}else{start_loading();const _0x51f53e=functions[_0x522bc7(0x40e)](_0x522bc7(0x2db)),_0x992eeb=(await _0x51f53e({'model_type':_0x43bc42}))[_0x522bc7(0x3f9)];console[_0x522bc7(0x5f1)](_0x992eeb),gl_analytics_records_list=_0x992eeb;var _0x31e4dd=document[_0x522bc7(0x610)]('wip_inventory_analytics_job_records_table_container');empty_container_byReference(_0x31e4dd);let _0x24ee3e=document[_0x522bc7(0x48c)](_0x522bc7(0x2f5));_0x24ee3e[_0x522bc7(0x101)]=_0x522bc7(0x46d),_0x24ee3e[_0x522bc7(0x214)]='width:100%',_0x24ee3e['id']=_0x522bc7(0x56b),_0x31e4dd[_0x522bc7(0x357)](_0x24ee3e),process_wip_inventory_analytics_data(gl_analytics_records_list,_0x43bc42),render_table_job_records(gl_analytics_records_list,'wip_inventory_analytics_table'),document[_0x522bc7(0x610)](_0x522bc7(0x32e))[_0x522bc7(0x214)]['display']=_0x522bc7(0x43b),stop_loading();}}catch(_0xd5a2ab){return display_error(_0xd5a2ab[_0x522bc7(0x286)]),![];}}else _0x106217(_0x1fc7d3['id']);};}function process_wip_inventory_analytics_data(_0x2ceaea,_0x16fa1c){var _0xd05d27=_0x390981,_0x2fdbc9=[];for(var _0x1a6a02=0x0;_0x1a6a02<_0x2ceaea[_0xd05d27(0x2bb)];_0x1a6a02++){'iJcHU'!==_0xd05d27(0x5ed)?_0x2fdbc9=_0x2fdbc9[_0xd05d27(0x472)](_0x2ceaea[_0x1a6a02]['Basic\x20Info'][_0xd05d27(0x167)]):(_0x16d5b6[_0xd05d27(0x2c8)][_0x47cbfd[_0xd05d27(0x2aa)](_0x1deb9b)]+=0x1,_0x27cbef[_0xd05d27(0x2c8)][_0x101f82[_0xd05d27(0x2aa)](_0x3aba8e)]+=0x1);}_0x2fdbc9=Array[_0xd05d27(0x39f)](new Set(_0x2fdbc9));var _0x4b54cb=document[_0xd05d27(0x610)]('wip_inventory_charts_container');_0x4b54cb['style'][_0xd05d27(0x1a2)]=0x32+'vh';var _0x1cc6e9=convert_data_to_wip_inventory_analytics_chart_dataset(_0x2ceaea,_0x2fdbc9);return render_wip_inventory_analytics_graph(wip_inventory_charts_container,_0x1cc6e9,_0x16fa1c),!![];}function convert_data_to_wip_inventory_analytics_chart_dataset(_0x488d08=[],_0x3f487a){var _0x3ffb87=_0x390981,_0x33d763=_0x488d08,_0x382ea0=[];for(var _0xe36b18=0x0;_0xe36b18<_0x3f487a[_0x3ffb87(0x2bb)];_0xe36b18++){(gl_user_permission[_0x3ffb87(0x464)]==0x1||gl_user_permission[_0x3f487a[_0xe36b18]]>=0x1)&&_0x382ea0['push'](_0x3f487a[_0xe36b18]);}_0x382ea0['push']('Ready\x20for\x20Dispatch'),_0x382ea0=Array[_0x3ffb87(0x39f)](new Set(_0x382ea0));var _0x1b13bc={},_0x56c949=[status_list[0x2],status_list[0x1],status_list[0x3]];for(var _0xe36b18=0x0;_0xe36b18<_0x56c949[_0x3ffb87(0x2bb)];_0xe36b18++){_0x1b13bc[_0x56c949[_0xe36b18]]=new Array(_0x382ea0[_0x3ffb87(0x2bb)])[_0x3ffb87(0x3a6)](0x0);}for(var _0xe36b18=0x0;_0xe36b18<_0x33d763[_0x3ffb87(0x2bb)];_0xe36b18++){var _0x48bf20=_0x33d763[_0xe36b18][_0x3ffb87(0x46b)][_0x3ffb87(0x482)];if(_0x48bf20=='.')_0x48bf20='Ready\x20for\x20Dispatch';var _0x4f2642=_0x382ea0[_0x3ffb87(0x2aa)](_0x48bf20);console[_0x3ffb87(0x5f1)](_0x4f2642);var _0x2527b2=_0x33d763[_0xe36b18][_0x48bf20]==undefined?0x2:_0x33d763[_0xe36b18][_0x48bf20][_0x3ffb87(0x2f2)],_0x1e1b0f=status_list[_0x2527b2];_0x1b13bc[_0x1e1b0f][_0x4f2642]+=0x1;}var _0x24efc6=[];for(var _0xe36b18=0x0;_0xe36b18<_0x56c949[_0x3ffb87(0x2bb)];_0xe36b18++){_0x24efc6['push']({'label':_0x56c949[_0xe36b18],'data':_0x1b13bc[_0x56c949[_0xe36b18]],'stack':0x1,'backgroundColor':_0xe36b18<=indexcolors['length']?indexcolors[_0xe36b18]:_0x3ffb87(0x18f),'maxBarThickness':0x3c,'barThickness':_0x3ffb87(0x31d)});}return{'dataset':_0x24efc6,'stack_labels':_0x56c949,'axis_labels':_0x382ea0};}function render_wip_inventory_analytics_graph(_0x550a01,_0x18c2ae,_0x120c6a){var _0x1e381d=_0x390981;chart_data=_0x18c2ae[_0x1e381d(0x56e)],chart_labels=_0x18c2ae['axis_labels'];var _0x297d04=_0x120c6a+_0x1e381d(0x5f7);empty_container_byReference(_0x550a01);var _0x2420a2=document[_0x1e381d(0x48c)](_0x1e381d(0x19d));_0x2420a2['id']=_0x1e381d(0x3e9),_0x550a01[_0x1e381d(0x357)](_0x2420a2);var _0x54b45a=_0x2420a2['getContext']('2d'),_0x382208=[];for(var _0x5e65af=0x0;_0x5e65af<chart_labels[_0x1e381d(0x2bb)];_0x5e65af++)_0x382208[_0x5e65af]=formatLabel(chart_labels[_0x5e65af]);var _0x30c8c8={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x297d04}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':_0x1e381d(0x31d)}]},'legend':{'display':!![]}},_0x39555a=new Chart(_0x54b45a,{'type':_0x1e381d(0x35e),'data':{'labels':_0x382208,'datasets':chart_data},'options':_0x30c8c8});}async function initialize_process_disruption_analytics_section(){var _0x52a603=_0x390981;reset_sections(),document['getElementById'](_0x52a603(0x514))[_0x52a603(0x1fc)]='',document[_0x52a603(0x610)](_0x52a603(0x3e4))[_0x52a603(0x1fc)]='',document[_0x52a603(0x610)]('process_disruption_analytics_main_content')[_0x52a603(0x214)][_0x52a603(0x138)]='none',document[_0x52a603(0x610)](_0x52a603(0x145))[_0x52a603(0x1fc)]=_0x52a603(0x603),$('#process_disruption_analytics_start_datepicker')[_0x52a603(0x4a2)]({'uiLibrary':'bootstrap4'}),$(_0x52a603(0x307))[_0x52a603(0x4a2)]({'uiLibrary':_0x52a603(0x333)}),fetch_process_disruption_analytics_data_btn[_0x52a603(0x49a)]=async function(){var _0x16b0dc=_0x52a603,_0x338669=document[_0x16b0dc(0x610)](_0x16b0dc(0x514))[_0x16b0dc(0x1fc)],_0x29e66d=document[_0x16b0dc(0x610)]('process_disruption_analytics_end_datepicker')[_0x16b0dc(0x1fc)];if(is_null(_0x338669)||is_null(_0x29e66d))return display_error(_0x16b0dc(0xe2)),![];else{if('hGQwt'!=='hGQwt')return![];else _0x338669=new Date(_0x338669),_0x29e66d=new Date(_0x29e66d);}if(_0x29e66d-_0x338669<0x0)return display_error(_0x16b0dc(0x111)),![];if(gl_user_permission['admin']!=0x1&&gl_user_permission[section_permission_list[_0x16b0dc(0xf3)]]!=0x1){if(_0x16b0dc(0x350)===_0x16b0dc(0x350))return display_error('You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.\x20Please\x20contact\x20your\x20admin.'),![];else{var _0x26d497=_0x41da40[_0x46e1a2['value']][_0x16b0dc(0x5f1)][_0x16b0dc(0x57e)],_0x2bfe0d=_0x5e6ce9(_0x4096bf[_0x2b6d43['value']][_0x16b0dc(0x5f1)][_0x16b0dc(0x24d)]),_0x57fcb4=_0x274a78[_0xdcc83d[_0x16b0dc(0x1fc)]][_0x16b0dc(0x5f1)]['remark'],_0xa148db='Deviation\x20allowed\x20by\x20';if(_0x18e318[_0x282f56['value']][_0x16b0dc(0x2f2)]==0x4)_0xa148db=_0x16b0dc(0x13c);_0x3b48db=_0xb269d8+_0xa148db+_0x26d497+_0x16b0dc(0x2e6)+_0x2bfe0d+_0x16b0dc(0x4d7)+_0x57fcb4+_0x16b0dc(0x1b7);}}_0x338669[_0x16b0dc(0x388)](0x0),_0x338669[_0x16b0dc(0x381)](0x0),_0x338669[_0x16b0dc(0x57d)](0x0),_0x29e66d[_0x16b0dc(0x388)](0x17),_0x29e66d[_0x16b0dc(0x381)](0x3b),_0x29e66d[_0x16b0dc(0x57d)](0x3b);const _0x2ff642=firebase['firestore'][_0x16b0dc(0xef)][_0x16b0dc(0x28e)](_0x338669),_0x58a6ea=firebase[_0x16b0dc(0x4fc)][_0x16b0dc(0xef)][_0x16b0dc(0x28e)](_0x29e66d);try{if(_0x16b0dc(0xf1)!==_0x16b0dc(0x392)){start_loading();const _0x2fd666=functions[_0x16b0dc(0x40e)]('download_disruption_analytics_data'),_0x2bf348=(await _0x2fd666({'start_date':_0x2ff642,'end_date':_0x58a6ea}))['data'];var _0x5f2e49=[];gl_analytics_disruption_records_list=[];for(var _0x42a12c=0x0;_0x42a12c<_0x2bf348['length'];_0x42a12c++){if(gl_user_permission[_0x16b0dc(0x464)]==0x1||gl_user_permission[_0x2bf348[_0x42a12c][_0x16b0dc(0x399)]]>=0x1)_0x5f2e49['push'](_0x2bf348[_0x42a12c]);}gl_analytics_disruption_records_list=_0x5f2e49;var _0xc36f25=document[_0x16b0dc(0x610)]('process_disruption_analytics_table_container');empty_container_byReference(_0xc36f25);let _0x54a57a=document['createElement']('table');_0x54a57a[_0x16b0dc(0x101)]=_0x16b0dc(0x46d),_0x54a57a[_0x16b0dc(0x214)]=_0x16b0dc(0x572),_0x54a57a['id']=_0x16b0dc(0x5bf),_0xc36f25[_0x16b0dc(0x357)](_0x54a57a),process_disruption_analytics_data(gl_analytics_disruption_records_list),render_table_disruption_records(gl_analytics_disruption_records_list,_0x16b0dc(0x5bf)),document[_0x16b0dc(0x610)](_0x16b0dc(0x1c9))[_0x16b0dc(0x214)][_0x16b0dc(0x138)]=_0x16b0dc(0x43b);var _0xe7a340=document[_0x16b0dc(0x610)]('process_disruption_analytics_breakdown_select');_0xe7a340[_0x16b0dc(0x3ab)]=function(){process_disruption_analytics_data(gl_analytics_disruption_records_list);},stop_loading();}else _0x7d52e3(_0x5da51f),_0x36191e(_0x11dc26,_0x315867[_0x228518[_0x16b0dc(0x1fc)]]||['\x20']);}catch(_0x38f708){return display_error(_0x38f708[_0x16b0dc(0x286)]),![];}};}function process_disruption_analytics_data(_0x4f904b){var _0x9b113c=_0x390981,_0x16a962=[];for(var _0x15c433=0x0;_0x15c433<_0x4f904b[_0x9b113c(0x2bb)];_0x15c433++){_0x9b113c(0x4d2)!==_0x9b113c(0x4d2)?(_0x445c8b=_0x14a9c3[_0x9b113c(0x472)](_0x3e7f5e[_0x318200]['Basic\x20Info'][_0x9b113c(0x167)]),_0x1d13ed=_0x3f7774[_0x9b113c(0x39f)](new _0x53dbe5(_0x4af073))):_0x16a962[_0x9b113c(0x5a8)](_0x4f904b[_0x15c433][_0x9b113c(0x399)]);}_0x16a962=Array['from'](new Set(_0x16a962))['sort']();var _0xa9b82e=document[_0x9b113c(0x610)]('process_disruption_analytics_charts_container');_0xa9b82e['style']['height']=0x32+'vh';var _0x2c9c78=document['getElementById'](_0x9b113c(0x145)),_0x55c3bf=convert_data_to_disruption_analytics_chart_dataset(_0x4f904b,_0x2c9c78['value']);return render_disruption_analytics_graph(_0xa9b82e,_0x55c3bf,_0x2c9c78[_0x9b113c(0x1fc)]),_0x2c9c78[_0x9b113c(0x3ab)]=function(){var _0x4f49c1=_0x9b113c,_0x1c36a5={};_0x1c36a5=convert_data_to_disruption_analytics_chart_dataset(_0x4f904b,_0x2c9c78['value']),render_disruption_analytics_graph(_0xa9b82e,_0x1c36a5,_0x2c9c78[_0x4f49c1(0x1fc)]);},!![];}function convert_data_to_disruption_analytics_chart_dataset(_0x1f2820=[],_0x22e610=_0x390981(0x4f3)){var _0x8fe979=_0x390981,_0x360348=[],_0x4c0850=[];for(var _0x4d3035=0x0;_0x4d3035<_0x1f2820[_0x8fe979(0x2bb)];_0x4d3035++){_0x360348[_0x8fe979(0x5a8)](_0x1f2820[_0x4d3035]);var _0x1e50e2=_0x1f2820[_0x4d3035][_0x8fe979(0x399)];if(_0x4c0850['indexOf'](_0x1e50e2)<0x0)_0x4c0850[_0x8fe979(0x5a8)](_0x1e50e2);}var _0x1d56fb={},_0x26bdbd=[];if(_0x22e610==_0x8fe979(0x127)){for(var _0x4d3035=0x0;_0x4d3035<_0x360348[_0x8fe979(0x2bb)];_0x4d3035++){_0x26bdbd[_0x8fe979(0x2aa)](_0x360348[_0x4d3035]['reason'])<0x0&&(_0x8fe979(0x22a)!==_0x8fe979(0x22a)?_0x5c1dc6['push']({'label':_0x4479de[_0x281da6],'data':_0x1cfeed[_0x4e69b4[_0xa69392]],'stack':0x1,'backgroundColor':_0x52a9dc<=_0x24a323[_0x8fe979(0x2bb)]?_0x123bf2[_0x5db6dd]:_0x8fe979(0x18f),'maxBarThickness':0x3c,'barThickness':'flex'}):_0x26bdbd[_0x8fe979(0x5a8)](_0x360348[_0x4d3035][_0x8fe979(0x296)]));}_0x26bdbd=_0x26bdbd[_0x8fe979(0x57a)]();for(var _0x4d3035=0x0;_0x4d3035<_0x26bdbd[_0x8fe979(0x2bb)];_0x4d3035++){if('uafWs'==='uafWs')_0x1d56fb[_0x26bdbd[_0x4d3035]]=new Array(_0x4c0850['length'])[_0x8fe979(0x3a6)](0x0);else{_0x1a9324[_0x8fe979(0x5a8)](_0xa42479(_0x4db51c[_0x46f434][_0x4cc4e0][_0x8fe979(0x5f1)][_0x8fe979(0x4d8)],0x2)),_0x7d4220['push'](_0x303b03[_0x286b12][_0x8fe979(0x46b)][_0x8fe979(0x1f2)]),_0x5adf7f[_0x8fe979(0x5a8)](_0x126f91[_0x1641ba][_0x4a031c][_0x8fe979(0x15a)]),_0x2b5241[_0x8fe979(0x5a8)](_0x59a351[_0x33f063][_0x180f9a][_0x8fe979(0x5f1)][_0x8fe979(0x3a3)]);if(_0x858f91[_0x4e2d54][_0x42b89c]['status']==0x4)_0x16562a[_0x8fe979(0x5a8)](_0x8fe979(0x283));else{if(_0x41e7f6[_0x5d1ea0][_0x19b2e9][_0x8fe979(0x2f2)]==0x0){if(_0x5423f2[_0x23854b][_0x10fe07][_0x8fe979(0x5f1)][_0x8fe979(0x57e)]=='')_0x3d7283[_0x8fe979(0x5a8)](_0x8fe979(0xd9));else _0x49bca9[_0x8fe979(0x5a8)](_0x8fe979(0x4b5));}else _0x3374be[_0x8fe979(0x5a8)](_0x8fe979(0x509));}}}for(var _0x4d3035=0x0;_0x4d3035<_0x360348[_0x8fe979(0x2bb)];_0x4d3035++){var _0x5a5694=_0x4c0850['indexOf'](_0x360348[_0x4d3035]['operation']),_0xab0b3e=_0x360348[_0x4d3035][_0x8fe979(0x296)],_0x186f38=(decode_date(_0x360348[_0x4d3035][_0x8fe979(0x3cb)]||new Date(),0x1)-decode_date(_0x360348[_0x4d3035][_0x8fe979(0x617)],0x1))/(0x3e8*0x3c);_0x186f38=Math[_0x8fe979(0x5cc)](_0x186f38),_0x1d56fb[_0xab0b3e][_0x5a5694]+=_0x186f38;}}if(_0x22e610==_0x8fe979(0x603)){for(var _0x4d3035=0x0;_0x4d3035<_0x360348[_0x8fe979(0x2bb)];_0x4d3035++){_0x26bdbd[_0x8fe979(0x2aa)](_0x360348[_0x4d3035][_0x8fe979(0x296)])<0x0&&_0x26bdbd[_0x8fe979(0x5a8)](_0x360348[_0x4d3035][_0x8fe979(0x296)]);}_0x26bdbd=_0x26bdbd['sort']();for(var _0x4d3035=0x0;_0x4d3035<_0x26bdbd[_0x8fe979(0x2bb)];_0x4d3035++){if(_0x8fe979(0xfc)!==_0x8fe979(0xfc))return _0x41b33b('Please\x20select\x20an\x20operation\x20for\x20every\x20step.\x20[Step\x20'+(_0x379314+0x1)[_0x8fe979(0x2ab)]()+']'),![];else _0x1d56fb[_0x26bdbd[_0x4d3035]]=new Array(_0x4c0850[_0x8fe979(0x2bb)])[_0x8fe979(0x3a6)](0x0);}for(var _0x4d3035=0x0;_0x4d3035<_0x360348[_0x8fe979(0x2bb)];_0x4d3035++){var _0x5a5694=_0x4c0850['indexOf'](_0x360348[_0x4d3035][_0x8fe979(0x399)]),_0xab0b3e=_0x360348[_0x4d3035][_0x8fe979(0x296)];_0x1d56fb[_0xab0b3e][_0x5a5694]+=0x1;}}var _0x433f27=[];for(var _0x4d3035=0x0;_0x4d3035<_0x26bdbd['length'];_0x4d3035++){_0x433f27[_0x8fe979(0x5a8)]({'label':_0x26bdbd[_0x4d3035],'data':_0x1d56fb[_0x26bdbd[_0x4d3035]],'stack':0x1,'backgroundColor':_0x4d3035<=indexcolors[_0x8fe979(0x2bb)]?indexcolors[_0x4d3035]:_0x8fe979(0x18f),'maxBarThickness':0x3c,'barThickness':'flex'});}return{'dataset':_0x433f27,'stack_labels':_0x26bdbd,'axis_labels':_0x4c0850};}function render_disruption_analytics_graph(_0x1bac9a,_0x4efc0a,_0x4f98d5=_0x390981(0x603)){var _0x51317b=_0x390981;chart_data=_0x4efc0a[_0x51317b(0x56e)],chart_labels=_0x4efc0a[_0x51317b(0x203)];var _0x5c592b=_0x51317b(0x527);if(_0x4f98d5==_0x51317b(0x127))_0x5c592b=_0x51317b(0x445);empty_container_byReference(_0x1bac9a);var _0x41619d=document['createElement'](_0x51317b(0x19d));_0x41619d['id']='disruptions_analytics_charts_canvas',_0x1bac9a[_0x51317b(0x357)](_0x41619d);var _0x4d48eb=_0x41619d[_0x51317b(0x19e)]('2d'),_0x1b28e7=[];for(var _0x553389=0x0;_0x553389<chart_labels[_0x51317b(0x2bb)];_0x553389++)_0x1b28e7[_0x553389]=formatLabel(chart_labels[_0x553389]);var _0xd64a06={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x5c592b}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![],'barThickness':_0x51317b(0x31d)}]},'legend':{'display':!![]}},_0x40ff8f=new Chart(_0x4d48eb,{'type':_0x51317b(0x3e5),'data':{'labels':_0x1b28e7,'datasets':chart_data},'options':_0xd64a06});}function render_table_disruption_records(_0x450c31,_0x24d5e6,_0x21bf4e=[]){var _0x4a9f01=_0x390981,_0x384cd2=[];if(!is_null(_0x21bf4e))_0x384cd2=_0x21bf4e;else for(var _0x5f2eda=0x0;_0x5f2eda<_0x450c31[_0x4a9f01(0x2bb)];_0x5f2eda++){_0x384cd2['push'](_0x450c31[_0x5f2eda][_0x4a9f01(0x399)]);}_0x384cd2=Array[_0x4a9f01(0x39f)](new Set(_0x384cd2));let _0xbba207=document[_0x4a9f01(0x610)](_0x24d5e6),_0x44a2cf=document[_0x4a9f01(0x48c)](_0x4a9f01(0x228)),_0x237c4f=document[_0x4a9f01(0x48c)]('tr'),_0x49e8d3=document['createElement']('th');_0x49e8d3[_0x4a9f01(0x602)]=_0x4a9f01(0x598),_0x237c4f[_0x4a9f01(0x357)](_0x49e8d3);let _0x5af24f=document[_0x4a9f01(0x48c)]('th');_0x5af24f[_0x4a9f01(0x602)]=_0x4a9f01(0x45f),_0x237c4f[_0x4a9f01(0x357)](_0x5af24f);let _0x2d9316=document[_0x4a9f01(0x48c)]('th');_0x2d9316[_0x4a9f01(0x602)]='Workstation',_0x237c4f['appendChild'](_0x2d9316);let _0x413da6=document[_0x4a9f01(0x48c)]('th');_0x413da6[_0x4a9f01(0x602)]=_0x4a9f01(0x4b4),_0x237c4f['appendChild'](_0x413da6);let _0x3cf7fa=document[_0x4a9f01(0x48c)]('th');_0x3cf7fa[_0x4a9f01(0x602)]=_0x4a9f01(0x444),_0x237c4f[_0x4a9f01(0x357)](_0x3cf7fa);let _0x46594b=document[_0x4a9f01(0x48c)]('th');_0x46594b[_0x4a9f01(0x602)]='Reported\x20By',_0x237c4f[_0x4a9f01(0x357)](_0x46594b);let _0x19c8e7=document['createElement']('th');_0x19c8e7[_0x4a9f01(0x602)]=_0x4a9f01(0x14e),_0x237c4f[_0x4a9f01(0x357)](_0x19c8e7);let _0xd4eabe=document[_0x4a9f01(0x48c)]('th');_0xd4eabe[_0x4a9f01(0x602)]=_0x4a9f01(0x49f),_0x237c4f[_0x4a9f01(0x357)](_0xd4eabe);let _0x158d97=document[_0x4a9f01(0x48c)]('th');_0x158d97[_0x4a9f01(0x602)]=_0x4a9f01(0x5c1),_0x237c4f[_0x4a9f01(0x357)](_0x158d97),_0x44a2cf['appendChild'](_0x237c4f);let _0x46ac5a=document[_0x4a9f01(0x48c)](_0x4a9f01(0x211));_0x46ac5a[_0x4a9f01(0x101)]=_0x4a9f01(0x5ea);for(var _0x5f2eda=0x0;_0x5f2eda<_0x450c31[_0x4a9f01(0x2bb)];_0x5f2eda++){if('kiOHU'!==_0x4a9f01(0xe7))_0x4b3bea[_0x3606c2[_0x269c2c]]=new _0x34068b(_0x5d1da2[_0x4a9f01(0x2bb)])[_0x4a9f01(0x3a6)](0x0);else{let _0x202cf5=document[_0x4a9f01(0x48c)]('tr'),_0x5cd20b=document[_0x4a9f01(0x48c)]('td');_0x5cd20b['innerText']=_0x450c31[_0x5f2eda]['reason'],_0x202cf5['appendChild'](_0x5cd20b);let _0x3022fb=document[_0x4a9f01(0x48c)]('td');_0x3022fb['innerText']=_0x450c31[_0x5f2eda]['operation'],_0x202cf5[_0x4a9f01(0x357)](_0x3022fb);let _0x365e54=document['createElement']('td');_0x365e54[_0x4a9f01(0x602)]=_0x450c31[_0x5f2eda][_0x4a9f01(0x15a)],_0x202cf5[_0x4a9f01(0x357)](_0x365e54);let _0xc113a8=document[_0x4a9f01(0x48c)]('td');_0xc113a8['innerText']=_0x450c31[_0x5f2eda]['remark'],_0x202cf5['appendChild'](_0xc113a8);let _0x427937=document[_0x4a9f01(0x48c)]('td');_0x427937[_0x4a9f01(0x602)]=((decode_date(_0x450c31[_0x5f2eda]['end_time']||new Date(),0x1)-decode_date(_0x450c31[_0x5f2eda][_0x4a9f01(0x617)],0x1))/(0x3e8*0x3c))[_0x4a9f01(0x1f8)](0x1)||'-',_0x202cf5['appendChild'](_0x427937);let _0x3dac2c=document[_0x4a9f01(0x48c)]('td');_0x3dac2c[_0x4a9f01(0x602)]=_0x450c31[_0x5f2eda][_0x4a9f01(0x29a)]||'-',_0x202cf5[_0x4a9f01(0x357)](_0x3dac2c);let _0x4181fa=document[_0x4a9f01(0x48c)]('td');_0x4181fa[_0x4a9f01(0x602)]=decode_date(_0x450c31[_0x5f2eda][_0x4a9f01(0x617)])||'-',_0x202cf5[_0x4a9f01(0x357)](_0x4181fa);let _0x5ed07e=document[_0x4a9f01(0x48c)]('td');_0x5ed07e[_0x4a9f01(0x602)]=_0x450c31[_0x5f2eda]['end_user']||'-',_0x202cf5[_0x4a9f01(0x357)](_0x5ed07e);let _0x9e7c40=document[_0x4a9f01(0x48c)]('td');_0x9e7c40[_0x4a9f01(0x602)]=decode_date(_0x450c31[_0x5f2eda][_0x4a9f01(0x3cb)])||'-',_0x202cf5['appendChild'](_0x9e7c40),_0x46ac5a[_0x4a9f01(0x357)](_0x202cf5);}}return _0xbba207['appendChild'](_0x44a2cf),_0xbba207[_0x4a9f01(0x357)](_0x46ac5a),$('#'+_0x24d5e6)['DataTable']({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,_0x4a9f01(0x131)]],'lengthChange':!![],'columnDefs':[{'targets':_0x4a9f01(0x354),'visible':!![],'width':_0x4a9f01(0x243)}],'colReorder':!![],'fixedColumns':{'leftColumns':0x2},'paging':!![],'dom':_0x4a9f01(0x348),'buttons':['searchBuilder',{'extend':_0x4a9f01(0x33b),'text':_0x4a9f01(0x276),'buttons':[_0x4a9f01(0x575),_0x4a9f01(0x574),_0x4a9f01(0x367)]}]}),!![];}async function initialize_maintenance_history_analytics_section(){var _0x530ed7=_0x390981;await reset_sections(),document['getElementById'](_0x530ed7(0x5f9))[_0x530ed7(0x1fc)]='',document[_0x530ed7(0x610)](_0x530ed7(0x393))[_0x530ed7(0x1fc)]='',document[_0x530ed7(0x610)](_0x530ed7(0x51a))[_0x530ed7(0x214)][_0x530ed7(0x138)]=_0x530ed7(0x608),$('#maintenance_history_report_start_datepicker')[_0x530ed7(0x4a2)]({'uiLibrary':_0x530ed7(0x333)}),$(_0x530ed7(0x233))[_0x530ed7(0x4a2)]({'uiLibrary':_0x530ed7(0x333)}),fetch_maintenance_history_report_data_btn[_0x530ed7(0x49a)]=async function(){var _0xb9a9fb=_0x530ed7,_0x2957aa=document['getElementById'](_0xb9a9fb(0x5f9))[_0xb9a9fb(0x1fc)],_0x50ab02=document['getElementById']('maintenance_history_report_end_datepicker')['value'];if(is_null(_0x2957aa)||is_null(_0x50ab02))return display_error(_0xb9a9fb(0xe2)),![];else _0x2957aa=new Date(_0x2957aa),_0x50ab02=new Date(_0x50ab02);if(_0x50ab02-_0x2957aa<0x0){if(_0xb9a9fb(0x363)!=='qASQU'){var _0x1eb4b4={'name':_0xb8f90[_0xb9a9fb(0x2df)][_0x11a35e][_0xb9a9fb(0x2df)][0x1]['value'],'link':_0x5d7d5f[_0xb9a9fb(0x2df)][_0x283d08][_0xb9a9fb(0x2df)][0x3]['value'],'type':_0x30c58b[_0xb9a9fb(0x2df)][_0x525013]['childNodes'][0x5][_0xb9a9fb(0x1fc)],'value1':_0x226f2e[_0xb9a9fb(0x2df)][_0x2c2537][_0xb9a9fb(0x2df)][0x6][_0xb9a9fb(0x1fc)],'value2':_0x4edbd0[_0xb9a9fb(0x2df)][_0x25a5b4]['childNodes'][0x7][_0xb9a9fb(0x1fc)]};_0xf425aa[_0xb9a9fb(0x5f2)][_0xb9a9fb(0x5a8)](_0x1eb4b4);}else return display_error(_0xb9a9fb(0x111)),![];}if(gl_user_permission[_0xb9a9fb(0x464)]!=0x1&&gl_user_permission[section_permission_list['View\x20Dashboard']]!=0x1)return display_error('You\x20do\x20not\x20have\x20sufficient\x20permissions\x20for\x20this\x20operation.\x20Please\x20contact\x20your\x20admin.'),![];_0x2957aa[_0xb9a9fb(0x388)](0x0),_0x2957aa[_0xb9a9fb(0x381)](0x0),_0x2957aa[_0xb9a9fb(0x57d)](0x0),_0x50ab02[_0xb9a9fb(0x388)](0x17),_0x50ab02[_0xb9a9fb(0x381)](0x3b),_0x50ab02['setSeconds'](0x3b);const _0x3ed28e=(new Date(_0x50ab02)-new Date(_0x2957aa))/(0x3e8*0x3c*0x3c*0x18),_0x4667dd=firebase[_0xb9a9fb(0x4fc)]['Timestamp']['fromDate'](_0x2957aa),_0x2b0e1c=firebase[_0xb9a9fb(0x4fc)][_0xb9a9fb(0xef)][_0xb9a9fb(0x28e)](_0x50ab02);try{start_loading();const _0x3c50d2=functions['httpsCallable'](_0xb9a9fb(0x5b6)),_0x41cc4f=(await _0x3c50d2({'start_date':_0x4667dd,'end_date':_0x2b0e1c}))['data'],_0x5f3d09=_0x41cc4f['maintenance_records'],_0x14973a=_0x41cc4f[_0xb9a9fb(0xed)];gl_anlytics_maintenance_records_list=[],gl_analytics_disruption_records_list=[];for(var _0x4238cd=0x0;_0x4238cd<_0x5f3d09['length'];_0x4238cd++){if(_0xb9a9fb(0x179)!=='LZMiW'){const _0xdde263=get_operation_name_from_workstation_id(_0x5f3d09[_0x4238cd][_0xb9a9fb(0x15a)]);if(gl_user_permission[_0xb9a9fb(0x464)]==0x1||gl_user_permission[_0xdde263]>=0x1)gl_anlytics_maintenance_records_list[_0xb9a9fb(0x5a8)](_0x5f3d09[_0x4238cd]);}else return _0x5f1919('End\x20Date\x20should\x20be\x20greater\x20than\x20or\x20same\x20as\x20Start\x20Date'),![];}for(var _0x4238cd=0x0;_0x4238cd<_0x14973a['length'];_0x4238cd++){const _0x44122b=_0x14973a[_0x4238cd][_0xb9a9fb(0x399)];if(gl_user_permission[_0xb9a9fb(0x464)]==0x1||gl_user_permission[_0x44122b]>=0x1)gl_analytics_disruption_records_list[_0xb9a9fb(0x5a8)](_0x14973a[_0x4238cd]);}var _0x283199=document[_0xb9a9fb(0x610)]('maintenance_records_table_container');empty_container_byReference(_0x283199);let _0x535093=document[_0xb9a9fb(0x48c)](_0xb9a9fb(0x2f5));_0x535093[_0xb9a9fb(0x101)]=_0xb9a9fb(0x46d),_0x535093[_0xb9a9fb(0x214)]=_0xb9a9fb(0x572),_0x535093['id']='maintenance_records_table',_0x283199[_0xb9a9fb(0x357)](_0x535093);var _0xca8785=document[_0xb9a9fb(0x610)]('maintenance_count_operation_breakdown_select'),_0x3c5555=document[_0xb9a9fb(0x610)]('maintenance_mtbf_operation_breakdown_select');empty_container_byReference(_0xca8785),empty_container_byReference(_0x3c5555),process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list,gl_analytics_disruption_records_list,_0x3ed28e),render_table_maintenance_records(gl_anlytics_maintenance_records_list,'maintenance_records_table'),document[_0xb9a9fb(0x610)](_0xb9a9fb(0x51a))[_0xb9a9fb(0x214)][_0xb9a9fb(0x138)]=_0xb9a9fb(0x43b),_0xca8785[_0xb9a9fb(0x3ab)]=function(){var _0x3cdca7=_0xb9a9fb;_0x3c5555['value']=_0xca8785[_0x3cdca7(0x1fc)],process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list,gl_analytics_disruption_records_list,_0x3ed28e);},_0x3c5555[_0xb9a9fb(0x3ab)]=function(){var _0x48a3a1=_0xb9a9fb;if(_0x48a3a1(0x47b)==='bNfRj')return _0x18c0c5('All\x20parameter\x20names\x20in\x20an\x20operation\x20should\x20be\x20unique'),![];else _0xca8785[_0x48a3a1(0x1fc)]=_0x3c5555['value'],process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list,gl_analytics_disruption_records_list,_0x3ed28e);},stop_loading();}catch(_0x4fce9e){return display_error(_0x4fce9e[_0xb9a9fb(0x286)]),![];}};}function process_maintenance_history_chart_data(_0x1d18af,_0x5cd365,_0x15e130){var _0xfc43d8=_0x390981,_0x4485c2=[],_0x5d3ff4=[];for(var _0x245e77=0x0;_0x245e77<_0x1d18af[_0xfc43d8(0x2bb)];_0x245e77++){_0xfc43d8(0x508)!=='MxpLD'?_0x1873b5[_0xc51493[_0xc3b800]]=new _0x391de1(_0x2b7ee9[_0xfc43d8(0x2bb)])[_0xfc43d8(0x3a6)](0x0):_0x4485c2[_0xfc43d8(0x5a8)](_0x1d18af[_0x245e77]['workstation']);}for(var _0x245e77=0x0;_0x245e77<_0x5cd365[_0xfc43d8(0x2bb)];_0x245e77++){if(_0xfc43d8(0x100)===_0xfc43d8(0x100))_0x4485c2[_0xfc43d8(0x5a8)](_0x5cd365[_0x245e77][_0xfc43d8(0x15a)]+'\x20('+_0x5cd365[_0x245e77]['operation']+')');else{if(_0x3ee5d3[_0x15f003][_0xfc43d8(0x29a)]==_0x133748[_0xfc43d8(0x130)]||_0xbc6b2[_0x2f261d[_0x2245f7][_0xfc43d8(0x399)]+_0xfc43d8(0x3be)]==0x1)_0x253763['push'](_0x236546[_0x61ba2a]);}}_0x4485c2=Array[_0xfc43d8(0x39f)](new Set(_0x4485c2));for(var _0x245e77=0x0;_0x245e77<_0x4485c2[_0xfc43d8(0x2bb)];_0x245e77++){const _0x2995dd=get_operation_name_from_workstation_id(_0x4485c2[_0x245e77]);_0x5d3ff4[_0xfc43d8(0x5a8)](_0x2995dd);}_0x5d3ff4=Array[_0xfc43d8(0x39f)](new Set(_0x5d3ff4));var _0x3c1b27=document[_0xfc43d8(0x610)](_0xfc43d8(0x3cd)),_0x5d2351=document['getElementById'](_0xfc43d8(0x568));(_0x3c1b27[_0xfc43d8(0x1fc)]==''||_0x5d2351[_0xfc43d8(0x1fc)]=='')&&(empty_container_byReference(_0x3c1b27),empty_container_byReference(_0x5d2351),set_select_options(_0x3c1b27,_0x5d3ff4),set_select_options(_0x5d2351,_0x5d3ff4));var _0x34531b=_0x3c1b27[_0xfc43d8(0x1fc)],_0x1eeb22=_0x5d2351[_0xfc43d8(0x1fc)],_0x35cf46=[],_0x110322=[];for(var _0x245e77=0x0;_0x245e77<_0x4485c2[_0xfc43d8(0x2bb)];_0x245e77++){if('sNRzZ'!=='YreyS'){const _0x51332d=get_operation_name_from_workstation_id(_0x4485c2[_0x245e77]);if(_0x34531b==_0x51332d)_0x35cf46[_0xfc43d8(0x5a8)](_0x4485c2[_0x245e77]);if(_0x1eeb22==_0x51332d)_0x110322[_0xfc43d8(0x5a8)](_0x4485c2[_0x245e77]);}else{if(_0x527b8b)return _0x13cc37;else _0x16bdb8(0x0);}}var _0x365ed9={'Preventive\x20Maintenance':new Array(_0x5d3ff4['length'])[_0xfc43d8(0x3a6)](0x0),'Corrective\x20Maintenance':new Array(_0x5d3ff4[_0xfc43d8(0x2bb)])[_0xfc43d8(0x3a6)](0x0)},_0x274c00={'MTBF\x20in\x20Days':new Array(_0x5d3ff4[_0xfc43d8(0x2bb)])[_0xfc43d8(0x3a6)](0x0)},_0xf36f99={'Preventive\x20Maintenance':new Array(_0x35cf46[_0xfc43d8(0x2bb)])['fill'](0x0),'Corrective\x20Maintenance':new Array(_0x35cf46['length'])[_0xfc43d8(0x3a6)](0x0)},_0xf24cca={'MTBF\x20in\x20Days':new Array(_0x110322[_0xfc43d8(0x2bb)])[_0xfc43d8(0x3a6)](0x0)};for(var _0x245e77=0x0;_0x245e77<_0x1d18af['length'];_0x245e77++){if(_0xfc43d8(0x37a)===_0xfc43d8(0x37a)){var _0x2eb326=_0x1d18af[_0x245e77]['workstation'],_0x51a7c0=get_operation_name_from_workstation_id(_0x1d18af[_0x245e77][_0xfc43d8(0x15a)]);_0x1d18af[_0x245e77][_0xfc43d8(0x4e7)]==_0xfc43d8(0x43e)?(_0x365ed9[_0xfc43d8(0x3b1)][_0x5d3ff4['indexOf'](_0x51a7c0)]+=0x1,_0xf36f99[_0xfc43d8(0x3b1)][_0x35cf46[_0xfc43d8(0x2aa)](_0x2eb326)]+=0x1):(_0x365ed9[_0xfc43d8(0x2c8)][_0x5d3ff4[_0xfc43d8(0x2aa)](_0x51a7c0)]+=0x1,_0xf36f99[_0xfc43d8(0x2c8)][_0x35cf46[_0xfc43d8(0x2aa)](_0x2eb326)]+=0x1);}else return _0x43f634(_0xfc43d8(0x5ce)),![];}for(var _0x245e77=0x0;_0x245e77<_0x5cd365['length'];_0x245e77++){if(_0xfc43d8(0x61c)!==_0xfc43d8(0x596)){var _0x2eb326=_0x5cd365[_0x245e77][_0xfc43d8(0x15a)]+'\x20('+_0x5cd365[_0x245e77][_0xfc43d8(0x399)]+')',_0x51a7c0=_0x5cd365[_0x245e77]['operation'];_0x274c00[_0xfc43d8(0x22d)][_0x5d3ff4[_0xfc43d8(0x2aa)](_0x51a7c0)]+=0x1,_0xf24cca[_0xfc43d8(0x22d)][_0x110322[_0xfc43d8(0x2aa)](_0x2eb326)]+=0x1;}else{if(_0x31c364[_0x25c394][_0x523935][_0xfc43d8(0x5f1)]['deviation_by']=='')_0x51e405[_0xfc43d8(0x5a8)](_0xfc43d8(0xd9));else _0x223dcc['push'](_0xfc43d8(0x4b5));}}for(var _0x245e77=0x0;_0x245e77<_0x274c00[_0xfc43d8(0x22d)]['length'];_0x245e77++){if(_0xfc43d8(0x30f)===_0xfc43d8(0x30f)){if(_0x274c00[_0xfc43d8(0x22d)][_0x245e77]==0x0)_0x274c00['MTBF\x20in\x20Days'][_0x245e77]=_0x15e130;else _0x274c00[_0xfc43d8(0x22d)][_0x245e77]=(_0x15e130/_0x274c00[_0xfc43d8(0x22d)][_0x245e77])['toFixed'](0x1);}else{var _0x4c4940=_0x5abc05['random']();_0x4c4940=_0x571479[_0xfc43d8(0x5cc)](_0x4c4940);var _0x17ac6a=_0x13e633[_0xfc43d8(0x27a)]();_0x17ac6a=_0x470cda['round'](_0x17ac6a);var _0x594fdb=_0x282e81['random']();_0x594fdb=_0xfe2b3b[_0xfc43d8(0x5cc)](_0x594fdb);let _0x6d4ee5={[_0xfc43d8(0x46b)]:{'serial':_0x4d743b,'model':_0x594fdb==0x0?_0xfc43d8(0x38d):_0xfc43d8(0x5a3),'status':0x2,'external_id':_0xce48d6+_0xfc43d8(0x37f),'current_op':_0xfc43d8(0x3da),'pending_op':'Punching','op_order':[_0xfc43d8(0x3da),_0xfc43d8(0xd6)],'update_type':0x1,'update_time':new _0x4d127f(),'log':{'entry_dt':new _0x366ee6(),'entry_by':_0xfc43d8(0x21f),'update_dt':'','update_by':''}},[_0xfc43d8(0x3da)]:{'workstation':_0x4c4940==0x0?_0xfc43d8(0x433):_0xfc43d8(0x373),'cycle_time':0xa,'status':_0x4c4940==0x0?0x0:0x1,'param_list':[{'name':_0xfc43d8(0x254),'type':'Numeric\x20Range','level':'Minor','value1':0xa,'value2':0xc,'link':_0xfc43d8(0xec),'method':_0xfc43d8(0x37e)},{'name':'Param2','type':_0xfc43d8(0x44e),'level':_0xfc43d8(0x3d3),'value1':_0xfc43d8(0x232),'value2':_0xfc43d8(0x341),'link':'https://web.com','method':'visual'},{'name':_0xfc43d8(0x543),'type':_0x1da145[0x2],'level':_0xfc43d8(0x3d3),'value1':_0xfc43d8(0x4cf),'value2':'','link':_0xfc43d8(0xec),'method':_0xfc43d8(0x37e)},{'name':_0xfc43d8(0x523),'type':_0x2f8694[0x3],'level':_0xfc43d8(0x3d3),'value1':_0xfc43d8(0x53e),'value2':'','link':_0xfc43d8(0xec),'method':'visual'}],'log':{'entry_dt':_0x17ac6a==0x0?new _0x378d04():new _0x46d5c2(_0xfc43d8(0x340)),'entry_by':_0xfc43d8(0x160),'update_dt':new _0x5acc2a(),'update_by':'user1@gm.com','deviation_dt':new _0x56b7e8(),'deviation_by':_0xfc43d8(0x12f),'remark':_0xfc43d8(0x22b)},'actual_value':{'Param1':_0x4c4940==0x0?0xa:0xb,'Param2':_0xfc43d8(0x232),'Param3':_0x4c4940==0x0?_0xfc43d8(0x4cf):_0xfc43d8(0x32b),'Param4':_0xfc43d8(0xf6)}},[_0xfc43d8(0xd6)]:{'workstation':'','cycle_time':0xa,'status':_0x4c4940==0x0?0x1:0x3,'param_list':[{'name':'Param1','type':_0xfc43d8(0x4c0),'level':'Minor','value1':0xa,'value2':0xc,'link':'https://web.com','method':'visual'},{'name':_0xfc43d8(0x41b),'type':'Option\x20List','level':'Major','value1':_0xfc43d8(0x232),'value2':_0xfc43d8(0x341),'link':_0xfc43d8(0xec),'method':_0xfc43d8(0x37e)},{'name':_0xfc43d8(0x543),'type':_0x3a207d[0x2],'level':_0xfc43d8(0x3d3),'value1':_0xfc43d8(0x32b),'value2':'','link':_0xfc43d8(0xec),'method':_0xfc43d8(0x37e)},{'name':_0xfc43d8(0x523),'type':_0xb2106e[0x3],'level':_0xfc43d8(0x3d3),'value1':_0xfc43d8(0x53e),'value2':'','link':'https://web.com','method':'visual'}],'log':{'entry_dt':'','entry_by':'','update_dt':'','update_by':'','deviation_dt':'','deviation_by':'','remark':_0xfc43d8(0x22b)},'actual_value':{'Param1':_0x4c4940==0x0?0xc:0xb,'Param2':_0x4c4940==0x0?_0xfc43d8(0x232):'No','Param3':_0x4c4940==0x0?_0xfc43d8(0x32b):'Model\x20A','Param4':_0xfc43d8(0xf6)}}};_0x90e159[_0xfc43d8(0x5a8)](_0x6d4ee5);}}for(var _0x245e77=0x0;_0x245e77<_0xf24cca['MTBF\x20in\x20Days'][_0xfc43d8(0x2bb)];_0x245e77++){if('lnsCv'===_0xfc43d8(0x24e)){let _0xf09cb6=_0x57d280[_0xfc43d8(0x48c)]('p');_0xf09cb6['className']=_0xfc43d8(0x621),_0xf09cb6[_0xfc43d8(0x602)]=_0xfc43d8(0x499);let _0xa5052f=_0x45f90d[_0xfc43d8(0x48c)]('h5');_0xa5052f[_0xfc43d8(0x101)]=_0xfc43d8(0x194),_0xa5052f[_0xfc43d8(0x602)]=_0x167491,_0xa5052f[_0xfc43d8(0x583)]=!![],_0x3b408c=_0x1dc461['createElement']('hr'),_0x28177f[_0xfc43d8(0x101)]='col-sm-12\x20text-center',_0x207915['style']=_0xfc43d8(0x5da),_0x3eb78a[_0xfc43d8(0x357)](_0xf09cb6),_0x3fcf47['appendChild'](_0xa5052f),_0x111b20[_0xfc43d8(0x357)](_0x178915);}else{if(_0xf24cca[_0xfc43d8(0x22d)][_0x245e77]==0x0)_0xf24cca[_0xfc43d8(0x22d)][_0x245e77]=_0x15e130;else _0xf24cca[_0xfc43d8(0x22d)][_0x245e77]=(_0x15e130/_0xf24cca['MTBF\x20in\x20Days'][_0x245e77])[_0xfc43d8(0x1f8)](0x1);}}console[_0xfc43d8(0x5f1)](_0xf24cca['MTBF\x20in\x20Days']);var _0xa2fa85=document[_0xfc43d8(0x610)](_0xfc43d8(0x136));_0xa2fa85[_0xfc43d8(0x214)][_0xfc43d8(0x1a2)]=_0x5d3ff4[_0xfc43d8(0x2bb)]*0xa+0xc+'vh',empty_container_byReference(_0xa2fa85);var _0x394c3b=document['createElement'](_0xfc43d8(0x19d));_0x394c3b['id']='maintenance_count_by_operation_chart',_0xa2fa85['appendChild'](_0x394c3b);var _0x36fa33=document[_0xfc43d8(0x610)](_0xfc43d8(0x301));_0x36fa33[_0xfc43d8(0x214)]['height']=_0x5d3ff4[_0xfc43d8(0x2bb)]*0xa+0xc+'vh',empty_container_byReference(_0x36fa33),_0x394c3b=document[_0xfc43d8(0x48c)](_0xfc43d8(0x19d)),_0x394c3b['id']=_0xfc43d8(0x3fe),_0x36fa33[_0xfc43d8(0x357)](_0x394c3b);var _0x4d096d=document[_0xfc43d8(0x610)](_0xfc43d8(0x2bf));_0x4d096d[_0xfc43d8(0x214)]['height']=_0x35cf46[_0xfc43d8(0x2bb)]*0xa+0xc+'vh',empty_container_byReference(_0x4d096d),_0x394c3b=document[_0xfc43d8(0x48c)](_0xfc43d8(0x19d)),_0x394c3b['id']=_0xfc43d8(0x21d),_0x4d096d[_0xfc43d8(0x357)](_0x394c3b);var _0x197282=document['getElementById'](_0xfc43d8(0x36c));_0x197282[_0xfc43d8(0x214)]['height']=_0x110322[_0xfc43d8(0x2bb)]*0xa+0xc+'vh',empty_container_byReference(_0x197282),_0x394c3b=document[_0xfc43d8(0x48c)]('canvas'),_0x394c3b['id']='maintenance_mtbf_by_workstation_chart',_0x197282['appendChild'](_0x394c3b),render_maintenance_chart(_0x5d3ff4,convert_maintenance_data_to_chart_dataset(_0x365ed9),_0xfc43d8(0x21c),_0xfc43d8(0x61b)),render_maintenance_chart(_0x5d3ff4,convert_maintenance_data_to_chart_dataset(_0x274c00),'maintenance_mtbf_by_operation_chart',_0xfc43d8(0x564)),render_maintenance_chart(_0x35cf46,convert_maintenance_data_to_chart_dataset(_0xf36f99),_0xfc43d8(0x21d),_0xfc43d8(0x61b)),render_maintenance_chart(_0x110322,convert_maintenance_data_to_chart_dataset(_0xf24cca),_0xfc43d8(0x2a8),_0xfc43d8(0x564));}function render_maintenance_chart(_0x4fc715,_0x4ce115,_0x4ef2ca,_0x75b3cb){var _0x4a602b=_0x390981,_0x22e98a=[];for(var _0x2a6ff0=0x0;_0x2a6ff0<_0x4fc715[_0x4a602b(0x2bb)];_0x2a6ff0++)_0x22e98a[_0x2a6ff0]=formatLabel(_0x4fc715[_0x2a6ff0]);var _0x3ad545={'responsive':!![],'maintainAspectRatio':![],'scales':{'xAxes':[{'stacked':!![],'scaleLabel':{'display':!![],'labelString':_0x75b3cb}}],'yAxes':[{'gridLines':{'display':![]},'stacked':!![]}]},'legend':{'display':!![]}},_0x25a9d4=document[_0x4a602b(0x610)](_0x4ef2ca)[_0x4a602b(0x19e)]('2d'),_0x22acc0=new Chart(_0x25a9d4,{'type':_0x4a602b(0x35e),'data':{'labels':_0x22e98a,'datasets':_0x4ce115},'options':_0x3ad545});}function render_table_maintenance_records(_0x1546a1,_0x3673d3,_0x45c1a1=[]){var _0x3a8628=_0x390981,_0x6a3f3a=[],_0x2f4d6b=[];if(!is_null(_0x45c1a1))_0x6a3f3a=_0x45c1a1;else for(var _0x34ba46=0x0;_0x34ba46<_0x1546a1['length'];_0x34ba46++){_0x6a3f3a[_0x3a8628(0x5a8)](get_operation_name_from_workstation_id(_0x1546a1[_0x34ba46]['workstation']));}_0x6a3f3a=Array[_0x3a8628(0x39f)](new Set(_0x6a3f3a));for(var _0x34ba46=0x0;_0x34ba46<_0x1546a1['length'];_0x34ba46++){var _0x30bbf3=get_operation_name_from_workstation_id(_0x1546a1[_0x34ba46][_0x3a8628(0x15a)]);if(_0x6a3f3a[_0x3a8628(0x2aa)](_0x30bbf3)>=0x0){if(_0x3a8628(0x1b1)!==_0x3a8628(0x540))_0x2f4d6b=_0x2f4d6b['concat'](Object['keys'](_0x1546a1[_0x34ba46][_0x3a8628(0x5f2)]));else{_0xeeccf3[_0x3a8628(0x5a8)](_0x8312cb);return;}}}_0x2f4d6b=Array[_0x3a8628(0x39f)](new Set(_0x2f4d6b));let _0x11c248=document['getElementById'](_0x3673d3),_0x41195d=document[_0x3a8628(0x48c)](_0x3a8628(0x228)),_0x5a0da9=document[_0x3a8628(0x48c)]('tr'),_0x2977d6=document[_0x3a8628(0x48c)]('th');_0x2977d6['innerText']=_0x3a8628(0x5ba),_0x5a0da9['appendChild'](_0x2977d6);let _0x274f10=document[_0x3a8628(0x48c)]('th');_0x274f10[_0x3a8628(0x602)]=_0x3a8628(0xf5),_0x5a0da9[_0x3a8628(0x357)](_0x274f10);let _0x2b10de=document[_0x3a8628(0x48c)]('th');_0x2b10de['innerText']=_0x3a8628(0x113),_0x5a0da9[_0x3a8628(0x357)](_0x2b10de);let _0x3e0602=document['createElement']('th');_0x3e0602['innerText']='Maintenance\x20Time',_0x5a0da9['appendChild'](_0x3e0602);let _0x259bce=document[_0x3a8628(0x48c)]('th');_0x259bce[_0x3a8628(0x602)]=_0x3a8628(0x3a7),_0x5a0da9[_0x3a8628(0x357)](_0x259bce);for(var _0x34ba46=0x0;_0x34ba46<_0x2f4d6b['length'];_0x34ba46++){let _0x28bb02=document[_0x3a8628(0x48c)]('th');_0x28bb02[_0x3a8628(0x602)]=_0x2f4d6b[_0x34ba46],_0x5a0da9['appendChild'](_0x28bb02);}_0x41195d[_0x3a8628(0x357)](_0x5a0da9);let _0x3964e6=document[_0x3a8628(0x48c)]('tbody');_0x3964e6['className']='text-break';for(var _0x34ba46=0x0;_0x34ba46<_0x1546a1[_0x3a8628(0x2bb)];_0x34ba46++){if(_0x3a8628(0x545)!==_0x3a8628(0x545)){_0x4cd318=_0x22f5fb[_0x3a8628(0x3f9)]();var _0x509c21=_0x51c16b[_0x3a8628(0xe4)](_0x39ea95);_0x509c21=_0x509c21['sort']();var _0xbda9d={};for(var _0x564a44=0x0;_0x564a44<_0x509c21[_0x3a8628(0x2bb)];_0x564a44++){_0xbda9d[_0x509c21[_0x564a44]]=_0x1d7821[_0x509c21[_0x564a44]];}return _0xbda9d;}else{let _0xec6a4=document[_0x3a8628(0x48c)]('tr'),_0x1e19a9=document[_0x3a8628(0x48c)]('td');_0x1e19a9['innerText']=_0x1546a1[_0x34ba46][_0x3a8628(0x4e7)],_0xec6a4[_0x3a8628(0x357)](_0x1e19a9);let _0x259c66=document['createElement']('td');_0x259c66[_0x3a8628(0x602)]=_0x1546a1[_0x34ba46]['workstation'],_0xec6a4[_0x3a8628(0x357)](_0x259c66);let _0x59ca85=document['createElement']('td');_0x59ca85['innerText']=_0x1546a1[_0x34ba46][_0x3a8628(0x279)],_0xec6a4['appendChild'](_0x59ca85);let _0x2a2cf8=document[_0x3a8628(0x48c)]('td');_0x2a2cf8[_0x3a8628(0x602)]=decode_date(_0x1546a1[_0x34ba46][_0x3a8628(0x17c)])||'-',_0xec6a4[_0x3a8628(0x357)](_0x2a2cf8);let _0x300aa1=document[_0x3a8628(0x48c)]('td');_0x300aa1[_0x3a8628(0x602)]=_0x1546a1[_0x34ba46][_0x3a8628(0x182)]||'-',_0xec6a4['appendChild'](_0x300aa1);for(j=0x0;j<_0x2f4d6b[_0x3a8628(0x2bb)];j++){if('mNIqE'!==_0x3a8628(0x251)){let _0x3fb92c=document['createElement']('td');_0x3fb92c[_0x3a8628(0x602)]=_0x1546a1[_0x34ba46]['param_list'][_0x2f4d6b[j]]||_0x3a8628(0x27f),_0xec6a4[_0x3a8628(0x357)](_0x3fb92c);}else{if(_0x56b637['admin']==0x1||_0x15ae25[_0x2a6b8e[_0x4aeaf0]]>=0x1)_0x471be8[_0x3a8628(0x5a8)](_0x44c121[_0x9a84ba]);}}_0x3964e6[_0x3a8628(0x357)](_0xec6a4);}}return _0x11c248[_0x3a8628(0x357)](_0x41195d),_0x11c248[_0x3a8628(0x357)](_0x3964e6),$('#'+_0x3673d3)[_0x3a8628(0x567)]({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,_0x3a8628(0x131)]],'lengthChange':!![],'columnDefs':[{'targets':'_all','visible':!![],'width':_0x3a8628(0x243)}],'colReorder':!![],'fixedColumns':{'leftColumns':0x2},'paging':!![],'dom':_0x3a8628(0x348),'buttons':[_0x3a8628(0x419),{'extend':_0x3a8628(0x33b),'text':_0x3a8628(0x276),'buttons':[_0x3a8628(0x575),_0x3a8628(0x574),'csv']}]}),!![];}function get_operation_name_from_workstation_id(_0x1e9b27){var _0x1daa92=_0x390981,_0x4a7726=_0x1e9b27['length'];while(_0x1e9b27[_0x4a7726]!='('){_0x1daa92(0x5fb)!==_0x1daa92(0x374)?_0x4a7726--:_0x1b2680['push']([_0x4c4a87[_0x23c7b5],_0x1daa92(0x486),_0x3069a3[_0x5bff91[_0x389424]]['log']['entry_by'],_0x15263c(_0x48a3b2[_0x24e9c6[_0x8de015]]['log'][_0x1daa92(0x4d8)])]);}var _0x26215b=_0x1e9b27[_0x1daa92(0x250)](_0x4a7726+0x1);return _0x26215b=_0x26215b[_0x1daa92(0x250)](0x0,_0x26215b[_0x1daa92(0x2bb)]-0x1),_0x26215b;}function convert_maintenance_data_to_chart_dataset(_0x2ac5b8){var _0xca171a=_0x390981,_0x4e3622=[],_0x16e2ae=Object[_0xca171a(0xe4)](_0x2ac5b8);for(var _0x1498c7=0x0;_0x1498c7<_0x16e2ae['length'];_0x1498c7++){var _0x3f7990={'label':_0x16e2ae[_0x1498c7],'data':_0x2ac5b8[_0x16e2ae[_0x1498c7]],'maxBarThickness':0x32,'barThickness':_0xca171a(0x31d),'stack':0x1,'backgroundColor':_0x16e2ae['length']<=indexcolors[_0xca171a(0x2bb)]?indexcolors[_0x1498c7]:_0xca171a(0x18f)};_0x4e3622[_0xca171a(0x5a8)](_0x3f7990);}return _0x4e3622;}async function initialize_operation_pending_jobs_section(){var _0x228e15=_0x390981;reset_sections(),empty_container(_0x228e15(0x242)),document[_0x228e15(0x610)](_0x228e15(0x270))[_0x228e15(0x214)][_0x228e15(0x138)]=_0x228e15(0x608);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x6c7a5e=Object['keys'](gl_current_operations_list);_0x6c7a5e=_0x6c7a5e[_0x228e15(0x57a)]();var _0x634453=[_0x228e15(0x518)];for(var _0x409786=0x0;_0x409786<_0x6c7a5e[_0x228e15(0x2bb)];_0x409786++){if(_0x228e15(0xe8)!==_0x228e15(0xe8)){var _0x160d1f=_0x4007b1[_0x228e15(0x1f6)](',');if(_0x160d1f[_0x228e15(0x2bb)]<0x1)return![];if(!_0x160d1f[_0x228e15(0x4e0)](_0x58a6c9))return _0x12a641[_0x228e15(0x5f1)](_0x160d1f),_0x3da3d5['log'](_0x1fb7af),![];}else{if(gl_user_permission[_0x228e15(0x464)]==0x1||gl_user_permission[_0x6c7a5e[_0x409786]]>=0x1)_0x634453[_0x228e15(0x5a8)](_0x6c7a5e[_0x409786]);}}_0x634453[_0x228e15(0x5a8)](_0x228e15(0x1b8)),set_select_options(document[_0x228e15(0x610)](_0x228e15(0x242)),_0x634453),fetch_data_operation_pending_jobs_btn['onclick']=async function(){var _0x121b15=_0x228e15;if(_0x121b15(0x62e)===_0x121b15(0x210))_0x4d7f4f(_0x17c544,_0x3ab6a1[_0x121b15(0x1fc)]);else{gl_analytics_operation_name=document[_0x121b15(0x610)](_0x121b15(0x242))['value'];if(gl_analytics_operation_name==_0x121b15(0x518)||is_null(gl_analytics_operation_name))return display_error('Please\x20select\x20Operation\x20before\x20fetching\x20data'),![];if(gl_user_permission[_0x121b15(0x464)]!=0x1&&(gl_user_permission[gl_analytics_operation_name]<0x1||gl_user_permission[section_permission_list['View\x20Dashboard']]!=0x1)){if(_0x121b15(0x2c4)!==_0x121b15(0x2c4))_0x5ed270(_0x121b15(0x41e)+_0x313925+'\x20parameters\x20allowed');else return display_error(_0x121b15(0x4cb)),![];}try{if(_0x121b15(0x241)===_0x121b15(0x241)){start_loading();const _0x3bf776=functions[_0x121b15(0x40e)](_0x121b15(0x1eb));gl_analytics_records_list=(await _0x3bf776({'operation_name':gl_analytics_operation_name}))['data'];var _0x5d2eb3=document[_0x121b15(0x610)](_0x121b15(0x270));empty_container_byReference(_0x5d2eb3);let _0x20d741=document[_0x121b15(0x48c)](_0x121b15(0x2f5));_0x20d741[_0x121b15(0x101)]=_0x121b15(0x46d),_0x20d741['style']=_0x121b15(0x572),_0x20d741['id']=_0x121b15(0x2ed),_0x5d2eb3['appendChild'](_0x20d741),await render_table_operation_pending_jobs(gl_analytics_records_list,_0x20d741['id']),document['getElementById'](_0x121b15(0x270))[_0x121b15(0x214)]['display']=_0x121b15(0x43b),stop_loading();}else _0x59a0d5[_0x121b15(0x1fc)]='';}catch(_0x5005f3){return display_error(_0x5005f3[_0x121b15(0x286)]),![];}}};}function render_table_operation_pending_jobs(_0x3c8ce2,_0x3c54c6){var _0x465f14=_0x390981;let _0x30bf74=document[_0x465f14(0x610)](_0x3c54c6),_0x2f949c=document['createElement'](_0x465f14(0x228)),_0x2e6831=document[_0x465f14(0x48c)]('tr'),_0x5ea243=document[_0x465f14(0x48c)]('th');_0x5ea243[_0x465f14(0x602)]=_0x465f14(0x45f),_0x2e6831[_0x465f14(0x357)](_0x5ea243);let _0x290990=document[_0x465f14(0x48c)]('th');_0x290990['innerText']=_0x465f14(0xfb),_0x2e6831[_0x465f14(0x357)](_0x290990);let _0x58be0b=document[_0x465f14(0x48c)]('th');_0x58be0b[_0x465f14(0x602)]=_0x465f14(0x1a9),_0x2e6831[_0x465f14(0x357)](_0x58be0b);let _0x5e4fc7=document[_0x465f14(0x48c)]('th');_0x5e4fc7['innerText']=_0x465f14(0x234),_0x2e6831['appendChild'](_0x5e4fc7);let _0x359978=document[_0x465f14(0x48c)]('th');_0x359978[_0x465f14(0x602)]=_0x465f14(0x45e),_0x2e6831[_0x465f14(0x357)](_0x359978);let _0x4e5081=document[_0x465f14(0x48c)]('th');_0x4e5081[_0x465f14(0x602)]=_0x465f14(0x549),_0x2e6831['appendChild'](_0x4e5081),_0x2f949c[_0x465f14(0x357)](_0x2e6831);let _0x3df3f6=document['createElement'](_0x465f14(0x211));_0x3df3f6['className']=_0x465f14(0x5ea);for(var _0x1cdce8=0x0;_0x1cdce8<_0x3c8ce2[_0x465f14(0x2bb)];_0x1cdce8++){if('KoGIT'!==_0x465f14(0x259))_0x2f7893[_0x465f14(0x610)](_0x13aa52[_0x88ecf7])[_0x465f14(0x214)]['display']=_0x465f14(0x608);else{let _0x4ee13b=document[_0x465f14(0x48c)]('tr'),_0x40464e=document[_0x465f14(0x48c)]('td');_0x40464e[_0x465f14(0x602)]=_0x3c8ce2[_0x1cdce8][_0x465f14(0x399)],_0x4ee13b[_0x465f14(0x357)](_0x40464e);let _0x518d4a=document[_0x465f14(0x48c)]('td');_0x518d4a['innerText']=_0x3c8ce2[_0x1cdce8][_0x465f14(0x1f2)],_0x4ee13b[_0x465f14(0x357)](_0x518d4a);let _0xb41eac=document[_0x465f14(0x48c)]('td');_0xb41eac[_0x465f14(0x602)]=_0x3c8ce2[_0x1cdce8][_0x465f14(0x467)],_0x4ee13b[_0x465f14(0x357)](_0xb41eac);let _0x4323e1=document[_0x465f14(0x48c)]('td');_0x4323e1[_0x465f14(0x602)]=status_list[_0x3c8ce2[_0x1cdce8][_0x465f14(0x2f2)]],_0x4ee13b[_0x465f14(0x357)](_0x4323e1);let _0x5f4da8=document[_0x465f14(0x48c)]('td');var _0x3290f0=Math['abs'](new Date()-decode_date(_0x3c8ce2[_0x1cdce8]['pending_since_dt'],0x1))/(0x3e8*0x3c*0x3c*0x18);_0x5f4da8['innerText']=_0x3290f0[_0x465f14(0x1f8)](0x0),_0x4ee13b[_0x465f14(0x357)](_0x5f4da8);let _0x38ea91=document[_0x465f14(0x48c)]('td');_0x38ea91[_0x465f14(0x602)]=decode_date(_0x3c8ce2[_0x1cdce8][_0x465f14(0x5e4)]),_0x4ee13b[_0x465f14(0x357)](_0x38ea91),_0x3df3f6[_0x465f14(0x357)](_0x4ee13b);}}return _0x30bf74[_0x465f14(0x357)](_0x2f949c),_0x30bf74[_0x465f14(0x357)](_0x3df3f6),$('#'+_0x3c54c6)['DataTable']({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,_0x465f14(0x131)]],'lengthChange':!![],'colReorder':!![],'paging':!![],'dom':_0x465f14(0x348),'buttons':[_0x465f14(0x419),{'extend':'collection','text':_0x465f14(0x276),'buttons':[_0x465f14(0x575),'excel',_0x465f14(0x367)]}]}),!![];}async function initialize_deviation_required_jobs_section(){var _0x42ab00=_0x390981;await reset_sections(),fetch_data_deviation_required_jobs_btn[_0x42ab00(0x49a)]=async function(){var _0xb192d0=_0x42ab00;if(gl_user_permission[_0xb192d0(0x464)]==0x1||gl_user_permission[section_permission_list['View\x20Dashboard']]==0x1){if(_0xb192d0(0x3cc)===_0xb192d0(0x3cc)){var _0x47060d=[];try{if(_0xb192d0(0x565)===_0xb192d0(0x440)){var _0x41084c=_0x1b5197[_0xb192d0(0x610)](_0xb192d0(0x484))[_0xb192d0(0x1fc)];_0x431cfd(_0x150a82,_0x2d3594,_0x41084c);}else{start_loading();if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x4aae03=Object[_0xb192d0(0xe4)](gl_current_operations_list);const _0x44c98b=functions[_0xb192d0(0x40e)](_0xb192d0(0x20b));_0x47060d=(await _0x44c98b({'operations':_0x4aae03}))[_0xb192d0(0x3f9)];var _0xe54762=document[_0xb192d0(0x610)]('deviation_required_jobs_table_container');empty_container_byReference(_0xe54762);let _0x2808fe=document[_0xb192d0(0x48c)](_0xb192d0(0x2f5));_0x2808fe['className']=_0xb192d0(0x58d),_0x2808fe[_0xb192d0(0x214)]=_0xb192d0(0x572),_0x2808fe['id']=_0xb192d0(0x47c),_0xe54762[_0xb192d0(0x357)](_0x2808fe),await render_table_deviation_required_jobs(_0x47060d,_0xb192d0(0x47c)),stop_loading();}}catch(_0x48a0c5){return display_error(_0x48a0c5[_0xb192d0(0x286)]),![];}return!![];}else _0x39df1b=_0x5b4860[_0xb192d0(0x3ed)](_0x3a1ea8,_0xa1a1b5[_0xff21ea[_0x972c07]]['status']);}else{if('aWVVh'==='aWVVh')return display_error(_0xb192d0(0x4cb)),![];else _0x3471a5=_0x43c9ad;}};}function render_table_deviation_required_jobs(_0x5765ce,_0x1a850e){var _0x5a4cfb=_0x390981;let _0x3f242e=document[_0x5a4cfb(0x610)](_0x1a850e),_0x2c2f93=document[_0x5a4cfb(0x48c)](_0x5a4cfb(0x228)),_0x31c57c=document['createElement']('tr'),_0xc44f3b=document['createElement']('th');_0xc44f3b[_0x5a4cfb(0x602)]=_0x5a4cfb(0x45f),_0x31c57c[_0x5a4cfb(0x357)](_0xc44f3b);let _0x1b83c3=document['createElement']('th');_0x1b83c3['innerText']=_0x5a4cfb(0xfb),_0x31c57c[_0x5a4cfb(0x357)](_0x1b83c3);let _0x31af61=document['createElement']('th');_0x31af61['innerText']=_0x5a4cfb(0x1a9),_0x31c57c[_0x5a4cfb(0x357)](_0x31af61);let _0x2aa9a9=document['createElement']('th');_0x2aa9a9[_0x5a4cfb(0x602)]=_0x5a4cfb(0x258),_0x31c57c[_0x5a4cfb(0x357)](_0x2aa9a9);let _0x4e2103=document[_0x5a4cfb(0x48c)]('th');_0x4e2103[_0x5a4cfb(0x602)]=_0x5a4cfb(0xf5),_0x31c57c['appendChild'](_0x4e2103);let _0x48168e=document[_0x5a4cfb(0x48c)]('th');_0x48168e[_0x5a4cfb(0x602)]=_0x5a4cfb(0x45e),_0x31c57c[_0x5a4cfb(0x357)](_0x48168e);let _0xe027a2=document[_0x5a4cfb(0x48c)]('th');_0xe027a2['innerText']=_0x5a4cfb(0x47d),_0x31c57c[_0x5a4cfb(0x357)](_0xe027a2);let _0x4aa16b=document[_0x5a4cfb(0x48c)]('th');_0x4aa16b['innerText']=_0x5a4cfb(0x36f),_0x31c57c[_0x5a4cfb(0x357)](_0x4aa16b),_0x2c2f93[_0x5a4cfb(0x357)](_0x31c57c);let _0x4342ae=document['createElement'](_0x5a4cfb(0x211));_0x4342ae[_0x5a4cfb(0x101)]=_0x5a4cfb(0x5ea);for(var _0x1ea4b9=0x0;_0x1ea4b9<_0x5765ce['length'];_0x1ea4b9++){let _0x5c5a5b=document[_0x5a4cfb(0x48c)]('tr'),_0x434115=document['createElement']('td');_0x434115[_0x5a4cfb(0x602)]=_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x399)],_0x5c5a5b['appendChild'](_0x434115);let _0x5b584e=document['createElement']('td');_0x5b584e[_0x5a4cfb(0x602)]=_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x1f2)],_0x5c5a5b[_0x5a4cfb(0x357)](_0x5b584e);let _0x37d8f2=document[_0x5a4cfb(0x48c)]('td');_0x37d8f2[_0x5a4cfb(0x602)]=_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x467)],_0x5c5a5b[_0x5a4cfb(0x357)](_0x37d8f2);let _0x2c93f1=document[_0x5a4cfb(0x48c)]('td');_0x2c93f1[_0x5a4cfb(0x602)]=status_list[_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x2f2)]],_0x5c5a5b['appendChild'](_0x2c93f1);let _0x5c5b9b=document[_0x5a4cfb(0x48c)]('td');_0x5c5b9b[_0x5a4cfb(0x602)]=_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x15a)][_0x5a4cfb(0x2ab)](),_0x5c5a5b[_0x5a4cfb(0x357)](_0x5c5b9b);let _0x3e8105=document[_0x5a4cfb(0x48c)]('td');var _0x1d68ff=Math[_0x5a4cfb(0x5f5)](new Date()-decode_date(_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x4d8)],0x1))/(0x3e8*0x3c*0x3c*0x18);_0x3e8105[_0x5a4cfb(0x602)]=_0x1d68ff[_0x5a4cfb(0x1f8)](0x0),_0x5c5a5b[_0x5a4cfb(0x357)](_0x3e8105);let _0x3d521b=document[_0x5a4cfb(0x48c)]('td');_0x3d521b[_0x5a4cfb(0x602)]=decode_date(_0x5765ce[_0x1ea4b9]['entry_dt']),_0x5c5a5b[_0x5a4cfb(0x357)](_0x3d521b);let _0xbf230c=document[_0x5a4cfb(0x48c)]('td');_0xbf230c[_0x5a4cfb(0x101)]=_0x5a4cfb(0x5ea),_0xbf230c['innerText']=_0x5765ce[_0x1ea4b9][_0x5a4cfb(0x3a3)],_0x5c5a5b[_0x5a4cfb(0x357)](_0xbf230c),_0x4342ae[_0x5a4cfb(0x357)](_0x5c5a5b);}return _0x3f242e[_0x5a4cfb(0x357)](_0x2c2f93),_0x3f242e[_0x5a4cfb(0x357)](_0x4342ae),$('#'+_0x1a850e)[_0x5a4cfb(0x567)]({'lengthMenu':[[0xa,0x19,0x32,-0x1],[0xa,0x19,0x32,_0x5a4cfb(0x131)]],'lengthChange':!![],'colReorder':!![],'paging':!![],'dom':_0x5a4cfb(0x348),'buttons':[_0x5a4cfb(0x419),{'extend':_0x5a4cfb(0x33b),'text':_0x5a4cfb(0x276),'buttons':[_0x5a4cfb(0x575),'excel',_0x5a4cfb(0x367)]}]}),!![];}async function initialize_download_job_records_section(){var _0x8a2d74=_0x390981;document[_0x8a2d74(0x610)](_0x8a2d74(0x22c))[_0x8a2d74(0x1fc)]=_0x8a2d74(0x2dc),await reset_sections(),fetch_data_download_job_records_btn[_0x8a2d74(0x49a)]=async function(){var _0x3f7665=_0x8a2d74,_0x243efc=document[_0x3f7665(0x610)](_0x3f7665(0x3d9))[_0x3f7665(0x1fc)],_0x58f5c9=document['getElementById']('to_serial_download_job_records_section')[_0x3f7665(0x1fc)],_0x1befc7=document[_0x3f7665(0x610)](_0x3f7665(0x22c))[_0x3f7665(0x1fc)];if(_0x1befc7==_0x3f7665(0x221))_0x1befc7=0x1;else _0x1befc7=0x0;if(!(validate_serial_number(_0x243efc)&&validate_serial_number(_0x58f5c9)))return![];if(_0x243efc>_0x58f5c9)return _0x3f7665(0x4e6)===_0x3f7665(0x37c)?(_0x324822('Data\x20corrupted\x202.\x20Please\x20refresh\x20and\x20try\x20again.'),![]):(display_error(_0x3f7665(0x318)),![]);if(gl_user_permission['admin']==0x1||gl_user_permission[section_permission_list['View\x20Dashboard']]==0x1){var _0x2f00d1=[];try{if(_0x3f7665(0x302)!=='qrdIh'){start_loading();const _0x5d5c76=functions[_0x3f7665(0x40e)]('download_job_records');_0x2f00d1=(await _0x5d5c76({'starting_serial':_0x243efc[_0x3f7665(0x2ab)](),'ending_serial':_0x58f5c9['toString'](),'mode':_0x1befc7}))[_0x3f7665(0x3f9)];var _0xed25be=document[_0x3f7665(0x610)](_0x3f7665(0x4de));empty_container_byReference(_0xed25be);let _0x66c04a=document['createElement']('table');_0x66c04a[_0x3f7665(0x101)]='table\x20table-responsive\x20table-striped\x20table-bordered\x20wrap\x20display\x20stripe\x20row-border',_0x66c04a[_0x3f7665(0x214)]='width:100%',_0x66c04a['id']=_0x3f7665(0x2b4),_0xed25be[_0x3f7665(0x357)](_0x66c04a),await render_table_job_records(_0x2f00d1,_0x3f7665(0x2b4)),stop_loading();}else return _0xba8177('Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.'),![];}catch(_0x45f9b5){return display_error(_0x45f9b5[_0x3f7665(0x286)]),![];}return!![];}else{if(_0x3f7665(0x5ca)!==_0x3f7665(0x5ca)){_0x92ed55=_0x1cd959[_0x3f7665(0x48c)](_0x3f7665(0x20f)),_0x5a2672[_0x3f7665(0x101)]='text-muted';if(_0x405314[_0x2660cc][_0x3f7665(0x4e7)]===_0x4207c6[0x0])_0x37ee57[_0x3f7665(0x602)]='Min\x20Value:\x20'+(_0x5f364c[_0xfc21ed][_0x3f7665(0x285)]||'-')[_0x3f7665(0x2ab)]()+_0x3f7665(0x116)+(_0x2bec2a[_0x106ccf][_0x3f7665(0x32a)]||'-')[_0x3f7665(0x2ab)]();else{if(_0x4f87da[_0x193ff2]['type']===_0xc4a789[0x1])_0x21d726[_0x3f7665(0x602)]=_0x3f7665(0x42b)+_0x590c44[_0xa09a89][_0x3f7665(0x285)];else{if(_0x250de4[_0x43b318][_0x3f7665(0x4e7)]===_0x19a30c[0x2])_0x326dd6['innerHTML']='Enter\x20<u>'+_0x301ff4[_0x257d3e][_0x3f7665(0x285)]+_0x3f7665(0x185);else{if(_0x3a6127[_0x4e7153][_0x3f7665(0x4e7)]===_0xf57bf[0x3])_0xc5cac1[_0x3f7665(0x602)]='Enter\x20value\x20(max\x2050\x20characters)';}}}}else return display_error(_0x3f7665(0x4cb)),![];}};}async function initialize_create_serial_section(){var _0x4342fc=_0x390981;await reset_sections();if(gl_user_permission['admin']!=0x1&&gl_user_permission[section_permission_list[_0x4342fc(0x3fc)]]!=0x1)return display_error(_0x4342fc(0x17d)),![];await set_model_list_display();var _0x15813b=document[_0x4342fc(0x610)](_0x4342fc(0x520));await empty_container_byReference(_0x15813b),await set_select_options(_0x15813b,await generate_min_max_array(0x1,0x64)),document[_0x4342fc(0x610)](_0x4342fc(0x520))[_0x4342fc(0x1fc)]=0x1;}function canvas_print_break(_0x369918,_0x35f00e,_0x3c52a1,_0x558d65,_0x447c69,_0x5de012,_0x5bc7ce='center'){var _0x3e46f2=_0x390981;_0x369918[_0x3e46f2(0x112)]='black',_0x369918[_0x3e46f2(0x585)]=_0x447c69+_0x3e46f2(0x154),_0x369918[_0x3e46f2(0x15e)]=_0x5bc7ce;var _0x30a30e=[],_0x529306=-0x1;for(var _0x27deb6=0x0;_0x27deb6<_0x35f00e[_0x3e46f2(0x2bb)];_0x27deb6++){_0x27deb6%_0x5de012==0x0&&(_0x529306+=0x1,_0x30a30e[_0x529306]=''),_0x30a30e[_0x529306]+=_0x35f00e[_0x27deb6];}for(var _0x27deb6=0x0;_0x27deb6<=_0x529306;_0x27deb6++){_0x369918[_0x3e46f2(0x216)](_0x30a30e[_0x27deb6],_0x3c52a1,_0x558d65+_0x447c69*_0x27deb6*1.2);}return!![];}async function create_and_display_QR(_0x56be21,_0x682e84){var _0x5e0865=_0x390981;try{if(_0x5e0865(0x150)!==_0x5e0865(0x1ac)){await start_loading();let _0x420172=await write_serial_number(_0x56be21,_0x682e84);_0x420172==!![]&&display_QR(_0x56be21,_0x682e84);}else{if(_0x1ab908==0x0)return 0x0;else{if(_0x446ae2==0x1&&_0x1bcc00!=_0x4bea43)return 0x0;else return 0x1;}}}catch(_0xd96e72){await display_error(_0x5e0865(0x20e));}}async function create_qr_label_pdf(_0xd733ee,_0x1d3a60='',_0xf0c738=''){var _0x34cb29=_0x390981;const _0x56d92e=0x64,_0x3e9f19=0x32,_0x49e2e6=0x4;var _0x39427b=_0x49e2e6;const _0x26adbf=0x4,_0x4c87f5=0x23,_0x32b822=_0x56d92e-_0x4c87f5-_0x26adbf*2.5;var _0x3295f8='';const _0x52f362=new jspdf['jsPDF']({'orientation':'landscape','unit':'mm','format':[_0x56d92e,_0x3e9f19]});var _0x33528a=new Image();_0x33528a['setAttribute'](_0x34cb29(0x5b7),_0x34cb29(0x1b6)),_0x33528a['src']=_0x34cb29(0x51d)+encodeURI(_0xd733ee),_0x52f362[_0x34cb29(0x1ef)](_0x33528a,_0x34cb29(0x4ab),_0x26adbf,_0x49e2e6,_0x4c87f5,_0x4c87f5);const _0xb20988=gl_curr_user_details[_0x34cb29(0x507)];_0x3295f8+=_0xb20988+'\x0a\x0a',_0x52f362[_0x34cb29(0x147)]('black'),_0x52f362[_0x34cb29(0x48f)](0xc),_0x3295f8+=_0x34cb29(0x4dd)+_0x1d3a60+'\x0a\x0a';if(_0xf0c738!='')_0x3295f8+='Date:\x20'+await decode_date(_0xf0c738);var _0xd950b1=_0x52f362[_0x34cb29(0x48f)](0xb)[_0x34cb29(0x189)](_0x3295f8,_0x32b822);_0x52f362[_0x34cb29(0x483)](_0xd950b1,_0x4c87f5+_0x26adbf*1.5,_0x49e2e6+_0x26adbf*1.4),_0x52f362[_0x34cb29(0x147)](_0x34cb29(0x37b)),_0x52f362['setFontSize'](0xc),_0x52f362[_0x34cb29(0x483)](_0xd733ee,_0x56d92e/0x2,_0x3e9f19-_0x26adbf,{'align':_0x34cb29(0x531)}),_0x52f362[_0x34cb29(0x364)](_0xd733ee+_0x34cb29(0x3d6));}async function display_QR(_0x245c36,_0x51820c='',_0x569366=''){var _0x5f031b=_0x390981;await start_loading();var _0x588c86=_0x5f031b(0x54a),_0x42c110=new Image();_0x42c110[_0x5f031b(0x171)](_0x5f031b(0x5b7),_0x5f031b(0x1b6)),_0x42c110[_0x5f031b(0x468)]=_0x5f031b(0x51d)+encodeURI(_0x245c36);const _0x56a8bd=0x5,_0x34687e=0xa,_0x4dc525=0x1e,_0x16e0cc=0xf;var _0x48716d=_0x34687e*0x3+_0x16e0cc/0x2;_0x42c110['onload']=async function(){var _0x5c5f04=_0x5f031b;if('LYdwn'===_0x5c5f04(0x26e))try{var _0x5685d9=document[_0x5c5f04(0x610)](_0x5c5f04(0x5c2));_0x5685d9[_0x5c5f04(0x3a8)]=_0x5c5f04(0x40b),_0x5685d9[_0x5c5f04(0x1a2)]=_0x5c5f04(0x31a);var _0x5b9cbb=_0x5685d9[_0x5c5f04(0x19e)]('2d');_0x5b9cbb[_0x5c5f04(0x1f9)](0x0,0x0,_0x5685d9[_0x5c5f04(0x3a8)],_0x5685d9[_0x5c5f04(0x1a2)]),_0x5b9cbb[_0x5c5f04(0x112)]=_0x5c5f04(0x61a),_0x5b9cbb[_0x5c5f04(0x338)](0x0,0x0,_0x5685d9['width'],_0x5685d9[_0x5c5f04(0x1a2)]),_0x5b9cbb['drawImage'](_0x42c110,_0x56a8bd,_0x34687e),canvas_print_break(_0x5b9cbb,gl_curr_user_details[_0x5c5f04(0x507)],_0x56a8bd+_0x42c110[_0x5c5f04(0x3a8)],_0x48716d,_0x16e0cc,_0x4dc525,_0x5c5f04(0x1cc)),_0x48716d+=(Math['floor'](gl_curr_user_details[_0x5c5f04(0x507)][_0x5c5f04(0x2bb)]/_0x4dc525)+0x2)*_0x16e0cc;var _0x1e79ff=_0x5c5f04(0x35b)+_0x51820c;canvas_print_break(_0x5b9cbb,_0x1e79ff,_0x56a8bd+_0x42c110[_0x5c5f04(0x3a8)],_0x48716d,_0x16e0cc,_0x4dc525,_0x5c5f04(0x1cc)),_0x48716d+=(Math[_0x5c5f04(0x174)](_0x1e79ff['length']/_0x4dc525)+0x2)*_0x16e0cc;if(_0x569366!=''){const _0x564e17=_0x5c5f04(0x3c6)+_0x569366;canvas_print_break(_0x5b9cbb,_0x564e17,_0x56a8bd+_0x42c110[_0x5c5f04(0x3a8)],_0x48716d,_0x16e0cc,_0x4dc525,_0x5c5f04(0x1cc)),_0x48716d+=(Math[_0x5c5f04(0x174)](_0x564e17[_0x5c5f04(0x2bb)]/_0x4dc525)+0x2)*_0x16e0cc;}const _0x4ec013=_0x245c36;return canvas_print_break(_0x5b9cbb,_0x4ec013,_0x5685d9[_0x5c5f04(0x3a8)]/0x2,_0x34687e+_0x42c110[_0x5c5f04(0x1a2)]+_0x16e0cc*1.2,_0x16e0cc+0x2,_0x4dc525,_0x5c5f04(0x531)),document[_0x5c5f04(0x610)](_0x5c5f04(0x55a))[_0x5c5f04(0x561)]='#',document['getElementById']('download_qr_btn')[_0x5c5f04(0x49a)]=async function(){var _0x8d6fd9=_0x5c5f04;if(_0x8d6fd9(0x400)!=='AQLLc')await create_qr_label_pdf(_0x245c36,_0x51820c,_0x569366);else{_0x5282fb[_0x8d6fd9(0x112)]=_0x8d6fd9(0x37b),_0x6ee5a0['font']=_0x169413+_0x8d6fd9(0x154),_0x1fdd79[_0x8d6fd9(0x15e)]=_0x49ccae;var _0x54e1f2=[],_0x35741f=-0x1;for(var _0x33da12=0x0;_0x33da12<_0x3b7ca6[_0x8d6fd9(0x2bb)];_0x33da12++){_0x33da12%_0x224a9b==0x0&&(_0x35741f+=0x1,_0x54e1f2[_0x35741f]=''),_0x54e1f2[_0x35741f]+=_0x20ac15[_0x33da12];}for(var _0x33da12=0x0;_0x33da12<=_0x35741f;_0x33da12++){_0x39f5e1['fillText'](_0x54e1f2[_0x33da12],_0xc80003,_0x1501c5+_0x295006*_0x33da12*1.2);}return!![];}},document[_0x5c5f04(0x610)](_0x5c5f04(0x306))[_0x5c5f04(0x214)][_0x5c5f04(0x138)]=_0x5c5f04(0x608),document['getElementById'](_0x5c5f04(0x4ed))[_0x5c5f04(0x214)][_0x5c5f04(0x138)]='flex',await stop_loading(),!![];}catch(_0x66fd){if(_0x5c5f04(0x4c1)==='mLFsG')_0xb20cd[_0x5c5f04(0x5a8)](_0x37f266[_0x454e63[_0x3adfae]]);else return console[_0x5c5f04(0x5f1)](_0x66fd),await display_error(_0x5c5f04(0x446)),![];}else{for(var _0x115238=0x0;_0x115238<_0x194121[_0x5c5f04(0x2bb)];_0x115238++){_0x51e66f[_0x5c5f04(0x610)](_0x35e731[_0x115238])[_0x5c5f04(0x214)][_0x5c5f04(0x138)]='none';}var _0x404d86=_0x57d363[_0x5c5f04(0x610)](_0x5c5f04(0x2c5))['value'];_0x554dc6['getElementById'](_0x404d86)[_0x5c5f04(0x214)][_0x5c5f04(0x138)]=_0x5c5f04(0x43b);for(var _0x115238=0x0;_0x115238<_0x526af1[_0x5c5f04(0x2bb)];_0x115238++){_0x5e7dc4[_0x5c5f04(0x610)](_0x495cfa[_0x115238])[_0x5c5f04(0x214)][_0x5c5f04(0x138)]='none';}var _0x10483b=_0xbdbc58[_0x5c5f04(0x610)](_0x5c5f04(0x616))[_0x5c5f04(0x1fc)];_0x4dd045['getElementById'](_0x10483b)['style'][_0x5c5f04(0x138)]='block';}};}async function set_model_list_display(){var _0x503175=_0x390981;let _0x285631=document['getElementById'](_0x503175(0x297));empty_container(_0x503175(0x297));if(is_null(gl_model_list))gl_model_list=await read_model_list();gl_model_list[_0x503175(0x57a)]();var _0xd6a8e8=gl_model_list[_0x503175(0x2bb)];for(i=0x0;i<_0xd6a8e8;i++){if(_0x503175(0x291)===_0x503175(0x291)){var _0x1db030=document[_0x503175(0x48c)](_0x503175(0x25a));_0x1db030[_0x503175(0x602)]=gl_model_list[i],_0x285631[_0x503175(0x357)](_0x1db030);}else _0x3bd70a[_0x503175(0x5a8)](_0x91774f[_0x56101f][_0x503175(0x399)]);}}function reset_create_serial(_0x1a2b75){var _0x12b88c=_0x390981;document['getElementById'](_0x1a2b75)['value']='',document['getElementById'](_0x12b88c(0x520))[_0x12b88c(0x1fc)]=0x1;var _0x46a161=document['getElementById'](_0x12b88c(0x5c2)),_0x2b004c=_0x46a161['getContext']('2d');_0x2b004c['clearRect'](0x0,0x0,_0x46a161[_0x12b88c(0x3a8)],_0x46a161[_0x12b88c(0x1a2)]),document[_0x12b88c(0x610)](_0x12b88c(0x4ed))[_0x12b88c(0x214)][_0x12b88c(0x138)]='none',document['getElementById'](_0x12b88c(0x306))['style']['display']=_0x12b88c(0x31d);}async function remove_new_serial(_0x525bce){var _0x3cf03d=_0x390981;if(validate_serial_number(_0x525bce))return await display_confirmation(_0x3cf03d(0x3b3)+_0x525bce+_0x3cf03d(0x236),delete_serial_number,_0x525bce),document[_0x3cf03d(0x610)](_0x3cf03d(0x57f))['value']='',!![];}async function create_new_serial(_0x236708,_0x299f34=0x0,_0x260686=0x0){var _0x40f24e=_0x390981;let _0x47623a=document[_0x40f24e(0x610)](_0x40f24e(0x297))[_0x40f24e(0x1fc)];if(validate_serial_number(_0x236708)&&validate_input(_0x47623a)){var _0x18152a=await read_serial_number_record(_0x236708);if(_0x18152a!==![]){if(_0x40f24e(0x2d4)!==_0x40f24e(0x2d4))return _0x5ebc0e('Workstation\x20Name\x20cannot\x20be\x20empty'),![];else display_confirmation('Serial\x20Number\x20-\x20<b>'+_0x236708+_0x40f24e(0x3f6),display_QR,_0x236708,_0x18152a[_0x40f24e(0x46b)][_0x40f24e(0x1f2)]);}else{if(_0x40f24e(0x5d9)===_0x40f24e(0x592))_0x59df9c[_0x40f24e(0x5a8)](_0x400fdc);else{if(_0x260686!=0x0)display_confirmation(_0x40f24e(0x529)+(_0x260686+0x1)+_0x40f24e(0x3c2)+_0x236708+_0x40f24e(0x27d)+_0x299f34+_0x40f24e(0x36b)+_0x236708+'</b>\x20of\x20type\x20<b>'+_0x47623a+_0x40f24e(0x402),create_and_display_QR,_0x236708,_0x47623a);else display_confirmation(_0x40f24e(0x2e7)+_0x236708+_0x40f24e(0x394)+_0x47623a+'</b>\x20?',create_and_display_QR,_0x236708,_0x47623a);}}}}function setup_multi_serial_number_create_list(){var _0x4f34c9=_0x390981,_0x161d35=document['getElementById'](_0x4f34c9(0x40f))[_0x4f34c9(0x1fc)][_0x4f34c9(0x2ab)](),_0x3c0e69=document[_0x4f34c9(0x610)](_0x4f34c9(0x520))[_0x4f34c9(0x1fc)];gl_pending_multi_serial_number_create_list=[];var _0x5cfc5e=-0x1;for(var _0x6a5a4f=_0x161d35[_0x4f34c9(0x2bb)]-0x1;_0x6a5a4f>=0x0;_0x6a5a4f--){if(isNaN(_0x161d35[_0x6a5a4f])==!![]&&_0x5cfc5e==-0x1)_0x5cfc5e=_0x6a5a4f+0x1;}if(_0x5cfc5e==-0x1)_0x5cfc5e=0x0;var _0xe2f7a4=_0x161d35[_0x4f34c9(0x250)](0x0,_0x5cfc5e),_0x257254=_0x161d35['substr'](_0x5cfc5e,_0x161d35['length']-_0x5cfc5e),_0x44da44=Number(_0x257254);for(var _0x6a5a4f=_0x3c0e69-0x1;_0x6a5a4f>=0x0;_0x6a5a4f--){if(_0x4f34c9(0x559)!=='GcNjQ'){var _0x42f82c=String(_0x44da44+_0x6a5a4f);gl_pending_multi_serial_number_create_list['push'](String(_0xe2f7a4+_0x42f82c[_0x4f34c9(0x631)](_0x161d35[_0x4f34c9(0x2bb)]-_0x5cfc5e,'0')));}else _0x88a597[_0x4f34c9(0x2aa)](_0x3fcf17[_0x4bcf9f][_0x4f34c9(0x296)])<0x0&&_0x251417[_0x4f34c9(0x5a8)](_0x50420c[_0x35fbad][_0x4f34c9(0x296)]);}return[gl_pending_multi_serial_number_create_list[_0x4f34c9(0x4a8)](),gl_pending_multi_serial_number_create_list[0x0]||0x0,gl_pending_multi_serial_number_create_list[_0x4f34c9(0x2bb)]];}async function convert_record_to_array_log(_0x458865){var _0x4ed142=_0x390981,_0x5dee05=[],_0x38492e=[],_0x403658=_0x458865[_0x4ed142(0x46b)][_0x4ed142(0x167)];for(var _0x499091=0x0;_0x499091<_0x403658[_0x4ed142(0x2bb)];_0x499091++){if((gl_user_permission[_0x4ed142(0x464)]==0x1||gl_user_permission[_0x403658[_0x499091]]>0x0)&&_0x458865[_0x403658[_0x499091]][_0x4ed142(0x2f2)]!=0x2){var _0x3d567b=_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f2)];for(var _0x47e72f=0x0;_0x47e72f<_0x3d567b[_0x4ed142(0x2bb)];_0x47e72f++){const _0x3f46ac=_0x3d567b[_0x47e72f][_0x4ed142(0xdc)],_0x5a75a4=_0x458865[_0x403658[_0x499091]][_0x4ed142(0x420)][_0x3f46ac][0x0],_0x1712dc=_0x3d567b[_0x47e72f][_0x4ed142(0x45d)]||0x1,_0x4de6d7=_0x458865[_0x403658[_0x499091]][_0x4ed142(0x420)][_0x3f46ac][0x1]==0x0?_0x4ed142(0x5dd):_0x4ed142(0x54b)+_0x1712dc+_0x4ed142(0x102),_0x48eadf=_0x3d567b[_0x47e72f][_0x4ed142(0x425)]||'';var _0x311052='';if(_0x3d567b[_0x47e72f][_0x4ed142(0x4e7)]===data_types[0x0])_0x311052=_0x4ed142(0x380)+(_0x3d567b[_0x47e72f][_0x4ed142(0x285)]||'-')[_0x4ed142(0x2ab)]()+_0x4ed142(0x116)+(_0x3d567b[_0x47e72f]['value2']||'-')['toString']();else{if(_0x3d567b[_0x47e72f][_0x4ed142(0x4e7)]===data_types[0x1])_0x311052=_0x3d567b[_0x47e72f]['value1'];else{if(_0x3d567b[_0x47e72f][_0x4ed142(0x4e7)]===data_types[0x2])_0x311052=_0x3d567b[_0x47e72f][_0x4ed142(0x285)]+_0x4ed142(0x429);else{if(_0x3d567b[_0x47e72f]['type']===data_types[0x3])_0x311052='';}}}var _0x3ee8b4=await validate_input_field_value(_0x3d567b[_0x47e72f][_0x4ed142(0x4e7)],_0x3d567b[_0x47e72f]['value1'],_0x3d567b[_0x47e72f]['value2'],_0x458865[_0x403658[_0x499091]][_0x4ed142(0x420)][_0x3d567b[_0x47e72f][_0x4ed142(0xdc)]][0x0]),_0x1e459c;if(_0x3ee8b4==!![])_0x1e459c='OK';else{if(_0x3ee8b4==![]&&_0x458865[_0x403658[_0x499091]][_0x4ed142(0x2f2)]==0x0)_0x1e459c='DEVIATION';else _0x1e459c=_0x4ed142(0x2b6);}_0x5dee05[_0x4ed142(0x5a8)]([_0x403658[_0x499091],_0x3f46ac,_0x311052,_0x48eadf,_0x5a75a4,_0x4de6d7,_0x1e459c]);}!is_null(_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x3a3)])&&_0x38492e['push']([_0x403658[_0x499091],_0x4ed142(0x486),_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)]['entry_by'],decode_date(_0x458865[_0x403658[_0x499091]]['log'][_0x4ed142(0x4d8)])]);!is_null(_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x604)])&&_0x38492e[_0x4ed142(0x5a8)]([_0x403658[_0x499091],'Data\x20Updated',_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x604)],decode_date(_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x502)])]);if(!is_null(_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x57e)])){var _0x1afad4=_0x458865[_0x403658[_0x499091]][_0x4ed142(0x2f2)]==0x4?'Rejected':_0x4ed142(0x54e);_0x38492e[_0x4ed142(0x5a8)]([_0x403658[_0x499091],_0x1afad4,_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)]['deviation_by'],decode_date(_0x458865[_0x403658[_0x499091]]['log'][_0x4ed142(0x24d)])]);}if(!is_null(_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)]['remark'])){if(_0x4ed142(0x426)!==_0x4ed142(0x426))return _0x5e305e(_0x4ed142(0x4cb)),![];else{var _0x27a17e=_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x279)];_0x38492e[_0x4ed142(0x5a8)]([_0x403658[_0x499091],_0x4ed142(0x4b4),_0x458865[_0x403658[_0x499091]][_0x4ed142(0x5f1)][_0x4ed142(0x279)],'']);}}}}return[_0x5dee05,_0x38492e];}function get_dispatch_details_array_log(_0x4fb896){var _0x22f02b=_0x390981,_0x5de1c1=[];return _0x5de1c1['push']([_0x22f02b(0x2ac),_0x4fb896['Basic\x20Info'][_0x22f02b(0x405)]]),_0x5de1c1['push']([_0x22f02b(0x3f5),_0x4fb896['Basic\x20Info'][_0x22f02b(0x5f1)][_0x22f02b(0x279)]]),_0x5de1c1[_0x22f02b(0x5a8)]([_0x22f02b(0x24a),decode_date(_0x4fb896[_0x22f02b(0x46b)][_0x22f02b(0x5f1)][_0x22f02b(0x4d8)])]),_0x5de1c1['push']([_0x22f02b(0x36f),_0x4fb896[_0x22f02b(0x46b)][_0x22f02b(0x5f1)]['entry_by']]),!is_null(_0x4fb896[_0x22f02b(0x46b)]['log'][_0x22f02b(0x604)])&&(_0x5de1c1[_0x22f02b(0x5a8)]([_0x22f02b(0x119),decode_date(_0x4fb896[_0x22f02b(0x46b)][_0x22f02b(0x5f1)]['update_dt'])]),_0x5de1c1[_0x22f02b(0x5a8)]([_0x22f02b(0x5e5),_0x4fb896['Basic\x20Info'][_0x22f02b(0x5f1)][_0x22f02b(0x604)]])),_0x5de1c1;}async function create_process_record_pdf(_0x3c79a9){var _0x5a553f=_0x390981;const _0x2ec7bc=0x129,_0x5d53b2=0xd2,_0x7f02fc=0xa;var _0x535e86=_0x7f02fc;const _0x488ced=0x6,_0x5df63a=new jspdf[(_0x5a553f(0x525))]({'orientation':_0x5a553f(0x4af),'unit':'mm','format':[_0x2ec7bc,_0x5d53b2]}),_0x1adf09=gl_curr_user_details['company'];_0x5df63a[_0x5a553f(0x147)](_0x5a553f(0x37b)),_0x5df63a[_0x5a553f(0x48f)](0x11),_0x5df63a[_0x5a553f(0x483)](_0x1adf09,_0x2ec7bc/0x2,_0x535e86+=_0x488ced,{'align':'center'}),_0x5df63a[_0x5a553f(0x147)]('black'),_0x5df63a[_0x5a553f(0x48f)](0xc);var _0x5b7b54=_0x5a553f(0xd7)+_0x3c79a9[_0x5a553f(0x46b)]['serial'];if(_0x3c79a9[_0x5a553f(0x46b)]['external_id']!='')_0x5b7b54+='\x20['+_0x3c79a9['Basic\x20Info'][_0x5a553f(0x405)]+']';_0x5df63a['setTextColor'](_0x5a553f(0x37b)),_0x5df63a['text'](_0x5b7b54,_0x2ec7bc*0.5,_0x535e86+=_0x488ced,{'align':_0x5a553f(0x531)}),_0x5df63a[_0x5a553f(0x48f)](0xa),_0x5df63a[_0x5a553f(0x483)]('Model:\x20'+_0x3c79a9['Basic\x20Info'][_0x5a553f(0x1f2)],_0x2ec7bc*0.5,_0x535e86+=_0x488ced,{'align':_0x5a553f(0x531)});var _0x1e739e=status_list[_0x3c79a9[_0x5a553f(0x46b)][_0x5a553f(0x2f2)]];if(_0x3c79a9[_0x5a553f(0x46b)][_0x5a553f(0x2f2)]==0x0)_0x1e739e=_0x5a553f(0x1b8);if(_0x3c79a9[_0x5a553f(0x46b)][_0x5a553f(0x2f2)]==0x0&&!is_null(_0x3c79a9[_0x5a553f(0x46b)]['external_id']))_0x1e739e=_0x5a553f(0x3dd);_0x5df63a['text']('Status\x20:\x20'+_0x1e739e,_0x2ec7bc*0.5,_0x535e86+=_0x488ced,{'align':'center'});const _0x1939c7=await convert_record_to_array_log(_0x3c79a9);var _0x4d7fc4=_0x1939c7[0x0],_0x548b9d=_0x1939c7[0x1];_0x5df63a['autoTable']({'head':[[_0x5a553f(0x45f),'Parameter','Acceptance\x20Criteria',_0x5a553f(0x492),_0x5a553f(0x556),'Measurement\x20Type',_0x5a553f(0x258)]],'body':_0x4d7fc4,'theme':_0x5a553f(0x157),'styles':{'fontSize':0xb,'valign':_0x5a553f(0x188),'lineColor':'#000000'},'headStyles':{'fillColor':'#FFFFFF','textColor':_0x5a553f(0x300),'lineColor':_0x5a553f(0x300),'lineWidth':0.1},'columnStyles':{0x4:{'halign':_0x5a553f(0x531)}},'startY':0x28,'didParseCell':function(_0x4ffac2){var _0x53d08a=_0x5a553f;if(_0x4ffac2[_0x53d08a(0x292)]=='body'&&_0x4ffac2[_0x53d08a(0x321)]['index']==0x6&&_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x3fb)]=='OK')_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x19a)]=_0x53d08a(0x13f),_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x295)]=_0x53d08a(0x2ba);else{if(_0x4ffac2[_0x53d08a(0x292)]=='body'&&_0x4ffac2[_0x53d08a(0x321)]['index']==0x6&&_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x3fb)]==_0x53d08a(0x2b6))_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x19a)]=_0x53d08a(0x458),_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x295)]=_0x53d08a(0x26b);else _0x4ffac2[_0x53d08a(0x292)]=='body'&&_0x4ffac2[_0x53d08a(0x321)][_0x53d08a(0x264)]==0x6&&_0x4ffac2['cell']['raw']==_0x53d08a(0x454)&&(_0x53d08a(0x10d)===_0x53d08a(0x10d)?(_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x19a)]=_0x53d08a(0x3aa),_0x4ffac2[_0x53d08a(0x257)][_0x53d08a(0x5bb)][_0x53d08a(0x295)]=_0x53d08a(0x128)):(_0x53d1ed=new _0x17d14a(_0x4bb721),_0x59a1b7=new _0x4c31b3(_0x37d466)));}}}),_0x5df63a[_0x5a553f(0x48f)](0xc),_0x535e86=_0x5df63a[_0x5a553f(0x3b2)][_0x5a553f(0x421)]+0xa,_0x5df63a[_0x5a553f(0x483)]('Job\x20Processing\x20History',_0x2ec7bc*0.5,_0x535e86+=_0x488ced/0x2,{'align':_0x5a553f(0x531)}),_0x535e86+=_0x488ced/0x2,_0x5df63a['autoTable']({'head':[['Operation',_0x5a553f(0x320),_0x5a553f(0x1fd),_0x5a553f(0x571)]],'body':_0x548b9d,'theme':'grid','styles':{'fontSize':0xb,'valign':_0x5a553f(0x188),'lineColor':_0x5a553f(0x300)},'headStyles':{'fillColor':_0x5a553f(0x4d5),'textColor':'#000000','lineColor':_0x5a553f(0x300),'lineWidth':0.1},'columnStyles':{0x4:{'halign':_0x5a553f(0x531)}},'startY':_0x535e86});if(!is_null(_0x3c79a9[_0x5a553f(0x46b)][_0x5a553f(0x5f1)][_0x5a553f(0x3a3)])){if(_0x5a553f(0x447)!==_0x5a553f(0x447))_0x1b2eee[_0x5a553f(0x216)](_0xf2b546[_0x3dd85f],_0x417cb1,_0x25518c+_0x1163f2*_0x1397a4*1.2);else{const _0x5d739e=get_dispatch_details_array_log(_0x3c79a9);_0x5df63a[_0x5a553f(0x1cb)](),_0x535e86=_0x7f02fc,_0x5df63a[_0x5a553f(0x483)](_0x5a553f(0x562),_0x2ec7bc/0x2,_0x535e86+=_0x488ced,{'align':_0x5a553f(0x531)}),console[_0x5a553f(0x5f1)](),_0x5df63a[_0x5a553f(0x2f9)]({'body':_0x5d739e,'theme':_0x5a553f(0x157),'styles':{'fontSize':0xb,'valign':'middle','lineColor':'#000000'},'headStyles':{'fillColor':'#FFFFFF','textColor':_0x5a553f(0x300),'lineColor':_0x5a553f(0x300),'lineWidth':0.1},'startY':_0x535e86+=_0x488ced});}}for(var _0x53d8be=0x1;_0x53d8be<=_0x5df63a[_0x5a553f(0x59b)][_0x5a553f(0x175)]();_0x53d8be++){if('CfVxr'!==_0x5a553f(0x13a))return _0x5977f2(_0x5a553f(0x4cb)),![];else _0x5df63a[_0x5a553f(0x147)](0x64),_0x5df63a['setFontSize'](0xa),_0x5df63a[_0x5a553f(0x38f)](_0x53d8be),_0x5df63a['text']('Job\x20ID:\x20'+_0x3c79a9['Basic\x20Info'][_0x5a553f(0x467)],0xa,0x7,{'align':'left'}),_0x5df63a[_0x5a553f(0x483)](_0x5a553f(0x5b5)+_0x53d8be+_0x5a553f(0x45a)+_0x5df63a[_0x5a553f(0x59b)][_0x5a553f(0x175)](),_0x2ec7bc-0xa,0x7,{'align':'right'}),_0x5df63a[_0x5a553f(0x483)]('Powered\x20by\x20Qik\x20Process',_0x2ec7bc-0xa,_0x5d53b2-0x5,{'align':_0x5a553f(0x3e7)});}_0x5df63a['save'](_0x3c79a9[_0x5a553f(0x46b)]['serial']+'_process_record.pdf');}function deviation_confirmation(_0x44a49d,_0x32a2f1,_0x5150a8){var _0x4defad=_0x390981;document[_0x4defad(0x610)](_0x4defad(0x484))[_0x4defad(0x1fc)]='',document[_0x4defad(0x610)](_0x4defad(0x43d))[_0x4defad(0x602)]=_0x4defad(0x2d7)+_0x44a49d+_0x4defad(0x441),yes_deviation_modal_btn[_0x4defad(0x49a)]=function(){var _0x24f652=_0x4defad;if(_0x24f652(0x558)===_0x24f652(0x558)){var _0x243519=document[_0x24f652(0x610)]('deviation_remark')['value'];_0x32a2f1(_0x44a49d,_0x5150a8,_0x243519);}else _0x2c77b7[_0x24f652(0x5a8)](_0x4aadef);},$(_0x4defad(0x4b3))['modal']();}function rejection_confirmation(_0x1da0b2,_0x13b112,_0x52d912){var _0x4732a6=_0x390981;document['getElementById'](_0x4732a6(0x4c9))[_0x4732a6(0x1fc)]='',document[_0x4732a6(0x610)](_0x4732a6(0x151))['innerText']=_0x4732a6(0x2b8),yes_rejection_modal_btn[_0x4732a6(0x49a)]=function(){var _0x524fc2=_0x4732a6,_0x344deb=document[_0x524fc2(0x610)]('rejection_remark')['value'];_0x13b112(_0x1da0b2,_0x52d912,_0x344deb);},$(_0x4732a6(0x12b))[_0x4732a6(0x60d)]();}async function validate_input_field_value(_0x2aa44f,_0x4d487d,_0x1d001b,_0x5eb238){var _0x4696e9=_0x390981;try{if(is_null(gl_model_list))gl_model_list=await read_model_list();if(is_null(_0x5eb238))return![];if(_0x2aa44f==data_types[0x0]){if(isNaN(_0x5eb238))return![];if(!is_null(_0x4d487d)&&!isNaN(_0x4d487d)){if(Number(_0x5eb238)<Number(_0x4d487d))return![];}if(!is_null(_0x1d001b)&&!isNaN(_0x1d001b)){if(Number(_0x5eb238)>Number(_0x1d001b))return![];}if(_0x5eb238['toString']()[_0x4696e9(0x2bb)]>param_value_max_length)return![];}else{if(_0x2aa44f==data_types[0x1]){if(_0x4696e9(0x481)!=='iaVLM'){const _0xc727d4=/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return _0xc727d4[_0x4696e9(0xf6)](_0x3fb88b(_0x31c83b)['toLowerCase']());}else{var _0x27c71d=_0x4d487d[_0x4696e9(0x1f6)](',');if(_0x27c71d['length']<0x1)return![];if(!_0x27c71d[_0x4696e9(0x4e0)](_0x5eb238))return console[_0x4696e9(0x5f1)](_0x27c71d),console[_0x4696e9(0x5f1)](_0x5eb238),![];}}else{if(_0x2aa44f==data_types[0x2]){if(_0x4696e9(0x615)!==_0x4696e9(0x2a1)){if(!gl_model_list['includes'](_0x4d487d)||_0x5eb238==gl_curr_record[_0x4696e9(0x46b)]['serial'])return![];if(_0x5eb238[_0x4696e9(0x2ab)]()[_0x4696e9(0x2bb)]>param_value_max_length)return![];var _0x1abf0a=await read_serial_number_record(_0x5eb238),_0xbd75f3=_0x1abf0a[_0x4696e9(0x46b)][_0x4696e9(0x1f2)];if(is_null(_0xbd75f3)||_0xbd75f3!=_0x4d487d||_0x1abf0a[_0x4696e9(0x46b)]['status']!=0x0)return![];}else return _0x2d1643('Serial\x20Number\x20'+_0x11b088+_0x4696e9(0x39a)),![];}else{if(_0x2aa44f==data_types[0x3]){if(_0x4696e9(0x5bd)!==_0x4696e9(0x5bd)){_0x2628bd[_0x4696e9(0x5a8)](_0x5410e6[_0x437b7e]);var _0x2801ca=_0x159ddd(_0x4acada[_0x93c3ad][_0x116a84][_0x4696e9(0x5f1)]['entry_dt'],0x1),_0x1c4d6e=_0x2801ca['getHours']()+_0x4696e9(0x371)+(_0x2801ca[_0x4696e9(0x4cd)]()+0x1)+_0x4696e9(0x513);if(_0x18f7f6['indexOf'](_0x1c4d6e)<0x0)_0x414d3b['push'](_0x1c4d6e);}else{if(is_null(_0x5eb238[_0x4696e9(0x2ab)]()||_0x5eb238['toString']()[_0x4696e9(0x2bb)]>param_value_max_length))return![];}}}}}return!![];}catch(_0x338bf1){return![];}}async function render_actual_value_input_field(_0x1011d7,_0x1dfe88,_0x3e9be6,_0x113210,_0x2e8fcc=0x2,_0x2df8a0){var _0x17cdcc=_0x390981,_0xfb7cac;if(_0x113210==undefined)_0x113210='';if(_0x1011d7==data_types[0x0])_0xfb7cac=document[_0x17cdcc(0x48c)](_0x17cdcc(0x627)),_0xfb7cac[_0x17cdcc(0x4e7)]=_0x17cdcc(0x62b),_0xfb7cac[_0x17cdcc(0x101)]=_0x17cdcc(0x53b),_0xfb7cac[_0x17cdcc(0x190)]=param_value_max_length,_0xfb7cac[_0x17cdcc(0x1fc)]=_0x113210;else{if(_0x1011d7==data_types[0x1]){var _0x261446=_0x1dfe88['split'](',')['concat'](_0x3e9be6[_0x17cdcc(0x1f6)](','));_0xfb7cac=document[_0x17cdcc(0x48c)](_0x17cdcc(0x3ad)),_0xfb7cac[_0x17cdcc(0x101)]=_0x17cdcc(0x455),set_select_options(_0xfb7cac,[''][_0x17cdcc(0x472)](_0x261446)),_0xfb7cac[_0x17cdcc(0x1fc)]=_0x113210;}else{if(_0x1011d7==data_types[0x2])_0xfb7cac=document[_0x17cdcc(0x48c)](_0x17cdcc(0x627)),_0xfb7cac[_0x17cdcc(0x101)]=_0x17cdcc(0x53b),_0xfb7cac[_0x17cdcc(0x190)]=param_value_max_length,_0xfb7cac[_0x17cdcc(0x1fc)]=_0x113210;else{if(_0x1011d7==data_types[0x3]){if(_0x17cdcc(0x1e1)===_0x17cdcc(0x1e1))_0xfb7cac=document['createElement'](_0x17cdcc(0x627)),_0xfb7cac[_0x17cdcc(0x101)]=_0x17cdcc(0x53b),_0xfb7cac[_0x17cdcc(0x190)]=param_value_max_length,_0xfb7cac['value']=_0x113210;else return _0x486a4d(_0x17cdcc(0x428)),![];}}}}_0xfb7cac[_0x17cdcc(0x3ab)]=async function(){var _0x2cdb28=_0x17cdcc,_0xaf27bc=await validate_input_field_value(_0x1011d7,_0x1dfe88,_0x3e9be6,_0xfb7cac[_0x2cdb28(0x1fc)]);if(!_0xaf27bc){if(!_0xfb7cac[_0x2cdb28(0x101)]['includes']('\x20border-danger'))_0xfb7cac[_0x2cdb28(0x101)]=_0xfb7cac['className']+_0x2cdb28(0x55f);}else _0xfb7cac['className']=_0xfb7cac[_0x2cdb28(0x101)][_0x2cdb28(0x5df)](_0x2cdb28(0x55f),'');};if((_0x2e8fcc==0x1||_0x2e8fcc==0x3||_0x2e8fcc==0x2&&_0x113210!='')&&!await validate_input_field_value(_0x1011d7,_0x1dfe88,_0x3e9be6,_0xfb7cac['value'])){if(_0x17cdcc(0x49b)==='UxqlW'){if(!_0xfb7cac['className'][_0x17cdcc(0x4e0)](_0x17cdcc(0x55f)))_0xfb7cac[_0x17cdcc(0x101)]=_0xfb7cac[_0x17cdcc(0x101)]+_0x17cdcc(0x55f);}else _0x217934(_0x36f6b3);}return _0xfb7cac;}function current_process_status(_0x1312e0){var _0x3565a6=_0x390981;const _0x28c65e=Object['keys'](_0x1312e0);var _0x588e9c='.',_0xf7019e=0x0,_0x2a1314=0x0,_0x492231=[],_0x36cf90=[];for(var _0x5779f5=0x1;_0x5779f5<_0x28c65e[_0x3565a6(0x2bb)];_0x5779f5++){_0x1312e0[_0x28c65e[_0x5779f5]][_0x3565a6(0x2f2)]>_0xf7019e&&(_0xf7019e=_0x1312e0[_0x28c65e[_0x5779f5]][_0x3565a6(0x2f2)],_0x588e9c=_0x28c65e[_0x5779f5],_0x2a1314=_0x5779f5);if(_0x1312e0[_0x28c65e[_0x5779f5]][_0x3565a6(0x2f2)]==0x1)_0x492231[_0x3565a6(0x5a8)](_0x28c65e[_0x5779f5]);else{if(_0x1312e0[_0x28c65e[_0x5779f5]]['status']==0x3)_0x36cf90[_0x3565a6(0x5a8)](_0x28c65e[_0x5779f5]);}}_0x492231=_0x492231[_0x3565a6(0x25e)](_0x3565a6(0x3c5)),_0x36cf90=_0x36cf90[_0x3565a6(0x25e)](_0x3565a6(0x3c5));var _0x2189e3={'operation_list':_0x28c65e,'current_operation':_0x588e9c,'operation_index':_0x2a1314,'current_status_value':_0xf7019e,'minor_deviation_list':_0x492231,'major_deviation_list':_0x36cf90};return _0x2189e3;}function create_basic_info_card(_0x440827,_0x666dc,_0x379353,_0x23ef3e=![]){var _0x5e3232=_0x390981;empty_container_byReference(_0x666dc);var _0x434532=current_process_status(_0x379353),_0x5cc7cd=_0x434532['operation_list'],_0x9257b=_0x434532[_0x5e3232(0x55c)],_0x14106b=_0x434532[_0x5e3232(0x1a0)],_0x4aa323=_0x434532[_0x5e3232(0x1e7)],_0x8e3d42=_0x434532[_0x5e3232(0x594)],_0x259330=_0x434532[_0x5e3232(0x324)];let _0x26f676=document['createElement']('div');_0x26f676[_0x5e3232(0x101)]=_0x5e3232(0x310);let _0x41ec5c=document[_0x5e3232(0x48c)]('p');_0x41ec5c['className']=_0x5e3232(0x621),_0x41ec5c[_0x5e3232(0x602)]=_0x5e3232(0x42f);let _0x28c07d=document[_0x5e3232(0x48c)]('h4');_0x28c07d['className']=_0x5e3232(0x5c7)+status_list_color[_0x379353['Basic\x20Info']['status']],_0x28c07d[_0x5e3232(0x602)]=status_list[_0x379353[_0x5e3232(0x46b)]['status']],_0x28c07d[_0x5e3232(0x583)]=!![];if(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x2f2)]==0x0)_0x28c07d[_0x5e3232(0x602)]='Ready\x20for\x20Dispatch';if(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x2f2)]==0x0&&!is_null(_0x379353['Basic\x20Info'][_0x5e3232(0x5f1)][_0x5e3232(0x3a3)]))_0x28c07d['innerText']=_0x5e3232(0x3dd);let _0x47e950=document[_0x5e3232(0x48c)]('hr');_0x47e950[_0x5e3232(0x101)]=_0x5e3232(0x25c),_0x47e950['style']=_0x5e3232(0x5da),_0x26f676['appendChild'](_0x41ec5c),_0x26f676[_0x5e3232(0x357)](_0x28c07d),_0x26f676[_0x5e3232(0x357)](_0x47e950);if(!is_null(_0x9257b)&&_0x9257b!='.'){if(_0x5e3232(0x4d6)===_0x5e3232(0x330))return _0x42e611(_0x5e3232(0x625)),![];else{let _0x553f1b=document[_0x5e3232(0x48c)]('p');_0x553f1b[_0x5e3232(0x101)]=_0x5e3232(0x621),_0x553f1b[_0x5e3232(0x602)]=_0x5e3232(0x237);let _0x39437f=document['createElement']('a');_0x39437f[_0x5e3232(0x101)]='btn\x20btn-light\x20text-center\x20text-break',_0x39437f['innerText']=_0x9257b,_0x39437f[_0x5e3232(0x49a)]=function(){var _0x59e510=_0x5e3232;if('IVGeO'!==_0x59e510(0x2cc))_0x440827['value']=_0x9257b,display_qc_stage_info_card(_0x440827,_0x666dc,_0x379353,_0x23ef3e);else{var _0x37f851=_0x2fb515?function(){if(_0x5d391c){var _0x2e999d=_0x27c27f['apply'](_0x1024ab,arguments);return _0x24bc8f=null,_0x2e999d;}}:function(){};return _0x54227c=![],_0x37f851;}},_0x47e950=document[_0x5e3232(0x48c)]('hr'),_0x47e950[_0x5e3232(0x101)]=_0x5e3232(0x25c),_0x47e950['style']='width:60%',_0x26f676['appendChild'](_0x553f1b),_0x26f676[_0x5e3232(0x357)](_0x39437f),_0x26f676['appendChild'](_0x47e950);}}if(!is_null(_0x8e3d42)){if('DYGOS'!==_0x5e3232(0x605)){let _0x52a125=document[_0x5e3232(0x48c)]('p');_0x52a125[_0x5e3232(0x101)]=_0x5e3232(0x621),_0x52a125['innerText']=_0x5e3232(0x4f2);let _0xe5d58b=document['createElement']('h5');_0xe5d58b[_0x5e3232(0x101)]='text-center\x20text-danger\x20text-break',_0xe5d58b[_0x5e3232(0x602)]=_0x8e3d42,_0xe5d58b['readOnly']=!![],_0x47e950=document[_0x5e3232(0x48c)]('hr'),_0x47e950['className']=_0x5e3232(0x25c),_0x47e950['style']=_0x5e3232(0x5da),_0x26f676['appendChild'](_0x52a125),_0x26f676[_0x5e3232(0x357)](_0xe5d58b),_0x26f676['appendChild'](_0x47e950);}else{var _0x2f959c=[],_0x320969=[];for(var _0x19e0d2=0x0;_0x19e0d2<_0x16f642[_0x5e3232(0x2bb)];_0x19e0d2++){var _0x178232={['id']:_0x5190bd[_0x19e0d2]['id'],[_0x5e3232(0x399)]:_0x3c6a47[_0x19e0d2][_0x5e3232(0x399)],[_0x5e3232(0x15a)]:_0x205d40[_0x19e0d2][_0x5e3232(0x15a)],['reason']:_0x1cb890[_0x19e0d2]['reason'],[_0x5e3232(0x279)]:_0x1d5612[_0x19e0d2][_0x5e3232(0x279)],[_0x5e3232(0x29a)]:_0x39d340[_0x19e0d2][_0x5e3232(0x29a)],['start_time']:new _0x595e23(_0x15e69a[_0x19e0d2][_0x5e3232(0x617)])};_0x320969[_0x5e3232(0x5a8)](_0x178232);}return _0x2f959c=_0x320969,_0x2f959c;}}if(!is_null(_0x259330)){if(_0x5e3232(0x26f)===_0x5e3232(0x397))_0x1594c6[_0x5e3232(0x355)]();else{let _0x24611c=document[_0x5e3232(0x48c)]('p');_0x24611c[_0x5e3232(0x101)]=_0x5e3232(0x621),_0x24611c[_0x5e3232(0x602)]=_0x5e3232(0x499);let _0x4ef4e8=document[_0x5e3232(0x48c)]('h5');_0x4ef4e8[_0x5e3232(0x101)]=_0x5e3232(0x194),_0x4ef4e8[_0x5e3232(0x602)]=_0x259330,_0x4ef4e8[_0x5e3232(0x583)]=!![],_0x47e950=document[_0x5e3232(0x48c)]('hr'),_0x47e950[_0x5e3232(0x101)]=_0x5e3232(0x25c),_0x47e950[_0x5e3232(0x214)]='width:60%',_0x26f676[_0x5e3232(0x357)](_0x24611c),_0x26f676[_0x5e3232(0x357)](_0x4ef4e8),_0x26f676[_0x5e3232(0x357)](_0x47e950);}}let _0x2943d8=document['createElement'](_0x5e3232(0x20f));_0x2943d8['className']=_0x5e3232(0x310);let _0x4b4268=document[_0x5e3232(0x48c)]('p');_0x4b4268[_0x5e3232(0x101)]=_0x5e3232(0x621),_0x4b4268[_0x5e3232(0x602)]=_0x5e3232(0x2ac);let _0xc42114=document[_0x5e3232(0x48c)]('p');_0xc42114['className']=_0x5e3232(0x621),_0xc42114[_0x5e3232(0x602)]=_0x5e3232(0x562);var _0x4fcb40,_0x54af72;_0x23ef3e?(_0x4fcb40=document[_0x5e3232(0x48c)](_0x5e3232(0x627)),_0x4fcb40[_0x5e3232(0x101)]=_0x5e3232(0x328),_0x4fcb40['value']=is_null(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x405)])?'':_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x405)],_0x4fcb40[_0x5e3232(0x190)]=param_value_max_length,_0x54af72=document[_0x5e3232(0x48c)]('textarea'),_0x54af72[_0x5e3232(0x101)]=_0x5e3232(0x5f8),_0x54af72['rows']=0x5,_0x54af72[_0x5e3232(0x1fc)]=is_null(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x5f1)][_0x5e3232(0x279)])?'':_0x379353['Basic\x20Info'][_0x5e3232(0x5f1)]['remark'],_0x54af72['maxLength']=remark_max_length):_0x5e3232(0x178)==='cfPoL'?(_0x4fcb40=document[_0x5e3232(0x48c)]('h5'),_0x4fcb40[_0x5e3232(0x101)]=_0x5e3232(0x4c3),_0x4fcb40[_0x5e3232(0x602)]=is_null(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x405)])?'-':_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x405)],_0x54af72=document[_0x5e3232(0x48c)]('h5'),_0x54af72[_0x5e3232(0x101)]=_0x5e3232(0x4c3),_0x54af72[_0x5e3232(0x602)]=is_null(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x5f1)][_0x5e3232(0x279)])?'-':_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x5f1)][_0x5e3232(0x279)]):_0x377c69[_0x5e3232(0x355)]();_0x379353['Basic\x20Info'][_0x5e3232(0x2f2)]==0x0&&(_0x23ef3e||!is_null(_0x379353[_0x5e3232(0x46b)][_0x5e3232(0x5f1)][_0x5e3232(0x3a3)]))&&(_0x47e950=document[_0x5e3232(0x48c)]('hr'),_0x47e950[_0x5e3232(0x101)]='col-sm-12\x20text-center',_0x47e950[_0x5e3232(0x214)]='width:60%',_0x2943d8[_0x5e3232(0x357)](_0x4b4268),_0x2943d8[_0x5e3232(0x357)](_0x4fcb40),_0x2943d8[_0x5e3232(0x357)](_0x47e950),_0x47e950=document[_0x5e3232(0x48c)]('hr'),_0x47e950['className']=_0x5e3232(0x25c),_0x47e950[_0x5e3232(0x214)]='width:60%',_0x2943d8[_0x5e3232(0x357)](_0xc42114),_0x2943d8[_0x5e3232(0x357)](_0x54af72),_0x2943d8['appendChild'](_0x47e950));let _0x11c0a8=document[_0x5e3232(0x48c)](_0x5e3232(0x20f));_0x11c0a8['className']=_0x5e3232(0x310);if(_0x23ef3e){let _0x3c594b=document[_0x5e3232(0x48c)]('button');_0x3c594b[_0x5e3232(0x101)]='btn\x20btn-outline-primary\x20btn-block\x20mt-2',_0x3c594b[_0x5e3232(0x602)]=_0x5e3232(0xda);let _0x29d7b1=document['createElement']('br');_0x11c0a8[_0x5e3232(0x357)](_0x3c594b),_0x11c0a8[_0x5e3232(0x357)](_0x29d7b1),_0x3c594b[_0x5e3232(0x49a)]=async function(){var _0x37a380=_0x5e3232,_0x5adcf1=await create_process_operation_record(_0x2943d8,'Basic\x20Info',_0x379353);if(_0x5adcf1){if('UnxLC'===_0x37a380(0x25b)){var _0x20e815=document[_0x37a380(0x610)](_0x37a380(0x416)),_0x4d8f28=document[_0x37a380(0x610)]('serial_qc_data_display');await display_qc_stage_info_card(_0x20e815,_0x4d8f28,gl_curr_record,![]),display_info('Data\x20saved\x20successfully');}else _0x13d668[_0x3a77af[_0x33b437]]=new _0x24932e(_0x53c21b['length'])[_0x37a380(0x3a6)](0x0),_0x301181[_0x2523e4[_0x14a0e4]][_0x559d54['indexOf'](_0x2fca51)]+=0x1;}};}_0x666dc[_0x5e3232(0x357)](_0x26f676),_0x666dc[_0x5e3232(0x357)](_0x2943d8),_0x666dc['appendChild'](_0x11c0a8);}async function create_qc_stage_info_card(_0x4b2262,_0x55a2d5,_0xf79209,_0x5bf8b6=![]){var _0x28893a=_0x390981;empty_container_byReference(_0x4b2262);if(gl_user_permission[_0x28893a(0x464)]!=0x1&&(gl_user_permission[_0xf79209]<0x1||is_null(gl_user_permission[_0xf79209]))){let _0x2121dd=document[_0x28893a(0x48c)](_0x28893a(0x20f));return _0x2121dd[_0x28893a(0x101)]=_0x28893a(0x287),_0x2121dd[_0x28893a(0x602)]=_0x28893a(0x546),_0x4b2262['appendChild'](_0x2121dd),![];}let _0x410f11=document[_0x28893a(0x48c)](_0x28893a(0x20f));_0x410f11[_0x28893a(0x101)]=_0x28893a(0x310);let _0x3e1061=document[_0x28893a(0x48c)]('p');_0x3e1061['className']=_0x28893a(0x621),_0x3e1061[_0x28893a(0x602)]=_0x28893a(0x209),_0x410f11[_0x28893a(0x357)](_0x3e1061);let _0x4f80d8=document[_0x28893a(0x48c)]('h4');_0x4f80d8[_0x28893a(0x101)]=status_list_color[_0x55a2d5[_0xf79209][_0x28893a(0x2f2)]]+_0x28893a(0x4fa),_0x4f80d8[_0x28893a(0x133)]=status_list[_0x55a2d5[_0xf79209][_0x28893a(0x2f2)]],_0x410f11['appendChild'](_0x4f80d8),line=document[_0x28893a(0x48c)]('hr'),line[_0x28893a(0x101)]=_0x28893a(0x25c),line[_0x28893a(0x214)]=_0x28893a(0x5da),_0x410f11[_0x28893a(0x357)](line);let _0x5a5f10=document[_0x28893a(0x48c)]('div');_0x5a5f10[_0x28893a(0x101)]='col-sm-6\x20mx-auto\x20text-center\x20mt-2';let _0x5ecc63=await _0x55a2d5[_0xf79209]['param_list'],_0x5db27e=_0x5ecc63[_0x28893a(0x2bb)];for(i=0x0;i<_0x5db27e;i++){if(_0x28893a(0x3ba)===_0x28893a(0x2cf))_0x441e8b=-0x1;else{let _0x5ca9f8=document['createElement']('div');_0x5ca9f8['className']=_0x28893a(0x2f4);if(!is_null(_0x5ecc63[i]['link']))_0x5ca9f8[_0x28893a(0x133)]='<div\x20class=\x22col-sm-12\x22><a\x20class=\x22btn\x20btn-primary\x20float-right\x20pl-3\x20pr-3\x20rounded-circle\x22\x20target=\x22_blank\x22\x20rel\x20=\x20\x22noopener\x20nofollow\x20external\x20noreferrer\x22\x20\x20href=\x22'+_0x5ecc63[i]['link']+_0x28893a(0x471);_0x5ca9f8['innerHTML']+=_0x28893a(0x2f0)+_0x5ecc63[i][_0x28893a(0xdc)]+'</div>';var _0x1156b4,_0x52a268=_0x55a2d5[_0xf79209]['actual_value'][_0x5ecc63[i][_0x28893a(0xdc)]][0x0];if(_0x52a268==undefined||_0x52a268=='')_0x52a268=get_parameter_value_from_cache(_0x55a2d5[_0x28893a(0x46b)][_0x28893a(0x1f2)],_0xf79209,_0x5ecc63[i][_0x28893a(0xdc)],_0x5ecc63[i][_0x28893a(0x45d)],_0x5bf8b6);var _0x321d42=_0x5ecc63[i][_0x28893a(0x4e7)],_0x42409a=_0x5ecc63[i][_0x28893a(0x285)],_0x2cc2de=_0x5ecc63[i][_0x28893a(0x32a)];if(_0x5bf8b6)_0x1156b4=await render_actual_value_input_field(_0x321d42,_0x42409a,_0x2cc2de,_0x52a268,_0x55a2d5[_0xf79209][_0x28893a(0x2f2)],_0xf79209);else{_0x1156b4=document[_0x28893a(0x48c)]('h5'),_0x1156b4['className']=_0x28893a(0x4c3);if(_0x52a268=='')_0x52a268='-';_0x1156b4[_0x28893a(0x602)]=_0x52a268;if(_0x55a2d5[_0xf79209][_0x28893a(0x2f2)]==0x1||_0x55a2d5[_0xf79209][_0x28893a(0x2f2)]==0x3){if(_0x28893a(0x3e6)===_0x28893a(0x3e6)){if(await validate_input_field_value(_0x321d42,_0x42409a,_0x2cc2de,_0x52a268)==![])_0x1156b4['className']='text-center\x20text-danger\x20font-weight-bold';}else return _0x29906e(_0x28893a(0x17d)),![];}}let _0x34e817=document[_0x28893a(0x48c)](_0x28893a(0x20f));var _0x476ed3;if(_0x5bf8b6){if(_0x28893a(0x5bc)!==_0x28893a(0x5bc)){var _0x269b24=new _0xf686e8(),_0x19817a=_0x46f284['abs'](_0x269b24-_0x582ae0)/0x3e8;_0xbb375f=_0x1a9230[_0x28893a(0x174)](_0x19817a/0x3c),_0x19817a-=_0xeb130f*0x3c,_0x51ab1f=_0x4d1901[_0x28893a(0x174)](_0x19817a%0x3c),_0x2ede95['innerHTML']='<small><b>'+_0x53f0d3+_0x28893a(0x626)+_0x48c2ec+'\x20sec(s)'+_0x28893a(0x37d);}else{if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x2]){if(_0x28893a(0x489)!=='AUEIF'){_0x476ed3=document['createElement'](_0x28893a(0x20f));let _0x2f78fb=document['createElement'](_0x28893a(0x2fd));_0x2f78fb[_0x28893a(0x101)]=_0x28893a(0x4a4),_0x2f78fb['id']=_0x28893a(0x32d),_0x2f78fb[_0x28893a(0x602)]=_0x28893a(0x5be),_0x2f78fb['onclick']=function(){var _0x3d5fef=_0x28893a;popup_scanner(_0x2f78fb['parentElement'][_0x3d5fef(0x56f)]);};let _0x4089d1=document[_0x28893a(0x48c)](_0x28893a(0x20f));_0x4089d1['className']=_0x28893a(0x4ae),_0x4089d1[_0x28893a(0x133)]=_0x28893a(0x4bd)+_0x5ecc63[i]['value1']+_0x28893a(0x185),_0x476ed3['appendChild'](_0x2f78fb),_0x476ed3[_0x28893a(0x357)](_0x4089d1);}else{_0x3f1dae=_0x4a43b0[_0x28893a(0x3f9)]();var _0x16369d=_0x507be7[_0x28893a(0x46b)][_0x28893a(0x167)],_0x47b9d9={};_0x47b9d9[_0x28893a(0x46b)]=_0x2f0714[_0x28893a(0x46b)];for(var _0x18460e=0x0;_0x18460e<_0x16369d[_0x28893a(0x2bb)];_0x18460e++){_0x47b9d9[_0x16369d[_0x18460e]]=_0x113e71[_0x16369d[_0x18460e]];}return _0x47b9d9;}}else{_0x476ed3=document['createElement'](_0x28893a(0x20f)),_0x476ed3[_0x28893a(0x101)]=_0x28893a(0x3a0);if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x0])_0x476ed3[_0x28893a(0x602)]=_0x28893a(0x380)+(_0x5ecc63[i][_0x28893a(0x285)]||'-')[_0x28893a(0x2ab)]()+_0x28893a(0x116)+(_0x5ecc63[i][_0x28893a(0x32a)]||'-')[_0x28893a(0x2ab)]();else{if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x1])_0x476ed3['innerText']=_0x28893a(0x42b)+_0x5ecc63[i][_0x28893a(0x285)];else{if(_0x5ecc63[i]['type']===data_types[0x3])_0x476ed3[_0x28893a(0x602)]='Enter\x20value\x20(max\x2050\x20characters)';}}}}}else{_0x476ed3=document[_0x28893a(0x48c)](_0x28893a(0x20f)),_0x476ed3['className']='text-muted';if(_0x5ecc63[i]['type']===data_types[0x0])_0x476ed3[_0x28893a(0x602)]='Min\x20Value:\x20'+(_0x5ecc63[i][_0x28893a(0x285)]||'-')[_0x28893a(0x2ab)]()+_0x28893a(0x116)+(_0x5ecc63[i][_0x28893a(0x32a)]||'-')[_0x28893a(0x2ab)]();else{if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x1])_0x476ed3[_0x28893a(0x602)]=_0x28893a(0x42b)+_0x5ecc63[i][_0x28893a(0x285)];else{if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x2])_0x476ed3[_0x28893a(0x133)]=_0x28893a(0x4bd)+_0x5ecc63[i][_0x28893a(0x285)]+_0x28893a(0x185);else{if(_0x5ecc63[i][_0x28893a(0x4e7)]===data_types[0x3])_0x476ed3['innerText']=_0x28893a(0xe6);}}}}_0x34e817[_0x28893a(0x357)](_0x476ed3);let _0x5c54a2=document[_0x28893a(0x48c)](_0x28893a(0x20f));_0x5c54a2[_0x28893a(0x101)]=_0x5bf8b6==!![]?_0x28893a(0x30c):_0x28893a(0x432),!is_null(_0x5ecc63[i][_0x28893a(0x425)])&&(_0x5c54a2[_0x28893a(0x602)]=_0x28893a(0x2b9)+_0x5ecc63[i]['method'],_0x34e817['appendChild'](_0x5c54a2)),line=document[_0x28893a(0x48c)]('hr'),line[_0x28893a(0x101)]=_0x28893a(0x25c),line[_0x28893a(0x214)]=_0x28893a(0x5da),_0x5a5f10['appendChild'](_0x5ca9f8),_0x5a5f10['appendChild'](_0x1156b4),_0x5a5f10[_0x28893a(0x357)](_0x34e817),_0x5a5f10[_0x28893a(0x357)](line);}}let _0x44bd0e=document[_0x28893a(0x48c)]('div');_0x44bd0e['className']=_0x28893a(0x310);let _0x2f09d8=document[_0x28893a(0x48c)]('p');_0x2f09d8[_0x28893a(0x101)]=_0x28893a(0x621),_0x2f09d8['innerText']=_0x28893a(0xf5);let _0x4bd954='';if(_0x5bf8b6){if('Wbpll'!==_0x28893a(0x2da))_0x1ec3e4['indexOf'](_0x2a4cfe[_0x42a800][_0x28893a(0x296)])<0x0&&_0x1a4e48['push'](_0x47d084[_0x3b2d7a][_0x28893a(0x296)]);else{_0x4bd954=document['createElement']('select'),_0x4bd954[_0x28893a(0x101)]=_0x28893a(0x10b);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();let _0x31707e=gl_current_operations_list[_0xf79209]||[];if(is_null(_0x31707e))set_select_options(_0x4bd954,['-']),_0x4bd954[_0x28893a(0x1fc)]='-';else{if(_0x28893a(0x5a0)!==_0x28893a(0x5a0))return _0x89d5d5(_0x28893a(0x4e9)),![];else{set_select_options(_0x4bd954,[''][_0x28893a(0x472)](_0x31707e));if(!is_null(_0x55a2d5[_0xf79209][_0x28893a(0x15a)]))_0x4bd954['value']=_0x55a2d5[_0xf79209][_0x28893a(0x15a)];else _0x4bd954[_0x28893a(0x1fc)]='';}}}}else{_0x4bd954=document[_0x28893a(0x48c)]('p'),_0x4bd954[_0x28893a(0x101)]='text-primary\x20text-break';if(_0x55a2d5[_0xf79209][_0x28893a(0x15a)]==''||is_null(_0x55a2d5[_0xf79209][_0x28893a(0x15a)]))_0x4bd954['innerText']='-';else _0x4bd954['innerText']=_0x55a2d5[_0xf79209][_0x28893a(0x15a)];_0x4bd954['value']=_0x55a2d5[_0xf79209][_0x28893a(0x15a)]||'-';}let _0xf7ee0=document[_0x28893a(0x48c)]('br');_0x44bd0e[_0x28893a(0x357)](_0x2f09d8),_0x44bd0e[_0x28893a(0x357)](_0x4bd954),_0x44bd0e[_0x28893a(0x357)](_0xf7ee0);var _0x4f7e5a=Object[_0x28893a(0xe4)](_0x55a2d5)[_0x28893a(0x2aa)](_0xf79209);if(_0x5bf8b6&&_0x55a2d5[_0x28893a(0x46b)][_0x28893a(0x2f2)]!=0x4&&(_0x4f7e5a<=current_process_status(_0x55a2d5)[_0x28893a(0x1a0)]||_0x55a2d5[_0xf79209][_0x28893a(0x2f2)]!=0x2)){let _0x145183=document['createElement'](_0x28893a(0x2fd));_0x145183[_0x28893a(0x101)]=_0x28893a(0x1d1),_0x145183['innerText']='Save\x20/\x20Update\x20Data',_0xf7ee0=document['createElement']('br'),_0x44bd0e[_0x28893a(0x357)](_0x145183),_0x44bd0e[_0x28893a(0x357)](_0xf7ee0),_0x145183[_0x28893a(0x49a)]=async function(){var _0x495530=_0x28893a;if('TzRVZ'!==_0x495530(0x122)){var _0xa0db8e=await create_process_operation_record(_0x5a5f10,_0xf79209,_0x55a2d5,_0x4bd954['value']);if(_0xa0db8e){var _0x2bf30e=document[_0x495530(0x610)]('qc_stage_select_list'),_0x3ff018=document[_0x495530(0x610)](_0x495530(0x319));await display_qc_stage_info_card(_0x2bf30e,_0x3ff018,gl_curr_record,![]),display_info(_0x495530(0x1a1));}}else _0x2074ac(_0x495530(0x17b));};}_0x4b2262['appendChild'](_0x410f11),_0x4b2262[_0x28893a(0x357)](_0x5a5f10),_0x4b2262[_0x28893a(0x357)](_0x44bd0e);}function create_previous_pending_info_card(_0xeccf0d,_0x84b314){var _0x52cab8=_0x390981;empty_container_byReference(_0xeccf0d);let _0x454a42=document['createElement'](_0x52cab8(0x20f));_0x454a42[_0x52cab8(0x101)]='col-sm-6\x20mx-auto\x20text-center\x20mt-2';let _0x2d09b3=document['createElement']('p');_0x2d09b3[_0x52cab8(0x101)]='text-center\x20text-danger\x20font-weight-bold',_0x2d09b3[_0x52cab8(0x602)]='\x27'+_0x84b314+_0x52cab8(0x28c),_0x454a42[_0x52cab8(0x357)](_0x2d09b3),_0xeccf0d[_0x52cab8(0x357)](_0x454a42);}async function display_qc_stage_info_card(_0x23f388,_0x8c235d,_0x385985,_0x16b491=![]){var _0x3a3254=_0x390981;empty_container_byReference(_0x8c235d);if(_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b)){if('bajBO'!==_0x3a3254(0x5ef))await create_basic_info_card(_0x23f388,_0x8c235d,_0x385985,![]);else{if(_0x80bbd2[_0x3a3254(0x464)]==0x1||_0x54afcf[_0x269f14[_0x30665b]]>=0x1)_0x59eb38[_0x3a3254(0x5a8)](_0x192d7e[_0x4a517e]);}}else{var _0x15ce99=current_process_status(_0x385985),_0xe9be7a=_0x15ce99[_0x3a3254(0x3d1)],_0x424fb7=_0x15ce99['current_operation'],_0x2db832=_0xe9be7a[_0x3a3254(0x2aa)](_0x23f388[_0x3a3254(0x1fc)]),_0x58f794=_0x15ce99[_0x3a3254(0x1a0)],_0x274be4=_0x15ce99[_0x3a3254(0x1e7)];if(_0x274be4!=0x0&&_0x2db832>_0x58f794&&_0x385985[_0x23f388[_0x3a3254(0x1fc)]]['status']>0x0){await create_previous_pending_info_card(_0x8c235d,_0x424fb7);return;}else await create_qc_stage_info_card(_0x8c235d,_0x385985,_0x23f388[_0x3a3254(0x1fc)],![]);}if(_0x16b491!=!![]){let _0x17553e=document[_0x3a3254(0x48c)](_0x3a3254(0x20f));_0x17553e[_0x3a3254(0x101)]=_0x3a3254(0x310);if((gl_user_permission[_0x3a3254(0x464)]==0x1||_0x385985[_0x23f388[_0x3a3254(0x1fc)]][_0x3a3254(0x5f1)][_0x3a3254(0x3a3)]==''&&gl_user_permission[_0x23f388[_0x3a3254(0x1fc)]]>0x1||gl_user_permission[_0x23f388[_0x3a3254(0x1fc)]]>0x2)&&(_0x385985['Basic\x20Info']['status']<0x4&&(_0x385985[_0x3a3254(0x46b)][_0x3a3254(0x2f2)]>0x0||_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b)))){let _0x3a7eb2=document[_0x3a3254(0x48c)](_0x3a3254(0x2fd));_0x3a7eb2[_0x3a3254(0x101)]=_0x3a3254(0x263),_0x3a7eb2[_0x3a3254(0x602)]='Edit\x20Data';if(_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b))_0x3a7eb2[_0x3a3254(0x602)]=_0x3a3254(0x16d);_0x3a7eb2[_0x3a3254(0x49a)]=async function(){var _0x49ab5a=_0x3a3254;if(_0x49ab5a(0x35d)!=='PQnfg'){if(_0x23f388[_0x49ab5a(0x1fc)]==_0x49ab5a(0x46b))await create_basic_info_card(_0x23f388,_0x8c235d,_0x385985,!![]);else await create_qc_stage_info_card(_0x8c235d,_0x385985,_0x23f388[_0x49ab5a(0x1fc)],!![]);}else return _0x58cefd(_0x49ab5a(0x448)),![];};let _0x2c7b88=document[_0x3a3254(0x48c)]('br');(_0x23f388[_0x3a3254(0x1fc)]!='Basic\x20Info'||_0x23f388['value']=='Basic\x20Info'&&_0x385985[_0x3a3254(0x46b)]['status']==0x0)&&(_0x17553e[_0x3a3254(0x357)](_0x3a7eb2),_0x17553e[_0x3a3254(0x357)](_0x2c7b88));if((gl_user_permission['admin']==0x1||gl_user_permission[_0x23f388[_0x3a3254(0x1fc)]]>0x2)&&(_0x385985[_0x23f388[_0x3a3254(0x1fc)]][_0x3a3254(0x2f2)]==0x1||_0x385985[_0x23f388[_0x3a3254(0x1fc)]]['status']==0x3)&&_0x23f388['value']!=_0x3a3254(0x46b)){if('FICCG'===_0x3a3254(0x49c)){var _0x313587=_0x5c4856[_0x69b646[_0x438377]][_0x3a3254(0x5f2)],_0x17733f={};for(var _0x4453f9=0x0;_0x4453f9<_0x313587[_0x3a3254(0x2bb)];_0x4453f9++){_0x17733f[_0x313587[_0x4453f9][_0x3a3254(0xdc)]]='';}var _0x49408f={'entry_dt':'','entry_by':'','update_dt':'','update_by':'','deviation_dt':'','deviation_by':'','remark':''},_0x48a6d1={['workstation']:'',[_0x3a3254(0x2f2)]:0x2,['cycle_time']:_0x545318[_0x54adb9[_0x375e06]][_0x3a3254(0x267)],[_0x3a3254(0x5f2)]:_0x313587,[_0x3a3254(0x5f1)]:_0x49408f,[_0x3a3254(0x420)]:_0x17733f};_0xe42c19[_0x26fb95[_0x58cf3c]]=_0x48a6d1;}else{let _0x3f222f=document[_0x3a3254(0x48c)](_0x3a3254(0x2fd));_0x3f222f['className']=_0x3a3254(0x263),_0x3f222f[_0x3a3254(0x602)]=_0x3a3254(0x372),_0x3f222f[_0x3a3254(0x49a)]=async function(){var _0x571a72=_0x3a3254,_0xde81b6=await deviation_confirmation(_0x23f388[_0x571a72(0x1fc)],allow_deviation_operation_record,_0x385985);},_0x2c7b88=document[_0x3a3254(0x48c)]('br'),_0x17553e[_0x3a3254(0x357)](_0x3f222f),_0x17553e['appendChild'](_0x2c7b88);let _0x12bf62=document[_0x3a3254(0x48c)](_0x3a3254(0x2fd));_0x12bf62['className']=_0x3a3254(0x263),_0x12bf62[_0x3a3254(0x602)]=_0x3a3254(0x164),_0x12bf62[_0x3a3254(0x49a)]=async function(){var _0x3e40fb=_0x3a3254,_0xb597df=await rejection_confirmation(_0x23f388[_0x3e40fb(0x1fc)],allow_rejection_operation_record,_0x385985);},_0x2c7b88=document[_0x3a3254(0x48c)]('br'),_0x17553e[_0x3a3254(0x357)](_0x12bf62),_0x17553e[_0x3a3254(0x357)](_0x2c7b88);}}}if(gl_user_permission[_0x3a3254(0x464)]==0x1||gl_user_permission[_0x23f388[_0x3a3254(0x1fc)]]>0x0||_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b)){if(_0x3a3254(0x238)===_0x3a3254(0x238)){let _0x41a620=document['createElement'](_0x3a3254(0x2fd));_0x41a620[_0x3a3254(0x101)]=_0x3a3254(0x263),_0x41a620[_0x3a3254(0x602)]='View\x20Change\x20Log';let _0x1597bb=document[_0x3a3254(0x48c)]('br');_0x17553e[_0x3a3254(0x357)](_0x41a620),_0x17553e[_0x3a3254(0x357)](_0x1597bb),_0x41a620[_0x3a3254(0x49a)]=function(){var _0x51bd99=_0x3a3254,_0xf9f191='';if(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x3a3)]!=''&&gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x3a3)]!=undefined){if(_0x51bd99(0x3fa)===_0x51bd99(0x3fa)){var _0x46c6fc=gl_curr_record[_0x23f388['value']][_0x51bd99(0x5f1)][_0x51bd99(0x3a3)],_0xe87472=decode_date(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]]['log'][_0x51bd99(0x4d8)]);_0xf9f191=_0xf9f191+_0x51bd99(0x463)+_0x46c6fc+_0x51bd99(0x2e6)+_0xe87472+_0x51bd99(0x39d);}else return![];}if(gl_curr_record[_0x23f388['value']][_0x51bd99(0x5f1)][_0x51bd99(0x604)]!=''&&gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x604)]!=undefined){var _0x46c6fc=gl_curr_record[_0x23f388['value']][_0x51bd99(0x5f1)][_0x51bd99(0x604)],_0xe87472=decode_date(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x502)]);_0xf9f191=_0xf9f191+_0x51bd99(0x34d)+_0x46c6fc+_0x51bd99(0x2e6)+_0xe87472+'.<hr>';}if(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x57e)]!=''&&gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)]['deviation_by']!=undefined){if('HdxKK'!==_0x51bd99(0x5d4)){var _0xade3ff=_0x496bec[_0x51bd99(0x48c)](_0x51bd99(0x20f));_0xade3ff['className']=_0x51bd99(0x325);var _0x1e43b4=_0x514ceb[_0x51bd99(0x48c)]('p');_0x1e43b4[_0x51bd99(0x101)]=_0x51bd99(0x2b2),_0x1e43b4[_0x51bd99(0x602)]=_0x30faa6[_0x3c9f8d];var _0x50b645=_0xc17562[_0x51bd99(0x48c)]('select');_0x50b645[_0x51bd99(0x101)]=_0x51bd99(0x552),_0x254c85(_0x50b645,_0x11cb07);var _0x55a77d=_0x54e728[_0x179ed6[_0xd56bf5]];if(!_0x412f4a(_0x4701ef[_0x55a77d]))_0x50b645[_0x51bd99(0x1fc)]=_0x25b6a7[_0x744a1a[_0x55a77d]];else _0x50b645[_0x51bd99(0x1fc)]=_0x225d4a[0x0];var _0x1138bd=_0x36358f[_0x51bd99(0x48c)]('hr');_0x1138bd[_0x51bd99(0x101)]=_0x51bd99(0x351),_0xade3ff[_0x51bd99(0x357)](_0x1e43b4),_0xade3ff[_0x51bd99(0x357)](_0x50b645),_0xade3ff[_0x51bd99(0x357)](_0x1138bd),_0x3ba5c9[_0x51bd99(0x357)](_0xade3ff);}else{var _0x46c6fc=gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x57e)],_0xe87472=decode_date(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)][_0x51bd99(0x24d)]),_0x4283b7=gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x5f1)]['remark'],_0x1e239c=_0x51bd99(0x334);if(gl_curr_record[_0x23f388[_0x51bd99(0x1fc)]][_0x51bd99(0x2f2)]==0x4)_0x1e239c=_0x51bd99(0x13c);_0xf9f191=_0xf9f191+_0x1e239c+_0x46c6fc+_0x51bd99(0x2e6)+_0xe87472+_0x51bd99(0x4d7)+_0x4283b7+_0x51bd99(0x1b7);}}if(_0xf9f191=='')_0xf9f191=_0x51bd99(0x20a);display_info(_0xf9f191);};}else{for(var _0x1bbe2e=0x0;_0x1bbe2e<_0x3bd0be['childElementCount'];_0x1bbe2e++){if(!_0x59015f(_0x31f900[_0x3a3254(0x2df)][_0x1bbe2e][_0x3a3254(0x2df)][0x0][_0x3a3254(0x1fc)]))_0x33343d[_0x3a3254(0x5a8)](_0x2f98c8[_0x3a3254(0x2df)][_0x1bbe2e][_0x3a3254(0x2df)][0x0][_0x3a3254(0x1fc)]);else return _0x4973b4('Workstation\x20Name\x20cannot\x20be\x20empty'),![];}_0x1376c4=_0x5b7801[_0x3a3254(0x11c)](),_0x2f21c8=_0xc6a076[_0x3a3254(0x265)](0x0)[_0x3a3254(0x10f)]()+_0x457154[_0x3a3254(0x3e3)](0x1),_0x581c58[_0x3a3254(0x2df)][_0x107106][_0x3a3254(0x2df)][0x0][_0x3a3254(0x2df)][0x1]['value']=_0x3e4701,_0x5f3f0a[_0x2950b9]=_0x2711c;}}if(_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b)&&_0x385985[_0x3a3254(0x46b)]['log']['entry_by']!=''){let _0x20a0dc=document[_0x3a3254(0x48c)](_0x3a3254(0x2fd));_0x20a0dc['className']=_0x3a3254(0x263),_0x20a0dc[_0x3a3254(0x602)]=_0x3a3254(0x294);let _0x5c0e4a=document[_0x3a3254(0x48c)]('br');_0x17553e[_0x3a3254(0x357)](_0x20a0dc),_0x17553e[_0x3a3254(0x357)](_0x5c0e4a),_0x20a0dc['onclick']=async function(){var _0x1ad48e=_0x3a3254;await create_qr_label_pdf(_0x385985[_0x1ad48e(0x46b)][_0x1ad48e(0x405)],_0x385985[_0x1ad48e(0x46b)][_0x1ad48e(0x1f2)],_0x385985[_0x1ad48e(0x46b)][_0x1ad48e(0x5f1)]['entry_dt']);};}if(_0x23f388[_0x3a3254(0x1fc)]==_0x3a3254(0x46b)){let _0x13452f=document[_0x3a3254(0x48c)](_0x3a3254(0x2fd));_0x13452f['className']='btn\x20btn-outline-primary\x20btn-block',_0x13452f[_0x3a3254(0x602)]=_0x3a3254(0x439);let _0x577c28=document['createElement']('br');_0x17553e[_0x3a3254(0x357)](_0x13452f),_0x17553e['appendChild'](_0x577c28),_0x13452f[_0x3a3254(0x49a)]=function(){var _0x486c05=_0x3a3254;if(_0x486c05(0x412)===_0x486c05(0x5b3)){var _0x409dd2=_0x37abae(_0x11a168[_0x1d0196][_0x486c05(0x617)],0x1),_0x2d2d8b=_0x409dd2[_0x486c05(0x56d)]()+'-'+_0x4c0195[_0x409dd2['getMonth']()][_0x486c05(0x250)](0x0,0x3)+'-'+_0x409dd2[_0x486c05(0x59c)](),_0x19aa1b=_0x45c9c2[_0x486c05(0x2aa)](_0x2d2d8b),_0x2bc8f5=_0x4d2cbc[_0x26cb4f][_0x486c05(0x296)],_0x3e4889=(_0x46a3e9(_0x52ad51[_0x57f297][_0x486c05(0x3cb)]||new _0x2f7516(),0x1)-_0x268f63(_0x4eaaa5[_0x5a4d55][_0x486c05(0x617)],0x1))/(0x3e8*0x3c);_0x3e4889=_0x37f067[_0x486c05(0x5cc)](_0x3e4889),_0x28c804[_0x2bc8f5][_0x19aa1b]+=_0x3e4889;}else create_process_record_pdf(_0x385985);};}_0x8c235d['appendChild'](_0x17553e);}}async function set_serial_record_display(_0x275cc3){var _0x5e297f=_0x390981;document['getElementById'](_0x5e297f(0x2b7))[_0x5e297f(0x133)]=_0x5e297f(0x61e)+_0x275cc3['Basic\x20Info'][_0x5e297f(0x467)]+_0x5e297f(0x353)+_0x275cc3[_0x5e297f(0x46b)]['model']+')';var _0x20e88e=Object['keys'](_0x275cc3),_0x404ee4=document[_0x5e297f(0x610)](_0x5e297f(0x416)),_0x4af673=document[_0x5e297f(0x610)](_0x5e297f(0x319));await empty_container_byReference(_0x404ee4),await empty_container_byReference(_0x4af673),set_select_options(_0x404ee4,_0x20e88e),await display_qc_stage_info_card(_0x404ee4,_0x4af673,_0x275cc3),_0x404ee4[_0x5e297f(0x3ab)]=async function(){await display_qc_stage_info_card(_0x404ee4,_0x4af673,gl_curr_record);},btn_next_qc_stage_select[_0x5e297f(0x49a)]=async function(){var _0x6c025b=_0x5e297f,_0x1d113a=_0x404ee4['value'],_0x54cc16=_0x20e88e[_0x6c025b(0x2aa)](_0x1d113a);_0x54cc16<_0x20e88e['length']-0x1&&(_0x54cc16=_0x54cc16+0x1,_0x404ee4['value']=_0x20e88e[_0x54cc16],await display_qc_stage_info_card(_0x404ee4,_0x4af673,gl_curr_record,![]));},btn_prev_qc_stage_select[_0x5e297f(0x49a)]=async function(){var _0xfaf2d3=_0x5e297f,_0x5bfecf=_0x404ee4[_0xfaf2d3(0x1fc)],_0x3682c2=_0x20e88e[_0xfaf2d3(0x2aa)](_0x5bfecf);_0x3682c2>0x0&&(_0x3682c2=_0x3682c2-0x1,_0x404ee4[_0xfaf2d3(0x1fc)]=_0x20e88e[_0x3682c2],await display_qc_stage_info_card(_0x404ee4,_0x4af673,gl_curr_record,![]));};}async function get_serial_history(_0x407602){var _0x14eacc=_0x390981,_0x11754d=document[_0x14eacc(0x610)](_0x407602)[_0x14eacc(0x1fc)];if(validate_serial_number(_0x11754d)==!![])gl_curr_record=await read_serial_number_record(_0x11754d);else return![];if(gl_curr_record==![]){display_error(_0x14eacc(0x2de));return;}else set_serial_record_display(gl_curr_record),document[_0x14eacc(0x610)](_0x14eacc(0x456))[_0x14eacc(0x214)][_0x14eacc(0x138)]=_0x14eacc(0x608),document[_0x14eacc(0x610)](_0x14eacc(0x41d))[_0x14eacc(0x214)]['display']=_0x14eacc(0x43b);}function reset_cache_expired_parameters(){var _0x455d09=_0x390981;const _0x38443c=Object[_0x455d09(0xe4)](gl_parameter_cache);for(var _0x25d2b5=0x0;_0x25d2b5<_0x38443c[_0x455d09(0x2bb)];_0x25d2b5++){(new Date()-gl_parameter_cache[_0x38443c[_0x25d2b5]][_0x455d09(0x336)])/(0x3e8*0x3c*0x3c)>gl_parameter_cache_expiry_hours&&(gl_parameter_cache[_0x38443c[_0x25d2b5]]['freq_remaining']=0x0);}return!![];}function get_parameter_value_from_cache(_0x2c8bf4,_0x2e5c5c,_0x1f78a3,_0xdfe5e,_0x201292){var _0x2dda4c=_0x390981;if(_0x201292==![]||_0xdfe5e<=0x1)return'';reset_cache_expired_parameters();const _0x1e1513=_0x2c8bf4+'.'+_0x2e5c5c+'.'+_0x1f78a3;if(gl_parameter_cache[_0x1e1513]==undefined||(new Date()-gl_parameter_cache[_0x1e1513][_0x2dda4c(0x336)])/(0x3e8*0x3c*0x3c)>gl_parameter_cache_expiry_hours||gl_parameter_cache[_0x1e1513][_0x2dda4c(0x411)]<=0x0)return'';else return gl_parameter_cache[_0x1e1513][_0x2dda4c(0x1fc)];}function get_cache_flag_value_on_record_save(_0x24e34a,_0x39be46,_0x2dac5d,_0x5f36d6,_0x996222){var _0x95f9eb=_0x390981;if(_0x996222<=0x1)return 0x0;const _0x1a96ea=_0x24e34a+'.'+_0x39be46+'.'+_0x2dac5d;if(gl_parameter_cache[_0x1a96ea]==undefined||gl_parameter_cache[_0x1a96ea][_0x95f9eb(0x1fc)]!=_0x5f36d6||gl_parameter_cache[_0x1a96ea][_0x95f9eb(0x411)]<=0x0)return 0x0;else return 0x1;}function get_cache_flag_value_on_record_update(_0x448715,_0x3e5edf,_0x263dc1){if(_0x263dc1==0x0)return 0x0;else{if(_0x263dc1==0x1&&_0x448715!=_0x3e5edf)return 0x0;else return 0x1;}}function update_cache(_0x4eadd5,_0x19a940,_0x1efbed){var _0x4282ae=_0x390981,_0x5328fa=_0x1efbed[_0x19a940][_0x4282ae(0x5f2)];for(var _0x144d24=0x0;_0x144d24<_0x5328fa[_0x4282ae(0x2bb)];_0x144d24++){if(_0x4282ae(0x273)!=='syYQj'){const _0x18a7c0=_0x3f557c(_0x58194b);_0x34a513[_0x4282ae(0x1cb)](),_0x5e85e9=_0xf9e402,_0x1bc596[_0x4282ae(0x483)](_0x4282ae(0x562),_0x6057ff/0x2,_0x211d9e+=_0x35e704,{'align':_0x4282ae(0x531)}),_0x5ce18b[_0x4282ae(0x5f1)](),_0x3673c2['autoTable']({'body':_0x18a7c0,'theme':_0x4282ae(0x157),'styles':{'fontSize':0xb,'valign':'middle','lineColor':'#000000'},'headStyles':{'fillColor':'#FFFFFF','textColor':_0x4282ae(0x300),'lineColor':_0x4282ae(0x300),'lineWidth':0.1},'startY':_0x5b247c+=_0x39358b});}else{if(_0x5328fa[_0x144d24]['freq']!=undefined&&_0x5328fa[_0x144d24][_0x4282ae(0x45d)]>0x1){if('NGRHO'!==_0x4282ae(0x50b)){const _0x3c8e68=_0x4eadd5+'.'+_0x19a940+'.'+_0x5328fa[_0x144d24][_0x4282ae(0xdc)],_0x5495f9=_0x1efbed[_0x19a940]['actual_value'][_0x5328fa[_0x144d24][_0x4282ae(0xdc)]][0x0];if(gl_parameter_cache[_0x3c8e68]==undefined||gl_parameter_cache[_0x3c8e68]['freq_remaining']<=0x0||gl_parameter_cache[_0x3c8e68][_0x4282ae(0x1fc)]!=_0x5495f9)gl_parameter_cache[_0x3c8e68]={'value':_0x5495f9,'freq_remaining':_0x5328fa[_0x144d24][_0x4282ae(0x45d)]-0x1,'record_time':new Date()};else{if(gl_parameter_cache[_0x3c8e68]!=undefined&&gl_parameter_cache[_0x3c8e68][_0x4282ae(0x411)]>0x0&&gl_parameter_cache[_0x3c8e68][_0x4282ae(0x1fc)]==_0x5495f9){if(_0x4282ae(0x45b)!==_0x4282ae(0x45b)){var _0x49c804=[],_0x18bb84=_0x1dd012['keys'](_0x1cfb21);for(var _0x4c5c4a=0x0;_0x4c5c4a<_0x18bb84[_0x4282ae(0x2bb)];_0x4c5c4a++){var _0x4b5a06={'label':_0x18bb84[_0x4c5c4a],'data':_0x5c6fc7[_0x18bb84[_0x4c5c4a]],'stack':0x1,'maxBarThickness':0x32,'barThickness':'flex','backgroundColor':_0x18bb84[_0x4282ae(0x2bb)]<=_0x3e9357[_0x4282ae(0x2bb)]?_0x313116[_0x4c5c4a]:_0x4282ae(0x18f)};_0x49c804[_0x4282ae(0x5a8)](_0x4b5a06);}return _0x49c804;}else gl_parameter_cache[_0x3c8e68]['freq_remaining']=gl_parameter_cache[_0x3c8e68]['freq_remaining']-0x1;}}}else{_0x43a687[0x0]=[_0x4282ae(0x62c)];for(var _0x211bdc=0x0;_0x211bdc<_0x1e12b6[_0x4282ae(0x2bb)];_0x211bdc++){_0x495a59[_0x5a81b5[_0x211bdc]]=new _0x17213c(_0x40b91a[_0x4282ae(0x2bb)])[_0x4282ae(0x3a6)](0x0);}for(var _0x211bdc=0x0;_0x211bdc<_0x30a19b['length'];_0x211bdc++){var _0x10c38c=_0x4d4a2d(_0x1b5007[_0x211bdc][_0x1e2348][_0x4282ae(0x5f1)][_0x4282ae(0x4d8)],0x1),_0x52c181=_0x10c38c[_0x4282ae(0x56d)]()+'-'+_0x450f32[_0x10c38c[_0x4282ae(0x1a4)]()]['substr'](0x0,0x3)+'-'+_0x10c38c['getFullYear'](),_0x1c72b3=_0x307aa9['indexOf'](_0x52c181);_0x4b7eed[_0x3b0c2c[0x0]][_0x1c72b3]+=0x1;}}}}}}async function initialize_process_disruption_section(){var _0x412f15=_0x390981;await reset_sections();const _0x16da8b=document[_0x412f15(0x610)](_0x412f15(0x4c4)),_0x3c5d13=document['getElementById'](_0x412f15(0x34f));await empty_container_byReference(_0x16da8b),await empty_container_byReference(_0x3c5d13),await empty_container_byReference(_0x16da8b),await empty_container_byReference(_0x3c5d13);if(gl_user_permission[_0x412f15(0x464)]!=0x1&&gl_user_permission[section_permission_list[_0x412f15(0x5ff)]]!=0x1){if('Jdtts'!==_0x412f15(0x4e3)){const _0x40e60e=_0x32dc15[_0xf839e8]['dt'],_0x346013=new _0x403568(_0x40e60e);_0x346013[_0x412f15(0x388)](0x0,0x0,0x0,0x1),_0x346013['setDate'](0x1);if(_0x2c6815(_0x1da44b[_0x346013]))_0x4a9e77[_0x346013]={'credits_purchased':0x0,'credits_used':0x0};if(_0x228bcb[_0x5aae87][_0x412f15(0x511)]<=0x0)_0x3e52e3[_0x346013][_0x412f15(0x4ac)]+=_0x2530c9[_0xcee0a0][_0x412f15(0x511)];else _0x4b54bc[_0x346013][_0x412f15(0x584)]+=_0x1d218b[_0x5a637f][_0x412f15(0x511)];}else return display_error(_0x412f15(0x17d)),![];}if(gl_disruption_alerts==undefined)await subscribe_alert_notifications();else await render_disruption_input_section(),await render_active_disruptions_section();}async function get_current_user_active_disruption_records(){var _0x446b6e=_0x390981;const _0x4452c2=gl_disruption_alerts;var _0x16aa3f=[];for(var _0x4305ff=0x0;_0x4305ff<_0x4452c2['length'];_0x4305ff++){if(_0x4452c2[_0x4305ff]['start_user']==gl_curr_user_details[_0x446b6e(0x130)]||gl_user_permission[_0x4452c2[_0x4305ff]['operation']+_0x446b6e(0x3be)]==0x1)_0x16aa3f[_0x446b6e(0x5a8)](_0x4452c2[_0x4305ff]);}return _0x16aa3f;}async function render_disruption_input_section(){var _0x3eb8de=_0x390981;const _0x474df3=document[_0x3eb8de(0x610)](_0x3eb8de(0x4c4));await empty_container_byReference(_0x474df3);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x30a1b2=Object[_0x3eb8de(0xe4)](gl_current_operations_list),_0x10d9c2=[];for(var _0x407882=0x0;_0x407882<_0x30a1b2[_0x3eb8de(0x2bb)];_0x407882++){if('ZYCTe'===_0x3eb8de(0x3d7)){_0x54140d[0x0]=[_0x3eb8de(0x62c)];for(var _0x30269c=0x0;_0x30269c<_0x34c7a6[_0x3eb8de(0x2bb)];_0x30269c++){_0x4cd3f0[_0x16e793[_0x30269c]]=new _0x43ec75(_0x1ab49d[_0x3eb8de(0x2bb)])[_0x3eb8de(0x3a6)](0x0);}for(var _0x30269c=0x0;_0x30269c<_0x10b980['length'];_0x30269c++){var _0x405d44=_0x19082a(_0x8c79fb[_0x30269c][_0x1cc277][_0x3eb8de(0x5f1)][_0x3eb8de(0x4d8)],0x1),_0x304c03=_0x405d44[_0x3eb8de(0x4cd)]()+_0x3eb8de(0x371)+(_0x405d44[_0x3eb8de(0x4cd)]()+0x1)+_0x3eb8de(0x513),_0x3d9b37=_0x17559e['indexOf'](_0x304c03);_0x40e02f[_0x262470[0x0]][_0x3d9b37]+=0x1;}}else{if(gl_user_permission[_0x3eb8de(0x464)]==0x1||gl_user_permission[_0x30a1b2[_0x407882]]>=0x1)_0x10d9c2[_0x3eb8de(0x5a8)](_0x30a1b2[_0x407882]);}}var _0x1e1a09=document[_0x3eb8de(0x48c)]('div');_0x1e1a09[_0x3eb8de(0x101)]=_0x3eb8de(0x240);var _0x100ceb=document[_0x3eb8de(0x48c)]('p');_0x100ceb[_0x3eb8de(0x101)]=_0x3eb8de(0x2b2),_0x100ceb[_0x3eb8de(0x602)]=_0x3eb8de(0x33e),_0x1e1a09[_0x3eb8de(0x357)](_0x100ceb);var _0x441897=document[_0x3eb8de(0x48c)](_0x3eb8de(0x3ad));_0x441897[_0x3eb8de(0x101)]=_0x3eb8de(0x552),set_select_options(_0x441897,['\x20']['concat'](disruption_reasons)),_0x1e1a09[_0x3eb8de(0x357)](_0x441897);var _0x579e86=document[_0x3eb8de(0x48c)](_0x3eb8de(0x20f));_0x579e86[_0x3eb8de(0x101)]=_0x3eb8de(0x143);var _0x11df7c=document[_0x3eb8de(0x48c)]('p');_0x11df7c[_0x3eb8de(0x101)]=_0x3eb8de(0x2b2),_0x11df7c[_0x3eb8de(0x602)]=_0x3eb8de(0x518),_0x579e86[_0x3eb8de(0x357)](_0x11df7c);var _0x467729=document[_0x3eb8de(0x48c)](_0x3eb8de(0x3ad));_0x467729[_0x3eb8de(0x101)]=_0x3eb8de(0x552),set_select_options(_0x467729,['\x20'][_0x3eb8de(0x472)](_0x10d9c2)),_0x579e86[_0x3eb8de(0x357)](_0x467729);var _0x78bb19=document[_0x3eb8de(0x48c)]('div');_0x78bb19[_0x3eb8de(0x101)]='form-row\x20justify-content-center\x20mt-2';var _0x1034b0=document[_0x3eb8de(0x48c)]('p');_0x1034b0[_0x3eb8de(0x101)]=_0x3eb8de(0x2b2),_0x1034b0[_0x3eb8de(0x602)]='Select\x20Workstation',_0x78bb19[_0x3eb8de(0x357)](_0x1034b0);var _0x42fc1a=document['createElement'](_0x3eb8de(0x3ad));_0x42fc1a[_0x3eb8de(0x101)]=_0x3eb8de(0x552),set_select_options(_0x42fc1a,['\x20']),_0x78bb19[_0x3eb8de(0x357)](_0x42fc1a);var _0x2294cf=document[_0x3eb8de(0x48c)]('div');_0x2294cf[_0x3eb8de(0x101)]=_0x3eb8de(0x143);var _0x17e97c=document[_0x3eb8de(0x48c)]('p');_0x17e97c[_0x3eb8de(0x101)]='col\x20mb-2\x20text-primary',_0x17e97c['innerText']=_0x3eb8de(0x395),_0x2294cf[_0x3eb8de(0x357)](_0x17e97c);var _0x2aad24=document[_0x3eb8de(0x48c)]('input');_0x2aad24[_0x3eb8de(0x101)]=_0x3eb8de(0x61d),_0x2aad24['maxLength']=param_value_max_length,_0x2294cf['appendChild'](_0x2aad24);var _0x1f2a5b=await get_current_user_active_disruption_records(),_0x55bcc5=document['createElement']('p');_0x55bcc5['className']=_0x3eb8de(0x536),_0x55bcc5['innerText']=_0x1f2a5b[_0x3eb8de(0x2bb)]+_0x3eb8de(0x488);var _0x2d0e80=document['createElement'](_0x3eb8de(0x20f));_0x2d0e80[_0x3eb8de(0x101)]=_0x3eb8de(0x244),_0x2d0e80[_0x3eb8de(0x602)]='Report\x20Process\x20Disruption',_0x474df3[_0x3eb8de(0x357)](_0x1e1a09),_0x474df3[_0x3eb8de(0x357)](_0x579e86),_0x474df3[_0x3eb8de(0x357)](_0x78bb19),_0x474df3['appendChild'](_0x2294cf),_0x474df3[_0x3eb8de(0x357)](_0x2d0e80);if(_0x1f2a5b[_0x3eb8de(0x2bb)]>0x0)_0x474df3[_0x3eb8de(0x357)](_0x55bcc5);return _0x467729[_0x3eb8de(0x3ab)]=function(){empty_container_byReference(_0x42fc1a),set_select_options(_0x42fc1a,gl_current_operations_list[_0x467729['value']]||['\x20']);},_0x2d0e80[_0x3eb8de(0x49a)]=async function(){var _0x1a9337=_0x3eb8de;if(is_null(_0x441897[_0x1a9337(0x1fc)],['\x20'])||is_null(_0x467729[_0x1a9337(0x1fc)],['\x20'])||is_null(_0x42fc1a[_0x1a9337(0x1fc)],['\x20']))return'yleHr'!==_0x1a9337(0x506)?(display_error(_0x1a9337(0x528)),![]):(_0x3a8675[_0x1a9337(0x5f1)](_0x4857ef),_0x30ac2f(_0x1a9337(0x5ee)),![]);return await display_confirmation(_0x1a9337(0x48b),await_loading,create_process_disruption_record,_0x441897[_0x1a9337(0x1fc)],_0x467729[_0x1a9337(0x1fc)],_0x42fc1a[_0x1a9337(0x1fc)],_0x2aad24['value']),!![];},!![];}async function render_active_disruptions_section(){var _0x4bc929=_0x390981;const _0x2c5bcf=document['getElementById']('view_process_disruptions_section');await empty_container_byReference(_0x2c5bcf);var _0x494f11=[];if(gl_user_permission['admin']==0x1)_0x494f11=gl_disruption_alerts;else _0x494f11=await get_current_user_active_disruption_records();if(_0x494f11['length']<=0x0){if(_0x4bc929(0x3dc)!==_0x4bc929(0x15f)){let _0x1e92ed=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));return _0x1e92ed['className']=_0x4bc929(0x2e3),_0x1e92ed[_0x4bc929(0x602)]=_0x4bc929(0x385),_0x2c5bcf[_0x4bc929(0x357)](_0x1e92ed),!![];}else return _0x2c0f31(_0x584c7f[_0x4bc929(0x286)]),![];}else for(var _0x3d2baf=0x0;_0x3d2baf<_0x494f11['length'];_0x3d2baf++){let _0x21051a=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0x21051a[_0x4bc929(0x101)]=_0x4bc929(0x20c),_0x21051a['id']=_0x494f11[_0x3d2baf]['id'];let _0x2eb597=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0x2eb597['className']=_0x4bc929(0x56a);let _0xe721eb=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0xe721eb[_0x4bc929(0x101)]=_0x4bc929(0x181),_0xe721eb[_0x4bc929(0x133)]=_0x4bc929(0x377),setInterval(display_elapsed_time,0x3e8,_0x494f11[_0x3d2baf]['start_time'],_0xe721eb);let _0x30f1a2=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0x30f1a2[_0x4bc929(0x101)]='text-center\x20text-danger\x20mt-2\x20mb-3\x20h5',_0x30f1a2[_0x4bc929(0x602)]=_0x494f11[_0x3d2baf][_0x4bc929(0x296)];let _0x2f6b55=document['createElement'](_0x4bc929(0x20f));_0x2f6b55[_0x4bc929(0x101)]=_0x4bc929(0x581),_0x2f6b55[_0x4bc929(0x133)]=_0x4bc929(0x1f7);let _0x298671=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0x298671[_0x4bc929(0x101)]=_0x4bc929(0x3a0),_0x298671[_0x4bc929(0x602)]=_0x494f11[_0x3d2baf][_0x4bc929(0x399)]+_0x4bc929(0x365)+_0x494f11[_0x3d2baf][_0x4bc929(0x15a)],_0x2f6b55[_0x4bc929(0x357)](_0x298671);let _0x5c026d=document[_0x4bc929(0x48c)]('div');_0x5c026d[_0x4bc929(0x101)]='mb-2\x20text-dark',_0x5c026d[_0x4bc929(0x133)]=_0x4bc929(0x134),reported_by_value=document[_0x4bc929(0x48c)]('div'),reported_by_value['className']=_0x4bc929(0x3a0),reported_by_value[_0x4bc929(0x602)]=_0x494f11[_0x3d2baf]['start_user'],_0x5c026d[_0x4bc929(0x357)](reported_by_value);let _0x1cd307=document[_0x4bc929(0x48c)](_0x4bc929(0x20f));_0x1cd307[_0x4bc929(0x101)]=_0x4bc929(0x581),_0x1cd307['innerHTML']=_0x4bc929(0x35f),remark_value=document[_0x4bc929(0x48c)](_0x4bc929(0x20f)),remark_value[_0x4bc929(0x101)]=_0x4bc929(0x30c),remark_value['innerText']=_0x494f11[_0x3d2baf][_0x4bc929(0x279)],_0x1cd307[_0x4bc929(0x357)](remark_value);let _0x2f4191=document['createElement'](_0x4bc929(0x20f));_0x2f4191[_0x4bc929(0x101)]=_0x4bc929(0x249),_0x2f4191[_0x4bc929(0x602)]=_0x4bc929(0x47e),_0x2f4191['onclick']=async function(){var _0x31b4b7=_0x4bc929;if(_0x31b4b7(0x347)===_0x31b4b7(0x14a)){var _0x2a8e25=_0x295c62(_0x55d81d[_0x20553f][_0x3be4be][_0x31b4b7(0x5f1)]['entry_dt'],0x1),_0xe7511a=_0x2a8e25[_0x31b4b7(0x4cd)]()+_0x31b4b7(0x371)+(_0x2a8e25[_0x31b4b7(0x4cd)]()+0x1)+':00',_0x70d924=_0x5c43b5[_0x31b4b7(0x2aa)](_0xe7511a),_0x5ea212='';if(_0x12d313[_0x31fd94][_0x5c5f8c][_0x31b4b7(0x2f2)]==0x4)_0x5ea212='Rejected';else{if(_0x4ebc2f[_0x5a775c][_0xdb4a60][_0x31b4b7(0x2f2)]==0x0){if(_0x5f149a(_0x222b85[_0x599b17][_0x36f35e][_0x31b4b7(0x5f1)]['deviation_by']))_0x5ea212='Completed';else _0x5ea212=_0x31b4b7(0x4b5);}else _0x5ea212='In\x20Progress\x20(deviation\x20required)';}_0x297c3f[_0x5ea212][_0x70d924]+=0x1;}else await display_confirmation(_0x31b4b7(0x55e),await_loading,close_process_disruption_record,_0x21051a['id']);},_0x2eb597[_0x4bc929(0x357)](_0xe721eb),_0x2eb597['appendChild'](_0x30f1a2),_0x2eb597[_0x4bc929(0x357)](document['createElement']('hr')),_0x2eb597['appendChild'](_0x2f6b55),_0x2eb597['appendChild'](_0x5c026d);if(remark_value[_0x4bc929(0x602)]['length']>0x0)_0x2eb597[_0x4bc929(0x357)](_0x1cd307);_0x2eb597['appendChild'](_0x2f4191),_0x21051a[_0x4bc929(0x357)](_0x2eb597),_0x2c5bcf[_0x4bc929(0x357)](_0x21051a);}}async function initialize_maintenance_updates_section(_0x3db5ab=0x0){var _0x4b0b4f=_0x390981;await reset_sections();const _0xaba284=document[_0x4b0b4f(0x610)](_0x4b0b4f(0x28f));await empty_container_byReference(_0xaba284);if(gl_user_permission[_0x4b0b4f(0x464)]!=0x1&&gl_user_permission[section_permission_list[_0x4b0b4f(0x227)]]!=0x1)return display_error(_0x4b0b4f(0x17d)),![];if(_0x3db5ab==0x0)gl_maintenance_updates_list=await read_global_maintenance_updates();if(is_null(gl_maintenance_updates_list)){if(_0x4b0b4f(0x5c3)!==_0x4b0b4f(0x5c3))_0x14d97d[_0x4b0b4f(0x2aa)](_0x40d12d[_0xd8fc38][_0x1ff074][_0x4b0b4f(0x5f1)]['entry_by'])<0x0&&_0x20eca6['push'](_0x3c4b46[_0x4571c4][_0x583b39][_0x4b0b4f(0x5f1)][_0x4b0b4f(0x3a3)]);else{var _0x295505=document[_0x4b0b4f(0x48c)]('div');_0x295505[_0x4b0b4f(0x101)]=_0x4b0b4f(0x3d2),_0x295505['innerText']=_0x4b0b4f(0x44c),_0xaba284[_0x4b0b4f(0x357)](_0x295505);}}else{var _0x3a8b0a=Object[_0x4b0b4f(0xe4)](gl_maintenance_updates_list);for(i=0x0;i<_0x3a8b0a[_0x4b0b4f(0x2bb)];i++){if(_0x4b0b4f(0x3d8)===_0x4b0b4f(0x362)){const _0x3aefec=_0x398b8f;var _0x1255be=[];for(var _0x23b2d0=0x0;_0x23b2d0<_0x3aefec[_0x4b0b4f(0x2bb)];_0x23b2d0++){if(_0x3aefec[_0x23b2d0][_0x4b0b4f(0x29a)]==_0x27c490[_0x4b0b4f(0x130)]||_0x2d625e[_0x3aefec[_0x23b2d0][_0x4b0b4f(0x399)]+_0x4b0b4f(0x3be)]==0x1)_0x1255be[_0x4b0b4f(0x5a8)](_0x3aefec[_0x23b2d0]);}return _0x1255be;}else{let _0x1518fd=document[_0x4b0b4f(0x48c)](_0x4b0b4f(0x20f));_0x1518fd[_0x4b0b4f(0x101)]='col-md-4';const _0x3089a0=new Date(decode_date(gl_maintenance_updates_list[_0x3a8b0a[i]][_0x4b0b4f(0x453)],0x1)),_0x24e1dc=new Date(_0x3089a0['setDate'](_0x3089a0[_0x4b0b4f(0x56d)]()+gl_maintenance_updates_list[_0x3a8b0a[i]][_0x4b0b4f(0x267)])),_0x419969=new Date(),_0x3fa73b=((_0x24e1dc-_0x419969)/(0x3e8*0x3c*0x3c*0x18))[_0x4b0b4f(0x1f8)](0x1),_0x8480e8=_0x3fa73b>=0x0?_0x4b0b4f(0x308):'\x20text-danger',_0xe3267b=_0x3fa73b>=0x0?_0x4b0b4f(0x22e):'Maintenace\x20Overdue\x20by';let _0x35295f=document['createElement']('div');_0x35295f[_0x4b0b4f(0x101)]=_0x4b0b4f(0x4e1);let _0x502c0c=document[_0x4b0b4f(0x48c)](_0x4b0b4f(0x20f));_0x502c0c['className']=_0x4b0b4f(0x3ac)+_0x8480e8,_0x502c0c[_0x4b0b4f(0x133)]=_0x4b0b4f(0x530)+_0x3a8b0a[i]+_0x4b0b4f(0x4c6);let _0x74ef57=document['createElement'](_0x4b0b4f(0x20f));_0x74ef57[_0x4b0b4f(0x101)]=_0x4b0b4f(0x5e0);let _0x564985=document[_0x4b0b4f(0x48c)](_0x4b0b4f(0x20f));_0x564985[_0x4b0b4f(0x101)]='text-dark\x20mb-1',_0x564985[_0x4b0b4f(0x133)]=_0xe3267b+_0x4b0b4f(0x377);let _0x5bb00a=document[_0x4b0b4f(0x48c)]('div');_0x5bb00a[_0x4b0b4f(0x101)]='h2'+_0x8480e8,_0x5bb00a[_0x4b0b4f(0x602)]=Math['abs'](_0x3fa73b);let _0xdd5874=document['createElement'](_0x4b0b4f(0x20f));_0xdd5874[_0x4b0b4f(0x101)]=_0x4b0b4f(0x305),_0xdd5874[_0x4b0b4f(0x602)]=_0x4b0b4f(0x541);let _0x12620a=document[_0x4b0b4f(0x48c)](_0x4b0b4f(0x20f));_0x12620a[_0x4b0b4f(0x133)]='Due\x20Date:\x20'+_0x24e1dc[_0x4b0b4f(0x315)]()+_0x4b0b4f(0x377);let _0x1de36d=document[_0x4b0b4f(0x48c)](_0x4b0b4f(0x20f));_0x1de36d[_0x4b0b4f(0x101)]=_0x4b0b4f(0x5c4),_0x1de36d['innerText']=_0x4b0b4f(0x173),_0x1de36d['id']=_0x3a8b0a[i],_0x1de36d[_0x4b0b4f(0x49a)]=async function(){var _0x463196=_0x4b0b4f;const _0x506c5e=_0x1de36d['id'];await await_loading(create_maintenance_update_modal,_0x506c5e,_0x463196(0x43e));},_0x74ef57[_0x4b0b4f(0x357)](_0x564985),_0x74ef57[_0x4b0b4f(0x357)](_0x5bb00a),_0x74ef57['appendChild'](_0xdd5874),_0x74ef57['appendChild'](_0x12620a),_0x74ef57[_0x4b0b4f(0x357)](_0x1de36d),_0x35295f['appendChild'](_0x502c0c),_0x35295f[_0x4b0b4f(0x357)](_0x74ef57),_0x1518fd['appendChild'](_0x35295f),_0xaba284[_0x4b0b4f(0x357)](_0x1518fd);}}}if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0xafdc1b=get_workstation_names_from_operations_obj(gl_current_operations_list);let _0x353319=document[_0x4b0b4f(0x610)](_0x4b0b4f(0x1a3));await empty_container_byReference(_0x353319),await set_select_options(_0x353319,_0xafdc1b),corrective_maintenance_add_update_btn[_0x4b0b4f(0x49a)]=async function(){var _0x8622c8=_0x4b0b4f;const _0x5ec253=document[_0x8622c8(0x610)]('select_workstation_corrective_maintenance_section')['value'];await await_loading(create_maintenance_update_modal,_0x5ec253,'Corrective');};}async function create_maintenance_update_modal(_0x22b0a9,_0x10cb9a=_0x390981(0x43e)){var _0x4e331c=_0x390981,_0x3c53e7=document[_0x4e331c(0x610)](_0x4e331c(0x19b)),_0x56d839=document[_0x4e331c(0x610)](_0x4e331c(0x298)),_0x511876=document[_0x4e331c(0x610)](_0x4e331c(0x60f)),_0x28fee1=document[_0x4e331c(0x610)](_0x4e331c(0x4d4));_0x3c53e7[_0x4e331c(0x133)]='',_0x28fee1[_0x4e331c(0x602)]='',empty_container_byReference(_0x56d839),empty_container_byReference(_0x511876),_0x3c53e7[_0x4e331c(0x133)]=_0x4e331c(0x3b0)+_0x10cb9a+'\x20Maintenance\x20Update\x20for\x20'+_0x22b0a9+'</h5>';if(_0x10cb9a==_0x4e331c(0x43e)){gl_curr_maintenance_plan=await read_maintenance_plan(_0x22b0a9);const _0x25516a=gl_curr_maintenance_plan['param_list'];for(var _0x222bb8=0x0;_0x222bb8<_0x25516a[_0x4e331c(0x2bb)];_0x222bb8++){let _0x573810=document[_0x4e331c(0x48c)](_0x4e331c(0x20f));_0x573810[_0x4e331c(0x101)]=_0x4e331c(0x2f4);if(!is_null(_0x25516a[_0x222bb8][_0x4e331c(0x435)]))_0x573810[_0x4e331c(0x133)]=_0x4e331c(0x126)+_0x25516a[_0x222bb8][_0x4e331c(0x435)]+_0x4e331c(0x471);_0x573810[_0x4e331c(0x133)]+=_0x4e331c(0x534)+_0x25516a[_0x222bb8][_0x4e331c(0xdc)]+_0x4e331c(0x13e);var _0x243c4e=await render_actual_value_input_field(_0x25516a[_0x222bb8][_0x4e331c(0x4e7)],_0x25516a[_0x222bb8][_0x4e331c(0x285)],_0x25516a[_0x222bb8][_0x4e331c(0x32a)],'');let _0x561be2=document[_0x4e331c(0x48c)](_0x4e331c(0x20f));_0x561be2[_0x4e331c(0x101)]=_0x4e331c(0x3a0);if(_0x25516a[_0x222bb8][_0x4e331c(0x4e7)]===data_types[0x0])_0x561be2[_0x4e331c(0x602)]=_0x4e331c(0x380)+(_0x25516a[_0x222bb8][_0x4e331c(0x285)]||'-')[_0x4e331c(0x2ab)]()+_0x4e331c(0x116)+(_0x25516a[_0x222bb8][_0x4e331c(0x32a)]||'-')[_0x4e331c(0x2ab)]();else{if(_0x25516a[_0x222bb8]['type']===data_types[0x1])_0x561be2[_0x4e331c(0x602)]=_0x4e331c(0x42b)+_0x25516a[_0x222bb8][_0x4e331c(0x285)];else{if(_0x25516a[_0x222bb8][_0x4e331c(0x4e7)]===data_types[0x3])_0x561be2[_0x4e331c(0x602)]=_0x4e331c(0xe6);}}let _0x5628ea=document[_0x4e331c(0x48c)]('hr');_0x5628ea[_0x4e331c(0x101)]=_0x4e331c(0x25c),_0x5628ea['style']=_0x4e331c(0x5da),_0x56d839['appendChild'](_0x573810),_0x56d839[_0x4e331c(0x357)](_0x243c4e),_0x56d839[_0x4e331c(0x357)](_0x561be2),_0x56d839[_0x4e331c(0x357)](_0x5628ea);}}let _0x3799eb=document[_0x4e331c(0x48c)]('div');_0x3799eb[_0x4e331c(0x101)]=_0x4e331c(0x5f4),_0x3799eb[_0x4e331c(0x602)]='Details\x20of\x20'+_0x10cb9a+_0x4e331c(0x152);let _0x1b5587=document[_0x4e331c(0x48c)](_0x4e331c(0x1ec));_0x1b5587[_0x4e331c(0x101)]=_0x4e331c(0x290),_0x1b5587[_0x4e331c(0x403)]=0x5,_0x1b5587['maxlength']=0xfa,_0x511876[_0x4e331c(0x357)](_0x3799eb),_0x511876[_0x4e331c(0x357)](_0x1b5587),maintenance_modal_submit_btn[_0x4e331c(0x49a)]=async function(){var _0x379596=_0x4e331c;if('RZhcZ'===_0x379596(0x516))return _0x328ef3('Please\x20add\x20https://\x20before\x20all\x20Parameter\x20Reference\x20Link\x20urls.\x20['+_0x338b81[_0x313484]['name']+_0x379596(0x368)+_0x2df567[_0x34f21a]+']'),![];else{const _0x11a254=gl_curr_maintenance_plan[_0x379596(0x5f2)];let _0xb1830a={};if(_0x10cb9a=='Preventive')for(var _0x30948c=0x0;_0x30948c<_0x11a254[_0x379596(0x2bb)];_0x30948c++){if(_0x379596(0x1f0)==='kbalT')_0xe46392[_0x4e64ab]=new _0x2db3f2(_0x4469bf[_0x379596(0x2bb)])[_0x379596(0x3a6)](0x0),_0x43bf81[_0x31cd8a][_0xe281aa[_0x379596(0x2aa)](_0x3c4c99)]+=0x1;else{var _0x56226e=_0x56d839[_0x379596(0x2df)][0x1+_0x30948c*0x4][_0x379596(0x1fc)];console[_0x379596(0x5f1)](_0x56226e);if(await validate_input_field_value(_0x11a254[_0x30948c][_0x379596(0x4e7)],_0x11a254[_0x30948c]['value1'],_0x11a254[_0x30948c]['value2'],_0x56226e))_0xb1830a[_0x11a254[_0x30948c]['name']]=_0x56226e;else return _0x379596(0x159)!==_0x379596(0x159)?(_0x2954af[_0x379596(0x5f1)](_0x3c069f),_0x3bd75f['log'](_0x3bcff6),![]):(_0x28fee1[_0x379596(0x602)]=_0x379596(0x632),![]);}}var _0xdf110c=_0x1b5587[_0x379596(0x1fc)];if(_0xdf110c[_0x379596(0x2bb)]<=0x0)return _0x28fee1['innerText']='Please\x20add\x20details\x20of\x20maintenance\x20work',![];const _0xd56a4b={'type':_0x10cb9a,'workstation':_0x22b0a9,'user':gl_curr_user_details[_0x379596(0x130)],'timestamp':firebase[_0x379596(0x4fc)]['FieldValue'][_0x379596(0x2ec)](),'remark':_0xdf110c,'param_list':_0xb1830a};return await await_loading(write_maintenance_record,_0xd56a4b),!![];}},_0x56d839[_0x4e331c(0x3ab)]=function(){var _0xa51f8f=_0x4e331c;if(_0xa51f8f(0x443)===_0xa51f8f(0x5e9)){const _0x23f048=_0x3016ca[_0x256109],_0x3419ae=_0x49e423[_0x359a7d],_0x4bf8e7=_0xf19231(_0x23f048)&&_0x5a09a0(_0x3419ae);if(_0x4bf8e7&&!_0x364739(_0x23f048,_0x3419ae)||!_0x4bf8e7&&_0x23f048!==_0x3419ae)return![];}else _0x28fee1[_0xa51f8f(0x602)]='';},await dismiss_all_modals(),$(_0x4e331c(0x52d))[_0x4e331c(0x60d)]();}async function initialize_create_qc_plan_section(){var _0x273768=_0x390981;await reset_sections();if(gl_user_permission[_0x273768(0x464)]!=0x1&&gl_user_permission[_0x273768(0x410)]!=0x1){if(_0x273768(0x431)!==_0x273768(0x2e8))return display_error(_0x273768(0x17d)),![];else{if(_0x3bcc83[_0x273768(0x22d)][_0x1afa53]==0x0)_0x103010[_0x273768(0x22d)][_0xa11259]=_0x27a868;else _0x242f6a[_0x273768(0x22d)][_0x73eb5b]=(_0x37c8e7/_0x2a9df1[_0x273768(0x22d)][_0x2a1849])[_0x273768(0x1f8)](0x1);}}document['getElementById']('navigation_model_qc_plans_2')[_0x273768(0x214)][_0x273768(0x138)]=_0x273768(0x608),document[_0x273768(0x610)](_0x273768(0x57c))[_0x273768(0x214)]['display']='flex';let _0xda559b=document['getElementById'](_0x273768(0x16c)),_0x517813=document[_0x273768(0x610)]('model_id_qc_plan_section');empty_container_byReference(_0xda559b);if(is_null(gl_model_list))gl_model_list=await read_model_list();for(var _0x591aa0=0x0;_0x591aa0<gl_model_list['length'];_0x591aa0++){if(_0x273768(0x1af)!==_0x273768(0x142)){let _0x4d1b25=document[_0x273768(0x48c)](_0x273768(0x25a));_0x4d1b25[_0x273768(0x602)]=gl_model_list[_0x591aa0],_0xda559b['appendChild'](_0x4d1b25);}else{var _0x37a577=[];return _0x37a577[_0x273768(0x5a8)]([_0x273768(0x2ac),_0x304198[_0x273768(0x46b)][_0x273768(0x405)]]),_0x37a577[_0x273768(0x5a8)]([_0x273768(0x3f5),_0x1db4b2[_0x273768(0x46b)][_0x273768(0x5f1)]['remark']]),_0x37a577['push'](['Dispatch\x20Date',_0x5b1b12(_0x2840f8['Basic\x20Info'][_0x273768(0x5f1)][_0x273768(0x4d8)])]),_0x37a577[_0x273768(0x5a8)]([_0x273768(0x36f),_0x1e2d85[_0x273768(0x46b)][_0x273768(0x5f1)][_0x273768(0x3a3)]]),!_0x2a158d(_0x7b695a['Basic\x20Info'][_0x273768(0x5f1)][_0x273768(0x604)])&&(_0x37a577['push']([_0x273768(0x119),_0x171dcb(_0x5c8bb1[_0x273768(0x46b)][_0x273768(0x5f1)][_0x273768(0x502)])]),_0x37a577[_0x273768(0x5a8)]([_0x273768(0x5e5),_0x3edf15['Basic\x20Info'][_0x273768(0x5f1)][_0x273768(0x604)]])),_0x37a577;}}_0xda559b['value']='',_0x517813[_0x273768(0x1fc)]='',_0xda559b[_0x273768(0x3ab)]=function(){var _0x5b9b00=_0x273768;if(_0x5b9b00(0x1be)===_0x5b9b00(0x162))return _0x246155('Process\x20Disruption\x20Report\x20could\x20not\x20be\x20created.\x20Please\x20try\x20again\x20later\x20or\x20contact\x20your\x20system\x20administrator.'),![];else _0x517813[_0x5b9b00(0x1fc)]=_0xda559b[_0x5b9b00(0x1fc)];},_0x517813['onchange']=function(){var _0x51edd3=_0x273768;if(_0x51edd3(0x1ff)===_0x51edd3(0x4e2))return _0x3dec48(_0xe614ae['message']),![];else _0xda559b[_0x51edd3(0x1fc)]='';};}function get_unused_operations(_0x3755a5){var _0x57e8da=_0x390981,_0x59dea3=[],_0x54bc22=[];if(is_null(gl_current_operations_list))gl_current_operations_list=read_production_operations_list();current_operations_list=Object[_0x57e8da(0xe4)](gl_current_operations_list);for(var _0x2a2bc5=0x0;_0x2a2bc5<_0x3755a5[_0x57e8da(0x3e1)];_0x2a2bc5++){if('gGdLc'!=='gGdLc')return _0x32ec46(_0x57e8da(0x428)),![];else{if(_0x3755a5['childNodes'][_0x2a2bc5][_0x57e8da(0x2df)][0x0][_0x57e8da(0x2df)][0x1][_0x57e8da(0x1fc)]!=='')_0x59dea3[_0x57e8da(0x5a8)](_0x3755a5[_0x57e8da(0x2df)][_0x2a2bc5][_0x57e8da(0x2df)][0x0][_0x57e8da(0x2df)][0x1]['value']);}}for(var _0x2a2bc5=0x0;_0x2a2bc5<current_operations_list[_0x57e8da(0x2bb)];_0x2a2bc5++){if(!_0x59dea3[_0x57e8da(0x4e0)](current_operations_list[_0x2a2bc5]))_0x54bc22[_0x57e8da(0x5a8)](current_operations_list[_0x2a2bc5]);}return _0x54bc22;}async function add_qc_stage(){var _0xeeebd=_0x390981,_0x5a64ec=document[_0xeeebd(0x610)](_0xeeebd(0x39b)),_0x4ec859=_0x5a64ec[_0xeeebd(0x3e1)];if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x1995b8=Object[_0xeeebd(0xe4)](gl_current_operations_list);if(_0x4ec859+0x1>max_qc_stages)display_error('Max\x20limit\x20reached.\x20Only\x20'+max_qc_stages+_0xeeebd(0x62a));else{if(_0x4ec859+0x1>_0x1995b8[_0xeeebd(0x2bb)])_0xeeebd(0x28a)!==_0xeeebd(0x28a)?_0x11b847[_0xeeebd(0x409)](_0x14af66['lastChild']):display_error(_0xeeebd(0x4f4));else{if(_0xeeebd(0x218)===_0xeeebd(0x503))return _0x6395b6(_0x1a92a7['message']),![];else{let _0x5131a0=document['createElement']('div');_0x5131a0[_0xeeebd(0x101)]=_0xeeebd(0x1aa),_0x5131a0['id']='qc_step'+_0x4ec859,_0x5131a0['name']=_0xeeebd(0x1df);let _0x22675d=document[_0xeeebd(0x48c)](_0xeeebd(0x20f));_0x22675d[_0xeeebd(0x101)]='card-header';let _0x7b292=document[_0xeeebd(0x48c)]('h5');_0x7b292[_0xeeebd(0x602)]=_0xeeebd(0x3b6)+(_0x4ec859+0x1)+'\x20Operation:',_0x7b292[_0xeeebd(0x101)]='card-title';let _0x58b9df=document[_0xeeebd(0x48c)]('select');_0x58b9df[_0xeeebd(0x101)]=_0xeeebd(0x261);var _0x286e1d=get_unused_operations(_0x5a64ec);set_select_options(_0x58b9df,_0x286e1d),_0x58b9df['value']='';if(_0x58b9df[_0xeeebd(0x1fc)]!=='')_0x58b9df[_0xeeebd(0x101)]=_0xeeebd(0x547);_0x58b9df[_0xeeebd(0x54f)]=function(){var _0x1b9f8a=_0xeeebd;empty_container_byReference(_0x58b9df);var _0x3b3fb0=get_unused_operations(_0x5a64ec);set_select_options(_0x58b9df,_0x3b3fb0);if(_0x58b9df[_0x1b9f8a(0x1fc)]!=='')_0x58b9df[_0x1b9f8a(0x101)]=_0x1b9f8a(0x547);};let _0xba7dad=document['createElement'](_0xeeebd(0x627));_0xba7dad[_0xeeebd(0x4e7)]=_0xeeebd(0x62b),_0xba7dad[_0xeeebd(0x101)]=_0xeeebd(0x327),_0xba7dad[_0xeeebd(0x590)]=_0xeeebd(0x208),_0xba7dad['min']=0x0,_0xba7dad[_0xeeebd(0x3ed)]=0x18*0x3c,_0x22675d[_0xeeebd(0x357)](_0x7b292),_0x22675d[_0xeeebd(0x357)](_0x58b9df),_0x22675d['appendChild'](_0xba7dad);let _0x50f686=document[_0xeeebd(0x48c)](_0xeeebd(0x20f));_0x50f686[_0xeeebd(0x101)]=_0xeeebd(0x56a),_0x50f686['id']='qc_step_body'+_0x4ec859;let _0x4ecb5c=document[_0xeeebd(0x48c)](_0xeeebd(0x20f));_0x4ecb5c[_0xeeebd(0x101)]=_0xeeebd(0x23b);let _0x2adec6=document[_0xeeebd(0x48c)]('a');_0x2adec6[_0xeeebd(0x101)]=_0xeeebd(0x284),_0x2adec6[_0xeeebd(0x602)]=_0xeeebd(0x5a2),_0x2adec6['addEventListener'](_0xeeebd(0xff),function(){add_parameter_qc_stage(_0x50f686['id']);},![]);let _0x5485c7=document[_0xeeebd(0x48c)]('a');return _0x5485c7[_0xeeebd(0x101)]=_0xeeebd(0x284),_0x5485c7[_0xeeebd(0x602)]=_0xeeebd(0x144),_0x5485c7[_0xeeebd(0x2c9)](_0xeeebd(0xff),function(){var _0x12f061=_0xeeebd;if('ZAgmG'!==_0x12f061(0x580))remove_parameter_qc_stage(_0x50f686['id']);else{if(_0x38a606=='')return _0x570776(_0x12f061(0x17a)),![];if(_0x91aa03[_0x12f061(0x2aa)]('/')>=0x0)return _0x4fb93a(_0x12f061(0x60b)),![];else return!![];}},![]),_0x4ecb5c[_0xeeebd(0x357)](_0x2adec6),_0x4ecb5c[_0xeeebd(0x357)](_0x5485c7),_0x22675d['appendChild'](_0x4ecb5c),_0x5131a0[_0xeeebd(0x357)](_0x22675d),_0x5131a0[_0xeeebd(0x357)](_0x50f686),_0x5a64ec[_0xeeebd(0x357)](_0x5131a0),_0x5131a0;}}}}function remove_qc_stage(){var _0x197e00=_0x390981,_0x4c1582=document[_0x197e00(0x610)](_0x197e00(0x39b));_0x4c1582[_0x197e00(0x409)](_0x4c1582[_0x197e00(0x1d9)]);}function render_parameter_input_box(_0xe00f69,_0x35753d){var _0x5a1e39=_0x390981;while(_0xe00f69[_0x5a1e39(0x3e1)]>0xc)_0xe00f69[_0x5a1e39(0x409)](_0xe00f69[_0x5a1e39(0x1d9)]);var _0x491a34,_0x5d8192,_0x960132,_0x1cec6d;_0x35753d==data_types[0x0]&&(_0x5a1e39(0x51b)!==_0x5a1e39(0x51b)?(_0x4cd845=_0x4b5306[_0x5a1e39(0x48c)](_0x5a1e39(0x627)),_0x2bb527[_0x5a1e39(0x101)]=_0x5a1e39(0x328),_0x4f081a[_0x5a1e39(0x1fc)]=_0x3ac2a5(_0x1cb51f['Basic\x20Info'][_0x5a1e39(0x405)])?'':_0x3138ca[_0x5a1e39(0x46b)][_0x5a1e39(0x405)],_0x105531['maxLength']=_0x3af131,_0x64de44=_0x9941c2[_0x5a1e39(0x48c)](_0x5a1e39(0x1ec)),_0x58b7f0[_0x5a1e39(0x101)]='form-control\x20mt-n2\x20text-primary\x20bg-white',_0x47f7a3['rows']=0x5,_0xbe5e04[_0x5a1e39(0x1fc)]=_0x1ef387(_0x1130a5[_0x5a1e39(0x46b)]['log']['remark'])?'':_0x55a917[_0x5a1e39(0x46b)]['log']['remark'],_0x57a9aa[_0x5a1e39(0x190)]=_0x5e4d22):(_0x491a34=document[_0x5a1e39(0x48c)](_0x5a1e39(0x627)),_0x491a34[_0x5a1e39(0x4e7)]='text',_0x491a34[_0x5a1e39(0x101)]=_0x5a1e39(0x125),_0x491a34[_0x5a1e39(0x590)]=_0x5a1e39(0x2ae),_0x491a34['maxLength']=param_value_max_length,_0x5d8192=document[_0x5a1e39(0x48c)]('input'),_0x5d8192[_0x5a1e39(0x4e7)]=_0x5a1e39(0x483),_0x5d8192[_0x5a1e39(0x101)]='form-control\x20col-sm-6\x20input-lg\x20text-center',_0x5d8192[_0x5a1e39(0x590)]=_0x5a1e39(0x560),_0x5d8192[_0x5a1e39(0x190)]=param_value_max_length,_0x960132=document['createElement']('p'),_0x960132['innerText']='Enter\x20minimum\x20and\x20maximum\x20acceptable\x20numeric\x20values\x20of\x20parameter.\x20Leave\x20blank\x20if\x20no\x20limit.',_0x960132[_0x5a1e39(0x101)]=_0x5a1e39(0x339),_0x1cec6d=document[_0x5a1e39(0x48c)]('hr'),_0x1cec6d[_0x5a1e39(0x101)]=_0x5a1e39(0x351)));if(_0x35753d==data_types[0x1])_0x5a1e39(0x312)==='unMbr'?(_0x491a34=document[_0x5a1e39(0x48c)]('input'),_0x491a34[_0x5a1e39(0x4e7)]='text',_0x491a34['className']=_0x5a1e39(0x125),_0x491a34[_0x5a1e39(0x590)]=_0x5a1e39(0x335),_0x491a34[_0x5a1e39(0x190)]=param_value_max_length,_0x5d8192=document[_0x5a1e39(0x48c)]('input'),_0x5d8192[_0x5a1e39(0x4e7)]=_0x5a1e39(0x483),_0x5d8192[_0x5a1e39(0x101)]=_0x5a1e39(0x3d5),_0x5d8192[_0x5a1e39(0x590)]=_0x5a1e39(0x168),_0x5d8192[_0x5a1e39(0x190)]=param_value_max_length,_0x960132=document['createElement']('p'),_0x960132[_0x5a1e39(0x602)]='Enter\x20acceptable\x20options\x20list\x20in\x20Field\x201\x20and\x20unacceptable\x20options\x20list\x20in\x20Field\x202.\x20Separate\x20options\x20with\x20a\x20comma.',_0x960132[_0x5a1e39(0x101)]='col-sm-12\x20mb-2\x20text-primary\x20text-wrap',_0x1cec6d=document['createElement']('hr'),_0x1cec6d[_0x5a1e39(0x101)]=_0x5a1e39(0x351)):_0x2a52cb['value']=_0x1bec36[_0x5a1e39(0x1fc)];else{if(_0x35753d==data_types[0x2])_0x5a1e39(0x121)!==_0x5a1e39(0x121)?(_0x2c7ee9[_0xb3baa7]['dt']=_0x4a6efd[_0x5a1c7d]['dt'][_0x5a1e39(0x14f)](),_0x2297df[_0x5a1e39(0x5a8)](_0x262536[_0x55fbc1])):(_0x491a34=document[_0x5a1e39(0x48c)](_0x5a1e39(0x3ad)),_0x491a34[_0x5a1e39(0x101)]=_0x5a1e39(0x547),set_select_options(_0x491a34,gl_model_list),_0x5d8192=document['createElement'](_0x5a1e39(0x627)),_0x5d8192[_0x5a1e39(0x4e7)]='text',_0x5d8192[_0x5a1e39(0x101)]=_0x5a1e39(0x3d5),_0x5d8192[_0x5a1e39(0x190)]=0x0,_0x5d8192[_0x5a1e39(0x214)][_0x5a1e39(0x138)]=_0x5a1e39(0x608),_0x960132=document[_0x5a1e39(0x48c)]('p'),_0x960132['className']=_0x5a1e39(0x339),_0x960132['innerText']='Select\x20a\x20Job\x20Type.\x20This\x20input\x20allows\x20linking\x20of\x20child\x20/\x20sub\x20jobs\x20of\x20selected\x20Job\x20Type.',_0x1cec6d=document['createElement']('hr'),_0x1cec6d[_0x5a1e39(0x101)]=_0x5a1e39(0x351));else _0x35753d==data_types[0x3]&&(_0x491a34=document[_0x5a1e39(0x48c)]('input'),_0x491a34[_0x5a1e39(0x4e7)]=_0x5a1e39(0x483),_0x491a34['className']='form-control\x20col\x20input-lg\x20text-center',_0x491a34[_0x5a1e39(0x590)]=_0x5a1e39(0x205),_0x491a34[_0x5a1e39(0x190)]=param_value_max_length,_0x491a34[_0x5a1e39(0x583)]=!![],_0x5d8192=document['createElement'](_0x5a1e39(0x627)),_0x5d8192[_0x5a1e39(0x4e7)]=_0x5a1e39(0x483),_0x5d8192[_0x5a1e39(0x101)]=_0x5a1e39(0x3d5),_0x5d8192[_0x5a1e39(0x190)]=0x0,_0x5d8192['style'][_0x5a1e39(0x138)]=_0x5a1e39(0x608),_0x960132=document[_0x5a1e39(0x48c)]('p'),_0x960132['innerText']=_0x5a1e39(0x219),_0x960132['className']='col-sm-12\x20mb-2\x20text-primary\x20text-wrap',_0x1cec6d=document[_0x5a1e39(0x48c)]('hr'),_0x1cec6d[_0x5a1e39(0x101)]=_0x5a1e39(0x351));}_0xe00f69[_0x5a1e39(0x357)](_0x491a34),_0xe00f69[_0x5a1e39(0x357)](_0x5d8192),_0xe00f69[_0x5a1e39(0x357)](_0x960132),_0xe00f69['appendChild'](_0x1cec6d);}function add_parameter_qc_stage(_0x1e97ff){var _0x3d539d=_0x390981,_0x1078db=document[_0x3d539d(0x610)](_0x1e97ff),_0x3f2c61=_0x1078db['childElementCount'];if(_0x3f2c61+0x1>max_qc_stage_parameters)_0x3d539d(0x532)!==_0x3d539d(0x532)?(_0x472cd5=_0x27768e['createElement']('input'),_0x1d05c4[_0x3d539d(0x101)]=_0x3d539d(0x53b),_0xe5a8ae['maxLength']=_0x6bf268,_0x1d94a0[_0x3d539d(0x1fc)]=_0x341603):display_error(_0x3d539d(0x41e)+max_qc_stage_parameters+_0x3d539d(0x478));else{var _0x35d1d8=document[_0x3d539d(0x48c)](_0x3d539d(0x20f));_0x35d1d8[_0x3d539d(0x101)]=_0x3d539d(0x325);var _0x19e91a=document['createElement']('p');_0x19e91a[_0x3d539d(0x101)]=_0x3d539d(0x12a),_0x19e91a[_0x3d539d(0x602)]=_0x3d539d(0x193);var _0x53b231=document[_0x3d539d(0x48c)](_0x3d539d(0x627));_0x53b231[_0x3d539d(0x4e7)]=_0x3d539d(0x483),_0x53b231[_0x3d539d(0x101)]=_0x3d539d(0x407),_0x53b231[_0x3d539d(0x590)]='Parameter\x20Name',_0x53b231['maxLength']=param_name_max_length;var _0x540985=document[_0x3d539d(0x48c)]('p');_0x540985[_0x3d539d(0x101)]=_0x3d539d(0x12a),_0x540985[_0x3d539d(0x602)]=_0x3d539d(0x452);var _0x5f0b90=document[_0x3d539d(0x48c)](_0x3d539d(0x3ad));_0x5f0b90[_0x3d539d(0x101)]='custom-select\x20mb-2\x20text-center\x20col-sm-6',set_select_options(_0x5f0b90,parameter_criticality_level);var _0x31ea35=document[_0x3d539d(0x48c)]('p');_0x31ea35['className']=_0x3d539d(0x12a),_0x31ea35[_0x3d539d(0x602)]=_0x3d539d(0x358);var _0x4f52c7=document[_0x3d539d(0x48c)]('input');_0x4f52c7['type']='text',_0x4f52c7[_0x3d539d(0x101)]=_0x3d539d(0x407),_0x4f52c7[_0x3d539d(0x590)]='https://reference-link.com',_0x4f52c7[_0x3d539d(0x190)]=url_max_length;var _0x40fa3b=document[_0x3d539d(0x48c)]('p');_0x40fa3b[_0x3d539d(0x101)]=_0x3d539d(0x12a),_0x40fa3b[_0x3d539d(0x602)]=_0x3d539d(0x492);var _0x4ac440=document[_0x3d539d(0x48c)](_0x3d539d(0x627));_0x4ac440[_0x3d539d(0x4e7)]='text',_0x4ac440[_0x3d539d(0x101)]=_0x3d539d(0x407),_0x4ac440[_0x3d539d(0x590)]=_0x3d539d(0x492),_0x4ac440[_0x3d539d(0x190)]=param_name_max_length;var _0x121da7=document[_0x3d539d(0x48c)]('p');_0x121da7['className']='col-sm-6\x20mb-2\x20text-dark',_0x121da7[_0x3d539d(0x602)]='Measurement\x20Frequency';var _0x3d46e8=document['createElement'](_0x3d539d(0x627));_0x3d46e8[_0x3d539d(0x4e7)]=_0x3d539d(0x62b),_0x3d46e8['className']=_0x3d539d(0x407),_0x3d46e8['placeholder']='Measurement\x20Frequency',_0x3d46e8[_0x3d539d(0x217)]=0x1,_0x3d46e8[_0x3d539d(0x1fc)]=0x1,_0x3d46e8['maxLength']=param_name_max_length;var _0x1fbeb7=document['createElement']('p');_0x1fbeb7[_0x3d539d(0x101)]=_0x3d539d(0x12a),_0x1fbeb7[_0x3d539d(0x602)]='Parameter\x20Type';var _0x869398=document[_0x3d539d(0x48c)](_0x3d539d(0x3ad));_0x869398[_0x3d539d(0x101)]=_0x3d539d(0x135);var _0x1cf4fe=document[_0x3d539d(0x48c)]('option');_0x1cf4fe['innerText']=data_types[0x0];var _0x392271=document[_0x3d539d(0x48c)](_0x3d539d(0x25a));_0x392271[_0x3d539d(0x602)]=data_types[0x1];var _0x452d8a=document[_0x3d539d(0x48c)](_0x3d539d(0x25a));_0x452d8a[_0x3d539d(0x602)]=data_types[0x2];var _0x54139b=document[_0x3d539d(0x48c)](_0x3d539d(0x25a));return _0x54139b[_0x3d539d(0x602)]=data_types[0x3],_0x869398[_0x3d539d(0x357)](_0x1cf4fe),_0x869398[_0x3d539d(0x357)](_0x392271),_0x869398[_0x3d539d(0x357)](_0x452d8a),_0x869398[_0x3d539d(0x357)](_0x54139b),_0x35d1d8[_0x3d539d(0x357)](_0x19e91a),_0x35d1d8[_0x3d539d(0x357)](_0x53b231),_0x35d1d8[_0x3d539d(0x357)](_0x540985),_0x35d1d8[_0x3d539d(0x357)](_0x5f0b90),_0x35d1d8['appendChild'](_0x31ea35),_0x35d1d8[_0x3d539d(0x357)](_0x4f52c7),_0x35d1d8['appendChild'](_0x40fa3b),_0x35d1d8[_0x3d539d(0x357)](_0x4ac440),_0x35d1d8[_0x3d539d(0x357)](_0x121da7),_0x35d1d8['appendChild'](_0x3d46e8),_0x35d1d8[_0x3d539d(0x357)](_0x1fbeb7),_0x35d1d8[_0x3d539d(0x357)](_0x869398),render_parameter_input_box(_0x35d1d8,_0x869398['value']),_0x869398['addEventListener'](_0x3d539d(0x3f3),function(){var _0x3d6a03=_0x3d539d;if(_0x3d6a03(0x15d)!==_0x3d6a03(0x618))render_parameter_input_box(_0x35d1d8,_0x869398['value']);else{let _0x4882e6=_0x2add4c[_0x3d6a03(0x48c)]('th');_0x4882e6[_0x3d6a03(0x602)]=_0x12efe4[_0x5f0ee3],_0x36aa30[_0x3d6a03(0x357)](_0x4882e6);}},![]),_0x1078db[_0x3d539d(0x357)](_0x35d1d8),_0x35d1d8;}}function remove_parameter_qc_stage(_0x58c4c3){var _0x54cc17=_0x390981,_0x521cf4=document[_0x54cc17(0x610)](_0x58c4c3);_0x521cf4[_0x54cc17(0x409)](_0x521cf4[_0x54cc17(0x1d9)]);}async function populate_process(_0x3bcf59){var _0x3dbdc8=_0x390981;if(is_null(_0x3bcf59))return![];var _0x2d07a5=Object[_0x3dbdc8(0xe4)](_0x3bcf59);for(var _0x1e2a29=0x0;_0x1e2a29<_0x2d07a5['length'];_0x1e2a29++){var _0x2ae218=await add_qc_stage();if(is_null(_0x2ae218))return![];_0x2ae218['childNodes'][0x0][_0x3dbdc8(0x2df)][0x1]['dispatchEvent'](new Event(_0x3dbdc8(0x5d2),{'bubbles':!![]})),_0x2ae218['childNodes'][0x0]['childNodes'][0x1]['value']=_0x2d07a5[_0x1e2a29],_0x2ae218[_0x3dbdc8(0x2df)][0x0][_0x3dbdc8(0x2df)][0x2][_0x3dbdc8(0x1fc)]=_0x3bcf59[_0x2d07a5[_0x1e2a29]][_0x3dbdc8(0x267)]||'';for(var _0x28af41=0x0;_0x28af41<_0x3bcf59[_0x2d07a5[_0x1e2a29]]['param_list'][_0x3dbdc8(0x2bb)];_0x28af41++){var _0x50c616=_0x3bcf59[_0x2d07a5[_0x1e2a29]]['param_list'][_0x28af41],_0x5f203b=await add_parameter_qc_stage(_0x2ae218[_0x3dbdc8(0x2df)][0x1]['id']);if(is_null(_0x5f203b))return![];_0x5f203b['childNodes'][0x1]['value']=_0x50c616['name']||'',_0x5f203b[_0x3dbdc8(0x2df)][0x3]['value']=_0x50c616[_0x3dbdc8(0x4d3)]||'',_0x5f203b[_0x3dbdc8(0x2df)][0x5][_0x3dbdc8(0x1fc)]=_0x50c616[_0x3dbdc8(0x435)]||'',_0x5f203b[_0x3dbdc8(0x2df)][0x7][_0x3dbdc8(0x1fc)]=_0x50c616[_0x3dbdc8(0x425)]||'',_0x5f203b['childNodes'][0x9][_0x3dbdc8(0x1fc)]=_0x50c616[_0x3dbdc8(0x45d)]||0x1,_0x5f203b[_0x3dbdc8(0x2df)][0xb]['value']=_0x50c616[_0x3dbdc8(0x4e7)],_0x5f203b[_0x3dbdc8(0x2df)][0xb][_0x3dbdc8(0x314)](new Event('change',{'bubbles':!![]})),_0x5f203b['childNodes'][0xc][_0x3dbdc8(0x1fc)]=_0x50c616[_0x3dbdc8(0x285)],_0x5f203b[_0x3dbdc8(0x2df)][0xd][_0x3dbdc8(0x1fc)]=_0x50c616['value2'];}}return!![];}async function create_qc_plan_screen(_0x587b04,_0x9b098e=0x0){var _0x435402=_0x390981,_0x49bc06=document['getElementById'](_0x587b04)[_0x435402(0x1fc)];if(!validate_input(_0x49bc06))return![];gl_curr_process_plan=await read_qc_plan(_0x49bc06);if(is_null(gl_curr_process_plan)){if(_0x435402(0x2a2)!==_0x435402(0x2a5))await display_process_plan_template_selection_modal(_0x49bc06,gl_model_list);else{if(_0x4045e1[_0x28ba9c][_0x435402(0x4e7)]===_0x346fba[0x2]){_0x19328c=_0xb58b8f[_0x435402(0x48c)](_0x435402(0x20f));let _0x91bb1d=_0x59b8bb[_0x435402(0x48c)](_0x435402(0x2fd));_0x91bb1d[_0x435402(0x101)]=_0x435402(0x4a4),_0x91bb1d['id']='scan-btn',_0x91bb1d['innerText']='Scan\x20QR',_0x91bb1d[_0x435402(0x49a)]=function(){var _0x44084f=_0x435402;_0x3894df(_0x91bb1d[_0x44084f(0x2f7)]['previousElementSibling']);};let _0x1d3c8a=_0x230fa5[_0x435402(0x48c)](_0x435402(0x20f));_0x1d3c8a[_0x435402(0x101)]='text-primary\x20mt-1',_0x1d3c8a[_0x435402(0x133)]='Enter\x20<u>'+_0x5b24ad[_0x17c5e7][_0x435402(0x285)]+_0x435402(0x185),_0x37c58c['appendChild'](_0x91bb1d),_0x5cdc90[_0x435402(0x357)](_0x1d3c8a);}else{_0x554787=_0x5b8c92[_0x435402(0x48c)]('div'),_0x4fa05c[_0x435402(0x101)]=_0x435402(0x3a0);if(_0x4c0879[_0x1dd06f]['type']===_0x4e4b0f[0x0])_0x3c3eb3[_0x435402(0x602)]='Min\x20Value:\x20'+(_0x833844[_0xb11817][_0x435402(0x285)]||'-')[_0x435402(0x2ab)]()+'\x20,\x20Max\x20Value:\x20'+(_0x461433[_0x5edd27][_0x435402(0x32a)]||'-')[_0x435402(0x2ab)]();else{if(_0x463ddc[_0x1e9c7b][_0x435402(0x4e7)]===_0x261efe[0x1])_0x535710['innerText']=_0x435402(0x42b)+_0x4f45c0[_0x31b8c2][_0x435402(0x285)];else{if(_0x3ade04[_0x41f504][_0x435402(0x4e7)]===_0x2c2585[0x3])_0x1f8d74[_0x435402(0x602)]='Enter\x20value\x20(max\x2050\x20characters)';}}}}}populate_process(gl_curr_process_plan);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x302fff=document['getElementById'](_0x435402(0x5fd));_0x302fff[_0x435402(0x262)]=_0x49bc06,_0x302fff[_0x435402(0x602)]=_0x435402(0x177)+_0x302fff[_0x435402(0x262)],document[_0x435402(0x610)](_0x435402(0x10c))[_0x435402(0x214)]['display']='block',document[_0x435402(0x610)](_0x435402(0x57c))[_0x435402(0x214)][_0x435402(0x138)]=_0x435402(0x608),save_qc_plan_btn[_0x435402(0x49a)]=function(){var _0x4fa2aa=_0x435402;create_qc_process_object(_0x4fa2aa(0x39b),_0x4fa2aa(0x5fd));};}async function initialize_configure_maintenance_plan_section(){var _0x1d0064=_0x390981;await reset_sections(),gl_curr_maintenance_plan={};if(gl_user_permission['admin']!=0x1&&gl_user_permission[_0x1d0064(0x410)]!=0x1){if(_0x1d0064(0x5e2)===_0x1d0064(0x1c2))_0x371779[_0x56da07[_0x15ad08]]=new _0x19fb16(_0x3f29ec[_0x1d0064(0x2bb)])[_0x1d0064(0x3a6)](0x0);else return display_error(_0x1d0064(0x17d)),![];}document[_0x1d0064(0x610)](_0x1d0064(0x29d))[_0x1d0064(0x214)][_0x1d0064(0x138)]=_0x1d0064(0x31d),document[_0x1d0064(0x610)](_0x1d0064(0x109))[_0x1d0064(0x214)]['display']=_0x1d0064(0x608);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x1098bb=get_workstation_names_from_operations_obj(gl_current_operations_list);let _0xa2d65d=document[_0x1d0064(0x610)](_0x1d0064(0x495));await empty_container_byReference(_0xa2d65d),await set_select_options(_0xa2d65d,_0x1098bb),create_maintenance_plan_btn['onclick']=async function(){var _0x529645=_0x1d0064;if(_0x529645(0x535)!==_0x529645(0x59e))await await_loading(create_maintenance_plan_screen,_0xa2d65d[_0x529645(0x1fc)]);else{const _0xf709a7=_0x4d6e72['days'],_0x3ad7e7=_0x2fbdd5['days'];let _0xad36de=0x0;if(_0xf709a7<_0x3ad7e7)_0xad36de=0x1;else _0xf709a7>_0x3ad7e7&&(_0xad36de=-0x1);return _0xad36de;}};}function get_workstation_names_from_operations_obj(_0x297395){var _0x3e7803=_0x390981,_0x159ade=Object[_0x3e7803(0xe4)](_0x297395),_0x4a9ae2=[];for(var _0x1cc9b3=0x0;_0x1cc9b3<_0x159ade[_0x3e7803(0x2bb)];_0x1cc9b3++){if(_0x3e7803(0x199)!==_0x3e7803(0x199)){const _0x4a4dca=_0xfc114b(_0x186912[_0x3e7803(0x1f6)](':')[0x0]),_0x192d23=_0x1a48a4(_0x3e0cd5[_0x3e7803(0x1f6)](':')[0x0]);return _0x4a4dca-_0x192d23;}else{var _0x532a40=_0x297395[_0x159ade[_0x1cc9b3]];for(var _0x3bb543=0x0;_0x3bb543<_0x532a40[_0x3e7803(0x2bb)];_0x3bb543++){_0x4a9ae2['push'](_0x532a40[_0x3bb543]+'\x20('+_0x159ade[_0x1cc9b3]+')');}}};return _0x4a9ae2;}function render_maintenance_parameter_input_box(_0x10ec29,_0x836b49){var _0x4525ce=_0x390981;while(_0x10ec29['childElementCount']>0x6)_0x10ec29[_0x4525ce(0x409)](_0x10ec29['lastChild']);var _0x10b84d,_0x53fa7d,_0x373102,_0x5cfe88;if(_0x836b49==data_types[0x0])_0x4525ce(0x4a9)===_0x4525ce(0xea)?_0x228555('0'):(_0x10b84d=document[_0x4525ce(0x48c)](_0x4525ce(0x627)),_0x10b84d[_0x4525ce(0x4e7)]=_0x4525ce(0x62b),_0x10b84d[_0x4525ce(0x101)]=_0x4525ce(0x125),_0x10b84d[_0x4525ce(0x590)]=_0x4525ce(0x2ae),_0x10b84d[_0x4525ce(0x190)]=param_value_max_length,_0x53fa7d=document['createElement']('input'),_0x53fa7d[_0x4525ce(0x4e7)]=_0x4525ce(0x62b),_0x53fa7d[_0x4525ce(0x101)]='form-control\x20col-sm-6\x20input-lg\x20text-center',_0x53fa7d[_0x4525ce(0x590)]=_0x4525ce(0x560),_0x53fa7d[_0x4525ce(0x190)]=param_value_max_length,_0x373102=document[_0x4525ce(0x48c)]('p'),_0x373102[_0x4525ce(0x602)]=_0x4525ce(0x40d),_0x373102[_0x4525ce(0x101)]='col-sm-12\x20text-primary\x20text-wrap',_0x5cfe88=document[_0x4525ce(0x48c)]('hr'),_0x5cfe88[_0x4525ce(0x101)]=_0x4525ce(0x351));else{if(_0x836b49==data_types[0x1]){if(_0x4525ce(0x512)!==_0x4525ce(0x512))return _0x321c73(_0x4525ce(0x5f6)),![];else _0x10b84d=document[_0x4525ce(0x48c)](_0x4525ce(0x627)),_0x10b84d['type']='text',_0x10b84d[_0x4525ce(0x101)]=_0x4525ce(0x125),_0x10b84d['placeholder']=_0x4525ce(0x335),_0x10b84d['maxLength']=param_value_max_length,_0x53fa7d=document[_0x4525ce(0x48c)](_0x4525ce(0x627)),_0x53fa7d[_0x4525ce(0x4e7)]=_0x4525ce(0x483),_0x53fa7d[_0x4525ce(0x101)]=_0x4525ce(0x3d5),_0x53fa7d[_0x4525ce(0x590)]=_0x4525ce(0x168),_0x53fa7d[_0x4525ce(0x190)]=param_value_max_length,_0x373102=document[_0x4525ce(0x48c)]('p'),_0x373102[_0x4525ce(0x602)]='Enter\x20acceptable\x20options\x20list\x20in\x20Field\x201\x20and\x20unacceptable\x20options\x20list\x20in\x20Field\x202.\x20Separate\x20options\x20with\x20a\x20comma.',_0x373102[_0x4525ce(0x101)]=_0x4525ce(0x3bb),_0x5cfe88=document['createElement']('hr'),_0x5cfe88[_0x4525ce(0x101)]='col-sm-12';}else{if(_0x836b49==data_types[0x2]){if('CgEWU'==='CgEWU')_0x10b84d=document[_0x4525ce(0x48c)](_0x4525ce(0x3ad)),_0x10b84d[_0x4525ce(0x101)]='custom-select\x20text-center',set_select_options(_0x10b84d,gl_model_list),_0x53fa7d=document[_0x4525ce(0x48c)]('input'),_0x53fa7d[_0x4525ce(0x4e7)]=_0x4525ce(0x483),_0x53fa7d[_0x4525ce(0x101)]=_0x4525ce(0x3d5),_0x53fa7d['maxLength']=0x0,_0x53fa7d['style'][_0x4525ce(0x138)]=_0x4525ce(0x608),_0x373102=document[_0x4525ce(0x48c)]('p'),_0x373102[_0x4525ce(0x101)]=_0x4525ce(0x339),_0x373102[_0x4525ce(0x602)]=_0x4525ce(0x2ea),_0x5cfe88=document[_0x4525ce(0x48c)]('hr'),_0x5cfe88[_0x4525ce(0x101)]=_0x4525ce(0x351);else{var _0x37cedb=_0x22e39d(_0x5f0184[_0x5c5a0c]['start_time'],0x1),_0x12f4de=_0x37cedb[_0x4525ce(0x4cd)]()+':00\x20-\x20'+(_0x37cedb[_0x4525ce(0x4cd)]()+0x1)+':00',_0x4e444f=_0x4a5720[_0x4525ce(0x2aa)](_0x12f4de),_0x5c1629=_0x156c4d[_0x3cd798][_0x4525ce(0x296)],_0x1e8882=(_0x2062ff(_0x5326b6[_0x5de7d6]['end_time']||new _0xd5ebb7(),0x1)-_0x509dc7(_0x3b9ae8[_0x1cd900][_0x4525ce(0x617)],0x1))/(0x3e8*0x3c);_0x1e8882=_0x3f8eae['round'](_0x1e8882),_0x5334fc[_0x5c1629][_0x4e444f]+=_0x1e8882;}}else _0x836b49==data_types[0x3]&&('TDuHV'===_0x4525ce(0x593)?(_0x10b84d=document[_0x4525ce(0x48c)](_0x4525ce(0x627)),_0x10b84d['type']=_0x4525ce(0x483),_0x10b84d[_0x4525ce(0x101)]='form-control\x20col\x20input-lg\x20text-center',_0x10b84d['placeholder']=_0x4525ce(0x205),_0x10b84d[_0x4525ce(0x190)]=param_value_max_length,_0x10b84d[_0x4525ce(0x583)]=!![],_0x53fa7d=document[_0x4525ce(0x48c)]('input'),_0x53fa7d[_0x4525ce(0x4e7)]='text',_0x53fa7d[_0x4525ce(0x101)]=_0x4525ce(0x3d5),_0x53fa7d[_0x4525ce(0x190)]=0x0,_0x53fa7d[_0x4525ce(0x214)][_0x4525ce(0x138)]=_0x4525ce(0x608),_0x373102=document['createElement']('p'),_0x373102[_0x4525ce(0x602)]=_0x4525ce(0x219),_0x373102[_0x4525ce(0x101)]=_0x4525ce(0x3bb),_0x5cfe88=document[_0x4525ce(0x48c)]('hr'),_0x5cfe88[_0x4525ce(0x101)]='col-sm-12'):_0x572753(this,function(){var _0x3119ce=_0x4525ce,_0x5e00a1=new _0x128f6c('function\x20*\x5c(\x20*\x5c)'),_0x21fd7b=new _0x27af64(_0x3119ce(0x487),'i'),_0x3c7c28=_0x572bdc(_0x3119ce(0x1c3));!_0x5e00a1['test'](_0x3c7c28+'chain')||!_0x21fd7b[_0x3119ce(0xf6)](_0x3c7c28+_0x3119ce(0x627))?_0x3c7c28('0'):_0xf55d99();})());}}_0x10ec29[_0x4525ce(0x357)](_0x10b84d),_0x10ec29[_0x4525ce(0x357)](_0x53fa7d),_0x10ec29[_0x4525ce(0x357)](_0x373102),_0x10ec29[_0x4525ce(0x357)](_0x5cfe88);}function add_parameter_maintenance_stage(_0x16abf9,_0x5aef26={}){var _0x479c3a=_0x390981,_0xd4ed8d=document['getElementById'](_0x16abf9),_0x2c6f3e=_0xd4ed8d[_0x479c3a(0x3e1)];if(_0x2c6f3e+0x1>max_maintenance_stage_parameters){if('glbmY'!==_0x479c3a(0x3f8))display_error(_0x479c3a(0x41e)+max_maintenance_stage_parameters+'\x20parameters\x20allowed');else{if(_0x467b1a=='')return _0x11b6a5(_0x479c3a(0x369)),![];else return!![];}}else{if(_0x479c3a(0x542)!==_0x479c3a(0x542))return _0x4cba13!=null&&typeof _0x374f5c==='object';else{var _0x151874=document['createElement'](_0x479c3a(0x20f));_0x151874['className']=_0x479c3a(0x325);var _0x510954=document[_0x479c3a(0x48c)]('p');_0x510954['className']=_0x479c3a(0x12a),_0x510954['innerText']=_0x479c3a(0x193);var _0x1ac9c4=document[_0x479c3a(0x48c)]('input');_0x1ac9c4['type']=_0x479c3a(0x483),_0x1ac9c4[_0x479c3a(0x101)]=_0x479c3a(0x407),_0x1ac9c4[_0x479c3a(0x590)]=_0x479c3a(0x193),_0x1ac9c4[_0x479c3a(0x190)]=param_name_max_length;var _0x131a3d=document['createElement']('p');_0x131a3d[_0x479c3a(0x101)]=_0x479c3a(0x12a),_0x131a3d[_0x479c3a(0x602)]=_0x479c3a(0x358);var _0x108305=document[_0x479c3a(0x48c)](_0x479c3a(0x627));_0x108305[_0x479c3a(0x4e7)]='text',_0x108305[_0x479c3a(0x101)]=_0x479c3a(0x407),_0x108305[_0x479c3a(0x590)]=_0x479c3a(0x204),_0x108305[_0x479c3a(0x190)]=url_max_length;var _0x58f5a6=document[_0x479c3a(0x48c)]('p');_0x58f5a6[_0x479c3a(0x101)]=_0x479c3a(0x12a),_0x58f5a6[_0x479c3a(0x602)]='Parameter\x20Type';var _0x5d9a39=document['createElement'](_0x479c3a(0x3ad));_0x5d9a39[_0x479c3a(0x101)]=_0x479c3a(0x135);var _0x1f6282=document['createElement'](_0x479c3a(0x25a));_0x1f6282[_0x479c3a(0x602)]=data_types[0x0];var _0x5ad5c5=document[_0x479c3a(0x48c)](_0x479c3a(0x25a));_0x5ad5c5['innerText']=data_types[0x1];var _0x59bb7c=document[_0x479c3a(0x48c)]('option');_0x59bb7c['innerText']=data_types[0x3],_0x5d9a39[_0x479c3a(0x357)](_0x1f6282),_0x5d9a39[_0x479c3a(0x357)](_0x5ad5c5),_0x5d9a39['appendChild'](_0x59bb7c),_0x151874[_0x479c3a(0x357)](_0x510954),_0x151874[_0x479c3a(0x357)](_0x1ac9c4),_0x151874[_0x479c3a(0x357)](_0x131a3d),_0x151874[_0x479c3a(0x357)](_0x108305),_0x151874['appendChild'](_0x58f5a6),_0x151874[_0x479c3a(0x357)](_0x5d9a39),_0x5d9a39[_0x479c3a(0x1fc)]=_0x5aef26[_0x479c3a(0x4e7)]||data_types[0x0],render_parameter_input_box(_0x151874,_0x5d9a39[_0x479c3a(0x1fc)]),_0x5d9a39[_0x479c3a(0x2c9)]('change',function(){var _0x519860=_0x479c3a;_0x519860(0x588)!==_0x519860(0x588)?_0x1ddd60(_0x519860(0x4f4)):render_maintenance_parameter_input_box(_0x151874,_0x5d9a39['value']);},![]),_0xd4ed8d[_0x479c3a(0x357)](_0x151874);if(!is_null(_0x5aef26)){if(_0x479c3a(0x404)===_0x479c3a(0x404))_0x1ac9c4[_0x479c3a(0x1fc)]=_0x5aef26[_0x479c3a(0xdc)],_0x108305[_0x479c3a(0x1fc)]=_0x5aef26['link'],_0x151874[_0x479c3a(0x2df)][0x6][_0x479c3a(0x1fc)]=_0x5aef26['value1'],_0x151874[_0x479c3a(0x2df)][0x7][_0x479c3a(0x1fc)]=_0x5aef26['value2'];else return _0x297415(_0x479c3a(0x5f6)),![];}return _0x151874;}}}function remove_parameter_maintenance_stage(_0x4c499e){var _0x10866d=_0x390981,_0xd2f21d=document[_0x10866d(0x610)](_0x4c499e);_0xd2f21d[_0x10866d(0x409)](_0xd2f21d[_0x10866d(0x1d9)]);}async function populate_maintenance_plan(_0x4202ae){var _0x2e1e1f=_0x390981,_0x39e683=document['getElementById']('create_maintenance_plan_dynamic');empty_container_byReference(_0x39e683);let _0x4c50b9=document[_0x2e1e1f(0x48c)](_0x2e1e1f(0x20f));_0x4c50b9[_0x2e1e1f(0x101)]=_0x2e1e1f(0x1aa),_0x4c50b9['id']=_0x2e1e1f(0x544);let _0x1a2ac2=document[_0x2e1e1f(0x48c)](_0x2e1e1f(0x20f));_0x1a2ac2[_0x2e1e1f(0x101)]=_0x2e1e1f(0x1e9);let _0xfa0cc5=document[_0x2e1e1f(0x48c)]('h6');_0xfa0cc5['innerText']=_0x2e1e1f(0x1c5),_0xfa0cc5[_0x2e1e1f(0x101)]=_0x2e1e1f(0x326);let _0x576be7=document[_0x2e1e1f(0x48c)](_0x2e1e1f(0x627));_0x576be7[_0x2e1e1f(0x4e7)]=_0x2e1e1f(0x62b),_0x576be7[_0x2e1e1f(0x101)]=_0x2e1e1f(0x327),_0x576be7['defaultValue']=_0x4202ae['cycle_time']||0x1,_0x576be7[_0x2e1e1f(0x217)]=0x1,_0x1a2ac2[_0x2e1e1f(0x357)](_0xfa0cc5),_0x1a2ac2['appendChild'](_0x576be7);let _0x17b5a0=document[_0x2e1e1f(0x48c)](_0x2e1e1f(0x20f));_0x17b5a0[_0x2e1e1f(0x101)]=_0x2e1e1f(0x23b);let _0x25d8ab=document[_0x2e1e1f(0x48c)]('a');_0x25d8ab['className']=_0x2e1e1f(0x284),_0x25d8ab[_0x2e1e1f(0x602)]=_0x2e1e1f(0x5a2),_0x25d8ab[_0x2e1e1f(0x2c9)]('click',function(){var _0x45de51=_0x2e1e1f;if(_0x45de51(0x48a)!=='Jundu'){let _0xdb4db1=_0x1961ce[_0x45de51(0x48c)]('button');_0xdb4db1['className']=_0x45de51(0x263),_0xdb4db1[_0x45de51(0x602)]=_0x45de51(0x439);let _0x16e9a4=_0x388f65[_0x45de51(0x48c)]('br');_0x4e9928[_0x45de51(0x357)](_0xdb4db1),_0x5ab449[_0x45de51(0x357)](_0x16e9a4),_0xdb4db1[_0x45de51(0x49a)]=function(){_0xd9917f(_0x3e332d);};}else add_parameter_maintenance_stage(_0x597c43['id']);},![]);let _0x1fa456=document['createElement']('a');_0x1fa456[_0x2e1e1f(0x101)]=_0x2e1e1f(0x284),_0x1fa456['innerText']=_0x2e1e1f(0x144),_0x1fa456[_0x2e1e1f(0x2c9)]('click',function(){var _0x471713=_0x2e1e1f;if('DNmmR'!=='TPxuK')remove_parameter_maintenance_stage(_0x597c43['id']);else{var _0x6a6dc2=_0x2505b2(_0x28fc79[_0x16aec3][_0x41ca62][_0x471713(0x5f1)]['entry_dt'],0x1),_0x311632=_0x6a6dc2[_0x471713(0x56d)]()+'-'+_0x2fc512[_0x6a6dc2[_0x471713(0x1a4)]()][_0x471713(0x250)](0x0,0x3)+'-'+_0x6a6dc2['getFullYear'](),_0x14543b=_0x316d2a[_0x471713(0x2aa)](_0x311632);_0x462764[_0x4d99e0[0x0]][_0x14543b]+=_0x1209d5[_0x383686][_0x223040][_0x471713(0x267)]/0x3c;}},![]),_0x17b5a0['appendChild'](_0x25d8ab),_0x17b5a0['appendChild'](_0x1fa456),_0x1a2ac2[_0x2e1e1f(0x357)](_0x17b5a0);let _0x597c43=document['createElement'](_0x2e1e1f(0x20f));_0x597c43[_0x2e1e1f(0x101)]='card-body\x20text-center',_0x597c43['id']=_0x2e1e1f(0x2e1),_0x4c50b9[_0x2e1e1f(0x357)](_0x1a2ac2),_0x4c50b9[_0x2e1e1f(0x357)](_0x597c43),_0x39e683[_0x2e1e1f(0x357)](_0x4c50b9);if(!is_null(_0x4202ae)){var _0x4a0ca3=_0x4202ae[_0x2e1e1f(0x5f2)];for(var _0x2dbfac=0x0;_0x2dbfac<_0x4a0ca3[_0x2e1e1f(0x2bb)];_0x2dbfac++){add_parameter_maintenance_stage(_0x597c43['id'],_0x4a0ca3[_0x2dbfac]);}}return!![];}async function create_maintenance_plan_screen(_0x150f61){var _0x2836e6=_0x390981;if(!validate_input(_0x150f61))return![];if(is_null(gl_curr_maintenance_plan)||gl_curr_maintenance_plan[_0x2836e6(0x15a)]!=_0x150f61)gl_curr_maintenance_plan=await read_maintenance_plan(_0x150f61);await populate_maintenance_plan(gl_curr_maintenance_plan);var _0x2a56c5=document[_0x2836e6(0x610)](_0x2836e6(0x3ce));_0x2a56c5[_0x2836e6(0x19f)]=_0x150f61,_0x2a56c5[_0x2836e6(0x602)]='Maintenance\x20Plan\x20Setup\x20for\x20'+_0x2a56c5['workstation_id'],document['getElementById'](_0x2836e6(0x29d))[_0x2836e6(0x214)][_0x2836e6(0x138)]=_0x2836e6(0x608),document[_0x2836e6(0x610)]('navigation_configure_maintenance_schedule_2')[_0x2836e6(0x214)][_0x2836e6(0x138)]='block',save_maintenance_plan_btn[_0x2836e6(0x49a)]=async function(){var _0x5c31fc=_0x2836e6;await await_loading(create_maintenance_plan_object,_0x5c31fc(0x595),_0x5c31fc(0x3ce));},delete_maintenance_plan_btn[_0x2836e6(0x49a)]=async function(){var _0x49f048=_0x2836e6;await display_confirmation(_0x49f048(0x597)+_0x150f61+'\x20?',await_loading,delete_maintenance_plan,[_0x150f61]);};}async function initialize_production_operation_section(){var _0x455deb=_0x390981;await reset_sections();if(gl_user_permission[_0x455deb(0x464)]!=0x1&&gl_user_permission[_0x455deb(0x410)]!=0x1){if(_0x455deb(0x58c)!=='fFULJ')return display_error(_0x455deb(0x17d)),![];else for(var _0x15024b=0x0;_0x15024b<_0x3e5736[_0x455deb(0x2bb)];_0x15024b++){_0x193bc1[_0x455deb(0x5a8)](_0x76842c(_0x310203[_0x15024b][_0x455deb(0x15a)]));}}if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x4dfe16=Object[_0x455deb(0xe4)](gl_current_operations_list),_0x97c7f6=document[_0x455deb(0x610)]('production_operation_list_dynamic');for(var _0x5b3439=0x0;_0x5b3439<_0x4dfe16['length'];_0x5b3439++){let _0xe6c3c9=document[_0x455deb(0x48c)](_0x455deb(0x20f));_0xe6c3c9['className']=_0x455deb(0x4cc);let _0xebf4cd=document['createElement'](_0x455deb(0x20f));_0xebf4cd['className']=_0x455deb(0x1e9);let _0x2dbd28=document[_0x455deb(0x48c)]('h5');_0x2dbd28[_0x455deb(0x602)]='Operation\x20Details',_0x2dbd28[_0x455deb(0x101)]=_0x455deb(0x624);let _0x42a290=document[_0x455deb(0x48c)](_0x455deb(0x627));_0x42a290['type']=_0x455deb(0x483),_0x42a290[_0x455deb(0x190)]=param_name_max_length,_0x42a290[_0x455deb(0x101)]='form-control\x20col\x20input-lg\x20text-center\x20text-primary\x20bg-white',_0x42a290[_0x455deb(0x590)]=_0x455deb(0x4f0),_0x42a290['value']=_0x4dfe16[_0x5b3439],_0xebf4cd[_0x455deb(0x357)](_0x2dbd28),_0xebf4cd[_0x455deb(0x357)](_0x42a290);let _0x28d77c=document[_0x455deb(0x48c)](_0x455deb(0x20f));_0x28d77c[_0x455deb(0x101)]=_0x455deb(0x23b);let _0x57219a=document['createElement']('a');_0x57219a[_0x455deb(0x101)]=_0x455deb(0x284),_0x57219a[_0x455deb(0x602)]=_0x455deb(0x110),_0x57219a[_0x455deb(0x49a)]=function(){add_workstation(_0x4bed59['id']);};let _0x30f201=document[_0x455deb(0x48c)]('a');_0x30f201[_0x455deb(0x101)]=_0x455deb(0x284),_0x30f201[_0x455deb(0x602)]=_0x455deb(0x44b),_0x30f201['onclick']=function(){remove_workstation(_0x4bed59['id']);},_0x28d77c['appendChild'](_0x57219a),_0x28d77c[_0x455deb(0x357)](_0x30f201),_0xebf4cd[_0x455deb(0x357)](_0x28d77c);let _0x4bed59=document[_0x455deb(0x48c)](_0x455deb(0x20f));_0x4bed59['className']=_0x455deb(0x56a),_0x4bed59['id']=_0x455deb(0x606)+_0x5b3439;var _0x38aa57=gl_current_operations_list[_0x4dfe16[_0x5b3439]];_0xe6c3c9[_0x455deb(0x357)](_0xebf4cd),_0xe6c3c9[_0x455deb(0x357)](_0x4bed59),_0x97c7f6[_0x455deb(0x357)](_0xe6c3c9);for(var _0x411e65=0x0;_0x411e65<_0x38aa57[_0x455deb(0x2bb)];_0x411e65++)add_workstation(_0x4bed59['id'],_0x38aa57[_0x411e65]);}}function add_production_operation_stage(){var _0x46d4e5=_0x390981,_0x1d4f81=document[_0x46d4e5(0x610)](_0x46d4e5(0x29c)),_0x2cf73c=_0x1d4f81[_0x46d4e5(0x3e1)];if(_0x2cf73c+0x1>max_production_operations)_0x46d4e5(0x120)!==_0x46d4e5(0x370)?display_error(_0x46d4e5(0x10e)+max_production_operations+_0x46d4e5(0x293)):_0x3f90e3[_0x46d4e5(0x5a8)]([_0x590cf8[_0x48254b],_0x46d4e5(0x391),_0x26ba1f[_0x4a35ef[_0x24ef9f]][_0x46d4e5(0x5f1)][_0x46d4e5(0x604)],_0x7ca7f6(_0x41b69a[_0x2dd1a4[_0x38c24f]][_0x46d4e5(0x5f1)][_0x46d4e5(0x502)])]);else{if(_0x46d4e5(0x195)!=='lCVsM'){let _0x2d11af=document[_0x46d4e5(0x48c)](_0x46d4e5(0x20f));_0x2d11af[_0x46d4e5(0x101)]=_0x46d4e5(0x4cc);let _0x526197=document[_0x46d4e5(0x48c)]('div');_0x526197[_0x46d4e5(0x101)]=_0x46d4e5(0x1e9);let _0x482d1b=document[_0x46d4e5(0x48c)]('h5');_0x482d1b[_0x46d4e5(0x602)]=_0x46d4e5(0x555),_0x482d1b[_0x46d4e5(0x101)]='card-title';let _0x5229fd=document[_0x46d4e5(0x48c)]('input');_0x5229fd[_0x46d4e5(0x4e7)]='text',_0x5229fd[_0x46d4e5(0x190)]=param_name_max_length,_0x5229fd['className']=_0x46d4e5(0x38e),_0x5229fd[_0x46d4e5(0x590)]=_0x46d4e5(0x2ef),_0x526197[_0x46d4e5(0x357)](_0x482d1b),_0x526197['appendChild'](_0x5229fd);let _0x3bd59e=document[_0x46d4e5(0x48c)]('div');_0x3bd59e[_0x46d4e5(0x101)]=_0x46d4e5(0x23b);let _0x3d8931=document['createElement']('a');_0x3d8931[_0x46d4e5(0x101)]='col\x20btn\x20btn-outline-dark\x20text-dark',_0x3d8931['innerText']=_0x46d4e5(0x110),_0x3d8931['onclick']=function(){add_workstation(_0x309647['id']);};let _0x40b42f=document[_0x46d4e5(0x48c)]('a');_0x40b42f['className']='col\x20btn\x20btn-outline-dark\x20text-dark',_0x40b42f['innerText']='-\x20Workstation',_0x40b42f[_0x46d4e5(0x49a)]=function(){var _0x57a7c0=_0x46d4e5;if(_0x57a7c0(0x271)!==_0x57a7c0(0x4d1))remove_workstation(_0x309647['id']);else{_0x1a0851=_0x42fc2d[_0x57a7c0(0x48c)](_0x57a7c0(0x20f)),_0x184030[_0x57a7c0(0x101)]=_0x57a7c0(0x3a0);if(_0x598507[_0xc01d5a]['type']===_0x3f4e0f[0x0])_0x3df10c[_0x57a7c0(0x602)]=_0x57a7c0(0x380)+(_0x2116c3[_0x45d1c0][_0x57a7c0(0x285)]||'-')[_0x57a7c0(0x2ab)]()+_0x57a7c0(0x116)+(_0x358af5[_0x1c0c8f][_0x57a7c0(0x32a)]||'-')['toString']();else{if(_0x39c5d7[_0x4c5922][_0x57a7c0(0x4e7)]===_0x451a18[0x1])_0x674bc[_0x57a7c0(0x602)]=_0x57a7c0(0x42b)+_0xf675f8[_0x4ef99d][_0x57a7c0(0x285)];else{if(_0x2e85f6[_0x1ea65a]['type']===_0x146115[0x3])_0x357bfd[_0x57a7c0(0x602)]=_0x57a7c0(0xe6);}}}},_0x3bd59e[_0x46d4e5(0x357)](_0x3d8931),_0x3bd59e[_0x46d4e5(0x357)](_0x40b42f),_0x526197['appendChild'](_0x3bd59e);let _0x309647=document[_0x46d4e5(0x48c)](_0x46d4e5(0x20f));_0x309647[_0x46d4e5(0x101)]=_0x46d4e5(0x56a),_0x309647['id']=_0x46d4e5(0x606)+_0x2cf73c,_0x2d11af[_0x46d4e5(0x357)](_0x526197),_0x2d11af[_0x46d4e5(0x357)](_0x309647),_0x1d4f81[_0x46d4e5(0x357)](_0x2d11af),add_workstation(_0x309647['id']);}else _0xd806ac=_0x136cf4[_0x46d4e5(0x48c)]('hr'),_0x5c11d1[_0x46d4e5(0x101)]=_0x46d4e5(0x25c),_0x57a751[_0x46d4e5(0x214)]=_0x46d4e5(0x5da),_0x5a888b[_0x46d4e5(0x357)](_0x313ccf),_0x24d611[_0x46d4e5(0x357)](_0x15b562),_0x511207['appendChild'](_0x502306),_0xd962a2=_0x1f8ec3[_0x46d4e5(0x48c)]('hr'),_0x4a125a[_0x46d4e5(0x101)]=_0x46d4e5(0x25c),_0xd149ce[_0x46d4e5(0x214)]=_0x46d4e5(0x5da),_0x12b0df[_0x46d4e5(0x357)](_0x55109a),_0x427440[_0x46d4e5(0x357)](_0x2eb69b),_0x459713[_0x46d4e5(0x357)](_0x1db60b);}}function remove_production_operation_stage(){var _0x333629=_0x390981,_0x308b79=document[_0x333629(0x610)](_0x333629(0x29c));_0x308b79[_0x333629(0x409)](_0x308b79['lastChild']);}function add_workstation(_0x961415,_0x592a39=''){var _0xfcd7ff=_0x390981,_0x6b3097=document['getElementById'](_0x961415),_0x528c05=_0x6b3097['childElementCount'];if(_0x528c05+0x1>max_workstations_per_operation)display_error(_0xfcd7ff(0x41e)+max_workstations_per_operation+_0xfcd7ff(0x3ec));else{if(_0xfcd7ff(0x3de)!==_0xfcd7ff(0x282)){var _0x2cf905=document[_0xfcd7ff(0x48c)](_0xfcd7ff(0x20f));_0x2cf905[_0xfcd7ff(0x101)]=_0xfcd7ff(0x325);var _0x84faf8=document[_0xfcd7ff(0x48c)](_0xfcd7ff(0x627));_0x84faf8[_0xfcd7ff(0x4e7)]=_0xfcd7ff(0x483),_0x84faf8[_0xfcd7ff(0x101)]=_0xfcd7ff(0x39c),_0x84faf8['placeholder']='Enter\x20Workstation\x20Name\x20/\x20ID',_0x84faf8[_0xfcd7ff(0x190)]=param_name_max_length;if(_0x592a39!='')_0x84faf8[_0xfcd7ff(0x1fc)]=_0x592a39;return _0x2cf905[_0xfcd7ff(0x357)](_0x84faf8),_0x6b3097[_0xfcd7ff(0x357)](_0x2cf905),_0x2cf905;}else{var _0x4a4270=_0x2a6732[_0x565bbb[_0x6fa312]];for(var _0x4cc489=0x0;_0x4cc489<_0x4a4270['length'];_0x4cc489++){_0x5d754c[_0xfcd7ff(0x5a8)](_0x4a4270[_0x4cc489]+'\x20('+_0x2a5529[_0x4f2584]+')');}}}}function remove_workstation(_0x1c8213){var _0x3dab40=_0x390981,_0x3f498b=document[_0x3dab40(0x610)](_0x1c8213);_0x3f498b[_0x3dab40(0x409)](_0x3f498b[_0x3dab40(0x1d9)]);}async function clear_unsaved_operations(){var _0x4c7103=_0x390981;if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x17632c=document[_0x4c7103(0x610)](_0x4c7103(0x29c));while(_0x17632c[_0x4c7103(0x3e1)]>Object['keys'](gl_current_operations_list)[_0x4c7103(0x2bb)]){_0x17632c['removeChild'](_0x17632c['lastChild']);}}async function initialize_user_permission_section(_0x2eadef=![]){var _0x2050d1=_0x390981;reset_sections();if(gl_user_permission[_0x2050d1(0x464)]!=0x1&&gl_user_permission[section_permission_list[_0x2050d1(0x1bf)]]!=0x1)return display_error(_0x2050d1(0x17d)),![];document[_0x2050d1(0x610)](_0x2050d1(0x417))[_0x2050d1(0x214)][_0x2050d1(0x138)]=_0x2050d1(0x608),document['getElementById'](_0x2050d1(0x176))['style'][_0x2050d1(0x138)]=_0x2050d1(0x31d);let _0x537fc6=document[_0x2050d1(0x610)](_0x2050d1(0x304)),_0x1f3685=document['getElementById'](_0x2050d1(0xf2)),_0x21a3e8=document['getElementById']('password_user_permission_section');_0x1f3685[_0x2050d1(0x1fc)]='',_0x21a3e8[_0x2050d1(0x1fc)]='',empty_container_byReference(_0x537fc6);if((gl_user_list[_0x2050d1(0x2bb)]==0x0||is_null(gl_user_list))&&_0x2eadef==![])gl_user_list=await read_user_list();set_select_options(_0x537fc6,gl_user_list[_0x2050d1(0x57a)]());}async function render_permission_inputs(_0x3831b1,_0x439855,_0x3e2e2e,_0x578e94,_0x570cdf){var _0x4e628b=_0x390981;empty_container_byReference(_0x3831b1),empty_container_byReference(_0x439855),empty_container_byReference(_0x3e2e2e),empty_container_byReference(_0x578e94);var _0x2739dd=Object['keys'](section_permission_list);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();for(var _0x2dc8cf=0x0;_0x2dc8cf<_0x2739dd[_0x4e628b(0x2bb)];_0x2dc8cf++){var _0x214b4f=document[_0x4e628b(0x48c)](_0x4e628b(0x20f));_0x214b4f[_0x4e628b(0x101)]='form-row\x20justify-content-center';var _0x101f2f=document['createElement']('p');_0x101f2f['className']=_0x4e628b(0x2b2),_0x101f2f[_0x4e628b(0x602)]=_0x2739dd[_0x2dc8cf];var _0x4a954a=document['createElement'](_0x4e628b(0x3ad));_0x4a954a[_0x4e628b(0x101)]=_0x4e628b(0x552),set_select_options(_0x4a954a,permission_list_no_yes);var _0x2cab02=section_permission_list[_0x2739dd[_0x2dc8cf]];if(!is_null(_0x570cdf[_0x2cab02]))_0x4a954a['value']=permission_list_no_yes[_0x570cdf[_0x2cab02]];else _0x4a954a[_0x4e628b(0x1fc)]=permission_list_no_yes[0x0];var _0x28afcd=document[_0x4e628b(0x48c)]('hr');_0x28afcd[_0x4e628b(0x101)]='col-sm-12',_0x214b4f[_0x4e628b(0x357)](_0x101f2f),_0x214b4f[_0x4e628b(0x357)](_0x4a954a),_0x214b4f[_0x4e628b(0x357)](_0x28afcd),_0x3831b1['appendChild'](_0x214b4f);}_0x3831b1[_0x4e628b(0x357)](document['createElement']('br'));for(var _0x2dc8cf=0x0;_0x2dc8cf<0x1;_0x2dc8cf++){var _0x214b4f=document['createElement'](_0x4e628b(0x20f));_0x214b4f[_0x4e628b(0x101)]=_0x4e628b(0x325);var _0x1eff60=_0x4e628b(0x46b),_0x101f2f=document[_0x4e628b(0x48c)]('p');_0x101f2f[_0x4e628b(0x101)]='col\x20mb-2\x20text-primary',_0x101f2f[_0x4e628b(0x602)]=_0x1eff60;var _0x4a954a=document['createElement']('select');_0x4a954a['className']=_0x4e628b(0x552),set_select_options(_0x4a954a,permission_list_access[_0x4e628b(0x3e3)](0x1,0x4));if(!is_null(_0x570cdf[_0x1eff60]))_0x4a954a[_0x4e628b(0x1fc)]=permission_list_access[_0x570cdf[_0x1eff60]];else _0x4a954a[_0x4e628b(0x1fc)]=permission_list_access[0x1];var _0x28afcd=document[_0x4e628b(0x48c)]('hr');_0x28afcd['className']=_0x4e628b(0x351),_0x214b4f[_0x4e628b(0x357)](_0x101f2f),_0x214b4f[_0x4e628b(0x357)](_0x4a954a),_0x214b4f[_0x4e628b(0x357)](_0x28afcd),_0x3e2e2e[_0x4e628b(0x357)](_0x214b4f);}var _0x2957f9=Object[_0x4e628b(0xe4)](gl_current_operations_list);for(var _0x2dc8cf=0x0;_0x2dc8cf<_0x2957f9['length'];_0x2dc8cf++){if(_0x4e628b(0x470)==='KFZln'){var _0x214b4f=document[_0x4e628b(0x48c)](_0x4e628b(0x20f));_0x214b4f[_0x4e628b(0x101)]='form-row\x20justify-content-center';var _0x1eff60=_0x2957f9[_0x2dc8cf],_0x101f2f=document[_0x4e628b(0x48c)]('p');_0x101f2f[_0x4e628b(0x101)]=_0x4e628b(0x2b2),_0x101f2f[_0x4e628b(0x602)]=_0x1eff60;var _0x4a954a=document['createElement']('select');_0x4a954a[_0x4e628b(0x101)]=_0x4e628b(0x552),set_select_options(_0x4a954a,permission_list_access);if(!is_null(_0x570cdf[_0x1eff60]))_0x4a954a[_0x4e628b(0x1fc)]=permission_list_access[_0x570cdf[_0x1eff60]];else _0x4a954a[_0x4e628b(0x1fc)]=permission_list_access[0x0];var _0x28afcd=document[_0x4e628b(0x48c)]('hr');_0x28afcd[_0x4e628b(0x101)]='col-sm-12',_0x214b4f[_0x4e628b(0x357)](_0x101f2f),_0x214b4f['appendChild'](_0x4a954a),_0x214b4f[_0x4e628b(0x357)](_0x28afcd),_0x578e94[_0x4e628b(0x357)](_0x214b4f);}else _0x4f838c['getElementById'](_0x4e628b(0x149))[_0x4e628b(0x214)]=_0x4e628b(0x4b2),_0x139db1[_0x4e628b(0x610)]('navigation_configure_production_operations_btn')[_0x4e628b(0x214)]='display\x20:\x20block',_0x2f5c23['getElementById'](_0x4e628b(0x474))[_0x4e628b(0x214)]=_0x4e628b(0x4b2),_0x319ff5[_0x4e628b(0x610)](_0x4e628b(0x114))['style']=_0x4e628b(0x4b2);}_0x578e94[_0x4e628b(0x357)](document[_0x4e628b(0x48c)]('br'));for(var _0x2dc8cf=0x0;_0x2dc8cf<_0x2957f9['length'];_0x2dc8cf++){var _0x214b4f=document['createElement'](_0x4e628b(0x20f));_0x214b4f[_0x4e628b(0x101)]=_0x4e628b(0x325);var _0x101f2f=document['createElement']('p');_0x101f2f[_0x4e628b(0x101)]=_0x4e628b(0x2b2),_0x101f2f[_0x4e628b(0x602)]=_0x2957f9[_0x2dc8cf];var _0x4a954a=document[_0x4e628b(0x48c)]('select');_0x4a954a[_0x4e628b(0x101)]='custom-select\x20mb-2\x20text-center\x20col-sm-6',set_select_options(_0x4a954a,permission_list_no_yes);var _0x2cab02=_0x2957f9[_0x2dc8cf]+_0x4e628b(0x3be);if(!is_null(_0x570cdf[_0x2cab02]))_0x4a954a[_0x4e628b(0x1fc)]=permission_list_no_yes[_0x570cdf[_0x2cab02]];else _0x4a954a[_0x4e628b(0x1fc)]=permission_list_no_yes[0x0];var _0x28afcd=document[_0x4e628b(0x48c)]('hr');_0x28afcd[_0x4e628b(0x101)]=_0x4e628b(0x351),_0x214b4f['appendChild'](_0x101f2f),_0x214b4f[_0x4e628b(0x357)](_0x4a954a),_0x214b4f['appendChild'](_0x28afcd),_0x439855['appendChild'](_0x214b4f);}_0x439855[_0x4e628b(0x357)](document['createElement']('br'));}async function create_user_permission_screen(_0x4f1469){var _0x7889dd=_0x390981,_0x5e8168=document['getElementById'](_0x4f1469)['value'];if(!validate_input(_0x5e8168))return![];var _0x40454c=await read_other_user_permsission(_0x5e8168);is_null(_0x40454c)&&(_0x40454c={});var _0x408f6d=document[_0x7889dd(0x610)](_0x7889dd(0x1fb));_0x408f6d[_0x7889dd(0x427)]=_0x5e8168,_0x408f6d[_0x7889dd(0x602)]=_0x7889dd(0x498)+_0x408f6d[_0x7889dd(0x427)];var _0x20bf1a=document['getElementById'](_0x7889dd(0x58e)),_0x4af127=document[_0x7889dd(0x610)]('create_user_permission_alert'),_0x10596d=document['getElementById'](_0x7889dd(0x1ab)),_0x3e98c0=document[_0x7889dd(0x610)](_0x7889dd(0x434));render_permission_inputs(_0x20bf1a,_0x4af127,_0x10596d,_0x3e98c0,_0x40454c),document['getElementById'](_0x7889dd(0x417))['style'][_0x7889dd(0x138)]='block',document['getElementById']('navigation_user_permission_1')[_0x7889dd(0x214)][_0x7889dd(0x138)]=_0x7889dd(0x608),save_user_btn['onclick']=async function(){var _0x15d467=_0x7889dd;await create_user_permission_object(_0x20bf1a,_0x4af127,_0x10596d,_0x3e98c0,_0x15d467(0x1fb),_0x40454c);},delete_user_btn[_0x7889dd(0x49a)]=async function(){var _0x202810=_0x7889dd;await display_confirmation(_0x202810(0x4a0),delete_user,_0x202810(0x1fb));};}async function initialize_configure_notifications_section(){var _0x51f46b=_0x390981,_0xd37d2b=await read_notification_subscribers_list();const _0x40f9e6=_0xd37d2b[_0x51f46b(0x41a)]||[],_0x65965=_0xd37d2b[_0x51f46b(0x2cd)]||[];document[_0x51f46b(0x610)](_0x51f46b(0x2af))[_0x51f46b(0x1fc)]=_0x40f9e6[0x0]||'',document[_0x51f46b(0x610)]('low_credit_notification_email_2')['value']=_0x40f9e6[0x1]||'',document[_0x51f46b(0x610)](_0x51f46b(0x3c3))[_0x51f46b(0x1fc)]=_0x40f9e6[0x2]||'',document[_0x51f46b(0x610)](_0x51f46b(0x200))[_0x51f46b(0x1fc)]=_0x65965[0x0]||'',document['getElementById'](_0x51f46b(0x579))['value']=_0x65965[0x1]||'',document[_0x51f46b(0x610)]('machine_maintenance_notification_email_3')[_0x51f46b(0x1fc)]=_0x65965[0x2]||'',save_configure_notifications_btn[_0x51f46b(0x49a)]=async function(){var _0x8a3cc3=_0x51f46b;const _0x4c8d8d=[document['getElementById']('low_credit_notification_email_1')[_0x8a3cc3(0x1fc)],document[_0x8a3cc3(0x610)](_0x8a3cc3(0x4ef))[_0x8a3cc3(0x1fc)],document[_0x8a3cc3(0x610)](_0x8a3cc3(0x3c3))[_0x8a3cc3(0x1fc)]],_0x3fc1ca=[document['getElementById'](_0x8a3cc3(0x200))[_0x8a3cc3(0x1fc)],document['getElementById'](_0x8a3cc3(0x579))[_0x8a3cc3(0x1fc)],document[_0x8a3cc3(0x610)](_0x8a3cc3(0x5c0))[_0x8a3cc3(0x1fc)]];return await await_loading(write_notification_list,_0x4c8d8d,_0x3fc1ca),!![];};}async function initialize_view_credits_section(){var _0x48fc17=_0x390981;await reset_sections(),gl_credits_obj=await read_credit_balance();let _0x26e03d=document[_0x48fc17(0x610)]('credit_balance'),_0x58fa1c=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x58fa1c[_0x48fc17(0x101)]='card\x20mt-4';let _0x302b7a=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x302b7a[_0x48fc17(0x101)]=_0x48fc17(0x1e9);let _0x332648=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x332648[_0x48fc17(0x101)]=_0x48fc17(0x5e0);let _0x43e5e2=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x43e5e2[_0x48fc17(0x101)]=_0x48fc17(0x248),_0x43e5e2[_0x48fc17(0x133)]=_0x48fc17(0x3db),_0x302b7a['appendChild'](_0x43e5e2);let _0x444306=document['createElement'](_0x48fc17(0x20f));_0x444306[_0x48fc17(0x101)]=_0x48fc17(0x1d3),_0x444306['innerHTML']=_0x48fc17(0x23e);let _0x3feffb=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x3feffb[_0x48fc17(0x101)]=_0x48fc17(0x4ea),_0x3feffb[_0x48fc17(0x133)]=_0x48fc17(0x3b0)+gl_credits_obj[_0x48fc17(0x4b7)]+_0x48fc17(0x3ea);let _0x309f6b=document[_0x48fc17(0x48c)]('hr'),_0xc4535e=document['createElement'](_0x48fc17(0x20f));_0xc4535e['className']=_0x48fc17(0x18b),_0xc4535e[_0x48fc17(0x133)]=_0x48fc17(0x589);let _0x5aa080=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x5aa080[_0x48fc17(0x101)]=_0x48fc17(0x4ea),_0x5aa080['innerHTML']=_0x48fc17(0x3b0)+Math[_0x48fc17(0x1e8)](gl_credits_obj[_0x48fc17(0x299)])+_0x48fc17(0x141);let _0x11d9df=document[_0x48fc17(0x48c)]('hr');const _0x1f18d1=decode_date(gl_credits_obj['validity'],0x1);let _0x5aacee=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x5aacee[_0x48fc17(0x101)]=_0x48fc17(0x18b),_0x5aacee[_0x48fc17(0x133)]=_0x48fc17(0x139);let _0x584c48=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x584c48[_0x48fc17(0x101)]=_0x48fc17(0xe1);if(_0x1f18d1<new Date())_0x584c48[_0x48fc17(0x101)]+='\x20text-danger';else _0x584c48[_0x48fc17(0x101)]+=_0x48fc17(0x308);_0x584c48['innerHTML']=_0x48fc17(0x3b0)+decode_date(gl_credits_obj[_0x48fc17(0x4b8)],0x1)[_0x48fc17(0x315)]()+_0x48fc17(0x3ea);let _0x1f3501=document[_0x48fc17(0x48c)]('hr'),_0x837f88=document[_0x48fc17(0x48c)](_0x48fc17(0x20f));_0x837f88[_0x48fc17(0x101)]=_0x48fc17(0x244),_0x837f88[_0x48fc17(0x602)]=_0x48fc17(0x3b7);let _0x323152=document['createElement'](_0x48fc17(0x20f));return _0x323152[_0x48fc17(0x101)]=_0x48fc17(0x244),_0x323152[_0x48fc17(0x602)]='Download\x20Usage\x20Statement',_0x332648[_0x48fc17(0x357)](_0x444306),_0x332648[_0x48fc17(0x357)](_0x3feffb),_0x332648[_0x48fc17(0x357)](_0x309f6b),_0x332648[_0x48fc17(0x357)](_0xc4535e),_0x332648[_0x48fc17(0x357)](_0x5aa080),_0x332648[_0x48fc17(0x357)](_0x11d9df),_0x332648[_0x48fc17(0x357)](_0x5aacee),_0x332648[_0x48fc17(0x357)](_0x584c48),_0x332648[_0x48fc17(0x357)](_0x1f3501),_0x332648['appendChild'](_0x837f88),_0x332648[_0x48fc17(0x357)](_0x323152),_0x58fa1c[_0x48fc17(0x357)](_0x302b7a),_0x58fa1c[_0x48fc17(0x357)](_0x332648),_0x26e03d[_0x48fc17(0x357)](_0x58fa1c),_0x323152['onclick']=async function(){var _0xb92f54=_0x48fc17;_0xb92f54(0x213)!==_0xb92f54(0x213)?_0xb253be[_0xb92f54(0x5a8)](_0x15564f[_0x461697]['reason']):await await_loading(generate_credit_usage_report_pdf,gl_credits_obj);},!![];}function compare_dates_credit_log_entries(_0x92792d,_0x37db5b){return new Date(_0x92792d['dt'])-new Date(_0x37db5b['dt']);}function render_credit_usage_pdf_report(_0x2df5b2,_0x2ff186,_0x3609a2,_0x54920f,_0x17b50d){var _0x5c7610=_0x390981;const _0x188c5f=0xd2,_0x466702=0x129,_0x4e5cef=0xa;var _0x3dd3aa=_0x4e5cef;const _0x4d3cd4=0x6,_0x1e5159=new jspdf[(_0x5c7610(0x525))]({'orientation':_0x5c7610(0x322),'unit':'mm','format':[_0x188c5f,_0x466702]});_0x1e5159[_0x5c7610(0x147)](0x64),_0x1e5159[_0x5c7610(0x48f)](0xe),_0x1e5159[_0x5c7610(0x483)]('Qik\x20Process',_0x188c5f/0x2,_0x3dd3aa+=_0x4d3cd4,{'align':'center'}),_0x1e5159[_0x5c7610(0x147)](_0x5c7610(0x37b)),_0x1e5159[_0x5c7610(0x48f)](0xe),_0x1e5159['text'](_0x5c7610(0x459),_0x188c5f/0x2,_0x3dd3aa+=_0x4d3cd4,{'align':'center'});const _0x437a61=gl_curr_user_details[_0x5c7610(0x507)];_0x1e5159['setTextColor'](0x64),_0x1e5159[_0x5c7610(0x48f)](0xa),_0x1e5159[_0x5c7610(0x483)](_0x5c7610(0x1e6)+_0x437a61,_0x188c5f/0x2,_0x3dd3aa+=_0x4d3cd4,{'align':_0x5c7610(0x531)}),_0x1e5159[_0x5c7610(0x48f)](0xa),_0x1e5159[_0x5c7610(0x483)](_0x5c7610(0x49e)+_0x17b50d,_0x188c5f/0x2,_0x3dd3aa+=_0x4d3cd4,{'align':_0x5c7610(0x531)}),_0x1e5159[_0x5c7610(0x2f9)]({'head':_0x2df5b2,'body':_0x2ff186,'theme':'grid','styles':{'fontSize':0xa,'valign':_0x5c7610(0x188),'lineColor':_0x5c7610(0x300)},'headStyles':{'fillColor':'#2F8ECE','textColor':_0x5c7610(0x383),'lineColor':'#000000','lineWidth':0.1},'startY':0x26}),_0x1e5159[_0x5c7610(0x1cb)]({'orientation':_0x5c7610(0x322),'format':[_0x188c5f,_0x466702]}),_0x1e5159[_0x5c7610(0x483)](_0x5c7610(0x29f),_0x188c5f/0x2,_0x3dd3aa=_0x4e5cef*0x2,{'align':_0x5c7610(0x531)}),_0x1e5159[_0x5c7610(0x2f9)]({'head':_0x3609a2,'body':_0x54920f,'theme':_0x5c7610(0x157),'styles':{'fontSize':0xa,'valign':'middle','lineColor':_0x5c7610(0x300)},'headStyles':{'fillColor':_0x5c7610(0x5a1),'textColor':_0x5c7610(0x383),'lineColor':_0x5c7610(0x300),'lineWidth':0.1},'startY':0x19});for(var _0x34960d=0x1;_0x34960d<=_0x1e5159['internal'][_0x5c7610(0x175)]();_0x34960d++){_0x1e5159['setTextColor'](0x64),_0x1e5159[_0x5c7610(0x48f)](0xa),_0x1e5159[_0x5c7610(0x38f)](_0x34960d),_0x1e5159[_0x5c7610(0x483)]('Page\x20'+_0x34960d+_0x5c7610(0x45a)+_0x1e5159[_0x5c7610(0x59b)][_0x5c7610(0x175)](),_0x188c5f-0xa,0x7,{'align':'right'}),_0x1e5159[_0x5c7610(0x483)](_0x5c7610(0x554),_0x188c5f-0xa,_0x466702-0x5,{'align':_0x5c7610(0x3e7)});}_0x1e5159[_0x5c7610(0x364)]('Credit\x20Usage\x20Report.pdf');}async function generate_credit_usage_report_pdf(_0x287673){var _0x5162e0=_0x390981;if(is_null(_0x287673))return![];const _0x4e830e=_0x287673[_0x5162e0(0x25f)],_0x390e38=_0x287673[_0x5162e0(0x620)];var _0x211ecf=[];for(var _0x4852c8=_0x4e830e;_0x4852c8<=_0x390e38;_0x4852c8++){if(_0x5162e0(0x309)===_0x5162e0(0x309)){const _0x3ac1f2=db[_0x5162e0(0x33b)](_0x5162e0(0x1c8))[_0x5162e0(0x4f5)](gl_curr_user_details[_0x5162e0(0x5a9)])[_0x5162e0(0x33b)](_0x5162e0(0x1b4))[_0x5162e0(0x4f5)](_0x4852c8['toString']());_0x211ecf['push'](_0x3ac1f2['get']());}else{if(!_0x355f07(_0x282ea9[_0x1664c3])&&_0x5bc42e[_0x5e5b5c]!='')return _0x7c87d3(_0x5162e0(0x43f)),![];if(_0x398340(_0x12939e[_0x10ac9f]))_0x3ee999[_0x5162e0(0x5a8)](_0x13fa5e[_0x5a5735]);}}_0x211ecf=await Promise['all'](_0x211ecf);var _0x122049=new Date();_0x122049['setHours'](0x0),_0x122049['setMinutes'](0x0),_0x122049[_0x5162e0(0x57d)](0x0),_0x122049[_0x5162e0(0x172)](0x1),_0x122049['setMonth'](_0x122049[_0x5162e0(0x1a4)]()-gl_max_credit_usage_log_months);var _0x53b4af=[];for(var _0x4852c8=0x0;_0x4852c8<_0x211ecf[_0x5162e0(0x2bb)];_0x4852c8++){const _0x14109e=_0x211ecf[_0x4852c8][_0x5162e0(0x3f9)]()[_0x5162e0(0x5f1)];for(var _0x4e736c=0x0;_0x4e736c<_0x14109e[_0x5162e0(0x2bb)];_0x4e736c++){if('MpxEl'===_0x5162e0(0x13b))_0x575f50(_0x5b97cc);else{if(_0x14109e[_0x4e736c]['dt'][_0x5162e0(0x14f)]()>=_0x122049){if(_0x5162e0(0x591)===_0x5162e0(0x591))_0x14109e[_0x4e736c]['dt']=_0x14109e[_0x4e736c]['dt']['toDate'](),_0x53b4af[_0x5162e0(0x5a8)](_0x14109e[_0x4e736c]);else{let _0x4d4b8c=_0xb48589[_0x5162e0(0x48c)]('td');if(_0x472eea[_0x2173f0][_0x4f1c6f[_0xb9b17a]])_0x4d4b8c['innerText']=_0x4839ff[_0x103d48[_0x37126a][_0x145b27[_0x166679]][_0x5162e0(0x2f2)]]||'-';else _0x4d4b8c[_0x5162e0(0x602)]='n/a';_0x22ca7f[_0x5162e0(0x357)](_0x4d4b8c);let _0x4a86d7=_0x13f886[_0x5162e0(0x48c)]('td');if(_0x14b94c[_0x2c2901][_0x832b73[_0x5ea403]])_0x4a86d7['innerText']=_0x96f42d[_0x41238a][_0x4a16dc[_0x330b4e]][_0x5162e0(0x15a)][_0x5162e0(0x2ab)]()||'-';else _0x4a86d7[_0x5162e0(0x602)]='n/a';_0x148410['appendChild'](_0x4a86d7);var _0x433c05=_0x64432a[_0x28d3c8[_0x2dbfbf]];for(var _0x2ee036=0x0;_0x2ee036<_0x433c05[_0x5162e0(0x2bb)];_0x2ee036++){let _0x3de8a8=_0x5fba28['createElement']('td');if(_0x524e19[_0x191168][_0x1238bf[_0x16e2ac]]){if(_0x19cccb[_0xaeecf4][_0x22d1cf[_0x3087a6]][_0x5162e0(0x420)][_0x433c05[_0x2ee036]]==_0x1dfb83||_0x97c65c[_0x36fc0e][_0x55e748[_0x1d63e7]]['actual_value'][_0x433c05[_0x2ee036]][0x0]=='')_0x3de8a8[_0x5162e0(0x602)]='-';else _0x3de8a8['innerText']=_0x77f680[_0x367761][_0x2b57c8[_0x71956e]][_0x5162e0(0x420)][_0x433c05[_0x2ee036]][0x0]||'-';}else _0x3de8a8[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x4bc580[_0x5162e0(0x357)](_0x3de8a8);}let _0x33fe88=_0x472665[_0x5162e0(0x48c)]('td');if(_0x118727[_0x4230d0][_0x33faee[_0x21c7fe]])_0x33fe88[_0x5162e0(0x602)]=_0x4b5b31(_0x6ad5d7[_0x122d59][_0xe6e03a[_0x31ad15]][_0x5162e0(0x5f1)]['entry_dt'])||'-';else _0x33fe88[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x271d76[_0x5162e0(0x357)](_0x33fe88);let _0x4836c6=_0x596d82[_0x5162e0(0x48c)]('td');_0x4836c6[_0x5162e0(0x101)]=_0x5162e0(0x5ea);if(_0x5b3e12[_0x17c582][_0x19048d[_0x31d2c1]])_0x4836c6[_0x5162e0(0x602)]=_0x4e8ee6[_0x2d6cfe][_0x471ff6[_0x570a30]][_0x5162e0(0x5f1)][_0x5162e0(0x3a3)]||'-';else _0x4836c6[_0x5162e0(0x602)]='n/a';_0x208673[_0x5162e0(0x357)](_0x4836c6);let _0x154591=_0x46053e['createElement']('td');if(_0x3c62ba[_0x18cb3c][_0x1692bb[_0x4a35da]])_0x154591['innerText']=_0x23bb88(_0xd68a17[_0x3ed131][_0x49d337[_0x1a8df]][_0x5162e0(0x5f1)][_0x5162e0(0x502)])||'-';else _0x154591[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x32ecea['appendChild'](_0x154591);let _0x345711=_0x2900a6[_0x5162e0(0x48c)]('td');if(_0x47ef26[_0xa2dfed][_0xbcf3df[_0x382737]])_0x345711['innerText']=_0x331c4e[_0x325366][_0x3eff1d[_0x18a827]][_0x5162e0(0x5f1)]['update_by']||'-';else _0x345711['innerText']='n/a';_0x43b3b4['appendChild'](_0x345711);let _0x2fc0f3=_0x473f93[_0x5162e0(0x48c)]('td');if(_0x3b66fa[_0x39c84f][_0x2319ce[_0x4ced03]])_0x2fc0f3[_0x5162e0(0x602)]=_0x19b5a8(_0x28097f[_0x2f0a32][_0xa1c75c[_0x199f82]][_0x5162e0(0x5f1)][_0x5162e0(0x24d)])||'-';else _0x2fc0f3[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x374c92['appendChild'](_0x2fc0f3);let _0x12eb85=_0x431815[_0x5162e0(0x48c)]('td');if(_0x306d37[_0xf799e6][_0x4e122a[_0x4e0692]])_0x12eb85['innerText']=_0x429c1d[_0x552332][_0x5aed96[_0x496f22]][_0x5162e0(0x5f1)]['deviation_by']||'-';else _0x12eb85[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x582aba[_0x5162e0(0x357)](_0x12eb85);let _0x1b549e=_0x2727af[_0x5162e0(0x48c)]('td');if(_0x2b8b1f[_0x2242e7][_0x5e1076[_0x40ef70]])_0x1b549e[_0x5162e0(0x602)]=_0x566ed1[_0x1e94f3][_0x40841a[_0x428af8]]['log'][_0x5162e0(0x279)]||'-';else _0x1b549e[_0x5162e0(0x602)]=_0x5162e0(0x27f);_0x111930['appendChild'](_0x1b549e);}}}}}_0x53b4af=_0x53b4af[_0x5162e0(0x57a)](compare_dates_credit_log_entries);var _0x25d18c=Number(_0x287673[_0x5162e0(0x4b7)]);for(var _0x4852c8=0x0;_0x4852c8<_0x53b4af['length'];_0x4852c8++){_0x25d18c-=_0x53b4af[_0x4852c8][_0x5162e0(0x511)];}const _0x41c86c=Number(_0x287673['val']);var _0x1cec98={};for(var _0x4852c8=0x0;_0x4852c8<_0x53b4af[_0x5162e0(0x2bb)];_0x4852c8++){if(_0x5162e0(0x1ce)==='JWnsC')_0xa36c20[_0x5162e0(0x5a8)](_0x367336(_0x4c703e[_0x21ab6c][_0x5162e0(0x617)],0x2)),_0xae9824['push'](_0x4e75e2[_0x52260a][_0x5162e0(0x15a)]),_0x2c5458[_0x5162e0(0x5a8)](_0x5186ce[_0x296290][_0x5162e0(0x29a)]);else{const _0x18f0c0=_0x53b4af[_0x4852c8]['dt'],_0x12b3c9=new Date(_0x18f0c0);_0x12b3c9['setHours'](0x0,0x0,0x0,0x1),_0x12b3c9[_0x5162e0(0x172)](0x1);if(is_null(_0x1cec98[_0x12b3c9]))_0x1cec98[_0x12b3c9]={'credits_purchased':0x0,'credits_used':0x0};if(_0x53b4af[_0x4852c8][_0x5162e0(0x511)]<=0x0)_0x1cec98[_0x12b3c9][_0x5162e0(0x4ac)]+=_0x53b4af[_0x4852c8][_0x5162e0(0x511)];else _0x1cec98[_0x12b3c9][_0x5162e0(0x584)]+=_0x53b4af[_0x4852c8][_0x5162e0(0x511)];}}const _0x210ac4=[[_0x5162e0(0x5ab),_0x5162e0(0x382),_0x5162e0(0x1fe),_0x5162e0(0x1cf)]];var _0x58fcf5=[];_0x58fcf5[_0x5162e0(0x5a8)]([_0x5162e0(0xfa),'\x20','\x20',_0x25d18c]);const _0x446359=Object[_0x5162e0(0xe4)](_0x1cec98);_0x446359[_0x5162e0(0x57a)](compare_dates_credit_log_entries);var _0x14cd14=_0x25d18c;for(var _0x4852c8=0x0;_0x4852c8<_0x446359[_0x5162e0(0x2bb)];_0x4852c8++){if(_0x5162e0(0x1f3)!=='mdpnw'){var _0x36f837=monthNames[new Date(_0x446359[_0x4852c8])[_0x5162e0(0x1a4)]()]+_0x5162e0(0x368)+new Date(_0x446359[_0x4852c8])[_0x5162e0(0x59c)]();const _0xff2c86=_0x1cec98[_0x446359[_0x4852c8]]['credits_purchased'],_0x9ff0ff=_0x1cec98[_0x446359[_0x4852c8]][_0x5162e0(0x4ac)];_0x14cd14+=_0xff2c86+_0x9ff0ff,_0x58fcf5[_0x5162e0(0x5a8)]([_0x36f837,_0xff2c86,Math[_0x5162e0(0x5f5)](_0x9ff0ff),_0x14cd14]);}else{const _0x6682f9=0xd2,_0x5524f3=0x129,_0x18b34f=0xa;var _0x7197c3=_0x18b34f;const _0xa1866e=0x6,_0xcace36=new _0x59ec29[(_0x5162e0(0x525))]({'orientation':'portrait','unit':'mm','format':[_0x6682f9,_0x5524f3]});_0xcace36[_0x5162e0(0x147)](0x64),_0xcace36['setFontSize'](0xe),_0xcace36['text'](_0x5162e0(0x50c),_0x6682f9/0x2,_0x7197c3+=_0xa1866e,{'align':_0x5162e0(0x531)}),_0xcace36[_0x5162e0(0x147)](_0x5162e0(0x37b)),_0xcace36[_0x5162e0(0x48f)](0xe),_0xcace36[_0x5162e0(0x483)]('Credit\x20Usage\x20Statement',_0x6682f9/0x2,_0x7197c3+=_0xa1866e,{'align':_0x5162e0(0x531)});const _0x6d3b2a=_0x41c266[_0x5162e0(0x507)];_0xcace36[_0x5162e0(0x147)](0x64),_0xcace36['setFontSize'](0xa),_0xcace36[_0x5162e0(0x483)](_0x5162e0(0x1e6)+_0x6d3b2a,_0x6682f9/0x2,_0x7197c3+=_0xa1866e,{'align':_0x5162e0(0x531)}),_0xcace36[_0x5162e0(0x48f)](0xa),_0xcace36[_0x5162e0(0x483)](_0x5162e0(0x49e)+_0x52957c,_0x6682f9/0x2,_0x7197c3+=_0xa1866e,{'align':'center'}),_0xcace36['autoTable']({'head':_0x6e7b0c,'body':_0x4584cb,'theme':_0x5162e0(0x157),'styles':{'fontSize':0xa,'valign':_0x5162e0(0x188),'lineColor':'#000000'},'headStyles':{'fillColor':_0x5162e0(0x5a1),'textColor':_0x5162e0(0x383),'lineColor':_0x5162e0(0x300),'lineWidth':0.1},'startY':0x26}),_0xcace36[_0x5162e0(0x1cb)]({'orientation':'portrait','format':[_0x6682f9,_0x5524f3]}),_0xcace36['text'](_0x5162e0(0x29f),_0x6682f9/0x2,_0x7197c3=_0x18b34f*0x2,{'align':_0x5162e0(0x531)}),_0xcace36[_0x5162e0(0x2f9)]({'head':_0x58b10f,'body':_0x40a2ae,'theme':'grid','styles':{'fontSize':0xa,'valign':_0x5162e0(0x188),'lineColor':_0x5162e0(0x300)},'headStyles':{'fillColor':_0x5162e0(0x5a1),'textColor':_0x5162e0(0x383),'lineColor':_0x5162e0(0x300),'lineWidth':0.1},'startY':0x19});for(var _0x240a74=0x1;_0x240a74<=_0xcace36[_0x5162e0(0x59b)][_0x5162e0(0x175)]();_0x240a74++){_0xcace36[_0x5162e0(0x147)](0x64),_0xcace36['setFontSize'](0xa),_0xcace36[_0x5162e0(0x38f)](_0x240a74),_0xcace36[_0x5162e0(0x483)](_0x5162e0(0x5b5)+_0x240a74+'\x20of\x20'+_0xcace36[_0x5162e0(0x59b)][_0x5162e0(0x175)](),_0x6682f9-0xa,0x7,{'align':'right'}),_0xcace36[_0x5162e0(0x483)](_0x5162e0(0x554),_0x6682f9-0xa,_0x5524f3-0x5,{'align':_0x5162e0(0x3e7)});}_0xcace36[_0x5162e0(0x364)]('Credit\x20Usage\x20Report.pdf');}}_0x58fcf5[_0x5162e0(0x5a8)]([_0x5162e0(0xf4),'\x20','\x20',_0x41c86c]);const _0x3bd7a5=[[_0x5162e0(0x50f),'Date',_0x5162e0(0x4b4),_0x5162e0(0x5fa),_0x5162e0(0x1cf)]];var _0xa9c145=[],_0x38618c=_0x25d18c;for(var _0x4852c8=0x0;_0x4852c8<_0x53b4af[_0x5162e0(0x2bb)];_0x4852c8++){_0x38618c+=_0x53b4af[_0x4852c8][_0x5162e0(0x511)];const _0x5cb9af=await decode_date(_0x53b4af[_0x4852c8]['dt']),_0xb094eb=_0x53b4af[_0x4852c8][_0x5162e0(0x279)];var _0x9af499=_0x53b4af[_0x4852c8][_0x5162e0(0x511)];if(_0x9af499>0x0)_0x9af499='+'+_0x9af499[_0x5162e0(0x2ab)]();const _0x4150aa=_0x38618c;_0xa9c145['push']([_0x4852c8+0x1,_0x5cb9af,_0xb094eb,_0x9af499,_0x4150aa]);}var _0x47dd25='('+monthNames[_0x122049['getMonth']()]+','+_0x122049[_0x5162e0(0x59c)]()+_0x5162e0(0x368)+monthNames[new Date()[_0x5162e0(0x1a4)]()]+','+new Date()[_0x5162e0(0x59c)]()+')';render_credit_usage_pdf_report(_0x210ac4,_0x58fcf5,_0x3bd7a5,_0xa9c145,_0x47dd25);}function validate_qc_process_object(_0x97f2ad,_0x46201e){var _0x42bc5c=_0x390981;if(_0x46201e==''||_0x46201e==undefined)return display_error(_0x42bc5c(0x5f6)),![];var _0x368fb2=Object[_0x42bc5c(0xe4)](_0x97f2ad),_0x3ab41d=Object[_0x42bc5c(0xe4)](gl_current_operations_list);if(_0x368fb2[_0x42bc5c(0x2bb)]<0x1){if('gKeEU'!==_0x42bc5c(0x1a5))return display_error('Please\x20add\x20some\x20process\x20steps\x20before\x20saving.'),![];else{if(_0xbbb000==_0xffadb0['length']-0x1){_0x1c50f0[_0x42bc5c(0x5a8)](_0x46450b);return;}else{_0x45e211=_0x2396f5;return;}}}for(var _0x279cea=0x0;_0x279cea<_0x368fb2['length'];_0x279cea++){if(_0x368fb2[_0x279cea]==''||_0x368fb2[_0x279cea]==undefined){if(_0x42bc5c(0x23c)==='LFgnR'){if(_0x45c2c9[_0x423cb4][_0x104764[_0x5a67a5]])_0x46de4a[_0x29f3a3[_0x21d972]]=_0x54bacb[_0x30c62b[_0x45ea4d]][_0x42bc5c(0x472)](_0x21ad6a[_0x42bc5c(0xe4)](_0x2ad54a[_0x5f41d8][_0xdb1aca[_0x58aa4f]]['actual_value'])||[]);_0x155076[_0x14d3fe[_0x2333e3]]=_0x28f9e6[_0x42bc5c(0x39f)](new _0x39ae32(_0x51d729[_0x2f50fc[_0x72c902]]));}else return display_error(_0x42bc5c(0x215)+(_0x279cea+0x1)[_0x42bc5c(0x2ab)]()+']'),![];}else{if(!_0x3ab41d[_0x42bc5c(0x4e0)](_0x368fb2[_0x279cea])){if('KCpZE'==='KCpZE')return display_error('Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.'),![];else _0x3b952d[_0x2bd2f4[_0x32a50a]][_0x42bc5c(0x5f1)][_0x42bc5c(0x502)]=_0x55bd7e[_0x5b26b4[_0x131115]]['log'][_0x42bc5c(0x502)][_0x42bc5c(0x14f)]();}}}for(var _0x279cea=0x0;_0x279cea<_0x368fb2[_0x42bc5c(0x2bb)];_0x279cea++){var _0x2e36a1=[];if(_0x97f2ad[_0x368fb2[_0x279cea]][_0x42bc5c(0x5f2)][_0x42bc5c(0x2bb)]<0x1)return display_error(_0x42bc5c(0x24f)+_0x368fb2[_0x279cea]+']'),![];else{if(_0x42bc5c(0x493)===_0x42bc5c(0x34b))_0x2f1040[_0x47e3a2[_0x507467]][_0x42bc5c(0x5f1)][_0x42bc5c(0x24d)]=_0x30f0e9[_0x1987b4[_0x10515d]][_0x42bc5c(0x5f1)][_0x42bc5c(0x24d)]['toDate']();else{var _0x1ef7a3=_0x97f2ad[_0x368fb2[_0x279cea]][_0x42bc5c(0x5f2)];for(var _0x10f2f5=0x0;_0x10f2f5<_0x1ef7a3['length'];_0x10f2f5++){if(_0x42bc5c(0x1b2)==='zcLdl'){var _0x598abc=_0x51a8bb['constructor'][_0x42bc5c(0x349)][_0x42bc5c(0x406)](_0x47e470),_0x392369=_0x91f618[_0x4f88a4],_0x11b906=_0x49cfa4[_0x392369]||_0x598abc;_0x598abc['__proto__']=_0x336a5e['bind'](_0x36a240),_0x598abc[_0x42bc5c(0x2ab)]=_0x11b906[_0x42bc5c(0x2ab)]['bind'](_0x11b906),_0xf5115a[_0x392369]=_0x598abc;}else{if(!parameter_criticality_level[_0x42bc5c(0x4e0)](_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x4d3)])||!data_types[_0x42bc5c(0x4e0)](_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x4e7)])){if(_0x42bc5c(0x1d8)===_0x42bc5c(0x303))_0x12fca4-=_0x152058[_0x1e6abf]['credit_amt'];else return display_error('Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.'),![];}if(!is_null(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x435)])&&!_0x1ef7a3[_0x10f2f5]['link'][_0x42bc5c(0x4e0)]('https://'))return _0x42bc5c(0x519)!==_0x42bc5c(0x519)?(_0x36c587(_0x477fa5[_0x42bc5c(0x286)]),![]):(display_error('Please\x20add\x20https://\x20before\x20all\x20Parameter\x20Reference\x20Link\x20urls.\x20['+_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]+_0x42bc5c(0x368)+_0x368fb2[_0x279cea]+']'),![]);if(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]==''||_0x1ef7a3[_0x10f2f5]['name']==undefined)return display_error(_0x42bc5c(0x26d)+_0x368fb2[_0x279cea]+']'),![];else _0x2e36a1[_0x42bc5c(0x5a8)](_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]);if(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x4e7)]==data_types[0x0]&&(isNaN(_0x1ef7a3[_0x10f2f5]['value1'])||isNaN(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x32a)])))return display_error(_0x42bc5c(0x26a)+_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]+_0x42bc5c(0x368)+_0x368fb2[_0x279cea]+']'),![];if(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x4e7)]==data_types[0x1]&&(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x285)]==''||_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x285)]==undefined)){if(_0x42bc5c(0x408)!=='ehhCj'){var _0x6184b1=_0x346c89[_0x42bc5c(0x48c)](_0x42bc5c(0x19d));_0x6184b1['id']=_0x2d8ab0[_0x58a84f],_0x6184b1[_0x42bc5c(0xdc)]=_0x42bc5c(0x260),_0x6184b1[_0x42bc5c(0x214)][_0x42bc5c(0x138)]='none',_0x27d74c['appendChild'](_0x6184b1);}else return display_error(_0x42bc5c(0x25d)+_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]+_0x42bc5c(0x368)+_0x368fb2[_0x279cea]+']'),![];}if(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x4e7)]==data_types[0x2]&&!gl_model_list[_0x42bc5c(0x4e0)](_0x1ef7a3[_0x10f2f5]['value1']))return display_error('Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.'),![];if(_0x1ef7a3[_0x10f2f5][_0x42bc5c(0x285)]==_0x97f2ad['model'])return display_error(_0x42bc5c(0x44f)+_0x1ef7a3[_0x10f2f5][_0x42bc5c(0xdc)]+_0x42bc5c(0x368)+_0x368fb2[_0x279cea]+']'),![];}}}}var _0x3530e5=new Set(_0x2e36a1);if(_0x3530e5['size']!=_0x2e36a1[_0x42bc5c(0x2bb)])return display_error(_0x42bc5c(0x41f)+_0x368fb2[_0x279cea]+']'),![];}return!![];}function validate_maintenance_process_object(_0x259316){var _0x428d67=_0x390981;const _0x372a64=_0x259316[_0x428d67(0x15a)];if(_0x372a64==''||_0x372a64==undefined){if(_0x428d67(0x379)===_0x428d67(0x379))return display_error('Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.'),![];else{var _0x2231b7=_0xd15def[_0x39ca24]+_0x428d67(0x3be),_0x3f4b0f=_0x413cd6['childNodes'][_0x2f6fd4][_0x428d67(0x2df)][0x1]['value'];_0x3f4b0f=_0x26c797[_0x428d67(0x2aa)](_0x3f4b0f),_0x15c292[_0x2231b7]=_0x3f4b0f;}}if(isNaN(_0x259316[_0x428d67(0x267)])||_0x259316[_0x428d67(0x267)]<0x1||is_null(_0x259316[_0x428d67(0x267)]))return display_error(_0x428d67(0x46a)),![];var _0x21931f=[],_0x300298=_0x259316[_0x428d67(0x5f2)];for(var _0x29092d=0x0;_0x29092d<_0x300298[_0x428d67(0x2bb)];_0x29092d++){if(!data_types[_0x428d67(0x4e0)](_0x300298[_0x29092d]['type']))return display_error('Data\x20Corrupted.\x20Please\x20refresh\x20and\x20try\x20again.'),![];if(!is_null(_0x300298[_0x29092d][_0x428d67(0x435)])&&!_0x300298[_0x29092d][_0x428d67(0x435)][_0x428d67(0x4e0)]('https://'))return display_error(_0x428d67(0x550)),![];if(_0x300298[_0x29092d]['name']==''||_0x300298[_0x29092d][_0x428d67(0xdc)]==undefined)return _0x428d67(0x48e)===_0x428d67(0x18c)?(_0x25a1ff('Password\x20should\x20be\x20minimum\x2010\x20characters'),![]):(display_error('Parameter\x20Name\x20cannot\x20be\x20blank.'),![]);else _0x21931f[_0x428d67(0x5a8)](_0x300298[_0x29092d][_0x428d67(0xdc)]);if(_0x300298[_0x29092d][_0x428d67(0x4e7)]==data_types[0x0]&&(isNaN(_0x300298[_0x29092d][_0x428d67(0x285)])||isNaN(_0x300298[_0x29092d][_0x428d67(0x32a)]))){if(_0x428d67(0x256)===_0x428d67(0x256))return display_error(_0x428d67(0x2a7)),![];else _0x271d46(_0x428d67(0x576));}if(_0x300298[_0x29092d][_0x428d67(0x4e7)]==data_types[0x1]&&(_0x300298[_0x29092d]['value1']==''||_0x300298[_0x29092d][_0x428d67(0x285)]==undefined)){if(_0x428d67(0x2d0)!==_0x428d67(0x2ad))return display_error(_0x428d67(0x1da)),![];else _0x242424[_0x5d5fbc[_0x1fb25b]]=new _0x2b2811(_0x3a3b20['length'])['fill'](0x0);}}var _0x1114f5=new Set(_0x21931f);if(_0x1114f5[_0x428d67(0x60a)]!=_0x21931f['length'])return display_error(_0x428d67(0x5c6)),![];return!![];}function validate_user_permission_obj(_0x1d42e0){var _0x4ae38b=_0x390981,_0x3b439f=Object['keys'](section_permission_list),_0x19ae9b=[];for(var _0x321824=0x0;_0x321824<_0x3b439f[_0x4ae38b(0x2bb)];_0x321824++){if(_0x4ae38b(0x59f)===_0x4ae38b(0x22f))return![];else _0x19ae9b[_0x4ae38b(0x5a8)](section_permission_list[_0x3b439f[_0x321824]]);}var _0x197a77=[_0x4ae38b(0x46b)],_0x360a4d=Object['keys'](gl_current_operations_list),_0x36fc56=[];for(var _0x321824=0x0;_0x321824<_0x360a4d[_0x4ae38b(0x2bb)];_0x321824++){_0x36fc56[_0x4ae38b(0x5a8)](_0x360a4d[_0x321824]+'_an');}var _0x2287dd=_0x19ae9b[_0x4ae38b(0x472)](_0x197a77);_0x2287dd=_0x2287dd[_0x4ae38b(0x472)](_0x36fc56),_0x2287dd=_0x2287dd[_0x4ae38b(0x472)](_0x360a4d),user_permission_obj_keys=Object['keys'](_0x1d42e0);if(user_permission_obj_keys[_0x4ae38b(0x2bb)]!=_0x2287dd[_0x4ae38b(0x2bb)]){if('HBank'===_0x4ae38b(0x1fa))return display_error(_0x4ae38b(0x42c)),![];else _0x375662[_0x85ef29[_0x213565]]=new _0x5d485b(_0x3f3bae[_0x4ae38b(0x2bb)])[_0x4ae38b(0x3a6)](0x0);}for(var _0x321824=0x0;_0x321824<_0x2287dd[_0x4ae38b(0x2bb)];_0x321824++){if(_0x4ae38b(0x23a)!==_0x4ae38b(0x146)){var _0x7fa2e0=_0x2287dd[_0x321824],_0x1b9181=_0x1d42e0[_0x7fa2e0];if(_0x1b9181<0x0||_0x1b9181>0x3)return _0x4ae38b(0xf8)===_0x4ae38b(0xf8)?(display_error(_0x4ae38b(0x4bf)),![]):(_0x24f460(_0x4ae38b(0x4cb)),![]);if(_0x7fa2e0==_0x4ae38b(0x46b)&&_0x1b9181<0x1)return display_error('Data\x20corrupted\x203.\x20Please\x20refresh\x20and\x20try\x20again.'),![];}else{var _0x41a95c=_0xd6d2f0[_0x4ae38b(0x610)](_0x5d1ba2);_0x41a95c[_0x4ae38b(0x409)](_0x41a95c[_0x4ae38b(0x1d9)]);}}return!![];}function validate_proudction_operations_list(_0x3269ff){var _0x3eb2bc=_0x390981,_0x31d76e=Object[_0x3eb2bc(0xe4)](_0x3269ff);if(_0x31d76e['length']!==new Set(_0x31d76e)[_0x3eb2bc(0x60a)])return display_error(_0x3eb2bc(0x42a)),clear_unsaved_operations(),![];if(_0x31d76e['indexOf'](_0x3eb2bc(0x46b))>=0x0||_0x31d76e[_0x3eb2bc(0x2aa)](_0x3eb2bc(0x2e4))>=0x0)return display_error(_0x3eb2bc(0x538)),clear_unsaved_operations(),![];if(compare_objects(gl_current_operations_list,_0x3269ff)==!![])return display_info(_0x3eb2bc(0x32c)),clear_unsaved_operations(),![];for(var _0x41c9a0=0x0;_0x41c9a0<_0x31d76e[_0x3eb2bc(0x2bb)];_0x41c9a0++){if(_0x3269ff[_0x31d76e[_0x41c9a0]][_0x3eb2bc(0x2bb)]<=0x0)return display_error(_0x3eb2bc(0x5e3)),![];if(_0x3269ff[_0x31d76e[_0x41c9a0]][_0x3eb2bc(0x2bb)]!=new Set(_0x3269ff[_0x31d76e[_0x41c9a0]])[_0x3eb2bc(0x60a)]){if('nZmdc'===_0x3eb2bc(0x2b1))return display_error('Workstation\x20names\x20in\x20an\x20operation\x20should\x20be\x20unique.'),![];else _0x470fd3(_0x3eb2bc(0x10e)+_0x4eac30+_0x3eb2bc(0x293));}if(_0x31d76e[_0x41c9a0][_0x3eb2bc(0x2bb)]>param_name_max_length)return _0x3eb2bc(0x460)===_0x3eb2bc(0x5d5)?(_0x2f617e('Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.'),![]):(display_error(_0x3eb2bc(0x11a)),clear_unsaved_operations(),![]);for(var _0x19fe43=0x0;_0x19fe43<_0x3269ff[_0x31d76e[_0x41c9a0]][_0x3eb2bc(0x2bb)];_0x19fe43++){var _0x32eeb3=_0x3269ff[_0x31d76e[_0x41c9a0]][_0x19fe43];if(_0x32eeb3[_0x3eb2bc(0x2bb)]>param_name_max_length){if(_0x3eb2bc(0x245)!=='CAzaQ')return display_error('Internal\x20error.\x20Please\x20refresh\x20and\x20try\x20again.'),![];else{if(_0x33bc8e(_0xc522c9[_0x2ad258][_0x20c44a][_0x3eb2bc(0x5f1)][_0x3eb2bc(0x57e)]))_0x293c07=_0x3eb2bc(0xd9);else _0x59821a=_0x3eb2bc(0x4b5);}}}}return!![];}async function create_process_operation_record(_0x3e0e3c,_0x216d06,_0x13f9e2,_0x21d316=_0x390981(0x53a)){var _0x9a0016=_0x390981;start_loading();var _0x3146a3=copy_record(_0x13f9e2);let _0x443aae={};var _0x5424a7=0x0,_0x181e94=0x0;if(is_null(_0x216d06))return display_error(_0x9a0016(0x34c)),![];try{if(_0x216d06==_0x9a0016(0x46b)){if(is_null(_0x3146a3[_0x216d06][_0x9a0016(0x5f1)][_0x9a0016(0x4d8)])){if(gl_user_permission[_0x9a0016(0x464)]!=0x1&&gl_user_permission[_0x216d06]<permission_list_access[_0x9a0016(0x2aa)]('Write')||permission_list_access[_0x9a0016(0x2aa)](_0x9a0016(0x206))<0x0)return display_error(_0x9a0016(0x17d)),![];_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x4d8)]=firebase[_0x9a0016(0x4fc)][_0x9a0016(0x1b9)][_0x9a0016(0x2ec)](),_0x443aae[_0x216d06+'.'+'log'+'.'+_0x9a0016(0x3a3)]=gl_curr_user_details[_0x9a0016(0x130)],_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x337)]=0x0,_0x3146a3[_0x216d06][_0x9a0016(0x5f1)][_0x9a0016(0x4d8)]=new Date(),_0x3146a3[_0x216d06][_0x9a0016(0x5f1)]['entry_by']=gl_curr_user_details['email'],_0x3146a3[_0x9a0016(0x46b)]['update_type']=0x0;var _0x2cfc5b=_0x3e0e3c[_0x9a0016(0x2df)][0x1]['value'],_0x56543f=_0x3e0e3c[_0x9a0016(0x2df)][0x4]['value'];if(is_null(_0x2cfc5b))return _0x9a0016(0x46f)!==_0x9a0016(0x46f)?(_0x398a18(_0x9a0016(0xe9)),![]):(display_error('Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.'),![]);_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x405)]=_0x2cfc5b,_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x279)]=_0x56543f,_0x3146a3[_0x9a0016(0x46b)]['external_id']=_0x2cfc5b,_0x3146a3[_0x9a0016(0x46b)]['log'][_0x9a0016(0x279)]=_0x56543f;var _0x109bc9=db[_0x9a0016(0x33b)](_0x9a0016(0x1c8))[_0x9a0016(0x4f5)](company_id)[_0x9a0016(0x33b)](_0x9a0016(0x29e))['doc'](_0x13f9e2[_0x9a0016(0x46b)][_0x9a0016(0x467)]),_0x16c918=await _0x109bc9[_0x9a0016(0x611)](_0x443aae);return gl_curr_record=_0x3146a3,!![];}else{if(gl_user_permission[_0x9a0016(0x464)]!=0x1&&gl_user_permission[_0x216d06]<permission_list_access[_0x9a0016(0x2aa)](_0x9a0016(0x16a))||permission_list_access[_0x9a0016(0x2aa)](_0x9a0016(0x16a))<0x0)return display_error(_0x9a0016(0x17d)),![];_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+'update_dt']=firebase['firestore'][_0x9a0016(0x1b9)][_0x9a0016(0x2ec)](),_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x604)]=gl_curr_user_details[_0x9a0016(0x130)],_0x443aae['Basic\x20Info'+'.'+_0x9a0016(0x337)]=0.5,_0x3146a3[_0x216d06][_0x9a0016(0x5f1)][_0x9a0016(0x502)]=new Date(),_0x3146a3[_0x216d06][_0x9a0016(0x5f1)][_0x9a0016(0x604)]=gl_curr_user_details[_0x9a0016(0x130)],_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x337)]=0.5;var _0x2cfc5b=_0x3e0e3c[_0x9a0016(0x2df)][0x1][_0x9a0016(0x1fc)],_0x56543f=_0x3e0e3c[_0x9a0016(0x2df)][0x4][_0x9a0016(0x1fc)];if(is_null(_0x2cfc5b))return display_error(_0x9a0016(0x4ad)),![];_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x405)]=_0x2cfc5b,_0x443aae[_0x216d06+'.'+'log'+'.'+_0x9a0016(0x279)]=_0x56543f,_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x405)]=_0x2cfc5b,_0x3146a3[_0x9a0016(0x46b)]['log']['remark']=_0x56543f;var _0x109bc9=db[_0x9a0016(0x33b)](_0x9a0016(0x1c8))[_0x9a0016(0x4f5)](company_id)[_0x9a0016(0x33b)](_0x9a0016(0x29e))['doc'](_0x13f9e2[_0x9a0016(0x46b)]['serial']),_0x16c918=await _0x109bc9[_0x9a0016(0x611)](_0x443aae);return gl_curr_record=_0x3146a3,!![];}}else{if(is_null(_0x3146a3[_0x216d06][_0x9a0016(0x5f1)]['entry_dt'])){if('jTEAj'!==_0x9a0016(0x521)){if(gl_user_permission[_0x9a0016(0x464)]!=0x1&&gl_user_permission[_0x216d06]<permission_list_access[_0x9a0016(0x2aa)](_0x9a0016(0x206))||permission_list_access[_0x9a0016(0x2aa)](_0x9a0016(0x206))<0x0)return display_error(_0x9a0016(0x17d)),![];var _0x39863b=Object[_0x9a0016(0xe4)](_0x3146a3)[_0x9a0016(0x2aa)](_0x216d06);if(_0x39863b>current_process_status(_0x3146a3)[_0x9a0016(0x1a0)])return display_error(_0x9a0016(0x4e9)),![];if(_0x3146a3[_0x9a0016(0x46b)]['status']==0x4)return _0x9a0016(0x465)!==_0x9a0016(0x124)?(display_error(_0x9a0016(0x2fc)),![]):(_0x2657a5(_0x9a0016(0x111)),![]);if(is_null(_0x21d316)){if(_0x9a0016(0x2f6)==='SLPzm')return display_error(_0x9a0016(0x5cb)),![];else _0x475481&&(_0x25880c[_0x9a0016(0x1fc)]=_0x52eafc,_0x24b778[_0x9a0016(0x314)](new _0x2df6b2('change',{'bubbles':!![]})),_0x40ce67=![],_0x1bbe1e[_0x9a0016(0x57b)][_0x9a0016(0x230)]()[_0x9a0016(0x4e4)](_0x2e00e9=>{var _0x1ca672=_0x9a0016;_0x2e00e9[_0x1ca672(0x355)]();}),_0x4cadf[_0x9a0016(0xff)]());}var _0x51b908=_0x13f9e2[_0x216d06][_0x9a0016(0x5f2)],_0x3be07f={};for(var _0x168713=0x0;_0x168713<_0x51b908[_0x9a0016(0x2bb)];_0x168713++){if(_0x9a0016(0x3f1)==='xKYiI'){var _0x2cfc5b=_0x3e0e3c[_0x9a0016(0x2df)][0x4*_0x168713+0x1][_0x9a0016(0x1fc)];if(String(_0x2cfc5b)!='0'&&is_null(_0x2cfc5b))return display_error('Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.'),![];if(!await validate_input_field_value(_0x51b908[_0x168713][_0x9a0016(0x4e7)],_0x51b908[_0x168713][_0x9a0016(0x285)],_0x51b908[_0x168713]['value2'],_0x2cfc5b)){if(_0x51b908[_0x168713][_0x9a0016(0x4d3)]==parameter_criticality_level[0x0])_0x5424a7=Math[_0x9a0016(0x3ed)](_0x5424a7,0x1);else{if(_0x51b908[_0x168713][_0x9a0016(0x4d3)]==parameter_criticality_level[0x1])_0x5424a7=Math[_0x9a0016(0x3ed)](_0x5424a7,0x3);}}var _0x85bee1=get_cache_flag_value_on_record_save(_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x1f2)],_0x216d06,_0x51b908[_0x168713][_0x9a0016(0xdc)],_0x2cfc5b,_0x51b908[_0x168713]['freq']);_0x3be07f[_0x51b908[_0x168713][_0x9a0016(0xdc)]]=[_0x2cfc5b,_0x85bee1];}else return _0x711d8c(_0x9a0016(0x4ad)),![];}_0x3146a3[_0x216d06][_0x9a0016(0x2f2)]=_0x5424a7;var _0x7e6985=Object[_0x9a0016(0xe4)](_0x3146a3);for(var _0x168713=0x1;_0x168713<_0x7e6985['length'];_0x168713++){_0x181e94=Math[_0x9a0016(0x3ed)](_0x181e94,_0x3146a3[_0x7e6985[_0x168713]][_0x9a0016(0x2f2)]);}var _0x1ae52a=current_process_status(_0x3146a3);_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x60e)]=_0x216d06,_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x482)]=_0x1ae52a['current_operation'],_0x443aae[_0x9a0016(0x46b)+'.'+'status']=_0x181e94,_0x443aae[_0x216d06+'.'+_0x9a0016(0x420)]=_0x3be07f,_0x443aae[_0x216d06+'.'+_0x9a0016(0x2f2)]=_0x5424a7,_0x443aae[_0x216d06+'.'+_0x9a0016(0x15a)]=_0x21d316,_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x4d8)]=firebase[_0x9a0016(0x4fc)][_0x9a0016(0x1b9)][_0x9a0016(0x2ec)](),_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x3a3)]=gl_curr_user_details[_0x9a0016(0x130)],_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x337)]=0x1,_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x31f)]=firebase[_0x9a0016(0x4fc)][_0x9a0016(0x1b9)][_0x9a0016(0x2ec)](),_0x3146a3[_0x9a0016(0x46b)]['current_op']=_0x216d06,_0x3146a3[_0x9a0016(0x46b)]['pending_op']=_0x1ae52a[_0x9a0016(0x55c)],_0x3146a3['Basic\x20Info'][_0x9a0016(0x2f2)]=_0x181e94,_0x3146a3[_0x216d06]['actual_value']=_0x3be07f,_0x3146a3[_0x216d06][_0x9a0016(0x2f2)]=_0x5424a7,_0x3146a3[_0x216d06][_0x9a0016(0x15a)]=_0x21d316,_0x3146a3[_0x216d06][_0x9a0016(0x5f1)]['entry_dt']=new Date(),_0x3146a3[_0x216d06][_0x9a0016(0x5f1)][_0x9a0016(0x3a3)]=gl_curr_user_details[_0x9a0016(0x130)],_0x3146a3[_0x9a0016(0x46b)]['update_type']=0x1,_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x31f)]=new Date();var _0x109bc9=db[_0x9a0016(0x33b)](_0x9a0016(0x1c8))[_0x9a0016(0x4f5)](company_id)[_0x9a0016(0x33b)](_0x9a0016(0x29e))['doc'](_0x3146a3['Basic\x20Info'][_0x9a0016(0x467)]),_0x16c918=await _0x109bc9['update'](_0x443aae);return gl_curr_record=_0x3146a3,update_cache(_0x3146a3['Basic\x20Info'][_0x9a0016(0x1f2)],_0x216d06,_0x3146a3),!![];}else _0xc3261c=new _0x4342a4(),_0x37f16d['setSeconds'](_0x297a29[_0x9a0016(0x30e)]()+_0x3ee539-0x1),_0x57b90d[_0x9a0016(0x610)](_0x9a0016(0x539))[_0x9a0016(0x214)]['display']=_0x9a0016(0x608),_0x4c0f6e(_0x9a0016(0x52b))[_0x9a0016(0x60d)](),_0x1c55c1(function(){var _0x1663c2=_0x9a0016;if(new _0xca6f88()>=_0x3c647c)_0x4530f0['getElementById'](_0x1663c2(0x539))['style'][_0x1663c2(0x138)]='block';},_0x5bcb8f*0x3e8);}else{if(gl_user_permission['admin']!=0x1&&gl_user_permission[_0x216d06]<permission_list_access[_0x9a0016(0x2aa)]('Update')||permission_list_access['indexOf'](_0x9a0016(0x16a))<0x0)return _0x9a0016(0x198)!=='ImMnW'?(display_error(_0x9a0016(0x17d)),![]):![];var _0x39863b=Object[_0x9a0016(0xe4)](_0x3146a3)[_0x9a0016(0x2aa)](_0x216d06);if(_0x39863b>current_process_status(_0x3146a3)[_0x9a0016(0x1a0)]&&_0x3146a3[_0x216d06][_0x9a0016(0x2f2)]==0x2)return display_error(_0x9a0016(0x4e9)),![];if(_0x3146a3[_0x9a0016(0x46b)]['status']==0x4){if(_0x9a0016(0xdd)==='hpfna')_0x43cd86[_0x9a0016(0x1fc)]=_0x3b49fb['value'],_0xba7d02(_0x5a3357,_0x31cb4a,_0x1e8014);else return display_error(_0x9a0016(0x2fc)),![];}if(is_null(_0x21d316))return display_error(_0x9a0016(0x5cb)),![];var _0x51b908=_0x13f9e2[_0x216d06]['param_list'],_0x3be07f={};for(var _0x168713=0x0;_0x168713<_0x51b908[_0x9a0016(0x2bb)];_0x168713++){if('tQtwR'===_0x9a0016(0x106)){var _0x2cfc5b=_0x3e0e3c[_0x9a0016(0x2df)][0x4*_0x168713+0x1]['value'];if(String(_0x2cfc5b)!='0'&&is_null(_0x2cfc5b)){if(_0x9a0016(0x1d7)==='gcBvh'){var _0x1c6f4a;try{_0x1c6f4a=_0x1c2543(_0x9a0016(0xdf)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x4109f5){_0x1c6f4a=_0x61c34e;}return _0x1c6f4a;}else return display_error('Please\x20fill\x20all\x20input\x20fields\x20before\x20saving.'),![];}if(!await validate_input_field_value(_0x51b908[_0x168713][_0x9a0016(0x4e7)],_0x51b908[_0x168713][_0x9a0016(0x285)],_0x51b908[_0x168713][_0x9a0016(0x32a)],_0x2cfc5b)){if(_0x51b908[_0x168713][_0x9a0016(0x4d3)]==parameter_criticality_level[0x0])_0x5424a7=Math[_0x9a0016(0x3ed)](_0x5424a7,0x1);else{if(_0x51b908[_0x168713][_0x9a0016(0x4d3)]==parameter_criticality_level[0x1])_0x5424a7=Math[_0x9a0016(0x3ed)](_0x5424a7,0x3);}}var _0x85bee1=get_cache_flag_value_on_record_update(_0x3146a3[_0x216d06]['actual_value'][_0x51b908[_0x168713]['name']][0x0],_0x2cfc5b,_0x3146a3[_0x216d06]['actual_value'][_0x51b908[_0x168713][_0x9a0016(0xdc)]][0x1]);_0x3be07f[_0x51b908[_0x168713]['name']]=[_0x2cfc5b,_0x85bee1];}else{if(!_0x4dc220(_0x267e88)||!_0x1a0e0f(_0x2fb083))return![];const _0x7f92f6=_0x262ea9['keys'](_0x205897),_0x1da1bf=_0x3ae21a[_0x9a0016(0xe4)](_0x4e4cf4);if(_0x7f92f6[_0x9a0016(0x2bb)]!==_0x1da1bf[_0x9a0016(0x2bb)])return![];for(const _0x2c8823 of _0x7f92f6){const _0x1b7335=_0x5bfe6e[_0x2c8823],_0x521a4d=_0x29f177[_0x2c8823],_0x39da0c=_0x29279e(_0x1b7335)&&_0x3dd35c(_0x521a4d);if(_0x39da0c&&!_0x2eaea2(_0x1b7335,_0x521a4d)||!_0x39da0c&&_0x1b7335!==_0x521a4d)return![];}return!![];}}_0x3146a3[_0x216d06]['status']=_0x5424a7;var _0x7e6985=Object['keys'](_0x3146a3);for(var _0x168713=0x1;_0x168713<_0x7e6985[_0x9a0016(0x2bb)];_0x168713++){_0x181e94=Math[_0x9a0016(0x3ed)](_0x181e94,_0x3146a3[_0x7e6985[_0x168713]][_0x9a0016(0x2f2)]);}var _0x1ae52a=current_process_status(_0x3146a3);_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x60e)]=_0x216d06,_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x482)]=_0x1ae52a[_0x9a0016(0x55c)],_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x2f2)]=_0x181e94,_0x443aae[_0x216d06+'.'+_0x9a0016(0x420)]=_0x3be07f,_0x443aae[_0x216d06+'.'+_0x9a0016(0x2f2)]=_0x5424a7,_0x443aae[_0x216d06+'.'+_0x9a0016(0x15a)]=_0x21d316,_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x502)]=firebase[_0x9a0016(0x4fc)]['FieldValue'][_0x9a0016(0x2ec)](),_0x443aae[_0x216d06+'.'+_0x9a0016(0x5f1)+'.'+_0x9a0016(0x604)]=gl_curr_user_details[_0x9a0016(0x130)],_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x337)]=0x2,_0x443aae[_0x9a0016(0x46b)+'.'+_0x9a0016(0x31f)]=firebase['firestore'][_0x9a0016(0x1b9)][_0x9a0016(0x2ec)](),_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x60e)]=_0x216d06,_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x482)]=_0x1ae52a[_0x9a0016(0x55c)],_0x3146a3[_0x9a0016(0x46b)]['status']=_0x181e94,_0x3146a3[_0x216d06]['actual_value']=_0x3be07f,_0x3146a3[_0x216d06][_0x9a0016(0x2f2)]=_0x5424a7,_0x3146a3[_0x216d06][_0x9a0016(0x15a)]=_0x21d316,_0x3146a3[_0x216d06]['log'][_0x9a0016(0x502)]=new Date(),_0x3146a3[_0x216d06]['log'][_0x9a0016(0x604)]=gl_curr_user_details[_0x9a0016(0x130)],_0x3146a3[_0x9a0016(0x46b)][_0x9a0016(0x337)]=0x2,_0x3146a3['Basic\x20Info']['update_time']=new Date();var _0x109bc9=db[_0x9a0016(0x33b)](_0x9a0016(0x1c8))[_0x9a0016(0x4f5)](company_id)['collection'](_0x9a0016(0x29e))['doc'](_0x3146a3['Basic\x20Info'][_0x9a0016(0x467)]),_0x16c918=await _0x109bc9[_0x9a0016(0x611)](_0x443aae);return gl_curr_record=_0x3146a3,!![];}}}catch(_0x6eb5a1){if('XmoIW'!==_0x9a0016(0x2b5))return console[_0x9a0016(0x5f1)](_0x6eb5a1),display_error(_0x9a0016(0x428)),![];else _0xa2691e[_0x2474e8[_0x2997d5]]=new _0x2f745d(_0x2687aa[_0x9a0016(0x2bb)])[_0x9a0016(0x3a6)](0x0);}}async function allow_deviation_operation_record(_0x10001d,_0x47fd3c,_0x1eecfb){var _0x118d93=_0x390981;start_loading();try{if(_0x118d93(0x163)!==_0x118d93(0x163))_0x11afc2[_0x118d93(0x5a8)](_0x341f8e(_0x8b283f[_0x4f4828][_0x118d93(0x15a)]));else{var _0x91b5c1=db['collection'](_0x118d93(0x1c8))[_0x118d93(0x4f5)](company_id)[_0x118d93(0x33b)](_0x118d93(0x29e))[_0x118d93(0x4f5)](_0x47fd3c[_0x118d93(0x46b)]['serial']),_0x35f755=JSON[_0x118d93(0x5b9)](JSON[_0x118d93(0x1f4)](_0x47fd3c));_0x35f755[_0x10001d]['status']=0x0;var _0x32e68b=current_process_status(_0x35f755),_0x5c9ee6=await _0x91b5c1[_0x118d93(0x611)]({[_0x10001d+'.'+_0x118d93(0x2f2)]:0x0,[_0x10001d+'.'+_0x118d93(0x5f1)+'.'+_0x118d93(0x24d)]:firebase[_0x118d93(0x4fc)][_0x118d93(0x1b9)]['serverTimestamp'](),[_0x10001d+'.'+'log'+'.'+_0x118d93(0x57e)]:gl_curr_user_details['email'],[_0x10001d+'.'+_0x118d93(0x5f1)+'.'+_0x118d93(0x279)]:_0x1eecfb,['Basic\x20Info'+'.'+_0x118d93(0x2f2)]:_0x32e68b['current_status_value'],['Basic\x20Info'+'.'+_0x118d93(0x60e)]:_0x10001d,[_0x118d93(0x46b)+'.'+'pending_op']:_0x32e68b[_0x118d93(0x55c)],[_0x118d93(0x46b)+'.'+_0x118d93(0x337)]:0x4,['Basic\x20Info'+'.'+_0x118d93(0x31f)]:firebase['firestore']['FieldValue'][_0x118d93(0x2ec)]()});_0x47fd3c[_0x10001d]['status']=0x0,_0x47fd3c[_0x10001d][_0x118d93(0x5f1)][_0x118d93(0x24d)]=new Date(),_0x47fd3c[_0x10001d][_0x118d93(0x5f1)]['deviation_by']=gl_curr_user_details[_0x118d93(0x130)],_0x47fd3c[_0x10001d][_0x118d93(0x5f1)][_0x118d93(0x279)]=_0x1eecfb,_0x47fd3c['Basic\x20Info'][_0x118d93(0x2f2)]=_0x32e68b[_0x118d93(0x1e7)],_0x47fd3c['Basic\x20Info'][_0x118d93(0x60e)]=_0x10001d,_0x47fd3c[_0x118d93(0x46b)][_0x118d93(0x482)]=_0x32e68b[_0x118d93(0x55c)],_0x47fd3c[_0x118d93(0x46b)][_0x118d93(0x337)]=0x4,_0x47fd3c[_0x118d93(0x46b)]['update_time']=new Date(),gl_curr_record=_0x47fd3c;var _0x10860b=document[_0x118d93(0x610)](_0x118d93(0x416)),_0xd00a63=document['getElementById']('serial_qc_data_display');return await display_qc_stage_info_card(_0x10860b,_0xd00a63,gl_curr_record,![]),display_info(_0x118d93(0x1a1)),!![];}}catch(_0x4e9885){return display_error('Operation\x20could\x20not\x20be\x20completed.\x20Please\x20try\x20again\x20later.'),![];}}async function allow_rejection_operation_record(_0xa66b16,_0x13eba0,_0x5bc271){var _0x495ab8=_0x390981;start_loading();try{if(_0x495ab8(0x2a0)!=='HTkqP')_0x185294[_0x495ab8(0x2aa)](_0x335850[_0x1dea0d][_0x495ab8(0x296)])<0x0&&_0x3026e9[_0x495ab8(0x5a8)](_0x1fe287[_0x4e5c69][_0x495ab8(0x296)]);else{var _0x40a8c5=db[_0x495ab8(0x33b)]('app')[_0x495ab8(0x4f5)](company_id)[_0x495ab8(0x33b)](_0x495ab8(0x29e))[_0x495ab8(0x4f5)](_0x13eba0['Basic\x20Info']['serial']),_0x363323=JSON[_0x495ab8(0x5b9)](JSON[_0x495ab8(0x1f4)](_0x13eba0));_0x363323[_0xa66b16][_0x495ab8(0x2f2)]=0x4;var _0x4f9f05=current_process_status(_0x363323),_0x442fc2=await _0x40a8c5[_0x495ab8(0x611)]({[_0xa66b16+'.'+_0x495ab8(0x2f2)]:0x4,[_0xa66b16+'.'+_0x495ab8(0x5f1)+'.'+_0x495ab8(0x24d)]:firebase[_0x495ab8(0x4fc)]['FieldValue']['serverTimestamp'](),[_0xa66b16+'.'+_0x495ab8(0x5f1)+'.'+'deviation_by']:gl_curr_user_details[_0x495ab8(0x130)],[_0xa66b16+'.'+_0x495ab8(0x5f1)+'.'+_0x495ab8(0x279)]:_0x5bc271,['Basic\x20Info'+'.'+_0x495ab8(0x2f2)]:_0x4f9f05['current_status_value'],[_0x495ab8(0x46b)+'.'+'current_op']:_0xa66b16,[_0x495ab8(0x46b)+'.'+_0x495ab8(0x482)]:_0xa66b16,[_0x495ab8(0x46b)+'.'+_0x495ab8(0x337)]:0x5,[_0x495ab8(0x46b)+'.'+_0x495ab8(0x31f)]:firebase[_0x495ab8(0x4fc)][_0x495ab8(0x1b9)]['serverTimestamp']()});_0x13eba0[_0xa66b16][_0x495ab8(0x2f2)]=0x4,_0x13eba0[_0xa66b16]['log'][_0x495ab8(0x24d)]=new Date(),_0x13eba0[_0xa66b16]['log'][_0x495ab8(0x57e)]=gl_curr_user_details[_0x495ab8(0x130)],_0x13eba0[_0xa66b16]['log'][_0x495ab8(0x279)]=_0x5bc271,_0x13eba0['Basic\x20Info'][_0x495ab8(0x2f2)]=_0x4f9f05[_0x495ab8(0x1e7)],_0x13eba0[_0x495ab8(0x46b)][_0x495ab8(0x60e)]=_0xa66b16,_0x13eba0[_0x495ab8(0x46b)][_0x495ab8(0x482)]=_0xa66b16,_0x13eba0[_0x495ab8(0x46b)][_0x495ab8(0x337)]=0x5,_0x13eba0[_0x495ab8(0x46b)][_0x495ab8(0x31f)]=new Date(),gl_curr_record=_0x13eba0;var _0x579575=document[_0x495ab8(0x610)](_0x495ab8(0x416)),_0x182e90=document['getElementById'](_0x495ab8(0x319));return await display_qc_stage_info_card(_0x579575,_0x182e90,gl_curr_record,![]),display_info('Data\x20saved\x20successfully'),!![];}}catch(_0x4309c3){return display_error('Operation\x20could\x20not\x20be\x20completed.\x20Please\x20try\x20again\x20later.'),![];}}async function create_process_disruption_record(_0x122412,_0x2fca8b,_0x4cde4b,_0x55d7f2){var _0x358647=_0x390981;try{var _0x2b5273={[_0x358647(0x296)]:_0x122412,['operation']:_0x2fca8b,[_0x358647(0x15a)]:_0x4cde4b,[_0x358647(0x279)]:_0x55d7f2,[_0x358647(0x29a)]:gl_curr_user_details['email'],[_0x358647(0x617)]:firebase['firestore'][_0x358647(0x1b9)][_0x358647(0x2ec)](),[_0x358647(0x3cb)]:'',[_0x358647(0x11e)]:''},_0x4f2b02=db[_0x358647(0x33b)](_0x358647(0x1c8))[_0x358647(0x4f5)](company_id)[_0x358647(0x33b)](_0x358647(0x60c));const _0x2ce2cd=await _0x4f2b02[_0x358647(0xf7)](_0x2b5273);var _0x82f911=copy_disruption_record(gl_disruption_alerts);return _0x82f911['push']({['id']:_0x2ce2cd['id'],[_0x358647(0x399)]:_0x2fca8b,[_0x358647(0x15a)]:_0x4cde4b,[_0x358647(0x296)]:_0x122412,[_0x358647(0x279)]:_0x55d7f2,['start_user']:gl_curr_user_details[_0x358647(0x130)],['start_time']:new Date()}),await alert_notification_update(_0x82f911),display_info('Disruption\x20reported\x20successfully'),!![];}catch(_0x521de6){return display_error(_0x358647(0x4fe)),![];}}async function close_process_disruption_record(_0x33abcc){var _0x87275c=_0x390981;try{var _0x574922={[_0x87275c(0x3cb)]:firebase[_0x87275c(0x4fc)]['FieldValue'][_0x87275c(0x2ec)](),['end_user']:gl_curr_user_details['email']},_0x5d2449=db[_0x87275c(0x33b)](_0x87275c(0x1c8))[_0x87275c(0x4f5)](company_id)[_0x87275c(0x33b)](_0x87275c(0x60c))[_0x87275c(0x4f5)](_0x33abcc);const _0x97b7e4=await _0x5d2449[_0x87275c(0x611)](_0x574922);var _0x516038=copy_disruption_record(gl_disruption_alerts),_0x52b848=[],_0x4b5d57;for(var _0x38238b=0x0;_0x38238b<_0x516038[_0x87275c(0x2bb)];_0x38238b++){if(_0x516038[_0x38238b]['id']!=_0x33abcc)_0x52b848[_0x87275c(0x5a8)](_0x516038[_0x38238b]);else _0x4b5d57=_0x516038[_0x38238b];}_0x516038=_0x52b848,await alert_notification_update(_0x516038);const _0x52129c=_0x4b5d57[_0x87275c(0x15a)]+'\x20('+_0x4b5d57[_0x87275c(0x399)]+')',_0x477454=_0x4b5d57[_0x87275c(0x296)];if((gl_user_permission[_0x87275c(0x464)]==0x1||gl_user_permission[section_permission_list[_0x87275c(0x227)]]==0x1)&&_0x477454==disruption_reasons[0x0]){if(_0x87275c(0x2c6)===_0x87275c(0x2c6))await await_loading(create_maintenance_update_modal,_0x52129c,_0x87275c(0x5b2));else{var _0x2e04d3=_0x1d80d2[_0x2e6704][_0x87275c(0x15a)]+'\x20('+_0x209ce8[_0x21fe4e][_0x87275c(0x399)]+')',_0x1014bd=_0x3b0e3c[_0x3d97aa][_0x87275c(0x399)];_0x3258bc[_0x87275c(0x22d)][_0x5ef6e5['indexOf'](_0x1014bd)]+=0x1,_0x591060[_0x87275c(0x22d)][_0x56e58e['indexOf'](_0x2e04d3)]+=0x1;}}else _0x87275c(0x44d)!==_0x87275c(0x1ea)?await display_info(_0x87275c(0x4f6)):_0x15c180=_0x515c9a['max'](_0x3f9fe6,_0x43f9c7[_0x58fc31[_0x3fa712]][_0x87275c(0x2f2)]);return!![];}catch(_0x9a07d6){return console['log'](_0x9a07d6),await initialize_process_disruption_section(),display_error('Process\x20Disruption\x20status\x20could\x20not\x20be\x20updated.\x20Please\x20try\x20again\x20later\x20or\x20contact\x20your\x20system\x20administrator.'),![];}}async function write_maintenance_record(_0x4ec6b7){var _0x5786e6=_0x390981;try{console['log'](_0x4ec6b7);var _0x1fe82f=db[_0x5786e6(0x33b)](_0x5786e6(0x1c8))[_0x5786e6(0x4f5)](company_id)['collection'](_0x5786e6(0xde)),_0x1128c7=await _0x1fe82f[_0x5786e6(0xf7)](_0x4ec6b7);return _0x4ec6b7[_0x5786e6(0x4e7)]==_0x5786e6(0x43e)&&(gl_maintenance_updates_list[_0x4ec6b7[_0x5786e6(0x15a)]]['last_update']=new Date(),await initialize_maintenance_updates_section(0x1)),display_info('Data\x20saved\x20successfully'),!![];}catch(_0x443465){return console[_0x5786e6(0x5f1)](_0x443465),display_error(_0x5786e6(0x5ee)),![];}}async function create_maintenance_plan_object(_0x24d009,_0xad57fe){var _0x35c6a7=_0x390981;start_loading();let _0x455111={};var _0x31a06d=document['getElementById'](_0xad57fe)[_0x35c6a7(0x19f)];maintenance_stage_container=document[_0x35c6a7(0x610)](_0x24d009);var _0x4321fc=maintenance_stage_container[_0x35c6a7(0x2df)][0x0]['childNodes'][0x0][_0x35c6a7(0x2df)][0x1][_0x35c6a7(0x1fc)];_0x455111['workstation']=_0x31a06d,_0x455111[_0x35c6a7(0x267)]=Number(_0x4321fc),_0x455111[_0x35c6a7(0x5f2)]=[];var _0x2883db=maintenance_stage_container[_0x35c6a7(0x2df)][0x0][_0x35c6a7(0x2df)][0x1];for(var _0x2f0bb3=0x0;_0x2f0bb3<_0x2883db[_0x35c6a7(0x3e1)];_0x2f0bb3++){var _0x1f3957={'name':_0x2883db[_0x35c6a7(0x2df)][_0x2f0bb3][_0x35c6a7(0x2df)][0x1][_0x35c6a7(0x1fc)],'link':_0x2883db['childNodes'][_0x2f0bb3][_0x35c6a7(0x2df)][0x3][_0x35c6a7(0x1fc)],'type':_0x2883db['childNodes'][_0x2f0bb3][_0x35c6a7(0x2df)][0x5][_0x35c6a7(0x1fc)],'value1':_0x2883db[_0x35c6a7(0x2df)][_0x2f0bb3][_0x35c6a7(0x2df)][0x6][_0x35c6a7(0x1fc)],'value2':_0x2883db['childNodes'][_0x2f0bb3]['childNodes'][0x7][_0x35c6a7(0x1fc)]};_0x455111[_0x35c6a7(0x5f2)][_0x35c6a7(0x5a8)](_0x1f3957);}if(!is_null(gl_curr_maintenance_plan)&&compare_objects(gl_curr_maintenance_plan,_0x455111)){if(_0x35c6a7(0x169)!==_0x35c6a7(0x169)){var _0x27c2ea=_0x11ca9e['createElement'](_0x35c6a7(0x25a));_0x27c2ea[_0x35c6a7(0x602)]=_0x4ff163[_0x17ef9d],_0x2c8d8f[_0x35c6a7(0x357)](_0x27c2ea);}else return await display_info(_0x35c6a7(0x329)),!![];}if(!validate_maintenance_process_object(_0x455111))return![];var _0x5a1b26={'cycle_time':Number(_0x455111['cycle_time'])};if(is_null(gl_curr_maintenance_plan))_0x5a1b26['last_update']=firebase[_0x35c6a7(0x4fc)][_0x35c6a7(0x1b9)][_0x35c6a7(0x2ec)]();try{if(_0x35c6a7(0x55d)!==_0x35c6a7(0x33f)){var _0x60ffa6=db[_0x35c6a7(0x33b)](_0x35c6a7(0x1c8))[_0x35c6a7(0x4f5)](company_id)['collection'](_0x35c6a7(0x43a))[_0x35c6a7(0x4f5)](_0x35c6a7(0x115));let _0x573ecb=await _0x60ffa6[_0x35c6a7(0x5b1)]({[_0x31a06d]:_0x5a1b26},{'merge':!![]});return _0x60ffa6=db[_0x35c6a7(0x33b)](_0x35c6a7(0x1c8))['doc'](company_id)[_0x35c6a7(0x33b)](_0x35c6a7(0x3bc))[_0x35c6a7(0x4f5)](_0x31a06d),_0x573ecb=await _0x60ffa6['set'](_0x455111),gl_curr_maintenance_plan=_0x455111,display_info(_0x35c6a7(0x1a1)),!![];}else{var _0x564575='Basic\x20Info',_0x144c4f=_0x4f4510['childNodes'][_0x5cff46]['childNodes'][0x1][_0x35c6a7(0x1fc)];_0x144c4f=_0x30132f[_0x35c6a7(0x2aa)](_0x144c4f),_0x5de0e8[_0x564575]=_0x144c4f;}}catch(_0x264ea7){return display_error(_0x35c6a7(0x428)),![];}}async function delete_maintenance_plan(_0x4e0123,_0x57b77e=0x0){var _0x2fbc86=_0x390981;try{var _0x160a10={};for(var _0x2f73cc=0x0;_0x2f73cc<_0x4e0123[_0x2fbc86(0x2bb)];_0x2f73cc++){_0x160a10[_0x4e0123[_0x2f73cc]['toString']()]=firebase[_0x2fbc86(0x4fc)][_0x2fbc86(0x1b9)][_0x2fbc86(0x170)]();var _0x5195d8=db[_0x2fbc86(0x33b)](_0x2fbc86(0x1c8))[_0x2fbc86(0x4f5)](company_id)['collection'](_0x2fbc86(0x3bc))[_0x2fbc86(0x4f5)](_0x4e0123[_0x2f73cc][_0x2fbc86(0x2ab)]());await _0x5195d8['delete']();}console[_0x2fbc86(0x5f1)](_0x160a10);var _0x5195d8=db[_0x2fbc86(0x33b)]('app')[_0x2fbc86(0x4f5)](company_id)['collection'](_0x2fbc86(0x43a))['doc'](_0x2fbc86(0x115));let _0x398f25=await _0x5195d8[_0x2fbc86(0x611)](_0x160a10);if(_0x57b77e==0x0){if(_0x2fbc86(0x14b)!==_0x2fbc86(0x14b))return _0x28bcc8(_0x2fbc86(0x46a)),![];else gl_curr_maintenance_plan={},await initialize_configure_maintenance_plan_section(),display_info('Maintenance\x20Plan\x20deleted\x20successfully');}return!![];}catch(_0x4f324e){if(_0x2fbc86(0x2eb)!==_0x2fbc86(0x2eb))_0x51005f=_0x51052e[_0x2fbc86(0x48c)](_0x2fbc86(0x627)),_0x3aa9c6[_0x2fbc86(0x101)]='form-control\x20input\x20mt-n1\x20mb-2\x20text-center\x20text-dark\x20bg-white',_0x54aa9d[_0x2fbc86(0x190)]=_0x5ebe89,_0x13c8c4[_0x2fbc86(0x1fc)]=_0x39e9ff;else{console['log'](_0x4f324e);if(_0x57b77e==0x0)display_error(_0x2fbc86(0x390));return![];}}}function convert_qc_object_to_record(_0x3b81f9,_0x47bab3){var _0x31d860=_0x390981,_0x68c856=Object[_0x31d860(0xe4)](_0x3b81f9),_0x141b2b={[_0x31d860(0x46b)]:{'serial':'','model':_0x47bab3,'status':0x2,'external_id':'','current_op':'','pending_op':'','op_order':_0x68c856,'update_type':'.','update_time':firebase['firestore'][_0x31d860(0x1b9)][_0x31d860(0x2ec)](),'log':{'entry_dt':'','entry_by':'','update_dt':'','update_by':''}}};for(var _0x941bf4=0x0;_0x941bf4<_0x68c856[_0x31d860(0x2bb)];_0x941bf4++){if(_0x31d860(0x2fa)===_0x31d860(0x316))return _0x4903e8('Atleast\x20one\x20workstation\x20is\x20required\x20for\x20every\x20operation.'),![];else{var _0x3db4ea=_0x3b81f9[_0x68c856[_0x941bf4]][_0x31d860(0x5f2)],_0x5cdf87={};for(var _0x18e91c=0x0;_0x18e91c<_0x3db4ea[_0x31d860(0x2bb)];_0x18e91c++){_0x5cdf87[_0x3db4ea[_0x18e91c]['name']]='';}var _0x288247={'entry_dt':'','entry_by':'','update_dt':'','update_by':'','deviation_dt':'','deviation_by':'','remark':''},_0x4b782f={[_0x31d860(0x15a)]:'',['status']:0x2,[_0x31d860(0x267)]:_0x3b81f9[_0x68c856[_0x941bf4]]['cycle_time'],[_0x31d860(0x5f2)]:_0x3db4ea,[_0x31d860(0x5f1)]:_0x288247,[_0x31d860(0x420)]:_0x5cdf87};_0x141b2b[_0x68c856[_0x941bf4]]=_0x4b782f;}}return _0x141b2b;}async function create_qc_process_object(_0x38a556,_0x5daff9){var _0x551347=_0x390981;start_loading();let _0x66de78={};var _0x364d7d=document['getElementById'](_0x5daff9)[_0x551347(0x262)];qc_stage_container=document[_0x551347(0x610)](_0x38a556);for(var _0x3f042b=0x0;_0x3f042b<qc_stage_container[_0x551347(0x3e1)];_0x3f042b++){var _0x1e13ec=qc_stage_container['childNodes'][_0x3f042b][_0x551347(0x2df)][0x0][_0x551347(0x2df)][0x1][_0x551347(0x1fc)],_0x990e9c=qc_stage_container[_0x551347(0x2df)][_0x3f042b][_0x551347(0x2df)][0x0][_0x551347(0x2df)][0x2][_0x551347(0x1fc)];_0x66de78[_0x1e13ec]={},_0x66de78[_0x1e13ec]['param_list']=[],_0x66de78[_0x1e13ec][_0x551347(0x267)]=_0x990e9c;var _0x552d8c=qc_stage_container[_0x551347(0x2df)][_0x3f042b][_0x551347(0x2df)][0x1];for(var _0x5c550e=0x0;_0x5c550e<_0x552d8c[_0x551347(0x3e1)];_0x5c550e++){if(_0x551347(0x566)!==_0x551347(0x451)){if(Number(_0x552d8c['childNodes'][_0x5c550e][_0x551347(0x2df)][0x9]['value'])<0x1)_0x552d8c['childNodes'][_0x5c550e][_0x551347(0x2df)][0x9][_0x551347(0x1fc)]=Number(0x1);var _0xbcd4ff={'name':_0x552d8c[_0x551347(0x2df)][_0x5c550e]['childNodes'][0x1][_0x551347(0x1fc)],'level':_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0x3][_0x551347(0x1fc)],'link':_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0x5][_0x551347(0x1fc)],'method':_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0x7][_0x551347(0x1fc)],'freq':Number(_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0x9][_0x551347(0x1fc)]),'type':_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0xb][_0x551347(0x1fc)],'value1':_0x552d8c[_0x551347(0x2df)][_0x5c550e]['childNodes'][0xc]['value'],'value2':_0x552d8c[_0x551347(0x2df)][_0x5c550e][_0x551347(0x2df)][0xd][_0x551347(0x1fc)]};_0x66de78[_0x1e13ec][_0x551347(0x5f2)][_0x551347(0x5a8)](_0xbcd4ff);}else{var _0x15aa7f=_0x489f87[_0x551347(0x56d)]()+'-'+_0xdc3199[_0xf9731[_0x551347(0x1a4)]()][_0x551347(0x250)](0x0,0x3)+'-'+_0x35d9f5[_0x551347(0x59c)]();return _0x15aa7f;}}}if(!is_null(gl_curr_process_plan)&&compare_objects(gl_curr_process_plan,_0x66de78)){if(_0x551347(0x58f)!==_0x551347(0x5d6))return await display_info(_0x551347(0x329)),!![];else _0x46de8a--;}if(!validate_qc_process_object(_0x66de78,_0x364d7d))return![];var _0x191d76=convert_qc_object_to_record(_0x66de78,_0x364d7d);try{if(_0x551347(0x35a)==='wrNQW'){var _0x5ec828=db[_0x551347(0x33b)](_0x551347(0x1c8))['doc'](company_id)[_0x551347(0x33b)](_0x551347(0x5b8))['doc'](_0x364d7d);let _0x45399a=await _0x5ec828['set'](_0x191d76);return gl_model_list['indexOf'](_0x364d7d)<0x0&&(_0x551347(0x3b9)!==_0x551347(0x3b9)?(_0x1b7e9b(_0x551347(0x1d6)),_0x3fb665()):(_0x5ec828=db[_0x551347(0x33b)]('app')[_0x551347(0x4f5)](company_id)[_0x551347(0x33b)]('global')[_0x551347(0x4f5)](_0x551347(0x313)),_0x45399a=await _0x5ec828[_0x551347(0x611)]({'val':firebase[_0x551347(0x4fc)][_0x551347(0x1b9)][_0x551347(0x272)](_0x364d7d)}),gl_model_list[_0x551347(0x5a8)](_0x364d7d))),gl_curr_process_plan=_0x66de78,display_info(_0x551347(0x1a1)),!![];}else{const _0x34c79c=_0x47eb81[_0x551347(0xe4)](_0x2535ae);for(var _0x2f8373=0x0;_0x2f8373<_0x34c79c[_0x551347(0x2bb)];_0x2f8373++){(new _0x324575()-_0x4ed903[_0x34c79c[_0x2f8373]]['record_time'])/(0x3e8*0x3c*0x3c)>_0x366eb1&&(_0x56298b[_0x34c79c[_0x2f8373]][_0x551347(0x411)]=0x0);}return!![];}}catch(_0x5ae4d3){return display_error(_0x551347(0x428)),![];}}async function create_user_permission_object(_0x2e7339,_0x2600be,_0x2dc058,_0x1b91aa,_0x1704c6,_0x1d02bf){var _0x4bb32e=_0x390981;start_loading();if(gl_user_permission[_0x4bb32e(0x464)]!=0x1&&gl_user_permission[section_permission_list['Configure\x20Users']]==permission_list_no_yes[0x0])return display_error(_0x4bb32e(0x17d)),![];user_email=document[_0x4bb32e(0x610)](_0x1704c6)[_0x4bb32e(0x427)];var _0x27809a={},_0x3ddbd1=Object[_0x4bb32e(0xe4)](section_permission_list);if(is_null(gl_current_operations_list))gl_current_operations_list=await read_production_operations_list();var _0x148f87=Object['keys'](gl_current_operations_list);for(var _0x1ab71e=0x0;_0x1ab71e<_0x3ddbd1['length'];_0x1ab71e++){if(_0x4bb32e(0x1e3)!==_0x4bb32e(0x1e3))return _0x48dbbb(_0x4bb32e(0x5ee)),![];else{var _0x427228=section_permission_list[_0x3ddbd1[_0x1ab71e]],_0x2d81a4=_0x2e7339[_0x4bb32e(0x2df)][_0x1ab71e]['childNodes'][0x1][_0x4bb32e(0x1fc)];_0x2d81a4=permission_list_no_yes['indexOf'](_0x2d81a4);if(user_email==gl_curr_user_details[_0x4bb32e(0x130)]&&_0x427228==section_permission_list['Configure\x20Users'])_0x2d81a4=gl_user_permission[_0x427228];_0x27809a[_0x427228]=_0x2d81a4;}}for(var _0x1ab71e=0x0;_0x1ab71e<_0x148f87[_0x4bb32e(0x2bb)];_0x1ab71e++){var _0x427228=_0x148f87[_0x1ab71e]+'_an',_0x2d81a4=_0x2600be[_0x4bb32e(0x2df)][_0x1ab71e][_0x4bb32e(0x2df)][0x1][_0x4bb32e(0x1fc)];_0x2d81a4=permission_list_no_yes[_0x4bb32e(0x2aa)](_0x2d81a4),_0x27809a[_0x427228]=_0x2d81a4;}for(var _0x1ab71e=0x0;_0x1ab71e<0x1;_0x1ab71e++){var _0x427228=_0x4bb32e(0x46b),_0x2d81a4=_0x2dc058[_0x4bb32e(0x2df)][_0x1ab71e][_0x4bb32e(0x2df)][0x1][_0x4bb32e(0x1fc)];_0x2d81a4=permission_list_access[_0x4bb32e(0x2aa)](_0x2d81a4),_0x27809a[_0x427228]=_0x2d81a4;}for(var _0x1ab71e=0x0;_0x1ab71e<_0x148f87[_0x4bb32e(0x2bb)];_0x1ab71e++){var _0x427228=_0x148f87[_0x1ab71e],_0x2d81a4=_0x1b91aa['childNodes'][_0x1ab71e][_0x4bb32e(0x2df)][0x1][_0x4bb32e(0x1fc)];_0x2d81a4=permission_list_access['indexOf'](_0x2d81a4),_0x27809a[_0x427228]=_0x2d81a4;}if(!validate_user_permission_obj(_0x27809a)){if(_0x4bb32e(0x118)==='zpRdU'){if(_0x2cccd4(_0x5ef739))return'';var _0x42c070;if(!_0x34b627(_0x3d0d89[_0x4bb32e(0x27b)])&&(!_0x1ef032(_0x4e12e9[_0x4bb32e(0x515)])||_0x48631d['nanoseconds']==0x0))_0x42c070=new _0x15f62[(_0x4bb32e(0x4fc))][(_0x4bb32e(0xef))](_0xea26d5[_0x4bb32e(0x27b)],_0x505e9c['nanoseconds'])[_0x4bb32e(0x14f)]();else{if(!_0x18aaee(_0x321363['_seconds'])&&(!_0x6cbab6(_0xb48096[_0x4bb32e(0x32f)])||_0x143943[_0x4bb32e(0x32f)]==0x0))_0x42c070=new _0x5516e1[(_0x4bb32e(0x4fc))]['Timestamp'](_0x3333b3['_seconds'],_0x349c82[_0x4bb32e(0x32f)])[_0x4bb32e(0x14f)]();else _0x42c070=new _0x534898(_0x39a23f);}if(_0x5c22ad==0x1)return _0x42c070;if(_0x314762==0x2){var _0x4018be=_0x42c070['getDate']()+'-'+_0x1697d2[_0x42c070[_0x4bb32e(0x1a4)]()][_0x4bb32e(0x250)](0x0,0x3)+'-'+_0x42c070[_0x4bb32e(0x59c)]();return _0x4018be;}var _0x4018be=_0x42c070[_0x4bb32e(0x315)]()+',\x20'+_0x42c070[_0x4bb32e(0x553)]();return _0x4018be;}else return display_error('Operation\x20failed.\x20Please\x20try\x20again\x20later.'),![];}if(is_null(_0x1d02bf))_0x1d02bf={};if(compare_objects(_0x27809a,_0x1d02bf)==!![])return display_info('Data\x20already\x20saved'),!![];var _0x376ea5=db[_0x4bb32e(0x33b)](_0x4bb32e(0x1c8))[_0x4bb32e(0x4f5)](company_id)[_0x4bb32e(0x33b)](_0x4bb32e(0x1bb))[_0x4bb32e(0x4f5)](user_email);try{await _0x376ea5['update'](_0x27809a);if(user_email==gl_curr_user_details['email']){if('huzTt'!=='huzTt')return _0x258832(_0x4bb32e(0x42a)),_0x377677(),![];else window[_0x4bb32e(0x11f)][_0x4bb32e(0x5cd)](),display_info(_0x4bb32e(0x1a1));}else _0x4bb32e(0x129)===_0x4bb32e(0x33a)?(_0x129a2e=_0x500424[_0x4bb32e(0x48c)](_0x4bb32e(0x627)),_0x2c8daa[_0x4bb32e(0x4e7)]=_0x4bb32e(0x483),_0x6d4918['className']=_0x4bb32e(0x125),_0x2afd7c[_0x4bb32e(0x590)]='Min\x20Value',_0x248111['maxLength']=_0x368f9b,_0xad5000=_0x36bf69[_0x4bb32e(0x48c)](_0x4bb32e(0x627)),_0x268a3d[_0x4bb32e(0x4e7)]=_0x4bb32e(0x483),_0x1bfa0f[_0x4bb32e(0x101)]=_0x4bb32e(0x3d5),_0x5dc7ed['placeholder']='Max\x20Value',_0x158046['maxLength']=_0x309869,_0x3d252a=_0x40d718[_0x4bb32e(0x48c)]('p'),_0x3ab9f0[_0x4bb32e(0x602)]=_0x4bb32e(0x40d),_0x2113b6[_0x4bb32e(0x101)]='col-sm-12\x20text-primary\x20text-wrap',_0x5b8dbd=_0x9e35c7['createElement']('hr'),_0x53fa14[_0x4bb32e(0x101)]=_0x4bb32e(0x351)):(initialize_user_permission_section(),display_info('Data\x20saved\x20successfully'));return!![];}catch(_0x20631b){if(_0x4bb32e(0x415)===_0x4bb32e(0x1ed)){let _0x3cd736=_0x51b662['getElementById'](_0x212449);while(_0x3cd736[_0x4bb32e(0x3e1)])_0x3cd736[_0x4bb32e(0x409)](_0x3cd736[_0x4bb32e(0x1d9)]);return!![];}else return console[_0x4bb32e(0x5f1)](_0x20631b),display_error(_0x4bb32e(0x428)),![];}}async function create_new_user(_0x1cb7b6,_0x250745){var _0x5d2aea=_0x390981;start_loading();var _0x9ec159=document['getElementById'](_0x1cb7b6)[_0x5d2aea(0x1fc)],_0x7a197e=document[_0x5d2aea(0x610)](_0x250745)['value'];if(gl_user_permission[_0x5d2aea(0x464)]!=0x1&&gl_user_permission[section_permission_list[_0x5d2aea(0x1bf)]]!=0x1)return display_error(_0x5d2aea(0x625)),![];else{if(!validate_input(_0x9ec159)||!validate_input(_0x7a197e))return display_error(_0x5d2aea(0x14c)),![];else{if(!validate_email(_0x9ec159))return display_error('Please\x20enter\x20a\x20valid\x20email'),![];else{if(_0x7a197e[_0x5d2aea(0x2bb)]<0xa)return _0x5d2aea(0x501)===_0x5d2aea(0x103)?(_0x134c3e(_0x2e791b[_0x5d2aea(0x286)]),![]):(display_error('Password\x20should\x20be\x20minimum\x2010\x20characters'),![]);else{if(gl_user_list[_0x5d2aea(0x2aa)](_0x9ec159)>=0x0)return display_info(_0x5d2aea(0xe9)),![];}}}}try{if(_0x5d2aea(0x51e)==='jzLbU'){const _0x4ea273=functions[_0x5d2aea(0x40e)](_0x5d2aea(0x2a9));var _0x359549=await _0x4ea273({'email':_0x9ec159,'password':_0x7a197e});if(gl_user_list[_0x5d2aea(0x2aa)](_0x9ec159)<0x0)gl_user_list[_0x5d2aea(0x5a8)](_0x9ec159);initialize_user_permission_section(),display_info('User\x20created\x20successfully');}else _0x3edfcf=new _0x3ca446(_0x332f8c),_0x4bbc8f=new _0x4ddbe9(_0x311d38);}catch(_0x35d058){return display_error(_0x35d058[_0x5d2aea(0x286)]),![];}}async function delete_user(_0x62cde6){var _0x3fbe1a=_0x390981;start_loading();try{if('MhOCC'!==_0x3fbe1a(0x5e6)){var _0x5ef19e=document[_0x3fbe1a(0x610)](_0x62cde6)[_0x3fbe1a(0x427)];if(_0x5ef19e==gl_curr_user_details['email'])return display_error(_0x3fbe1a(0x570)),![];if(gl_user_permission[_0x3fbe1a(0x464)]!=0x1&&gl_user_permission[section_permission_list[_0x3fbe1a(0x1bf)]]==0x0)return display_error(_0x3fbe1a(0x17d)),![];const _0x20b70b=db[_0x3fbe1a(0x33b)](_0x3fbe1a(0x1c8))[_0x3fbe1a(0x4f5)](company_id)[_0x3fbe1a(0x33b)](_0x3fbe1a(0x1bb))[_0x3fbe1a(0x4f5)](_0x5ef19e);var _0x2939ea=await _0x20b70b[_0x3fbe1a(0x170)]();return gl_user_list=remove_string_from_array(gl_user_list,_0x5ef19e),initialize_user_permission_section(!![]),display_info(_0x3fbe1a(0x161)),!![];}else _0x57e1f8[_0x509b9c]['dt']['toDate']()>=_0x54ba2a&&(_0x2b3613[_0x1f65d4]['dt']=_0x5eda05[_0x5a4f7b]['dt']['toDate'](),_0x16af53['push'](_0x5ea957[_0x1e1e02]));}catch(_0x3684f3){return display_error(_0x3fbe1a(0x4d9)),![];}}async function write_notification_list(_0x28cafe,_0x2587e1){var _0x3ee960=_0x390981,_0x36287c=[],_0x49bf6f=[];try{for(var _0x26886c=0x0;_0x26886c<_0x28cafe['length'];_0x26886c++){if(!validate_email(_0x28cafe[_0x26886c])&&_0x28cafe[_0x26886c]!=''){if(_0x3ee960(0x629)!==_0x3ee960(0x629))_0x179f25[_0x2a1618[_0x257bee][_0x3ee960(0xdc)]]='';else return display_error(_0x3ee960(0x43f)),![];}if(validate_email(_0x28cafe[_0x26886c]))_0x36287c[_0x3ee960(0x5a8)](_0x28cafe[_0x26886c]);}for(var _0x26886c=0x0;_0x26886c<_0x2587e1[_0x3ee960(0x2bb)];_0x26886c++){if(!validate_email(_0x2587e1[_0x26886c])&&_0x2587e1[_0x26886c]!='')return display_error(_0x3ee960(0x3b5)),![];if(validate_email(_0x2587e1[_0x26886c]))_0x49bf6f[_0x3ee960(0x5a8)](_0x2587e1[_0x26886c]);}var _0x1d59e7=db['collection'](_0x3ee960(0x1c8))['doc'](company_id)[_0x3ee960(0x33b)](_0x3ee960(0x43a))[_0x3ee960(0x4f5)](_0x3ee960(0x155)),_0x2c555d=await _0x1d59e7[_0x3ee960(0x611)]({'low_credit':_0x36287c,'maintenance':_0x49bf6f});return display_info(_0x3ee960(0x15b)),!![];}catch(_0x4232f7){if(_0x3ee960(0x485)!==_0x3ee960(0x3c9))return display_error('Notification\x20settings\x20could\x20not\x20be\x20updated.\x20Please\x20try\x20again\x20later.'),![];else _0x5a042e=![],_0x5a5c32['srcObject'][_0x3ee960(0x230)]()[_0x3ee960(0x4e4)](_0x346c54=>{var _0x2db813=_0x3ee960;_0x346c54[_0x2db813(0x355)]();});}}async function save_production_operation_list(){var _0x419684=_0x390981;start_loading();var _0x3666f6={},_0x2fe10a=document[_0x419684(0x610)](_0x419684(0x29c)),_0x54cf6f=_0x2fe10a[_0x419684(0x3e1)];for(var _0x17595c=0x0;_0x17595c<_0x54cf6f;_0x17595c++){var _0x13a430=_0x2fe10a['childNodes'][_0x17595c]['childNodes'][0x0]['childNodes'][0x1][_0x419684(0x1fc)],_0x3df26e=[],_0x6d37d4=_0x2fe10a['childNodes'][_0x17595c]['childNodes'][0x1];if(_0x13a430!==''){for(var _0x446919=0x0;_0x446919<_0x6d37d4[_0x419684(0x3e1)];_0x446919++){if(_0x419684(0x466)===_0x419684(0x4ba))return _0x207347('Operation\x20failed.\x20Please\x20try\x20again\x20later'),![];else{if(!is_null(_0x6d37d4['childNodes'][_0x446919][_0x419684(0x2df)][0x0]['value']))_0x3df26e['push'](_0x6d37d4[_0x419684(0x2df)][_0x446919][_0x419684(0x2df)][0x0][_0x419684(0x1fc)]);else return'tJfjs'!=='ELrDj'?(display_error(_0x419684(0x517)),![]):(_0x19f687(_0x419684(0x11a)),![]);}}_0x13a430=_0x13a430[_0x419684(0x11c)](),_0x13a430=_0x13a430[_0x419684(0x265)](0x0)[_0x419684(0x10f)]()+_0x13a430['slice'](0x1),_0x2fe10a[_0x419684(0x2df)][_0x17595c][_0x419684(0x2df)][0x0]['childNodes'][0x1]['value']=_0x13a430,_0x3666f6[_0x13a430]=_0x3df26e;}else return display_error(_0x419684(0x2ff)),await clear_unsaved_operations(),![];}if(!validate_proudction_operations_list(_0x3666f6))return![];var _0x1bca1b=db[_0x419684(0x33b)](_0x419684(0x1c8))['doc'](company_id)[_0x419684(0x33b)](_0x419684(0x43a))['doc'](_0x419684(0x3d1));try{if(_0x419684(0x5c8)===_0x419684(0x3c8))return _0x439c35(_0x419684(0x4ad)),![];else{let _0x12c114=await _0x1bca1b[_0x419684(0x5b1)](_0x3666f6);var _0x1b5c51=get_workstation_names_from_operations_obj(gl_current_operations_list),_0x2fcb1f=get_workstation_names_from_operations_obj(_0x3666f6);let _0x482d0e=_0x1b5c51[_0x419684(0x4da)](_0x4d7d0c=>_0x2fcb1f[_0x419684(0x2aa)](_0x4d7d0c)===-0x1);return await delete_maintenance_plan(_0x482d0e,0x1),gl_current_operations_list=_0x3666f6,display_info(_0x419684(0x1a1)),!![];}}catch(_0xa68e41){return _0x419684(0x5a4)!==_0x419684(0x5a4)?(_0x3e9b4f('Data\x20corrupted\x203.\x20Please\x20refresh\x20and\x20try\x20again.'),![]):(console['log'](_0xa68e41),display_error('Operation\x20failed.\x20Please\x20try\x20again\x20later.'),![]);}}async function write_serial_number(_0x42ff1c,_0x528a74){var _0x589bda=_0x390981;try{if(_0x589bda(0x158)!==_0x589bda(0x537)){var _0x51f980=db[_0x589bda(0x33b)](_0x589bda(0x1c8))['doc'](company_id)[_0x589bda(0x33b)](_0x589bda(0x5b8))['doc'](_0x528a74),_0x232293=await _0x51f980['get']();_0x232293=_0x232293['data']();if(is_null(_0x232293))return display_error('Serial\x20number\x20could\x20not\x20be\x20created.'),![];else _0x589bda(0x366)===_0x589bda(0x5c9)?(_0x44a5dc[_0x589bda(0x610)](_0x589bda(0x2d5))[_0x589bda(0x214)][_0x589bda(0x138)]=_0x589bda(0x608),_0x413a04[_0x589bda(0x610)](_0x589bda(0x255))['style'][_0x589bda(0x138)]=_0x589bda(0x43b)):(_0x232293['Basic\x20Info'][_0x589bda(0x467)]=_0x42ff1c,_0x232293[_0x589bda(0x46b)][_0x589bda(0x31f)]=firebase['firestore'][_0x589bda(0x1b9)]['serverTimestamp'](),_0x232293['Basic\x20Info'][_0x589bda(0x482)]=_0x232293['Basic\x20Info'][_0x589bda(0x167)][0x0],_0x232293[_0x589bda(0x46b)][_0x589bda(0xd8)]=gl_curr_user_details['email']);_0x51f980=db['collection'](_0x589bda(0x1c8))[_0x589bda(0x4f5)](company_id)['collection'](_0x589bda(0x29e))[_0x589bda(0x4f5)](_0x42ff1c);var _0x445639=await _0x51f980[_0x589bda(0x5b1)](_0x232293);return!![];}else{var _0x8db5d8=_0xbf9824[_0x589bda(0x610)](_0x37d3bd),_0x31d0eb=_0x8db5d8['childElementCount'];if(_0x31d0eb+0x1>_0x5a5623)_0x3b8192(_0x589bda(0x41e)+_0x4060fc+_0x589bda(0x478));else{var _0x207fb7=_0x57c007[_0x589bda(0x48c)](_0x589bda(0x20f));_0x207fb7['className']=_0x589bda(0x325);var _0x4db9c3=_0x157057[_0x589bda(0x48c)]('p');_0x4db9c3[_0x589bda(0x101)]=_0x589bda(0x12a),_0x4db9c3[_0x589bda(0x602)]='Parameter\x20Name';var _0x2515c6=_0x40c20e[_0x589bda(0x48c)](_0x589bda(0x627));_0x2515c6[_0x589bda(0x4e7)]=_0x589bda(0x483),_0x2515c6[_0x589bda(0x101)]=_0x589bda(0x407),_0x2515c6[_0x589bda(0x590)]=_0x589bda(0x193),_0x2515c6[_0x589bda(0x190)]=_0x2874e4;var _0x5db743=_0x361bc3[_0x589bda(0x48c)]('p');_0x5db743[_0x589bda(0x101)]=_0x589bda(0x12a),_0x5db743[_0x589bda(0x602)]='Parameter\x20Criticality';var _0x2b29b8=_0x4d27b5[_0x589bda(0x48c)](_0x589bda(0x3ad));_0x2b29b8[_0x589bda(0x101)]='custom-select\x20mb-2\x20text-center\x20col-sm-6',_0x4755f2(_0x2b29b8,_0x50d73e);var _0x394708=_0x311c37[_0x589bda(0x48c)]('p');_0x394708[_0x589bda(0x101)]='col-sm-6\x20mb-2\x20text-dark',_0x394708['innerText']=_0x589bda(0x358);var _0x30163f=_0x12d311[_0x589bda(0x48c)]('input');_0x30163f['type']=_0x589bda(0x483),_0x30163f[_0x589bda(0x101)]='form-control\x20mb-2\x20col-sm-6\x20input-lg\x20text-center',_0x30163f[_0x589bda(0x590)]=_0x589bda(0x204),_0x30163f['maxLength']=_0x4e681c;var _0x32405f=_0x47943a['createElement']('p');_0x32405f['className']=_0x589bda(0x12a),_0x32405f[_0x589bda(0x602)]=_0x589bda(0x492);var _0x17048e=_0x4fe47b[_0x589bda(0x48c)]('input');_0x17048e[_0x589bda(0x4e7)]='text',_0x17048e[_0x589bda(0x101)]=_0x589bda(0x407),_0x17048e['placeholder']=_0x589bda(0x492),_0x17048e[_0x589bda(0x190)]=_0x12a845;var _0x5180d4=_0x3768d1[_0x589bda(0x48c)]('p');_0x5180d4['className']=_0x589bda(0x12a),_0x5180d4['innerText']=_0x589bda(0x17e);var _0x2e4635=_0x12f33e[_0x589bda(0x48c)]('input');_0x2e4635[_0x589bda(0x4e7)]=_0x589bda(0x62b),_0x2e4635[_0x589bda(0x101)]=_0x589bda(0x407),_0x2e4635['placeholder']='Measurement\x20Frequency',_0x2e4635[_0x589bda(0x217)]=0x1,_0x2e4635[_0x589bda(0x1fc)]=0x1,_0x2e4635[_0x589bda(0x190)]=_0x11f9a9;var _0xb9292a=_0x1c5cb1[_0x589bda(0x48c)]('p');_0xb9292a['className']=_0x589bda(0x12a),_0xb9292a[_0x589bda(0x602)]='Parameter\x20Type';var _0x35a6c4=_0x10cb49[_0x589bda(0x48c)](_0x589bda(0x3ad));_0x35a6c4[_0x589bda(0x101)]=_0x589bda(0x135);var _0x115ca9=_0x49edeb[_0x589bda(0x48c)](_0x589bda(0x25a));_0x115ca9['innerText']=_0x458baf[0x0];var _0x5c2ec1=_0x3f6e27[_0x589bda(0x48c)](_0x589bda(0x25a));_0x5c2ec1['innerText']=_0x323b60[0x1];var _0x517670=_0x16d9b1[_0x589bda(0x48c)]('option');_0x517670['innerText']=_0x120542[0x2];var _0x22507e=_0x52929d['createElement'](_0x589bda(0x25a));return _0x22507e[_0x589bda(0x602)]=_0x2c0509[0x3],_0x35a6c4[_0x589bda(0x357)](_0x115ca9),_0x35a6c4['appendChild'](_0x5c2ec1),_0x35a6c4[_0x589bda(0x357)](_0x517670),_0x35a6c4[_0x589bda(0x357)](_0x22507e),_0x207fb7[_0x589bda(0x357)](_0x4db9c3),_0x207fb7[_0x589bda(0x357)](_0x2515c6),_0x207fb7['appendChild'](_0x5db743),_0x207fb7[_0x589bda(0x357)](_0x2b29b8),_0x207fb7[_0x589bda(0x357)](_0x394708),_0x207fb7[_0x589bda(0x357)](_0x30163f),_0x207fb7[_0x589bda(0x357)](_0x32405f),_0x207fb7[_0x589bda(0x357)](_0x17048e),_0x207fb7[_0x589bda(0x357)](_0x5180d4),_0x207fb7[_0x589bda(0x357)](_0x2e4635),_0x207fb7[_0x589bda(0x357)](_0xb9292a),_0x207fb7[_0x589bda(0x357)](_0x35a6c4),_0x2eab1c(_0x207fb7,_0x35a6c4['value']),_0x35a6c4[_0x589bda(0x2c9)](_0x589bda(0x3f3),function(){var _0x2f5cbf=_0x589bda;_0x1c94f6(_0x207fb7,_0x35a6c4[_0x2f5cbf(0x1fc)]);},![]),_0x8db5d8[_0x589bda(0x357)](_0x207fb7),_0x207fb7;}}}catch(_0x49f729){return display_error('Serial\x20Number\x20record\x20could\x20not\x20be\x20created.\x20Please\x20check\x20if\x20you\x20have\x20sufficient\x20credits\x20remaining\x20&\x20subscription\x20is\x20not\x20expired.'),![];}}async function delete_serial_number(_0x48f0e7){var _0x1b24af=_0x390981;try{if(_0x1b24af(0x2f8)==='CqkKI')_0x25d6ba[_0x1d19bf[_0x2d36a3]]['log']['entry_dt']=_0x456230[_0x154f79[_0x1dae9b]]['log']['entry_dt'][_0x1b24af(0x14f)]();else{dbref=db[_0x1b24af(0x33b)](_0x1b24af(0x1c8))[_0x1b24af(0x4f5)](company_id)[_0x1b24af(0x33b)]('records')[_0x1b24af(0x4f5)](_0x48f0e7);var _0x2752d6=await dbref['delete']();return display_info(_0x1b24af(0x5aa)+_0x48f0e7+_0x1b24af(0xf0)),!![];}}catch(_0x61ec7d){return display_error(_0x1b24af(0x5aa)+_0x48f0e7+'\x20could\x20not\x20be\x20deleted.\x20Please\x20check\x20if\x20it\x20exists\x20&\x20no\x20information\x20is\x20entered'),![];}}async function read_serial_number_record(_0x3e011e){var _0x3e0818=_0x390981,_0xe42bf1=db[_0x3e0818(0x33b)](_0x3e0818(0x1c8))[_0x3e0818(0x4f5)](company_id)['collection'](_0x3e0818(0x29e)),_0x2780fd=await _0xe42bf1[_0x3e0818(0x4f5)](_0x3e011e)[_0x3e0818(0x4b6)]();if(!_0x2780fd[_0x3e0818(0x4b9)]||is_null(_0x2780fd[_0x3e0818(0x3f9)]()))return![];else{_0x2780fd=_0x2780fd[_0x3e0818(0x3f9)]();var _0xc272ec=_0x2780fd[_0x3e0818(0x46b)]['op_order'],_0x310cc4={};_0x310cc4[_0x3e0818(0x46b)]=_0x2780fd['Basic\x20Info'];for(var _0x36e8f3=0x0;_0x36e8f3<_0xc272ec[_0x3e0818(0x2bb)];_0x36e8f3++){_0x310cc4[_0xc272ec[_0x36e8f3]]=_0x2780fd[_0xc272ec[_0x36e8f3]];}return _0x310cc4;}}async function read_model_list(){var _0x5b3850=_0x390981,_0x2b11c9=db[_0x5b3850(0x33b)]('app')[_0x5b3850(0x4f5)](company_id)[_0x5b3850(0x33b)]('global'),_0x5ece12=await _0x2b11c9['doc'](_0x5b3850(0x313))[_0x5b3850(0x4b6)]();if(!_0x5ece12[_0x5b3850(0x4b9)]||is_null(_0x5ece12[_0x5b3850(0x3f9)]()))return[];else return _0x5ece12=await _0x5ece12[_0x5b3850(0x3f9)]()[_0x5b3850(0x4b7)],_0x5ece12;}async function read_production_operations_list(){var _0x9c5b58=_0x390981,_0xa35514=db[_0x9c5b58(0x33b)](_0x9c5b58(0x1c8))[_0x9c5b58(0x4f5)](company_id)[_0x9c5b58(0x33b)](_0x9c5b58(0x43a)),_0x4788a7=await _0xa35514[_0x9c5b58(0x4f5)]('operation_list')[_0x9c5b58(0x4b6)]();if(!_0x4788a7[_0x9c5b58(0x4b9)]||is_null(_0x4788a7[_0x9c5b58(0x3f9)]()))return[];else{if(_0x9c5b58(0x331)===_0x9c5b58(0x331)){_0x4788a7=_0x4788a7[_0x9c5b58(0x3f9)]();var _0x3029eb=Object['keys'](_0x4788a7);_0x3029eb=_0x3029eb[_0x9c5b58(0x57a)]();var _0x31a396={};for(var _0x5c2359=0x0;_0x5c2359<_0x3029eb[_0x9c5b58(0x2bb)];_0x5c2359++){'ULHTJ'===_0x9c5b58(0x1b0)?_0x31a396[_0x3029eb[_0x5c2359]]=_0x4788a7[_0x3029eb[_0x5c2359]]:_0x576406[_0x10681a[_0x36a169]]=_0x5841f8[_0x349464[_0x21e948]];}return _0x31a396;}else return _0x66e7ba(_0x9c5b58(0x5f6)),![];}}async function read_qc_plan(_0x3f8e4c){var _0x41ccee=_0x390981,_0x33bdec=db[_0x41ccee(0x33b)](_0x41ccee(0x1c8))['doc'](company_id)[_0x41ccee(0x33b)](_0x41ccee(0x5b8)),_0x5c712a=await _0x33bdec[_0x41ccee(0x4f5)](_0x3f8e4c)[_0x41ccee(0x4b6)]();if(!_0x5c712a[_0x41ccee(0x4b9)]||is_null(_0x5c712a[_0x41ccee(0x3f9)]()))return{};else{if(_0x41ccee(0xf9)===_0x41ccee(0x1e2))return _0x2df6aa(_0x22931a[_0x41ccee(0x286)]),![];else{var _0x121c62=_0x5c712a[_0x41ccee(0x3f9)](),_0x3695c2=_0x121c62[_0x41ccee(0x46b)]['op_order'],_0x5733c7={};for(var _0x1de56b=0x0;_0x1de56b<_0x3695c2['length'];_0x1de56b++){if(_0x41ccee(0x44a)!==_0x41ccee(0x44a)){var _0x45f8e3=_0x1255ac?function(){var _0x4a4b91=_0x41ccee;if(_0x1e47fc){var _0xa140de=_0x4290dd[_0x4a4b91(0x449)](_0xf057aa,arguments);return _0x385cfe=null,_0xa140de;}}:function(){};return _0x32f294=![],_0x45f8e3;}else _0x3695c2[_0x1de56b]!=_0x41ccee(0x46b)&&(_0x5733c7[_0x3695c2[_0x1de56b]]={},_0x5733c7[_0x3695c2[_0x1de56b]][_0x41ccee(0x267)]=_0x121c62[_0x3695c2[_0x1de56b]]['cycle_time'],_0x5733c7[_0x3695c2[_0x1de56b]][_0x41ccee(0x5f2)]=_0x121c62[_0x3695c2[_0x1de56b]][_0x41ccee(0x5f2)]);}return _0x5733c7;}}}async function read_maintenance_plan(_0x3b1337){var _0x469e3e=_0x390981,_0x5ca767=db[_0x469e3e(0x33b)]('app')[_0x469e3e(0x4f5)](company_id)[_0x469e3e(0x33b)](_0x469e3e(0x3bc)),_0x1c3505=await _0x5ca767[_0x469e3e(0x4f5)](_0x3b1337)[_0x469e3e(0x4b6)]();if(!_0x1c3505['exists']||is_null(_0x1c3505[_0x469e3e(0x3f9)]()))return{};else return _0x1c3505[_0x469e3e(0x3f9)]();}async function read_global_maintenance_updates(){var _0x2bd4f6=_0x390981,_0x31f2f9=db[_0x2bd4f6(0x33b)]('app')[_0x2bd4f6(0x4f5)](company_id)[_0x2bd4f6(0x33b)](_0x2bd4f6(0x43a))[_0x2bd4f6(0x4f5)](_0x2bd4f6(0x115)),_0x53c8b8=await _0x31f2f9['get']();if(!_0x53c8b8[_0x2bd4f6(0x4b9)]||is_null(_0x53c8b8['data']()))return{};else return _0x53c8b8[_0x2bd4f6(0x3f9)]();}async function read_credit_balance(){var _0x4a1b56=_0x390981,_0x5def64=db[_0x4a1b56(0x33b)](_0x4a1b56(0x1c8))[_0x4a1b56(0x4f5)](company_id)[_0x4a1b56(0x33b)](_0x4a1b56(0x1b4))['doc']('0'),_0x35c7d4=await _0x5def64[_0x4a1b56(0x4b6)]();if(!_0x35c7d4[_0x4a1b56(0x4b9)]||is_null(_0x35c7d4['data']()))return'-';else return _0x35c7d4['data']();}async function read_other_user_permsission(_0x3bbe2b){var _0x2636bf=_0x390981,_0x23a48a=db[_0x2636bf(0x33b)](_0x2636bf(0x1c8))['doc'](company_id)[_0x2636bf(0x33b)](_0x2636bf(0x1bb)),_0x47f5fd=await _0x23a48a[_0x2636bf(0x4f5)](_0x3bbe2b)[_0x2636bf(0x4b6)]();if(!_0x47f5fd[_0x2636bf(0x4b9)]||is_null(_0x47f5fd[_0x2636bf(0x3f9)]()))return{};else return _0x47f5fd[_0x2636bf(0x3f9)]();}async function read_user_permission(){var _0x7cd384=_0x390981,_0x4bf9a0=gl_curr_user_details['email'],_0x32a435=db['collection'](_0x7cd384(0x1c8))[_0x7cd384(0x4f5)](company_id)[_0x7cd384(0x33b)](_0x7cd384(0x1bb))[_0x7cd384(0x4f5)](_0x4bf9a0),_0x165293=await _0x32a435[_0x7cd384(0x4b6)]();if(!_0x165293[_0x7cd384(0x4b9)]||is_null(_0x165293[_0x7cd384(0x3f9)]()))return{};else return _0x165293['data']();}async function read_user_list(){var _0x3f25a3=_0x390981,_0x2846a4=db[_0x3f25a3(0x33b)](_0x3f25a3(0x1c8))['doc'](company_id)[_0x3f25a3(0x33b)](_0x3f25a3(0x43a)),_0xaae2d2=await _0x2846a4[_0x3f25a3(0x4f5)](_0x3f25a3(0x5dc))[_0x3f25a3(0x4b6)]();if(!_0xaae2d2[_0x3f25a3(0x4b9)]||is_null(_0xaae2d2[_0x3f25a3(0x3f9)]()['val']))return[];else return _0xaae2d2[_0x3f25a3(0x3f9)]()[_0x3f25a3(0x4b7)];}async function read_notification_subscribers_list(){var _0x577539=_0x390981,_0x4bdcae=db[_0x577539(0x33b)](_0x577539(0x1c8))[_0x577539(0x4f5)](company_id)[_0x577539(0x33b)](_0x577539(0x43a)),_0xbbb949=await _0x4bdcae[_0x577539(0x4f5)](_0x577539(0x155))[_0x577539(0x4b6)]();if(!_0xbbb949[_0x577539(0x4b9)]||is_null(_0xbbb949['data']()))return{};else return _0xbbb949[_0x577539(0x3f9)]();}async function subscribe_alert_notifications(){var _0xcb2413=_0x390981,_0x1a7bf9=db[_0xcb2413(0x33b)](_0xcb2413(0x1c8))[_0xcb2413(0x4f5)](company_id)['collection']('global');if(gl_disruption_alerts_is_subscribed==![])await _0x1a7bf9[_0xcb2413(0x4f5)](_0xcb2413(0x2c3))[_0xcb2413(0x4c5)](async function(_0x33fd44){var _0x35caff=_0xcb2413;if(!_0x33fd44['exists']||is_null(_0x33fd44[_0x35caff(0x3f9)]()))return console[_0x35caff(0x5f1)](_0x35caff(0x11b)),await alert_notification_update([]);else{var _0x27a50d=_0x33fd44[_0x35caff(0x3f9)]();const _0x11adc3=Object[_0x35caff(0xe4)](_0x27a50d);var _0x1289d6=[];for(var _0x1cf74f=0x0;_0x1cf74f<_0x11adc3[_0x35caff(0x2bb)];_0x1cf74f++){_0x1289d6[_0x35caff(0x5a8)]({'id':_0x11adc3[_0x1cf74f],'operation':_0x27a50d[_0x11adc3[_0x1cf74f]][_0x35caff(0x399)],'workstation':_0x27a50d[_0x11adc3[_0x1cf74f]][_0x35caff(0x15a)],'reason':_0x27a50d[_0x11adc3[_0x1cf74f]][_0x35caff(0x296)],'remark':_0x27a50d[_0x11adc3[_0x1cf74f]][_0x35caff(0x279)],'start_user':_0x27a50d[_0x11adc3[_0x1cf74f]]['start_user'],'start_time':new Date(decode_date(_0x27a50d[_0x11adc3[_0x1cf74f]][_0x35caff(0x617)],0x1))});}return gl_disruption_alerts_is_subscribed=!![],console['log'](_0x1289d6),await alert_notification_update(_0x1289d6);}});}async function await_loading(_0x8129b3,_0x2d529e='',_0xf4b532='',_0x3d1a16='',_0x3c87a0=''){var _0x18f5f3=_0x390981;let _0x13218c=!![];await start_loading();try{_0x18f5f3(0x612)===_0x18f5f3(0x342)?_0x3e7956['push']({'label':_0x4ca3d6[_0x2d2c5b],'data':_0x72744e[_0x3cfcad[_0x266057]],'stack':0x1,'backgroundColor':_0x14bcca<=_0x5e8681['length']?_0xc8e6d9[_0x2b89c5]:'#4E73DF','maxBarThickness':0x3c,'barThickness':_0x18f5f3(0x31d)}):_0x13218c=await _0x8129b3(_0x2d529e,_0xf4b532,_0x3d1a16,_0x3c87a0);}catch(_0x2ceb38){return console['log'](_0x2ceb38),display_error('Failed\x20to\x20load\x20request.\x20Please\x20check\x20your\x20internet\x20connection\x20and\x20try\x20again.'),![];}return await stop_loading(),_0x13218c;}navigation_helper('navigation_menu'),reset_sections(),scan_qr_update_serial_btn[_0x390981(0x49a)]=async function(){var _0x271673=_0x390981;await popup_scanner(document['getElementById'](_0x271673(0x50a)));},update_serial_btn['onclick']=async function(){var _0x3ee5b1=_0x390981;await await_loading(get_serial_history,_0x3ee5b1(0x50a));},create_serial_btn[_0x390981(0x49a)]=async function(){var _0x133233=setup_multi_serial_number_create_list();await await_loading(create_new_serial,_0x133233[0x0],_0x133233[0x1],_0x133233[0x2]);},delete_create_serial_btn[_0x390981(0x49a)]=async function(){var _0x4a8e73=_0x390981;await await_loading(remove_new_serial,document[_0x4a8e73(0x610)](_0x4a8e73(0x57f))[_0x4a8e73(0x1fc)]);},reset_create_serial_btn[_0x390981(0x49a)]=async function(){var _0x4c4617=_0x390981;if(gl_pending_multi_serial_number_create_list['length']>0x0){if(_0x4c4617(0x26c)!==_0x4c4617(0x607)){var _0x4a3d63=gl_pending_multi_serial_number_create_list['pop']();await await_loading(create_new_serial,_0x4a3d63);}else{var _0x3d6994=_0x296c0c[_0x4c4617(0x449)](_0x8d91e2,arguments);return _0x4778dc=null,_0x3d6994;}}else await reset_create_serial(_0x4c4617(0x40f));},navigation_menu_btn['onclick']=function(){var _0x16c70e=_0x390981;navigation_helper(_0x16c70e(0x1d6)),reset_sections();},navigation_update_serial_btn['onclick']=async function(){var _0x2e9bf9=_0x390981;await navigation_helper(_0x2e9bf9(0x51f));},navigation_dashboard_btn['onclick']=async function(){var _0x98dd8a=_0x390981;await initialize_dashboard(),navigation_helper(_0x98dd8a(0x360));},back_dashboard_menu_btn[_0x390981(0x49a)]=async function(){await initialize_dashboard(),navigation_helper('navigation_dashboard');},navigation_realtime_analytics_btn[_0x390981(0x49a)]=async function(){await await_loading(initialize_realtime_analytics_section),navigation_helper('navigation_realtime_analytics');},navigation_daily_operation_analytics_btn[_0x390981(0x49a)]=async function(){await await_loading(initialize_daily_operation_analytics_section),navigation_helper('navigation_daily_operation_analytics');},navigation_hourly_operation_analytics_btn['onclick']=async function(){var _0x223e45=_0x390981;await await_loading(initialize_hourly_operation_analytics_section),navigation_helper(_0x223e45(0x4ca));},navigation_wip_inventory_analytics_btn['onclick']=async function(){var _0x2b6094=_0x390981;await await_loading(initialize_wip_inventory_analytics_section),navigation_helper(_0x2b6094(0x1b5));},navigation_process_disruption_analytics_btn[_0x390981(0x49a)]=async function(){await await_loading(initialize_process_disruption_analytics_section),navigation_helper('navigation_process_disruption_analytics');},navigation_maintenance_history_analytics_btn['onclick']=async function(){await await_loading(initialize_maintenance_history_analytics_section),navigation_helper('navigation_maintenance_history_analytics');},navigation_operation_pending_jobs_btn[_0x390981(0x49a)]=async function(){var _0x5b3166=_0x390981;await await_loading(initialize_operation_pending_jobs_section),navigation_helper(_0x5b3166(0x1d2));},navigation_deviation_required_jobs_btn['onclick']=async function(){var _0x3491de=_0x390981;await await_loading(initialize_deviation_required_jobs_section),navigation_helper(_0x3491de(0x5b4));},navigation_download_job_records_btn[_0x390981(0x49a)]=async function(){await await_loading(initialize_download_job_records_section),navigation_helper('navigation_download_job_records');},navigation_create_serial_btn[_0x390981(0x49a)]=async function(){var _0x2fabb0=_0x390981;await await_loading(initialize_create_serial_section),navigation_helper(_0x2fabb0(0x43c));},navigation_process_disruptions_btn[_0x390981(0x49a)]=async function(){var _0x203b4f=_0x390981;await await_loading(initialize_process_disruption_section),navigation_helper(_0x203b4f(0x52a));},navigation_maintenance_updates_btn['onclick']=async function(){var _0x41d8ed=_0x390981;await await_loading(initialize_maintenance_updates_section),navigation_helper(_0x41d8ed(0x53d));},navigation_configure_settings_btn['onclick']=async function(){navigation_helper('navigation_configure_settings_section');},back_configure_settings_menu_btn['onclick']=async function(){navigation_helper('navigation_configure_settings_section');},navigation_configure_production_operations_btn[_0x390981(0x49a)]=async function(){var _0x4e32f7=_0x390981;await await_loading(initialize_production_operation_section),navigation_helper(_0x4e32f7(0x231));},navigation_model_qc_plans_btn[_0x390981(0x49a)]=async function(){var _0x4ab46d=_0x390981;await await_loading(initialize_create_qc_plan_section),navigation_helper(_0x4ab46d(0x3df));},navigation_configure_maintenance_schedule_btn[_0x390981(0x49a)]=async function(){await await_loading(initialize_configure_maintenance_plan_section),navigation_helper('navigation_configure_maintenance_schedule');},navigation_configure_notifications_btn[_0x390981(0x49a)]=async function(){var _0x19b0f7=_0x390981;await await_loading(initialize_configure_notifications_section),navigation_helper(_0x19b0f7(0x1a7));},navigation_user_permission_btn[_0x390981(0x49a)]=async function(){var _0x464137=_0x390981;await await_loading(initialize_user_permission_section),navigation_helper(_0x464137(0x13d));},navigation_view_credits_btn[_0x390981(0x49a)]=async function(){var _0x5b75ff=_0x390981;await await_loading(initialize_view_credits_section),navigation_helper(_0x5b75ff(0x551));},create_model_qc_plan_btn[_0x390981(0x49a)]=async function(){var _0xf86680=_0x390981;await await_loading(create_qc_plan_screen,_0xf86680(0x47f));},add_stage_qc_plan_btn[_0x390981(0x49a)]=async function(){await add_qc_stage();},remove_stage_qc_plan_btn[_0x390981(0x49a)]=async function(){await remove_qc_stage();},create_new_user_btn[_0x390981(0x49a)]=async function(){await await_loading(create_new_user,'email_user_permission_section','password_user_permission_section');},set_user_permission_btn['onclick']=async function(){var _0x52845e=_0x390981;await await_loading(create_user_permission_screen,_0x52845e(0x304));},add_production_operation_btn['onclick']=async function(){await add_production_operation_stage();},remove_production_operation_btn[_0x390981(0x49a)]=async function(){var _0x3d3ef7=_0x390981;await display_confirmation(_0x3d3ef7(0x437),remove_production_operation_stage);},save_production_operation_btn[_0x390981(0x49a)]=async function(){await save_production_operation_list();},logout_btn['onclick']=async function(){await sign_out_user();},process_plan_help[_0x390981(0x49a)]=function(){var _0x259c5a=_0x390981;display_help(_0x259c5a(0x356));},process_operation_help['onclick']=function(){var _0x43786f=_0x390981;display_help(_0x43786f(0x17b));},window[_0x390981(0x2c9)](_0x390981(0x613),()=>dismiss_all_modals()),window[_0x390981(0x2c9)](_0x390981(0x2d9),()=>display_offline_message());if(window['navigator'][_0x390981(0x4c7)]==![])display_offline_message();function display_offline_message(){var _0x5c9795=_0x390981;display_info_no_dismiss(_0x5c9795(0x576));}function get_dummy_records(_0x2a5c8f=0x0,_0xb1f96c=0xf){var _0x2f7901=_0x390981,_0x25db56=[];for(var _0x7c8754=Number(_0x2a5c8f);_0x7c8754<=Number(_0xb1f96c);_0x7c8754++){if(_0x2f7901(0x2d2)!==_0x2f7901(0x2d2)){let _0x143180=_0x53cd42['createElement']('tr'),_0x5405a3=_0xe2e6e['createElement']('td');_0x5405a3[_0x2f7901(0x602)]=_0x199371[_0x195f8c][_0x2f7901(0x399)],_0x143180['appendChild'](_0x5405a3);let _0x133b09=_0x28246e[_0x2f7901(0x48c)]('td');_0x133b09['innerText']=_0x4f8fbe[_0x1c041e][_0x2f7901(0x1f2)],_0x143180[_0x2f7901(0x357)](_0x133b09);let _0x57488a=_0x1fa08d[_0x2f7901(0x48c)]('td');_0x57488a[_0x2f7901(0x602)]=_0xad4d52[_0x5137b3][_0x2f7901(0x467)],_0x143180[_0x2f7901(0x357)](_0x57488a);let _0x3392ec=_0x123072['createElement']('td');_0x3392ec['innerText']=_0x15dd89[_0x2374af[_0x1e4696][_0x2f7901(0x2f2)]],_0x143180['appendChild'](_0x3392ec);let _0x413129=_0x395a3d[_0x2f7901(0x48c)]('td');var _0x329115=_0x44d93b[_0x2f7901(0x5f5)](new _0x3c1d11()-_0x4d533f(_0x225ff3[_0x58a278][_0x2f7901(0x5e4)],0x1))/(0x3e8*0x3c*0x3c*0x18);_0x413129['innerText']=_0x329115['toFixed'](0x0),_0x143180[_0x2f7901(0x357)](_0x413129);let _0x867e7c=_0x5378f0['createElement']('td');_0x867e7c['innerText']=_0x1e773d(_0x55a911[_0x5cd657][_0x2f7901(0x5e4)]),_0x143180[_0x2f7901(0x357)](_0x867e7c),_0x474c0b[_0x2f7901(0x357)](_0x143180);}else{var _0x133b9e=Math[_0x2f7901(0x27a)]();_0x133b9e=Math['round'](_0x133b9e);var _0x113510=Math['random']();_0x113510=Math[_0x2f7901(0x5cc)](_0x113510);var _0x4d141e=Math['random']();_0x4d141e=Math[_0x2f7901(0x5cc)](_0x4d141e);let _0x7cb7f5={[_0x2f7901(0x46b)]:{'serial':_0x7c8754,'model':_0x4d141e==0x0?'Model\x20X':_0x2f7901(0x5a3),'status':0x2,'external_id':_0x7c8754+_0x2f7901(0x37f),'current_op':_0x2f7901(0x3da),'pending_op':_0x2f7901(0xd6),'op_order':[_0x2f7901(0x3da),'Punching'],'update_type':0x1,'update_time':new Date(),'log':{'entry_dt':new Date(),'entry_by':_0x2f7901(0x21f),'update_dt':'','update_by':''}},['Bending']:{'workstation':_0x133b9e==0x0?'WS\x201':'WS\x202','cycle_time':0xa,'status':_0x133b9e==0x0?0x0:0x1,'param_list':[{'name':_0x2f7901(0x254),'type':'Numeric\x20Range','level':'Minor','value1':0xa,'value2':0xc,'link':_0x2f7901(0xec),'method':_0x2f7901(0x37e)},{'name':_0x2f7901(0x41b),'type':_0x2f7901(0x44e),'level':_0x2f7901(0x3d3),'value1':'Yes','value2':_0x2f7901(0x341),'link':_0x2f7901(0xec),'method':_0x2f7901(0x37e)},{'name':_0x2f7901(0x543),'type':data_types[0x2],'level':'Major','value1':'Model\x20A','value2':'','link':_0x2f7901(0xec),'method':_0x2f7901(0x37e)},{'name':'Param4','type':data_types[0x3],'level':'Major','value1':_0x2f7901(0x53e),'value2':'','link':_0x2f7901(0xec),'method':_0x2f7901(0x37e)}],'log':{'entry_dt':_0x113510==0x0?new Date():new Date(_0x2f7901(0x340)),'entry_by':_0x2f7901(0x160),'update_dt':new Date(),'update_by':_0x2f7901(0x160),'deviation_dt':new Date(),'deviation_by':_0x2f7901(0x12f),'remark':_0x2f7901(0x22b)},'actual_value':{'Param1':_0x133b9e==0x0?0xa:0xb,'Param2':'Yes','Param3':_0x133b9e==0x0?_0x2f7901(0x4cf):_0x2f7901(0x32b),'Param4':'test'}},[_0x2f7901(0xd6)]:{'workstation':'','cycle_time':0xa,'status':_0x133b9e==0x0?0x1:0x3,'param_list':[{'name':_0x2f7901(0x254),'type':_0x2f7901(0x4c0),'level':'Minor','value1':0xa,'value2':0xc,'link':'https://web.com','method':_0x2f7901(0x37e)},{'name':_0x2f7901(0x41b),'type':_0x2f7901(0x44e),'level':_0x2f7901(0x3d3),'value1':_0x2f7901(0x232),'value2':_0x2f7901(0x341),'link':'https://web.com','method':_0x2f7901(0x37e)},{'name':_0x2f7901(0x543),'type':data_types[0x2],'level':_0x2f7901(0x3d3),'value1':'Model\x20B','value2':'','link':_0x2f7901(0xec),'method':'visual'},{'name':'Param4','type':data_types[0x3],'level':_0x2f7901(0x3d3),'value1':_0x2f7901(0x53e),'value2':'','link':_0x2f7901(0xec),'method':_0x2f7901(0x37e)}],'log':{'entry_dt':'','entry_by':'','update_dt':'','update_by':'','deviation_dt':'','deviation_by':'','remark':_0x2f7901(0x22b)},'actual_value':{'Param1':_0x133b9e==0x0?0xc:0xb,'Param2':_0x133b9e==0x0?_0x2f7901(0x232):'No','Param3':_0x133b9e==0x0?_0x2f7901(0x32b):'Model\x20A','Param4':_0x2f7901(0xf6)}}};_0x25db56[_0x2f7901(0x5a8)](_0x7cb7f5);}}return _0x25db56;}function _0x100238(_0x21d4f3){var _0x2542ad=_0x390981;function _0x3fc61(_0x809271){var _0x432d8f=_0x577e;if(typeof _0x809271===_0x432d8f(0x1dc)){if('kzwKP'!==_0x432d8f(0x5cf)){if(_0xe93a02['section']==_0x432d8f(0x557)&&_0x42dffe[_0x432d8f(0x321)][_0x432d8f(0x264)]==0x6&&_0x21f2f5[_0x432d8f(0x257)][_0x432d8f(0x3fb)]=='OK')_0x563174[_0x432d8f(0x257)][_0x432d8f(0x5bb)][_0x432d8f(0x19a)]=_0x432d8f(0x13f),_0x5ab75b['cell'][_0x432d8f(0x5bb)][_0x432d8f(0x295)]=_0x432d8f(0x2ba);else{if(_0x3cf697['section']==_0x432d8f(0x557)&&_0xf437b4['column'][_0x432d8f(0x264)]==0x6&&_0x5186be[_0x432d8f(0x257)][_0x432d8f(0x3fb)]==_0x432d8f(0x2b6))_0x59d1a8[_0x432d8f(0x257)]['styles']['fillColor']='#FFC7CE',_0x5c4609[_0x432d8f(0x257)][_0x432d8f(0x5bb)][_0x432d8f(0x295)]=_0x432d8f(0x26b);else _0x2953b7[_0x432d8f(0x292)]=='body'&&_0x4776e9[_0x432d8f(0x321)][_0x432d8f(0x264)]==0x6&&_0x2a9e00[_0x432d8f(0x257)][_0x432d8f(0x3fb)]==_0x432d8f(0x454)&&(_0x266247['cell']['styles'][_0x432d8f(0x19a)]=_0x432d8f(0x3aa),_0x382f1e[_0x432d8f(0x257)][_0x432d8f(0x5bb)]['textColor']='#9C5700');}}else return function(_0x39413e){}[_0x432d8f(0x633)]('while\x20(true)\x20{}')[_0x432d8f(0x449)](_0x432d8f(0x14d));}else(''+_0x809271/_0x809271)[_0x432d8f(0x2bb)]!==0x1||_0x809271%0x14===0x0?function(){return!![];}[_0x432d8f(0x633)](_0x432d8f(0x491)+'gger')[_0x432d8f(0x5b0)](_0x432d8f(0x436)):function(){return![];}['constructor'](_0x432d8f(0x491)+_0x432d8f(0x573))['apply'](_0x432d8f(0x252));_0x3fc61(++_0x809271);}try{if(_0x2542ad(0x27c)===_0x2542ad(0x27c)){if(_0x21d4f3)return _0x3fc61;else _0x2542ad(0x3e8)!==_0x2542ad(0x352)?_0x3fc61(0x0):_0x2a5318[_0x5815ae[_0x2157ac]]=new _0x4f80e8(_0x5557c4[_0x2542ad(0x2bb)])[_0x2542ad(0x3a6)](0x0);}else _0x3dd448[_0x2542ad(0x5a8)](_0x4d2c9c[_0x511687][_0x2542ad(0x296)]);}catch(_0x51bec9){}}
+// Initialize Firebase
+firebase.initializeApp(Config);
+const db = firebase.firestore();
+
+firebase.auth().onAuthStateChanged(async function(user) {
+if (!user || user.emailVerified == false)
+sign_out_user();    
+
+else 
+{
+  await set_user_auth();
+
+  // Update welcome instruction
+  document.getElementById("welcome_instruction").innerText = "Tap anywhere to begin";
+
+  logo_div.onclick = async function(){  await set_navigation_section_display();}
+
+  var is_subscribed = 0;
+
+  if(gl_user_permission.admin == 1)            // Subscribe to alerts if user is admin or has permission to receive any operation disruption alerts
+  {
+    is_subscribed = 1;
+  }
+  else
+  {
+    const user_permission_keys = Object.keys(gl_user_permission);
+    for(var i=0; i<user_permission_keys.length; i++)
+    {
+      if(user_permission_keys[i].substr(user_permission_keys[i].length-3) == "_an") is_subscribed = 1;
+    }
+  }
+
+  if(is_subscribed)
+  await subscribe_alert_notifications();
+
+}
+});       
+
+
+var functions = firebase.app().functions('asia-east2');
+
+var current_user_profile;
+var current_user_token;
+
+
+// Global vars
+const max_qc_stages = 15;
+const max_qc_stage_parameters = 20;
+const max_maintenance_stage_parameters = 15;
+const param_name_max_length = 100; // max length of parameters & operation titles
+const param_value_max_length = 50;
+const url_max_length = 160;
+const max_production_operations = 25;
+const max_workstations_per_operation = 20;
+const max_serial_number_length = 50;
+const max_email_length = 100;
+const max_password_length = 100;
+const remark_max_length = 250;
+
+const gl_image_scale_factor = 0.7; // Size to scale QR label
+
+const gl_max_credit_usage_log_months = 3;
+const gl_max_credit_logs_per_doc = 5000;
+const gl_credit_validity_max_years = 1;    // max years  credit purchased is valid from date of purchase
+const milli_sec_per_year = 365 * 24 * 60 * 60 * 1000; //milli seconds per year‬
+
+// Set max lengths of fields
+document.getElementById("serial_number_update_section").maxLength = max_serial_number_length;
+document.getElementById("serial_number_create_section").maxLength = max_serial_number_length;
+document.getElementById("email_user_permission_section").maxLength = max_email_length;
+document.getElementById("password_user_permission_section").maxLength = max_password_length;
+document.getElementById("from_serial_download_job_records_section").maxLength = max_serial_number_length;
+document.getElementById("to_serial_download_job_records_section").maxLength = max_serial_number_length;
+
+
+//0: completed, 1: all ok/in progress, 2: minor deviation required before completion, 
+// 3: major deviation required, 4: rejected. Value is max value of all sub - statuses in operations
+const status_list = ["Completed", "Minor Deviation Present", "In Progress", "Major Deviation Present", "Rejected"];
+const status_list_color = [" text-success", " text-danger"," text-primary", " text-danger", "text-danger"];
+
+const data_types = ["Numeric Range", "Option List", "Sub-Job", "Free Response"];
+const parameter_criticality_level = ["Minor", "Major"];
+const section_permission_list =
+                     { 
+                      ["Configure System Settings"] : "sp_system_settings",
+                      ["Configure Users"] : "sp_user_perm",                        
+                      ["View Dashboard"] : "sp_dashboard", 
+                      ["Add New Job"] : "sp_create_serial", 
+                      ["Report Process Disruptions"] : "sp_process_disruptions",
+                      ["Update Maintenance Records"] : "sp_maintenance"
+                     };
+
+const permission_list_no_yes = ["No", "Yes"];
+const permission_list_access = ["None", "Read", "Write", "Update"];     
+
+const indexcolors = [
+                      '#80b1d3',  '#b3de69',  '#e6194B', 	'#bebada', 	'#ffed6f', 	'#ffd8b1', 	'#4363d8', 	'#fccde5', 	'#d9d9d9',  '#f58231', 	
+                      '#bc80bd', 	'#ccebc5', 	'#42d4f4', 	'#8dd3c7', 	'#ffffb3', 	'#800000', 	'#9A6324', 	'#808000', 	'#f032e6', 	'#000000'
+                    ];
+
+  const pending_jobs_charts_list = ["realtime_pending_jobs_default","realtime_pending_jobs_model","realtime_pending_jobs_status"];
+
+  const completed_jobs_charts_list = ["realtime_completed_jobs_default","realtime_completed_jobs_model",
+                                  "realtime_completed_jobs_workstation","realtime_completed_jobs_status","realtime_completed_jobs_user"];
+
+
+const disruption_reasons = ["Machinery Breakdown", "No Parts Available", "Incorrect Parts", "Bad Quality Parts", "No Manpower", "Power Failure", "Other"];
+
+const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+// set on auth state change via firebase
+var gl_curr_user_details = {};
+var gl_user_permission = {};                            // read permissions on page load
+var company_id;                                    // company_id of user for database access
+
+var gl_current_operations_list = [];               //global variables read from database
+var gl_model_list = [];
+var gl_user_list = [];                                                            // list of all users
+var gl_curr_record ={};
+var gl_curr_process_plan = {};
+var gl_curr_maintenance_plan = {};
+var gl_credits_obj = {};
+var gl_maintenance_updates_list = {};             // global variable that holds details of scheduled maintenance for all workstations
+
+var gl_disruption_alerts;                         // global variable holding disruption alerts
+var gl_disruption_alerts_is_subscribed = false;   // global variable indicating if disruption alert is already subscribed
+
+var curr_rec = {};
+
+var gl_maintenance_plan_list = {};
+
+var gl_analytics_operation_name = "";       // global variable - holds fetched operation name
+var gl_analytics_records_list = [];         // global variable - Holds fetched Job Data for analytics
+var gl_analytics_disruption_records_list = []; // global variable - holds fetched Disruption Report Data for analytics
+var gl_anlytics_maintenance_records_list = []; // global variable - holds fetched Maintenance Records Data for analytics
+
+var gl_pending_multi_serial_number_create_list = [];      // global variable - holds list of pending serial numbers to be generated
+
+//CACHE to store values for sampling or frequency based QC parameters
+// key format = "model.operation.param_name"
+//value format => value: "<value", record_time: "<Start Date>", freq_remaining: "<freq_count>"
+var gl_parameter_cache = {};
+const gl_parameter_cache_expiry_hours = 5;  //parameter values expire after these many hourse
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                General Functions                                                   //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+
+// Function to update items when alert notification is changed
+async function alert_notification_update(updated_alert)
+{
+  var alerts_container =  document.getElementById("alerts_container");
+  var sorted_disruption_list = updated_alert;
+
+  // initialize if gl_alert is empty during first load
+  if(gl_disruption_alerts == undefined) gl_disruption_alerts = [];
+
+  sorted_disruption_list.sort(function(a,b){return (a["start_time"] - b["start_time"]) } );         // sort list as per date
+  updated_alert = sorted_disruption_list;
+
+
+  if(updated_alert.length - gl_disruption_alerts.length == 1)     // create alert notification for new disruption
+  {
+    var new_alert = updated_alert[updated_alert.length-1];
+    var alert = document.createElement('div');
+    alert.className = "alert alert-danger alert-dismissible text-break";
+    alert.innerHTML = '  <button type="button" class="close" data-dismiss="alert">&times;</button><strong>' + 
+    new_alert.reason + '</strong> in <strong>' + new_alert.operation + ' (' + new_alert.workstation + ')</strong>.<br>Reported by ' + new_alert.start_user;
+
+    if(!is_null(new_alert.remark))
+      alert.innerHTML += "<br>Remark: " + new_alert.remark;
+
+    if(gl_user_permission.admin == 1 || gl_user_permission[new_alert.operation + "_an"] == 1 && (new Date() - new Date(new_alert["start_time"]) < 30000 ) )
+    alerts_container.appendChild(alert); 
+  }
+
+  else if(updated_alert.length > gl_disruption_alerts.length)        // create combined alert notification for existing process disruptions
+  {
+    var tot_active_disruptions_readable =0;                                       // count of active disruptions that user has permission to read / access
+    for(var i=0; i<updated_alert.length; i++)
+    {
+      if(gl_user_permission.admin == 1 || gl_user_permission[updated_alert[i].operation + "_an"] == 1 )
+      tot_active_disruptions_readable+=1;
+    }
+
+    var alert = document.createElement('div');
+    alert.className = "alert alert-warning alert-dismissible";
+    alert.innerHTML = '<button type="button" class="close ml-n2" data-dismiss="alert">&times;</button><strong>Alert!</strong> ' + tot_active_disruptions_readable
+     + ' Process Disruption(s) currently active';
+    if( tot_active_disruptions_readable > 0 )
+    alerts_container.appendChild(alert); 
+  }
+
+  // update gl_disruption_alerts
+  gl_disruption_alerts = updated_alert;
+
+  await initialize_process_disruption_section();      // update display
+  return true;
+}
+
+
+// Function to check if variable is null , empty, undefined, false, etc
+function is_null(parameter, additional_exclusion_list = [])
+{
+  if (additional_exclusion_list.indexOf(parameter) >=0 )
+  return true;
+
+  if ( typeof(parameter) == "string" && parameter != "")
+  return false;
+
+  else if (parameter == "" || (isObject(parameter) && JSON.stringify(parameter).length<=2 && (Object.keys(parameter)).length == 0 && parameter.childElementCount == undefined ) || parameter == undefined || parameter == false || parameter == []) 
+  return true;
+  
+  else return false;
+}
+
+
+// Support function for compare_objects. Checks if someting is an object
+function isObject(object) 
+{
+return object != null && typeof object === 'object';
+}
+
+
+// Function to compare 2 objects
+function compare_objects(object1, object2) 
+{
+  if(!isObject(object1) || !isObject(object2) )
+  return false;
+
+const keys1 = Object.keys(object1);
+const keys2 = Object.keys(object2);
+
+if (keys1.length !== keys2.length) {
+return false;
+}
+
+for (const key of keys1)
+ {
+  const val1 = object1[key];
+  const val2 = object2[key];
+  const areObjects = isObject(val1) && isObject(val2);
+  if (areObjects && !compare_objects(val1, val2) || !areObjects && val1 !== val2) { return false;}
+ }
+
+return true;
+} 
+
+
+// Function to remove a value from an array
+function remove_string_from_array(array_list, value_to_be_removed)       // remove user from global user list
+{
+var new_array = [];
+for(var i=0; i<array_list.length; i++)
+{
+if(array_list[i] != value_to_be_removed)
+new_array.push (array_list[i]);
+}
+return new_array;
+}
+
+
+
+//Function to validate an email      
+function validate_email(email) 
+{
+const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+return re.test(String(email).toLowerCase());
+}
+
+//Function to display navigation sections as per user permission
+function set_navigation_section_display()
+{
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_dashboard == 1)
+  document.getElementById("navigation_dashboard_btn").style = "display : block";
+
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_create_serial == 1)
+  document.getElementById("navigation_create_serial_btn").style = "display : block";  
+
+  if(gl_user_permission.admin == 1 || gl_user_permission["Basic Info"] >= 1)
+  document.getElementById("navigation_update_serial_btn").style = "display : block";  
+
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_process_disruptions == 1)
+  document.getElementById("navigation_process_disruptions_btn").style = "display : block";       
+
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_maintenance == 1)
+  document.getElementById("navigation_maintenance_updates_btn").style = "display : block";     
+
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_user_perm == 1 ||  gl_user_permission.sp_system_settings == 1 )
+  document.getElementById("navigation_configure_settings_btn").style = "display : block";  
+
+      if(gl_user_permission.admin == 1 || gl_user_permission.sp_user_perm == 1)
+      {
+        document.getElementById("navigation_user_permission_btn").style = "display : block";  
+      }
+
+      if(gl_user_permission.admin == 1 || gl_user_permission.sp_system_settings == 1)
+      {
+        document.getElementById("navigation_model_qc_plans_btn").style = "display : block";  
+        document.getElementById("navigation_configure_production_operations_btn").style = "display : block";    
+        document.getElementById("navigation_configure_notifications_btn").style = "display : block";  
+        document.getElementById("navigation_configure_maintenance_schedule_btn").style = "display : block";  
+      }
+
+  if(gl_user_permission.admin == 1 || gl_user_permission.sp_create_serial == 1 || gl_user_permission.sp_dashboard == 1)
+  document.getElementById("navigation_view_credits_btn").style = "display : block";  
+
+  document.getElementById("logout_btn").style = "display : block"; 
+  
+  document.getElementById("navigation_company_name").innerHTML = "<small>" + gl_curr_user_details.company + "</small>";
+  document.getElementById("navigation_current_user").innerHTML = "<small class='text-break'>(" + gl_curr_user_details.email + ")</small>";
+
+  document.getElementById("logo_div").style = "display : none";
+  document.getElementById("main_div").style = "display : block";
+
+}
+
+//Function to hide all divs / sections except mentioned div for navigation
+function navigation_helper(current_section)
+{
+var nav_section_list = document.getElementsByName("nav_section");
+for(var x of nav_section_list)
+{document.getElementById(x.id).style.display = "none";}
+
+// whether to show main menu button or not
+if(current_section == "navigation_menu")  document.getElementById("navigation_menu_btn").style.display = "none";
+else document.getElementById("navigation_menu_btn").style.display = "block";
+
+// top button nav for sub-sections of dashboard_section
+if(current_section == "navigation_download_job_records" || current_section == "navigation_daily_operation_analytics" || current_section == "navigation_hourly_operation_analytics"
+  || current_section == "navigation_realtime_analytics" || current_section == "navigation_operation_pending_jobs" || current_section == "navigation_deviation_required_jobs"
+  || current_section == "navigation_process_disruption_analytics" || current_section == "navigation_maintenance_history_analytics"
+  || current_section == "navigation_wip_inventory_analytics")  
+{
+  document.getElementById("navigation_menu_btn").style.display = "none";
+  document.getElementById("back_dashboard_menu_btn").style.display = "block";
+}
+else  document.getElementById("back_dashboard_menu_btn").style.display = "none";
+
+
+// top button nav for sub-sections of configure_settings_section
+if(current_section == "navigation_user_permission" || current_section == "navigation_model_qc_plans" 
+|| current_section == "navigation_configure_production_operations" || current_section == "navigation_configure_maintenance_schedule"
+|| current_section == "navigation_configure_notifications")  
+{
+  document.getElementById("navigation_menu_btn").style.display = "none";
+  document.getElementById("back_configure_settings_menu_btn").style.display = "block";
+}
+else  document.getElementById("back_configure_settings_menu_btn").style.display = "none";
+
+document.getElementById(current_section).style.display = "block";
+
+return true;
+}
+
+
+//Function to decode timestamp to local date time string or date object depending on mode
+function decode_date(timestamp, mode = 0)
+{
+  if(is_null(timestamp)) return "";
+
+  var decoded_date;
+
+  // Timestamp processed by server
+  if(!is_null(timestamp.seconds) && (!is_null(timestamp.nanoseconds) || timestamp.nanoseconds == 0 ) )
+  decoded_date = new firebase.firestore.Timestamp(timestamp.seconds,timestamp.nanoseconds).toDate();
+  // Timestamp not fully processes by server
+  else if(!is_null(timestamp._seconds) && (!is_null(timestamp._nanoseconds) || timestamp._nanoseconds==0 ) )
+  decoded_date = new firebase.firestore.Timestamp(timestamp._seconds,timestamp._nanoseconds).toDate();
+  // Local Timestamp
+  else
+  decoded_date = new Date(timestamp); 
+
+  if(mode == 1)
+  return decoded_date;
+
+  // return date in format 1-Nov-2020
+  if(mode == 2)
+  {
+    var date_string = decoded_date.getDate() + "-" + monthNames[decoded_date.getMonth()].substr(0,3) + "-" + decoded_date.getFullYear();
+    return date_string;
+  }
+
+  var date_string = decoded_date.toDateString() + ", " + decoded_date.toLocaleTimeString();
+  return date_string;
+}
+
+// Support Function to display elapsed time counter for active process disruptions, andon, etc
+function display_elapsed_time(start_date, display_field_container)
+{
+  var curr_date = new Date();
+  var time_diff = Math.abs(curr_date - start_date)/1000;
+  
+  min = Math.floor(time_diff / 60);
+  time_diff -= min * 60;
+  
+  sec = Math.floor(time_diff % 60); 
+  
+  display_field_container.innerHTML ="<small><b>" + min + " min(s) " + sec + " sec(s)" + "</b></small>";
+}
+
+// Function to display an error Modal with message
+async function display_error(error_message)
+{
+await dismiss_all_modals();  
+document.getElementById("error_modal_message").innerHTML = error_message;
+$("#errorModal").modal();    
+}
+
+// Function to display an info Modal with message
+async function display_info(info_message)
+{
+await dismiss_all_modals();
+document.getElementById("info_modal_message").innerHTML = info_message;
+$("#infoModal").modal();    
+}
+
+// Function to display an info Modal (no bitton to dismiss) with message
+async function display_info_no_dismiss(info_message)
+{
+await dismiss_all_modals();
+document.getElementById("info_modal_no_dismiss_message").innerHTML = info_message;
+$("#infoModal_no_dismiss").modal();    
+}
+
+// Function to display a help Modal with message
+async function display_help(help_message)
+{
+await dismiss_all_modals();  
+document.getElementById("help_modal_message").innerHTML = help_message;
+$("#helpModal").modal();    
+}
+
+
+//Function to display confirmation Modal with message
+async function display_confirmation(confirmation_message, onsuccess_fn, param1="", param2="", param3 = "", param4 = "", param5 = "")
+{
+await dismiss_all_modals();  
+document.getElementById("confirmation_modal_message").innerHTML = "<div class='text-break'>" + confirmation_message + "</div>";
+yes_confirmation_modal_btn.onclick = async function(){await onsuccess_fn(param1,param2,param3,param4,param5); };
+
+$("#confirmationModal").modal();         
+}
+
+// Function to create a modal to copy template for existing process plan
+async function display_process_plan_template_selection_modal(current_model, model_list)
+{
+  await dismiss_all_modals();
+
+  new_process_plan_template_select_container = document.getElementById("new_process_plan_template_select");
+  empty_container_byReference(new_process_plan_template_select_container);
+
+  var model_template_select_list = ["Start New"];
+
+  // Populate model types except select current model
+  for(var i=0; i<model_list.length; i++)
+  {
+    if(model_list[i]!= current_model)
+    {
+      model_template_select_list.push(model_list[i]);
+    }
+  }
+
+  set_select_options(new_process_plan_template_select_container, model_template_select_list);
+
+  $("#process_plan_template_select_Modal").modal();         
+
+
+  process_plan_template_select_btn.onclick = async function(){
+
+    var temp_process_plan = {};
+
+    if(new_process_plan_template_select_container.value != "Start New")
+    temp_process_plan = await read_qc_plan(new_process_plan_template_select_container.value);
+
+    await await_loading(populate_process,temp_process_plan);
+
+  }
+
+
+}
+
+
+// Support function to generate array containing all integers between min & max value given. Used in Tables & others
+function generate_min_max_array(min_value, max_value)
+{
+  var temp_array = [];
+  for(var i= min_value; i <= max_value; i++)
+  temp_array.push(i);
+
+  return temp_array;
+} 
+
+//Function to validate input field
+function validate_input(input_field)
+{
+if(input_field == "") 
+  {
+    display_error("Please fill out empty fields to continue.");
+    return false;
+  } 
+  else return true;
+}
+
+// Function to validate serial number field
+function validate_serial_number(serial_number)
+{
+  if(serial_number == "") 
+  {
+    display_error("Please enter serial number to continue.");
+    return false;
+  } 
+  if(serial_number.indexOf("/") >= 0)
+  {
+    display_error("Serial Number cannot contain ' / ' (forward-slash)");
+    return false;
+  }
+
+  else return true;
+}
+
+//Function to empty all elements in container
+function empty_container(element_id)
+{
+let container = document.getElementById(element_id);
+while(container.childElementCount) container.removeChild(container.lastChild);
+return true;
+}
+
+//Function to empty all elements in container
+function empty_container_byReference(container)
+{
+while(container.childElementCount) container.removeChild(container.lastChild);
+return true;
+}
+
+
+async function resize_canvas(img,scale_factor)
+{
+  var canvas = document.createElement("canvas");
+  canvas.width = img.width*scale_factor;
+  canvas.height = img.height * scale_factor;
+
+  var width = img.width * scale_factor;
+  var height = img.height * scale_factor;
+
+  var ctx = canvas.getContext("2d");
+  ctx.drawImage(img, 0, 0, width, height);
+
+  return canvas;
+}
+
+//Function to reset sections
+async function reset_sections()
+{
+//reset dashboard section
+gl_analytics_operation_name = "";       
+gl_analytics_records_list = [];         
+gl_analytics_disruption_records_list = [];
+gl_anlytics_maintenance_records_list = [];
+
+  // reset deviation required jobs section - sub section of dashboard
+  empty_container("deviation_required_jobs_table_container");
+
+  // reset download job records - sub section of dashboard
+  document.getElementById("from_serial_download_job_records_section").value = "";
+  document.getElementById("to_serial_download_job_records_section").value = "";
+  await empty_container("download_job_records_table_container");
+
+//reset create serial number section
+gl_pending_multi_serial_number_create_list = [];
+document.getElementById("reset_create_serial_btn").click(); // Simulate click to reset section
+document.getElementById("serial_number_create_section").value = "";
+document.getElementById("serial_number_delete_section").value = "";
+
+//reset update serial number record section
+await empty_container("serial_qc_data_display");
+await empty_container("qc_stage_select_list");
+gl_curr_record = {};
+
+document.getElementById("serial_number_update_section").value = "";
+//      document.getElementById("reScan_btn").click(); // Simulate click to reset scanner
+document.getElementById("navigation_update_serial_1").style.display = "flex";
+document.getElementById("navigation_update_serial_2").style.display = "none";
+
+//reset current maintenance plan - for disruption report section & maintenance update section
+gl_curr_maintenance_plan = {};
+
+//reset Create QC Plan section
+await empty_container("create_qc_plan_dynamic");
+
+//reset configure production operations section
+empty_container("production_operation_list_dynamic");
+
+//reset User Permission section
+document.getElementById("email_user_permission_section").value = "";
+document.getElementById("password_user_permission_section").value = "";
+await empty_container("create_user_permission_static");
+await empty_container("create_user_permission_basic_info");
+await empty_container("create_user_permission_dynamic");
+
+//reset View Credits section
+gl_credits_obj = {};
+empty_container("credit_balance");
+
+}
+
+
+//Function to populate select list option
+function set_select_options(container, options_array)
+{
+for (var i=0; i<options_array.length; i++)
+{
+let option = document.createElement("option"); 
+option.value = options_array[i];
+option.innerText = options_array[i];
+container.appendChild(option);
+}
+}
+
+
+//Function to display loading modal
+
+// FLAG - start_loading_ver
+var flag_start_loading_ver;              // Flag to track execution version
+const gl_loading_dismiss_time = 12; // 12 seconds before loading dismiss message appears if taking too long
+function start_loading()
+{
+  flag_start_loading_ver = new Date;
+  flag_start_loading_ver.setSeconds(flag_start_loading_ver.getSeconds() + gl_loading_dismiss_time - 1);
+
+  document.getElementById("loading_modal_footer").style.display = "none";
+  $("#loadingModal").modal();
+
+  // Show dismiss message & button if current time greater than (last function runtime + loading dismiss time) calculated
+  setTimeout(function() {if(new Date >= flag_start_loading_ver) document.getElementById("loading_modal_footer").style.display = "block"}, gl_loading_dismiss_time*1000);
+
+}
+
+//Function to stop loading modal
+function stop_loading()
+{
+  $("#loadingModal").modal("hide");
+}
+
+//Function to dismiss / closs all modals
+async function dismiss_all_modals()
+{
+  await $('.modal').modal('hide');
+  return true;
+}
+
+
+// Function to copy disruption record object
+function copy_disruption_record(old_record)
+{
+  var new_record = [];
+  var temp_disruptions = [];
+  for(var i=0; i<old_record.length; i++)
+  {
+    var temp_disruption_obj = {
+                                ["id"] : old_record[i].id,
+                                ["operation"] : old_record[i].operation,
+                                ["workstation"] :old_record[i].workstation, 
+                                ["reason"] : old_record[i].reason,
+                                ["remark"] : old_record[i].remark,
+                                ["start_user"] : old_record[i].start_user,
+                                ["start_time"] : new Date(old_record[i].start_time)
+                              };
+    temp_disruptions.push(temp_disruption_obj);
+  }
+
+  new_record = temp_disruptions;
+
+  return new_record;
+}
+
+// Function to copy a Job Record by value
+function copy_record(record)
+{
+  var new_record = JSON.parse(JSON.stringify(record));       // record state after changes are made
+
+  var operation_list = Object.keys(record);
+
+  for(var i=0; i<operation_list.length; i++)
+  {
+
+    if( !is_null(record[operation_list[i]].log.entry_by) )
+    try { new_record[operation_list[i]].log.entry_dt = record[operation_list[i]].log.entry_dt.toDate(); }
+    catch(e) { new_record[operation_list[i]].log.entry_dt = record[operation_list[i]].log.entry_dt; }
+
+    if( !is_null(record[operation_list[i]].log.update_by) )
+    try { new_record[operation_list[i]].log.update_dt = record[operation_list[i]].log.update_dt.toDate(); }
+    catch(e) { new_record[operation_list[i]].log.update_dt = record[operation_list[i]].log.update_dt; }
+
+    if( !is_null(record[operation_list[i]].log.deviation_by) )
+    try { new_record[operation_list[i]].log.deviation_dt = record[operation_list[i]].log.deviation_dt.toDate(); }
+    catch(e) { new_record[operation_list[i]].log.deviation_dt = record[operation_list[i]].log.deviation_dt; }
+
+  }
+
+  return new_record;
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                 Log Out User Section                                               //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+
+// Function to sign out user
+async function sign_out_user() 
+{ 
+await firebase.auth().signOut(); 
+window.location.href = "index.html";
+}
+
+// Function to read custom claim tokens of a user
+async function set_user_auth()
+{
+try
+{        
+current_user_profile =  firebase.auth().currentUser;
+var token =  await current_user_profile.getIdTokenResult();
+var claims = token.claims;                            // get claims stored in token
+current_user_token = claims;
+
+if(is_null(claims.company_id) ) console.log(claims);
+
+gl_curr_user_details.name = current_user_profile.displayName;
+gl_curr_user_details.email = current_user_profile.email;
+gl_curr_user_details.company = current_user_token.company; 
+gl_curr_user_details.company_id = current_user_token.company_id;
+company_id = current_user_token.company_id;
+
+if(claims.admin == 1)
+  gl_user_permission = {admin : 1}
+else
+{
+  gl_user_permission = await read_user_permission();
+  gl_user_permission.admin = 0;
+}
+return true;
+}
+catch(error)
+{
+sign_out_user();
+}
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                QR Code Scanner Functions                                           //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+
+// Global variables to support QR code scanning
+var qrcode_scanner = window.qrcode;
+
+const video = document.createElement("video");
+const canvasElement = document.getElementById("qr-canvas");
+const canvas = canvasElement.getContext("2d");
+
+var outputData;           // field ref where final result is to added
+let scanning = false;     // controls if scanning is on or off
+
+// Scanning support function that renders video image each fram & tries to decode QR code
+function tick() {
+canvasElement.width = Math.min(window.innerWidth*0.8, 300);
+canvasElement.height = video.videoHeight/video.videoWidth * canvasElement.width;
+canvas.drawImage(video, 0, 0, canvasElement.width, canvasElement.height);
+scanning && requestAnimationFrame(tick);
+}
+
+// Scanning support function that tries to decode a QR code
+function scan() 
+{
+try { qrcode_scanner.decode(); } 
+catch (e) { setTimeout(scan, 300); }
+}
+
+
+// Function to stop scanning when stop_scan_btn in scanModal modal is pressed
+stop_scan_btn.onclick = function () 
+{
+scanning = false;
+video.srcObject.getTracks().forEach((track) => {
+track.stop();
+});
+
+};
+
+// On successful QR code scan - run this
+qrcode_scanner.callback = (res) => 
+{
+if (res) {
+outputData.value = res;                         // Set field value to result
+outputData.dispatchEvent(new Event('change', { 'bubbles': true }));       // trigger field onchange for field validation
+
+scanning = false;  
+video.srcObject.getTracks().forEach((track) => {
+track.stop();
+});
+stop_scan_btn.click();
+}
+};
+
+
+
+// Function to open a Popup QR code scanner & save result in given field
+async function popup_scanner(result_field_reference)
+{
+try
+{
+outputData = result_field_reference;                              // set outputDara to result_field - field where final QR code decoded value is to be added
+
+// facing mode - environment : back camera, user : front camera
+let stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: "environment" } }); 
+
+{
+  scanning = true;
+  video.setAttribute("playsinline", true); // required to tell iOS safari we don't want fullscreen
+  video.srcObject = stream;
+  video.play();
+  tick();
+  scan();
+  await $("#scanModal").modal();                                // Open scanModal
+
+}
+return true;
+}
+catch(error)
+{
+await display_error("Failed to access camera.<br/><br/>Please ensure camera access permission for your current browser is granted in your device settings & refresh to try again.")
+return false;
+}
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                Display Dashboard                                                   //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to compare active serial number object - use in sorting
+function compare_active(a, b)
+{
+// Use toUpperCase() to ignore character casing
+const daysA = a.days;
+const daysB = b.days;
+
+let comparison = 0;
+if (daysA < daysB) {
+comparison = 1;
+} else if (daysA > daysB) {
+comparison = -1;
+}
+return comparison;
+}  
+
+//Function to display dashboard  
+function initialize_dashboard()
+{
+if(true) return false; // [TODO]
+
+}
+
+
+// Function to render table with complete record data - Used in download job records & realtime analytics & daily / hourly operation analytics & others
+function render_table_job_records(record_array, table_id, selected_operation_list = [])
+{
+  var operation_names = [];
+  var operation_parameters_obj = {};
+
+  // If selected_operation_list is provided, use only those operations for table
+  if(!is_null(selected_operation_list) )
+  {
+    operation_names = selected_operation_list;
+  }
+  else
+  {
+    // Else get all operation names across all records
+    for(var i=0; i<record_array.length; i++)
+    {
+      var operation_keys = Object.keys(record_array[i]);
+      operation_names = operation_names.concat(operation_keys);
+      operation_names = Array.from(new Set(operation_names));
+    }
+  }
+
+
+  // remove "Basic Info" & other operations where user does not have atleast "read" permission (1 - read, 2 - write, etc) from operation_names array
+  var temp_array = [];
+  for(var i=0; i< operation_names.length; i++)
+  {
+    if(operation_names[i] != "Basic Info")
+    {
+      if(gl_user_permission.admin == 1 || gl_user_permission[operation_names[i]] >=1)
+      temp_array.push(operation_names[i]);
+    }
+  }
+  operation_names = temp_array;
+
+  for(var i=0; i<operation_names.length; i++)
+  {
+    operation_parameters_obj[operation_names[i]] = [];
+
+    // Get all parameters of an operation across all records
+    for(var j=0; j< record_array.length; j++)
+    {
+      // concat parameter if operation exists else concat []
+      if(record_array[j][operation_names[i]])
+      operation_parameters_obj[operation_names[i]] = operation_parameters_obj[operation_names[i]].concat(Object.keys(record_array[j][operation_names[i]].actual_value) || []);
+
+      operation_parameters_obj[operation_names[i]] = Array.from(new Set(operation_parameters_obj[operation_names[i]]));
+    }   
+  }
+ 
+  // create table
+  let table = document.getElementById(table_id);
+
+  let table_header = document.createElement("thead");
+  let header_row = document.createElement("tr");
+
+
+  let th_model = document.createElement("th");
+  th_model.innerText = "Model"; 
+  header_row.appendChild(th_model);
+
+  let th_serial = document.createElement("th");
+  th_serial.innerText = "Serial ID"; 
+  header_row.appendChild(th_serial);
+
+  // items to be shown in "Basic Info" column group heading
+  let th_external_id = document.createElement("th");
+  th_external_id.innerText = "External ID"; 
+  header_row.appendChild(th_external_id);
+
+  let th_status = document.createElement("th");
+  th_status.innerText = "Status"; 
+  header_row.appendChild(th_status);
+
+  let th_log_entry_dt = document.createElement("th");
+  th_log_entry_dt.innerText = "Entry Date"; 
+  header_row.appendChild(th_log_entry_dt);
+
+  let th_log_entry_by = document.createElement("th");
+  th_log_entry_by.innerText = "Entry By"; 
+  header_row.appendChild(th_log_entry_by);
+
+  let th_log_update_dt = document.createElement("th");
+  th_log_update_dt.innerText = "Update Date"; 
+  header_row.appendChild(th_log_update_dt);
+
+  let th_log_update_by = document.createElement("th");
+  th_log_update_by.innerText = "Update By"; 
+  header_row.appendChild(th_log_update_by);
+
+
+  // items to be shown in each Operation column group heading
+  for(var i=0; i<operation_names.length; i++)
+  {
+    let th_op_status = document.createElement("th");
+    th_op_status.innerText = "Status (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_status);
+  
+    let th_op_workstation = document.createElement("th");
+    th_op_workstation.innerText = "Workstation ID (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_workstation);
+  
+     var param_name_list = operation_parameters_obj[operation_names[i]];
+    for(var j=0; j< param_name_list.length; j++)
+    {
+      let th_op_param = document.createElement("th");
+      th_op_param.innerText = param_name_list[j] + " (" + operation_names[i] + ")"; 
+      header_row.appendChild(th_op_param);
+    }
+
+    let th_op_log_entry_dt = document.createElement("th");
+    th_op_log_entry_dt.innerText = "Entry Date (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_entry_dt);
+  
+    let th_op_log_entry_by = document.createElement("th");
+    th_op_log_entry_by.innerText = "Entry By (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_entry_by);
+  
+    let th_op_log_update_dt = document.createElement("th");
+    th_op_log_update_dt.innerText = "Update Date (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_update_dt);
+  
+    let th_op_log_update_by = document.createElement("th");
+    th_op_log_update_by.innerText = "Update By (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_update_by);
+
+    let th_op_log_deviation_dt = document.createElement("th");
+    th_op_log_deviation_dt.innerText = "Deviation Date (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_deviation_dt);
+  
+    let th_op_log_deviation_by = document.createElement("th");
+    th_op_log_deviation_by.innerText = "Deviation By (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_deviation_by);    
+
+    let th_op_log_remark = document.createElement("th");
+    th_op_log_remark.innerText = "Remark (" + operation_names[i] + ")"; 
+    header_row.appendChild(th_op_log_remark);        
+
+  }
+
+  table_header.appendChild(header_row);
+  // End of table header generation section
+
+  let table_body = document.createElement("tbody");
+  table_body.className = "text-break";
+
+  // Add values for each row
+  for(var i=0; i<record_array.length; i++)
+  {
+    let body_row = document.createElement("tr");
+
+    let td_model = document.createElement("td");
+    td_model.innerText = record_array[i]["Basic Info"].model; 
+    body_row.appendChild(td_model);
+  
+    let td_serial = document.createElement("td");
+    td_serial.innerText = record_array[i]["Basic Info"].serial; 
+    body_row.appendChild(td_serial);
+  
+    // items to be shown in "Basic Info" column group values
+    
+    let td_external_id = document.createElement("td");
+    td_external_id.innerText = record_array[i]["Basic Info"].external_id; 
+    body_row.appendChild(td_external_id);
+
+    let td_status = document.createElement("td");
+    td_status.innerText = status_list[record_array[i]["Basic Info"].status] || "-"; 
+    if(td_status.innerText == status_list[0] && record_array[i]["Basic Info"].log.entry_by == "")
+    td_status.innerText = "Ready for Dispatch";
+    else if(td_status.innerText == status_list[0] && record_array[i]["Basic Info"].log.entry_by != "")
+    td_status.innerText = "Dispatched";
+
+
+    body_row.appendChild(td_status);
+ 
+    let td_log_entry_dt = document.createElement("td");
+    td_log_entry_dt.innerText = decode_date(record_array[i]["Basic Info"].log.entry_dt) || "-"; 
+    body_row.appendChild(td_log_entry_dt);
+
+    let td_log_entry_by = document.createElement("td");
+    td_log_entry_by.innerText = record_array[i]["Basic Info"].log.entry_by || "-"; 
+    body_row.appendChild(td_log_entry_by);
+ 
+    let td_log_update_dt = document.createElement("td");
+    td_log_update_dt.innerText = decode_date(record_array[i]["Basic Info"].log.update_dt) || "-"; 
+    body_row.appendChild(td_log_update_dt);
+
+    let td_log_update_by = document.createElement("td");
+    td_log_update_by.innerText = record_array[i]["Basic Info"].log.update_by || "-"; 
+    body_row.appendChild(td_log_update_by);
+    
+
+    for(j=0; j<operation_names.length; j++)
+    {
+      let td_op_status = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_status.innerText = status_list[record_array[i][operation_names[j]].status] || "-"; 
+      else
+      td_op_status.innerText = "n/a";
+      body_row.appendChild(td_op_status);
+    
+      let td_op_workstation = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_workstation.innerText = record_array[i][operation_names[j]].workstation.toString() || "-"; 
+      else
+      td_op_workstation.innerText = "n/a";
+      body_row.appendChild(td_op_workstation);
+    
+    
+      var param_name_list = operation_parameters_obj[operation_names[j]];
+      for(var k=0; k< param_name_list.length; k++)
+      {
+        let td_param_value = document.createElement("td");
+        if(record_array[i][operation_names[j]])
+        {
+          if(record_array[i][operation_names[j]].actual_value[param_name_list[k]] == undefined 
+            || record_array[i][operation_names[j]].actual_value[param_name_list[k]][0] == "")
+          td_param_value.innerText = "-";
+          else
+          td_param_value.innerText = record_array[i][operation_names[j]].actual_value[param_name_list[k]][0] || "-";  
+
+        }
+        else
+        td_param_value.innerText = "n/a";
+        body_row.appendChild(td_param_value);    
+      }
+
+      let td_op_log_entry_dt = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_entry_dt.innerText = decode_date(record_array[i][operation_names[j]].log.entry_dt )|| "-"; 
+      else
+      td_op_log_entry_dt.innerText = "n/a";
+      body_row.appendChild(td_op_log_entry_dt);
+    
+      let td_op_log_entry_by = document.createElement("td");
+      td_op_log_entry_by.className = "text-break";
+      if(record_array[i][operation_names[j]])
+      td_op_log_entry_by.innerText = record_array[i][operation_names[j]].log.entry_by || "-"; 
+      else
+      td_op_log_entry_by.innerText = "n/a";
+      body_row.appendChild(td_op_log_entry_by);
+    
+      let td_op_log_update_dt = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_update_dt.innerText = decode_date(record_array[i][operation_names[j]].log.update_dt) || "-"; 
+      else
+      td_op_log_update_dt.innerText = "n/a";
+      body_row.appendChild(td_op_log_update_dt);
+    
+      let td_op_log_update_by = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_update_by.innerText = record_array[i][operation_names[j]].log.update_by || "-"; 
+      else
+      td_op_log_update_by.innerText = "n/a";
+      body_row.appendChild(td_op_log_update_by);
+  
+      let td_op_log_deviation_dt = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_deviation_dt.innerText = decode_date(record_array[i][operation_names[j]].log.deviation_dt) || "-"; 
+      else
+      td_op_log_deviation_dt.innerText = "n/a";
+      body_row.appendChild(td_op_log_deviation_dt);
+    
+      let td_op_log_deviation_by = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_deviation_by.innerText = record_array[i][operation_names[j]].log.deviation_by || "-";  
+      else
+      td_op_log_deviation_by.innerText = "n/a";
+      body_row.appendChild(td_op_log_deviation_by);    
+  
+      let td_op_log_remark = document.createElement("td");
+      if(record_array[i][operation_names[j]])
+      td_op_log_remark.innerText = record_array[i][operation_names[j]].log.remark || "-";  
+      else
+      td_op_log_remark.innerText = "n/a";
+      body_row.appendChild(td_op_log_remark);    
+
+
+    }
+
+
+    table_body.appendChild(body_row);
+
+  } 
+  // End of table body generation section
+
+table.appendChild(table_header);
+table.appendChild(table_body);
+
+var tot_table_cols = header_row.childElementCount;
+var all_items = generate_min_max_array(0,tot_table_cols-1);
+
+var index = 8;              // where operation parameters start after Basic Info group
+var main_items = [0,1];     // model & serial position
+var basic_info_items = generate_min_max_array(main_items.length,index-1);     // 7 items
+
+var buttons_config = [];
+
+var basic_info_group = {
+                          extend: 'colvisGroup',
+                          text: 'Basic Info',
+                          show: main_items.concat(basic_info_items),
+                          hide: generate_diff_array(all_items, main_items.concat(basic_info_items))
+                       };
+buttons_config.push(basic_info_group);
+
+// Operation wise item groups
+for(var i=0; i < operation_names.length; i++ )
+{
+  // Each operation has 9 detail items + operation parameters
+  var operation_parameter_count = operation_parameters_obj[operation_names[i]].length;
+  var operation_items = generate_min_max_array(index, index + 9 + operation_parameter_count - 1);
+  var operation_col_group = {
+                              extend: 'colvisGroup',
+                              text: operation_names[i],
+                              show: main_items.concat(operation_items),
+                              hide: generate_diff_array(all_items, main_items.concat(operation_items))
+                            }
+  buttons_config.push(operation_col_group);
+  index = index + 9 + operation_parameter_count;
+}
+
+// Item group to show all columns
+  var show_all_items_group =             {
+                                          extend: 'colvisGroup',
+                                          text: 'Show all',
+                                          show: ':hidden'
+                                       };
+
+  buttons_config.push(show_all_items_group);                                       
+
+
+
+  $("#"+ table_id).DataTable( {
+                                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                                              "lengthChange": true,
+                                              // Only show "Basic Info" columns initially
+                                              "columnDefs": [
+                                                              { targets: main_items.concat(basic_info_items), visible: true, "width": "100px"},
+                                                              { targets: '_all', visible: false,  "width": "100px" }
+                                                            ],
+                                              "colReorder": true,
+                                              "fixedColumns":   {leftColumns: 2},
+                                              "paging": true,
+                                              "dom": '<"row"<"col-sm-12 p-2"Bf>><t><"row"<"col-sm-4 mb-2 mt-2 text-left"l><"col-sm-4 mb-2 text-center"i><"col-sm-4 text-right mb-2"p>>',
+                                              "buttons": [
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Select Viewing Mode',
+                                                            buttons: buttons_config
+                                                          },                                                        
+                                                          "searchBuilder",
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Export Data',
+                                                            buttons: ['copy','excel','csv']
+                                                          },                                                          
+                                                         ]
+                                             });
+return true;
+}
+
+
+// Support function to generate array from main_array excluding items from diff_array
+function generate_diff_array(main_array, diff_array)
+{
+  var temp_array = [];
+  for(var i=0; i<main_array.length; i++)
+  {
+    if(diff_array.indexOf(main_array[i]) < 0 )
+    temp_array.push(main_array[i]);
+  }
+
+  return temp_array;
+}
+
+
+// support function to check if job record value is within filter criter. Return true if passes fileter criteria
+function pass_filter_criteria(record, operation, model_filter_select="", status_filter_select="", workstation_filter_select = "", user_id_filter_select = "", date_filter_select = "")
+{
+
+  var date_filter = get_multi_selected_values(date_filter_select);
+  var model_filter = get_multi_selected_values(model_filter_select);
+  var status_filter = get_multi_selected_values(status_filter_select);
+  var workstation_filter = get_multi_selected_values(workstation_filter_select);
+  var user_id_filter = get_multi_selected_values(user_id_filter_select);
+
+  if(date_filter.indexOf(decode_date(record[operation].log.entry_dt,2)) < 0 ) return false;
+
+  if( model_filter.indexOf(record["Basic Info"].model) < 0 ) return false;
+
+  var status;
+  if(record[operation].status == 4) status = "Rejected";
+  else if (record[operation].status == 0)
+  {
+    if( is_null(record[operation].log.deviation_by) )
+    status = "Completed"
+    else
+    status = "Completed (with deviation)";
+  }
+  else status = "In Progress (deviation required)"
+
+  if( status_filter.indexOf(status) < 0 ) return false;
+
+  if( workstation_filter.indexOf(record[operation].workstation) < 0 ) return false;
+
+  if ( user_id_filter.indexOf(record[operation].log.entry_by) < 0 ) return false;
+
+  return true;
+}
+
+// support function to check if disruption record value is within filter criter. Return true if passes fileter criteria
+function pass_disruption_filter_criteria(record, operation, model_filter_select="", status_filter_select="", workstation_filter_select = "", user_id_filter_select = "", date_filter_select = "")
+{
+
+  var date_filter = get_multi_selected_values(date_filter_select);
+  var model_filter = get_multi_selected_values(model_filter_select);
+  var status_filter = get_multi_selected_values(status_filter_select);
+  var workstation_filter = get_multi_selected_values(workstation_filter_select);
+  var user_id_filter = get_multi_selected_values(user_id_filter_select);
+
+  if(date_filter.indexOf(decode_date(record.start_time,2)) < 0 ) return false;
+
+  if( workstation_filter.indexOf(record.workstation) < 0 ) return false;
+
+  if ( user_id_filter.indexOf(record.start_user) < 0 ) return false;
+
+  return true;
+}
+
+// Support function to get values from multiple select dropdown field
+function get_multi_selected_values(select_field_id)
+{
+  if(select_field_id == "") return [];
+
+  var select_field_options = document.getElementById(select_field_id);
+  var selected_options = [];
+
+  for(var i=0; i<select_field_options.length; i++)
+  {
+    if(select_field_options[i].selected == true)
+    selected_options.push(select_field_options[i].innerText);
+  }
+
+  return selected_options;
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                             Display Realtime Analytics - sub section of Dashboard                                  //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize realtime analytics section
+async function initialize_realtime_analytics_section()
+{
+  await reset_sections();
+  await reset_canvases();
+
+  var pending_jobs_select = document.getElementById("pending_jobs_breakdown_select");
+  var completed_jobs_select = document.getElementById("completed_jobs_breakdown_select");
+
+  pending_jobs_select.value = "realtime_pending_jobs_default";
+  completed_jobs_select.value = "realtime_completed_jobs_default";
+  set_realtime_chart_visiblity();
+
+  document.getElementById("realtime_content_container").style.display = "none";
+  
+  pending_jobs_select.onchange = function() { set_realtime_chart_visiblity() };
+  completed_jobs_select.onchange = function() { set_realtime_chart_visiblity() };
+
+  fetch_realtime_analytics_data_btn.onclick = async function() 
+    {
+
+      // check user permissions
+      if(gl_user_permission.admin == 1 || gl_user_permission[section_permission_list["View Dashboard"]] == 1 )
+      {
+        var start_date = new Date();
+        var end_date = new Date();
+
+        // Set start date time to 00:00:00
+        start_date.setHours(0); start_date.setMinutes(0); start_date.setSeconds(0);
+        start_date = firebase.firestore.Timestamp.fromDate(start_date)
+
+        // Set end date time to 00:00:00
+        end_date.setHours(23); end_date.setMinutes(59); end_date.setSeconds(59);
+        end_date = firebase.firestore.Timestamp.fromDate(end_date)
+       
+        try{
+        start_loading();  
+        const download_realtime_analytics_data = functions.httpsCallable('download_realtime_analytics_data');
+        gl_analytics_records_list = (await download_realtime_analytics_data({"start_date" : start_date, "end_date" : end_date})).data;
+
+        //Reset charts & table containers on refreshing data
+        await reset_canvases();
+
+        var table_container = document.getElementById("realtime_analytics_job_records_table_container");
+        empty_container_byReference(table_container);
+        let table = document.createElement("table");
+        table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+        table.style = "width:100%";
+        table.id = "realtime_analytics_records_table";
+        table_container.appendChild(table);
+
+
+        // render charts & table
+        await process_realtime_chart_data(gl_analytics_records_list);
+        await render_table_job_records(gl_analytics_records_list, table.id);
+        
+        stop_loading();
+        }
+        catch(error)
+        {
+          display_error(error.message);
+          return false;
+        }
+
+
+        set_realtime_chart_visiblity();
+        document.getElementById("realtime_content_container").style.display = "block";
+        return true;
+      }
+      else 
+      {
+        display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+        return false;
+      }
+
+    }
+
+}
+
+//Support function to reset chart canvases
+function reset_canvases()
+{
+
+  var realtime_pending_jobs_container = document.getElementById("realtime_pending_jobs_container");
+  var realtime_completed_jobs_container = document.getElementById("realtime_completed_jobs_container");
+
+  empty_container_byReference(realtime_pending_jobs_container);
+  empty_container_byReference(realtime_completed_jobs_container);
+
+  for(var i=0;i<pending_jobs_charts_list.length; i++)
+  {
+    var canvas = document.createElement('canvas');
+    canvas.id = pending_jobs_charts_list[i];
+    canvas.name = "realtime_pending_jobs";
+    canvas.style.display = "none";
+    realtime_pending_jobs_container.appendChild(canvas);
+  }
+
+  for(var i=0;i<completed_jobs_charts_list.length; i++)
+  {
+    var canvas = document.createElement('canvas');
+    canvas.id = completed_jobs_charts_list[i];
+    canvas.name = "realtime_completed_jobs";
+    canvas.style.display = "none";
+    realtime_completed_jobs_container.appendChild(canvas);
+  }
+
+}
+
+//Function to collect data & display all graphs using support functions
+function process_realtime_chart_data(records_array)
+{
+  var operation_label_list = [];
+
+  // Get all operation names
+  for(var i=0; i<records_array.length; i++)
+  {
+
+    operation_label_list = operation_label_list.concat(records_array[i]["Basic Info"].op_order);
+    operation_label_list = Array.from(new Set(operation_label_list));
+
+  }
+
+
+  // Collect realtime data for pending jobs
+  var pending_jobs_regular_data = {"Pending Jobs" : new Array(operation_label_list.length).fill(0) };
+  var pending_jobs_model_data = {};
+  var pending_jobs_status_data = {};
+
+  for(var i=0; i<records_array.length; i++)
+  {
+    // Pending Operation present only if Overall Status is not Complete (0) or Rejected (4)
+    if(records_array[i]["Basic Info"].status > 0 && records_array[i]["Basic Info"].status < 4 )
+    {
+        var pending_op = records_array[i]["Basic Info"].pending_op;
+        if(is_null(pending_op)) pending_op = records_array[i]["Basic Info"].op_order[0];
+
+        var pending_op_model = records_array[i]["Basic Info"].model;
+        var pending_op_status = records_array[i][pending_op].status;
+
+        // increase regular count for that operation by 1 
+        pending_jobs_regular_data["Pending Jobs"][operation_label_list.indexOf(pending_op)] += 1;
+
+        // increase model count for that operation by 1 
+        if(pending_jobs_model_data[pending_op_model])    pending_jobs_model_data[pending_op_model][operation_label_list.indexOf(pending_op)] += 1;
+        else 
+        {
+          pending_jobs_model_data[pending_op_model] = new Array(operation_label_list.length).fill(0);
+          pending_jobs_model_data[pending_op_model][operation_label_list.indexOf(pending_op)] += 1
+        }
+
+        // increase status count for that operation by 1 
+        if(pending_jobs_status_data[status_list[pending_op_status]])   
+          pending_jobs_status_data[status_list[pending_op_status]][operation_label_list.indexOf(pending_op)] += 1;
+        else 
+        {
+          pending_jobs_status_data[status_list[pending_op_status]] = new Array(operation_label_list.length).fill(0);
+          pending_jobs_status_data[status_list[pending_op_status]][operation_label_list.indexOf(pending_op)] += 1
+        }
+    }
+
+  }
+
+
+  // Collect realtime data for completed jobs
+  var completed_jobs_regular_data = {"Completed Jobs" : new Array(operation_label_list.length).fill(0) };
+  var completed_jobs_model_data = {};
+  var completed_jobs_status_data = {};
+  var completed_jobs_workstation_data = {};
+  var completed_jobs_user_data = {};
+  var today = new Date();
+  
+  for(var i=0; i<records_array.length; i++)
+  {
+    var operations = records_array[i]["Basic Info"]["op_order"];
+
+    for(var j=0; j< operations.length; j++)
+    {
+      if(   (records_array[i][operations[j]].status == 0 || records_array[i][operations[j]].status == 4) &&
+
+            ( ( !is_null(records_array[i][operations[j]].log.entry_by) && is_same_day(decode_date(records_array[i][operations[j]].log.entry_dt,1) , today) ) 
+           || ( !is_null(records_array[i][operations[j]].log.update_by) && is_same_day(decode_date(records_array[i][operations[j]].log.update_dt,1) , today) ) )   )
+
+        {
+            var completed_op = operations[j];
+            var completed_op_model = records_array[i]["Basic Info"].model;
+            var completed_op_status = records_array[i][completed_op].status;
+            var completed_op_workstation = records_array[i][completed_op].workstation;
+            var completed_op_user = (is_same_day(decode_date(records_array[i][operations[j]].log.entry_dt,1) , today)) ? 
+                                    records_array[i][operations[j]].log.entry_by : records_array[i][operations[j]].log.update_by;
+
+
+            // increase regular count for that operation by 1 
+            completed_jobs_regular_data["Completed Jobs"][operation_label_list.indexOf(completed_op)] += 1;
+
+            // increase model count for that operation by 1 
+            if(completed_jobs_model_data[completed_op_model])  completed_jobs_model_data[completed_op_model][operation_label_list.indexOf(completed_op)] += 1;
+            else 
+            {
+              completed_jobs_model_data[completed_op_model] = new Array(operation_label_list.length).fill(0);
+              completed_jobs_model_data[completed_op_model][operation_label_list.indexOf(completed_op)] += 1
+            }
+
+            // increase status count for that operation by 1 
+            if(completed_jobs_status_data[status_list[completed_op_status]])   
+            completed_jobs_status_data[status_list[completed_op_status]][operation_label_list.indexOf(completed_op)] += 1;
+            else 
+            {
+              completed_jobs_status_data[status_list[completed_op_status]] = new Array(operation_label_list.length).fill(0);
+              completed_jobs_status_data[status_list[completed_op_status]][operation_label_list.indexOf(completed_op)] += 1
+            }
+
+
+            // increase workstation count for that operation by 1 
+            if(completed_jobs_workstation_data[completed_op_workstation])   
+            completed_jobs_workstation_data[completed_op_workstation][operation_label_list.indexOf(completed_op)] += 1;
+            else 
+            {
+              completed_jobs_workstation_data[completed_op_workstation] = new Array(operation_label_list.length).fill(0);
+              completed_jobs_workstation_data[completed_op_workstation][operation_label_list.indexOf(completed_op)] += 1
+            }            
+
+            // increase user count for that operation by 1 
+            if(completed_jobs_user_data[completed_op_user])   
+            completed_jobs_user_data[completed_op_user][operation_label_list.indexOf(completed_op)] += 1;
+            else 
+            {
+              completed_jobs_user_data[completed_op_user] = new Array(operation_label_list.length).fill(0);
+              completed_jobs_user_data[completed_op_user][operation_label_list.indexOf(completed_op)] += 1
+            }   
+
+
+        }
+    }
+
+  }
+
+
+
+// Set chart properties & render all pending jobs & completed jobs charts
+var realtime_pending_jobs_container = document.getElementById("realtime_pending_jobs_container");
+realtime_pending_jobs_container.style.height = (operation_label_list.length * 10 + 12) + "vh";
+
+var realtime_completed_jobs_container = document.getElementById("realtime_completed_jobs_container");
+realtime_completed_jobs_container.style.height = (operation_label_list.length * 10 + 12) + "vh";
+
+
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(pending_jobs_regular_data), 'realtime_pending_jobs_default' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(pending_jobs_model_data), 'realtime_pending_jobs_model' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(pending_jobs_status_data), 'realtime_pending_jobs_status' );
+
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(completed_jobs_regular_data), 'realtime_completed_jobs_default' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(completed_jobs_model_data), 'realtime_completed_jobs_model' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(completed_jobs_status_data), 'realtime_completed_jobs_status' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(completed_jobs_workstation_data), 'realtime_completed_jobs_workstation' );
+render_realtime_chart(operation_label_list, convert_data_to_chart_dataset(completed_jobs_user_data), 'realtime_completed_jobs_user' );
+
+
+}
+
+
+// Support function to show / hide charts as per selection
+function set_realtime_chart_visiblity()
+{
+  // Set display for pending jobs chart
+  for(var i=0;i<pending_jobs_charts_list.length; i++)
+  {
+    document.getElementById(pending_jobs_charts_list[i]).style.display = "none";
+  }
+
+  var current_pending_jobs_chart = document.getElementById("pending_jobs_breakdown_select").value;
+  document.getElementById(current_pending_jobs_chart).style.display="block";
+
+  // Set display for completed jobs chart
+  for(var i=0;i<completed_jobs_charts_list.length; i++)
+  {
+    document.getElementById(completed_jobs_charts_list[i]).style.display = "none";
+  }
+
+  var current_completed_jobs_chart = document.getElementById("completed_jobs_breakdown_select").value;
+  document.getElementById(current_completed_jobs_chart).style.display="block";
+
+
+}
+
+
+//Support function to format axis labels to multiple lines
+function formatLabel(str, maxwidth=10){
+  var sections = [];
+  var words = str.split(" ");
+  var temp = "";
+
+  words.forEach(function(item, index){
+      if(temp.length > 0)
+      {
+          var concat = temp + ' ' + item;
+
+          if(concat.length > maxwidth){
+              sections.push(temp);
+              temp = "";
+          }
+          else{
+              if(index == (words.length-1))
+              {
+                  sections.push(concat);
+                  return;
+              }
+              else{
+                  temp = concat;
+                  return;
+              }
+          }
+      }
+
+      if(index == (words.length-1))
+      {
+          sections.push(item);
+          return;
+      }
+
+      if(item.length < maxwidth) {
+          temp = item;
+      }
+      else {
+          sections.push(item);
+      }
+
+  });
+
+  return sections;
+}
+
+// Support function to check if 2 dates have same day (not necessarily same time)
+function is_same_day(date1, date2)
+{
+   if ( date1.getFullYear() == date2.getFullYear() && date1.getMonth() == date2.getMonth() && date1.getDate() == date2.getDate() )  return true;
+
+   else return false;
+}
+
+// Format chart data as required by chart dataset variable
+function convert_data_to_chart_dataset(input_data)
+{
+  var dataset = [];
+
+  var keys = Object.keys(input_data);
+  for(var i=0; i< keys.length; i++)
+  {
+    var dataset_item = 
+                       {
+                        label: keys[i],
+                        data: input_data[keys[i]],
+                        stack: 1,
+                        maxBarThickness: 50,
+                        barThickness: 'flex',
+                        backgroundColor: (keys.length<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                       }
+    dataset.push(dataset_item);
+  }
+return dataset;
+}
+
+
+function render_realtime_chart(chart_labels,chart_data, chart_id, chart_title = "Number of Jobs")
+{
+    var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+    var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+
+    var ctx = document.getElementById(chart_id).getContext('2d');
+
+    var myChart = new Chart(ctx, {
+                                    type: 'horizontalBar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                  });
+
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                        Display Daily Operation Analytics - sub section of Dashboard                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize daily analytics section
+async function initialize_daily_operation_analytics_section()
+{
+  reset_sections();
+
+  document.getElementById("daily_analytics_start_datepicker").value = "";
+  document.getElementById("daily_analytics_end_datepicker").value = "";
+  empty_container("daily_analytics_operation_select");
+  document.getElementById("daily_analytics_main_content").style.display = "none";
+
+  $('#daily_analytics_start_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+  $('#daily_analytics_end_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+
+
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+
+  var operation_name_list = Object.keys(gl_current_operations_list);
+  operation_name_list = operation_name_list.sort();
+  var permitted_operation_list = ["Select Operation"];
+
+  // Set list of operations where user has read permissions
+  for(var i=0; i<operation_name_list.length; i++)
+  {
+    if(gl_user_permission.admin == 1 || gl_user_permission[operation_name_list[i]] >= 1 )
+    permitted_operation_list.push(operation_name_list[i]);
+  }
+
+  set_select_options(document.getElementById("daily_analytics_operation_select"), permitted_operation_list);
+ 
+
+  fetch_daily_analytics_data_btn.onclick = async function(){
+
+    var start_date = document.getElementById("daily_analytics_start_datepicker").value;
+    var end_date = document.getElementById("daily_analytics_end_datepicker").value;
+    gl_analytics_operation_name = document.getElementById("daily_analytics_operation_select").value;
+
+
+    if (is_null(start_date) || is_null(end_date) || is_null(gl_analytics_operation_name) ) 
+    {
+      display_error("Please select start and end date before fetching data");
+      return false;
+    }
+    else
+    {
+      start_date = new Date(start_date);
+      end_date = new Date(end_date);
+    }
+
+
+    if(end_date - start_date < 0)
+    {
+      display_error("End Date should be greater than or same as Start Date");
+      return false;
+    }
+
+    if(gl_analytics_operation_name == "Select Operation")
+    {
+      display_error("Please select Operation before fetching data");
+      return false;
+    }
+
+    if(gl_user_permission.admin != 1 && (gl_user_permission[gl_analytics_operation_name] < 1 || gl_user_permission[section_permission_list["View Dashboard"]] != 1 ) )
+    {
+      display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+      return false;
+    }
+
+    // set start and end times of dates & get timestamps
+    start_date.setHours(0); start_date.setMinutes(0); start_date.setSeconds(0);
+    end_date.setHours(23); end_date.setMinutes(59); end_date.setSeconds(59);
+
+    const start_dt = firebase.firestore.Timestamp.fromDate(start_date);
+    const end_dt = firebase.firestore.Timestamp.fromDate(end_date);
+
+    try{
+      start_loading();  
+      const download_operation_analytics_data = functions.httpsCallable('download_operation_analytics_data');
+      const fetched_data = (await download_operation_analytics_data({"start_date" : start_dt, "end_date" : end_dt, "operation_name" : gl_analytics_operation_name})).data;
+      gl_analytics_records_list = fetched_data.job_records;
+      gl_analytics_disruption_records_list = fetched_data.disruption_records; 
+
+      var table_container = document.getElementById("daily_analytics_job_records_table_container");
+      empty_container_byReference(table_container);
+      let table = document.createElement("table");
+      table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+      table.style = "width:100%";
+      table.id = "daily_analytics_records_table";
+      table_container.appendChild(table);
+
+
+      await process_daily_analytics_data(gl_analytics_records_list,gl_analytics_disruption_records_list, gl_analytics_operation_name);
+      await render_table_job_records(gl_analytics_records_list, table.id, [gl_analytics_operation_name]);
+      document.getElementById("daily_analytics_main_content").style.display = "block";
+
+      stop_loading();
+      }
+      catch(error)
+      {
+        display_error(error.message);
+        return false;
+      }      
+
+  }
+
+}
+
+
+function process_daily_analytics_data(records_list,disruption_records_list, operation_name)
+{
+  //reset breakdown view mode
+  document.getElementById("daily_analytics_breakdown_select").value = "daily_analytics_graph_default";
+  
+  var date_list = [];
+  var model_list = [];
+  var status_list = [];
+  var workstation_list = [];
+  var user_list = [];
+
+  // Get all available options from job records of models, status, workstation, user ids, etc for data filters
+  for(var i=0; i< records_list.length; i++)
+  {
+    date_list.push(decode_date(records_list[i][operation_name]["log"]["entry_dt"],2) );
+    model_list.push(records_list[i]["Basic Info"]["model"]);
+    workstation_list.push(records_list[i][operation_name]["workstation"]);
+    user_list.push(records_list[i][operation_name]["log"]["entry_by"]);
+
+    if(records_list[i][operation_name]["status"] == 4)
+    status_list.push("Rejected");
+    else if(records_list[i][operation_name]["status"] == 0)
+    {
+      if( is_null(records_list[i][operation_name]["log"]["deviation_by"]) )
+      status_list.push("Completed");
+      else
+      status_list.push("Completed (with deviation)");
+    }    
+    else status_list.push("In Progress (deviation required)");
+  }
+
+  // Get all available options from disruption records of models, status, workstation, user ids, etc for data filters
+  for(var i=0; i< disruption_records_list.length; i++)
+  {
+    date_list.push(decode_date(disruption_records_list[i]["start_time"],2) );
+    workstation_list.push(disruption_records_list[i]["workstation"]);
+    user_list.push(disruption_records_list[i]["start_user"]);
+  }
+
+
+  //Keep only unique options
+  date_list = Array.from(new Set(date_list)).sort();
+  model_list = Array.from(new Set(model_list)).sort();
+  status_list = Array.from(new Set(status_list)).sort();
+  workstation_list = Array.from(new Set(workstation_list)).sort();
+  user_list = Array.from(new Set(user_list)).sort();
+
+  empty_container("daily_analytics_filter_date");
+  empty_container("daily_analytics_filter_model");
+  empty_container("daily_analytics_filter_status");
+  empty_container("daily_analytics_filter_workstation");
+  empty_container("daily_analytics_filter_user");
+
+  set_select_options(document.getElementById("daily_analytics_filter_date") , date_list);
+  set_select_options(document.getElementById("daily_analytics_filter_model") , model_list);
+  set_select_options(document.getElementById("daily_analytics_filter_status") , status_list);
+  set_select_options(document.getElementById("daily_analytics_filter_workstation") , workstation_list);
+  set_select_options(document.getElementById("daily_analytics_filter_user") , user_list);
+  $('.selectpicker').selectpicker('refresh');     // Refresh / update state of all select pickers
+
+  // Select all options in filters initially
+  $('#daily_analytics_filter_date').selectpicker('selectAll');
+  $('#daily_analytics_filter_model').selectpicker('selectAll');
+  $('#daily_analytics_filter_status').selectpicker('selectAll');
+  $('#daily_analytics_filter_workstation').selectpicker('selectAll');
+  $('#daily_analytics_filter_user').selectpicker('selectAll');
+
+
+  var daily_analytics_charts_container = document.getElementById("daily_analytics_charts_container");
+  daily_analytics_charts_container.style.height = (50) + "vh";
+
+  var breakdown_select_container = document.getElementById("daily_analytics_breakdown_select");
+
+  var data_obj = convert_data_to_daily_analytics_chart_dataset(records_list, operation_name);
+  render_daily_analytics_graph( daily_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+  breakdown_select_container.onchange = function(){
+
+    
+    var data_obj = {};
+
+    if(breakdown_select_container.value == "daily_analytics_graph_disruption_mins" || breakdown_select_container.value == "daily_analytics_graph_disruption_count")
+    data_obj = convert_disruption_data_to_daily_analytics_chart_dataset(disruption_records_list, operation_name, breakdown_select_container.value);
+    else 
+    data_obj = convert_data_to_daily_analytics_chart_dataset(records_list, operation_name, breakdown_select_container.value);
+    
+    render_daily_analytics_graph( daily_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+  }
+
+  var daily_analytics_filter_container = document.getElementById("daily_analytics_filter_container");
+  daily_analytics_filter_container.onchange = function(){
+
+    var data_obj = {};
+
+    if(breakdown_select_container.value == "daily_analytics_graph_disruption_mins" || breakdown_select_container.value == "daily_analytics_graph_disruption_count")
+    data_obj = convert_disruption_data_to_daily_analytics_chart_dataset(disruption_records_list, operation_name, breakdown_select_container.value);
+    else 
+    data_obj = convert_data_to_daily_analytics_chart_dataset(records_list, operation_name, breakdown_select_container.value);
+    
+    render_daily_analytics_graph( daily_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+    }
+return true;
+}
+
+// Format chart job data as required by chart dataset variable
+function convert_data_to_daily_analytics_chart_dataset(record_list = [], operation_name, breakdown_mode = "daily_analytics_graph_default")
+{
+
+  // Get records as per filter criteria & get daily date labels as per local time
+  var filtered_data_list = [];
+  var date_list = [];
+
+  for(var i=0; i<record_list.length; i++)
+    {
+      if(pass_filter_criteria(record_list[i], operation_name, "daily_analytics_filter_model", "daily_analytics_filter_status",
+                              "daily_analytics_filter_workstation", "daily_analytics_filter_user","daily_analytics_filter_date" ))
+      {
+        filtered_data_list.push(record_list[i]);
+        var dt = decode_date(record_list[i][operation_name].log.entry_dt, 1);
+
+        var date_label = dt.getDate() + "-"  + monthNames[dt.getMonth()].substr(0,3) + "-" + dt.getFullYear();
+        if(date_list.indexOf(date_label) < 0) date_list.push(date_label);
+      }
+    }
+  
+    var data_count = {};
+    var breakdown_categories = [];
+
+  // default breakdown view
+  if(breakdown_mode == "daily_analytics_graph_default")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+     breakdown_categories[0] = ["# of Jobs"]; 
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      data_count[breakdown_categories[0]][index] += 1;
+    }
+
+  }
+
+  // model breakdown view
+  if(breakdown_mode == "daily_analytics_graph_model")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i]["Basic Info"].model) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i]["Basic Info"].model);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i]["Basic Info"].model;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+    // status breakdown view
+    if(breakdown_mode == "daily_analytics_graph_status")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      var status = "";
+
+      if(filtered_data_list[i][operation_name].status == 4) status = "Rejected";
+      else if (filtered_data_list[i][operation_name].status == 0)
+      {
+        if(is_null(filtered_data_list[i][operation_name].log.deviation_by))
+        status = "Completed";
+        else
+        status = "Completed (with deviation)";
+      }
+      else status = "In Progress (deviation required)";
+
+      if(breakdown_categories.indexOf(status) < 0 )
+      {
+        breakdown_categories.push(status);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = "";
+      if(filtered_data_list[i][operation_name].status == 4) category = "Rejected";
+      else if (filtered_data_list[i][operation_name].status == 0)
+      {
+        if(is_null(filtered_data_list[i][operation_name].log.deviation_by))
+        category = "Completed";
+        else
+        category = "Completed (with deviation)";
+      }
+      else category = "In Progress (deviation required)";
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // workstation breakdown view
+  if(breakdown_mode == "daily_analytics_graph_workstation")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i][operation_name].workstation) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i][operation_name].workstation);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i][operation_name].workstation;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // user id breakdown view
+  if(breakdown_mode == "daily_analytics_graph_user_id")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i][operation_name].log.entry_by) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i][operation_name].log.entry_by);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i][operation_name].log.entry_by;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+  
+
+
+  // job hours breakdown view
+  if(breakdown_mode == "daily_analytics_graph_job_hours")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+     breakdown_categories[0] = ["Job Hours Completed"]; 
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      data_count[breakdown_categories[0]][index] += filtered_data_list[i][operation_name]["cycle_time"] / 60;
+    }
+
+    // display job hours only till 1st integer place
+    for(var i=0; i< date_list.length; i++)
+    {
+      data_count[breakdown_categories[0]][i] = Number(data_count[breakdown_categories[0]][i]).toFixed(1) ;
+    }
+
+
+  }
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : date_list
+         };
+
+}
+
+// Format chart disruption data as required by chart dataset variable
+function convert_disruption_data_to_daily_analytics_chart_dataset(disruption_record_list = [], operation_name, breakdown_mode = "daily_analytics_graph_disruption_mins")
+{
+
+  // Get disruption records as per filter criteria & get daily date labels as per local time
+  var filtered_data_list = [];
+  var date_list = [];
+
+  for(var i=0; i<disruption_record_list.length; i++)
+    {
+      if(pass_disruption_filter_criteria(disruption_record_list[i], operation_name, "daily_analytics_filter_model", "daily_analytics_filter_status",
+                              "daily_analytics_filter_workstation", "daily_analytics_filter_user","daily_analytics_filter_date" ))
+      {
+        filtered_data_list.push(disruption_record_list[i]);
+        var dt = decode_date(disruption_record_list[i].start_time, 1);
+
+        var date_label = dt.getDate() + "-"  + monthNames[dt.getMonth()].substr(0,3) + "-" + dt.getFullYear();
+        if(date_list.indexOf(date_label) < 0) date_list.push(date_label);
+      }
+    }
+  
+    var data_count = {};
+    var breakdown_categories = [];
+
+
+
+  // disruption hours breakdown view
+  if(breakdown_mode == "daily_analytics_graph_disruption_mins")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i].start_time,1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      var disruption_minutes =  (decode_date(filtered_data_list[i].end_time|| new Date(),1) - decode_date(filtered_data_list[i].start_time,1)) / (1000 * 60);
+      disruption_minutes = Math.round(disruption_minutes); 
+
+      data_count[category][index] += disruption_minutes;
+    }
+
+  }
+
+  // disruption hours breakdown view
+  if(breakdown_mode == "daily_analytics_graph_disruption_count")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i].start_time,1);
+      var date_label = entry_dt.getDate() + "-"  + monthNames[entry_dt.getMonth()].substr(0,3) + "-" + entry_dt.getFullYear();
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : date_list
+         };
+
+}
+
+
+function render_daily_analytics_graph( chart_container, data_obj , operation_name,  breakdown_mode = "daily_analytics_graph_default")
+{
+
+  chart_data = data_obj.dataset;
+  chart_labels =  data_obj.axis_labels;
+
+  var chart_title = "Number of Jobs Per Day (" + operation_name + ")";
+  if(breakdown_mode == "daily_analytics_graph_job_hours") chart_title = "Total Cycle Time of Jobs Processed per Day (hours)";
+  if(breakdown_mode == "daily_analytics_graph_disruption_mins") chart_title = "Disruptions Reported for " + operation_name + " (minutes)";
+  if(breakdown_mode == "daily_analytics_graph_disruption_count") chart_title = "# Disruptions Reported for " + operation_name;
+
+
+  empty_container_byReference(chart_container);
+  var canvas = document.createElement('canvas');
+  canvas.id = "daily_analytics_charts_canvas";
+  chart_container.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+    
+  var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+  var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true, barThickness: 'flex', }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+  var myChart = new Chart(ctx, {
+                                    type: 'bar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                });
+
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                        Display Hourly Operation Analytics - sub section of Dashboard                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize hourly analytics section
+async function initialize_hourly_operation_analytics_section()
+{
+  reset_sections();
+
+  document.getElementById("hourly_analytics_start_datepicker").value = "";
+  document.getElementById("hourly_analytics_end_datepicker").value = "";
+  empty_container("hourly_analytics_operation_select");
+  document.getElementById("hourly_analytics_main_content").style.display = "none";
+
+  $('#hourly_analytics_start_datepicker').datepicker({ uiLibrary: 'bootstrap4'  }); 
+  $('#hourly_analytics_end_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+
+  var operation_name_list = Object.keys(gl_current_operations_list);
+  operation_name_list = operation_name_list.sort();
+  var permitted_operation_list = ["Select Operation"];
+
+  // Set list of operations where user has read permissions
+  for(var i=0; i<operation_name_list.length; i++)
+  {
+    if(gl_user_permission.admin == 1 || gl_user_permission[operation_name_list[i]] >= 1 )
+    permitted_operation_list.push(operation_name_list[i]);
+  }
+
+  set_select_options(document.getElementById("hourly_analytics_operation_select"), permitted_operation_list);
+ 
+
+  fetch_hourly_analytics_data_btn.onclick = async function(){
+
+    var start_date = document.getElementById("hourly_analytics_start_datepicker").value;
+    var end_date = document.getElementById("hourly_analytics_end_datepicker").value;
+    gl_analytics_operation_name = document.getElementById("hourly_analytics_operation_select").value;
+
+
+    if (is_null(start_date) || is_null(end_date) || is_null(gl_analytics_operation_name) ) 
+    {
+      display_error("Please select start and end date before fetching data");
+      return false;
+    }
+    else
+    {
+      start_date = new Date(start_date);
+      end_date = new Date(end_date);
+    }
+
+    if(end_date - start_date < 0)
+    {
+      display_error("End Date should be greater than or same as Start Date");
+      return false;
+    }
+
+    if(gl_analytics_operation_name == "Select Operation")
+    {
+      display_error("Please select Operation before fetching data");
+      return false;
+    }
+
+    if(gl_user_permission.admin != 1 && (gl_user_permission[gl_analytics_operation_name] < 1 || gl_user_permission[section_permission_list["View Dashboard"]] != 1 ) )
+    {
+      display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+      return false;
+    }
+
+    // set start and end times of dates & get timestamps
+    start_date.setHours(0); start_date.setMinutes(0); start_date.setSeconds(0);
+    end_date.setHours(23); end_date.setMinutes(59); end_date.setSeconds(59);
+
+    const start_dt = firebase.firestore.Timestamp.fromDate(start_date);
+    const end_dt = firebase.firestore.Timestamp.fromDate(end_date);
+
+    try{
+      start_loading();  
+      const download_operation_analytics_data = functions.httpsCallable('download_operation_analytics_data');
+      const fetched_data = (await download_operation_analytics_data({"start_date" : start_dt, "end_date" : end_dt, "operation_name" : gl_analytics_operation_name})).data;
+      gl_analytics_records_list = fetched_data.job_records;
+      gl_analytics_disruption_records_list = fetched_data.disruption_records; 
+
+      var table_container = document.getElementById("hourly_analytics_job_records_table_container");
+      empty_container_byReference(table_container);
+      let table = await document.createElement("table");
+      table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+      table.style = "width:100%";
+      table.id = "hourly_analytics_records_table";
+      table_container.appendChild(table);
+
+      await process_hourly_analytics_data(gl_analytics_records_list, gl_analytics_disruption_records_list, gl_analytics_operation_name);
+      await render_table_job_records(gl_analytics_records_list, table.id, [gl_analytics_operation_name])
+      document.getElementById("hourly_analytics_main_content").style.display = "block";
+    
+      stop_loading();
+      }
+      catch(error)
+      {
+        display_error(error.message);
+        return false;
+      }
+
+  }
+
+}
+
+
+function process_hourly_analytics_data(records_list, disruption_records_list, operation_name)
+{
+
+  //reset breakdown view mode
+  document.getElementById("hourly_analytics_breakdown_select").value = "hourly_analytics_graph_default";
+
+  var date_list = [];
+  var model_list = [];
+  var status_list = [];
+  var workstation_list = [];
+  var user_list = [];
+
+  // Get all available options from job records of dates, models, status, workstation, user ids, etc for data filters
+  for(var i=0; i< records_list.length; i++)
+  {
+    date_list.push(decode_date(records_list[i][operation_name]["log"]["entry_dt"],2) );    
+    model_list.push(records_list[i]["Basic Info"]["model"]);
+    workstation_list.push(records_list[i][operation_name]["workstation"]);
+    user_list.push(records_list[i][operation_name]["log"]["entry_by"]);
+
+    if(records_list[i][operation_name]["status"] == 4)
+    status_list.push("Rejected");
+    else if(records_list[i][operation_name]["status"] == 0)
+    {
+      if(records_list[i][operation_name]["log"]["deviation_by"] == "")
+      status_list.push("Completed");
+      else
+      status_list.push("Completed (with deviation)");
+    }
+    else
+    status_list.push("In Progress (deviation required)") 
+  }
+
+  // Get all available options from disruption records of models, status, workstation, user ids, etc for data filters
+  for(var i=0; i< disruption_records_list.length; i++)
+  {
+    date_list.push(decode_date(disruption_records_list[i]["start_time"],2) );
+    workstation_list.push(disruption_records_list[i]["workstation"]);
+    user_list.push(disruption_records_list[i]["start_user"]);
+  }
+ 
+  //Keep only unique options
+  date_list = Array.from(new Set(date_list));
+  model_list = Array.from(new Set(model_list)).sort();
+  status_list = Array.from(new Set(status_list)).sort();
+  workstation_list = Array.from(new Set(workstation_list)).sort();
+  user_list = Array.from(new Set(user_list)).sort();
+
+
+  empty_container("hourly_analytics_filter_date");
+  empty_container("hourly_analytics_filter_model");
+  empty_container("hourly_analytics_filter_status");
+  empty_container("hourly_analytics_filter_workstation");
+  empty_container("hourly_analytics_filter_user");
+
+  set_select_options(document.getElementById("hourly_analytics_filter_date") , date_list);
+  set_select_options(document.getElementById("hourly_analytics_filter_model") , model_list);
+  set_select_options(document.getElementById("hourly_analytics_filter_status") , status_list);
+  set_select_options(document.getElementById("hourly_analytics_filter_workstation") , workstation_list);
+  set_select_options(document.getElementById("hourly_analytics_filter_user") , user_list);
+  $('.selectpicker').selectpicker('refresh');     // Refresh / update state of all select pickers
+
+  // Select all options in filters initially
+  $('#hourly_analytics_filter_date').selectpicker('selectAll');
+  $('#hourly_analytics_filter_model').selectpicker('selectAll');
+  $('#hourly_analytics_filter_status').selectpicker('selectAll');
+  $('#hourly_analytics_filter_workstation').selectpicker('selectAll');
+  $('#hourly_analytics_filter_user').selectpicker('selectAll');
+
+
+  var hourly_analytics_charts_container = document.getElementById("hourly_analytics_charts_container");
+  hourly_analytics_charts_container.style.height = (50) + "vh";
+
+  var breakdown_select_container = document.getElementById("hourly_analytics_breakdown_select");
+
+  var data_obj = convert_data_to_hourly_analytics_chart_dataset(records_list, operation_name);
+  render_hourly_analytics_graph( hourly_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+  breakdown_select_container.onchange = function(){
+
+    var data_obj = {};
+
+    if(breakdown_select_container.value == "hourly_analytics_graph_disruption_mins" || breakdown_select_container.value == "hourly_analytics_graph_disruption_count")
+    data_obj = convert_disruption_data_to_hourly_analytics_chart_dataset(disruption_records_list, operation_name, breakdown_select_container.value);
+    else 
+    data_obj = convert_data_to_hourly_analytics_chart_dataset(records_list, operation_name, breakdown_select_container.value);
+    
+    render_hourly_analytics_graph( hourly_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+  }
+
+  var hourly_analytics_filter_container = document.getElementById("hourly_analytics_filter_container");
+  hourly_analytics_filter_container.onchange = function(){
+
+    var data_obj = {};
+
+    if(breakdown_select_container.value == "hourly_analytics_graph_disruption_mins" || breakdown_select_container.value == "hourly_analytics_graph_disruption_count")
+    data_obj = convert_disruption_data_to_hourly_analytics_chart_dataset(disruption_records_list, operation_name, breakdown_select_container.value);
+    else 
+    data_obj = convert_data_to_hourly_analytics_chart_dataset(records_list, operation_name, breakdown_select_container.value);
+    
+    render_hourly_analytics_graph( hourly_analytics_charts_container, data_obj, operation_name, breakdown_select_container.value);
+
+    }
+  return true;  
+}
+
+// Format chart job data as required by chart dataset variable
+function convert_data_to_hourly_analytics_chart_dataset(record_list = [], operation_name, breakdown_mode = "hourly_analytics_graph_default")
+{
+
+  // Get records as per filter criteria & get hourly labels as per local time
+  var filtered_data_list = [];
+  var date_list = [];
+
+  for(var i=0; i<record_list.length; i++)
+    {
+      if(pass_filter_criteria(record_list[i], operation_name, "hourly_analytics_filter_model", "hourly_analytics_filter_status", 
+                              "hourly_analytics_filter_workstation", "hourly_analytics_filter_user", "hourly_analytics_filter_date"))
+      {
+        filtered_data_list.push(record_list[i]);
+        var dt = decode_date(record_list[i][operation_name].log.entry_dt, 1);
+
+        var date_label = dt.getHours() + ":00 - " + (dt.getHours()+1) + ":00";
+        if(date_list.indexOf(date_label) < 0) date_list.push(date_label);
+      }
+    }
+  
+    date_list = date_list.sort(function(a, b)
+    {
+      const val1 = Number(a.split(":")[0]);
+      const val2 = Number(b.split(":")[0]);
+      return val1-val2;
+    });
+    var data_count = {};
+    var breakdown_categories = [];
+
+  // default breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_default")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+     breakdown_categories[0] = ["# of Jobs"]; 
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      data_count[breakdown_categories[0]][index] += 1;
+    }
+
+  }
+
+  // model breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_model")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i]["Basic Info"].model) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i]["Basic Info"].model);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i]["Basic Info"].model;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+    // status breakdown view
+    if(breakdown_mode == "hourly_analytics_graph_status")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      var status = "";
+      if(filtered_data_list[i][operation_name].status == 4) status = "Rejected";
+      else if (filtered_data_list[i][operation_name].status == 0)
+      {
+        if(is_null(filtered_data_list[i][operation_name].log.deviation_by))
+        status = "Completed";
+        else
+        status = "Completed (with deviation)";
+      }
+      else status = "In Progress (deviation required)";
+
+
+      if(breakdown_categories.indexOf(status) < 0 )
+      {
+        breakdown_categories.push(status);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = "";
+      if(filtered_data_list[i][operation_name].status == 4) category = "Rejected";
+      else if (filtered_data_list[i][operation_name].status == 0)
+      {
+        if( is_null(filtered_data_list[i][operation_name].log.deviation_by) )
+        category = "Completed";
+        else
+        category = "Completed (with deviation)";
+      }
+      else category = "In Progress (deviation required)";
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // workstation breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_workstation")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i][operation_name].workstation) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i][operation_name].workstation);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i][operation_name].workstation;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // user id breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_user_id")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i][operation_name].log.entry_by) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i][operation_name].log.entry_by);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i][operation_name].log.entry_by;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+  
+
+
+  // job hours breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_job_hours")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+     breakdown_categories[0] = ["Job Hours Completed"]; 
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i][operation_name]["log"]["entry_dt"],1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      data_count[breakdown_categories[0]][index] += filtered_data_list[i][operation_name]["cycle_time"] / 60;
+    }
+
+    // display job hours only till 1st integer place
+    for(var i=0; i< date_list.length; i++)
+    {
+      data_count[breakdown_categories[0]][i] = Number(data_count[breakdown_categories[0]][i]).toFixed(1) ;
+    }
+
+
+  }
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : date_list
+         };
+
+}
+
+// Format chart disruption data as required by chart dataset variable
+function convert_disruption_data_to_hourly_analytics_chart_dataset(disruption_record_list = [], operation_name, breakdown_mode = "hourly_analytics_graph_disruption_mins")
+{
+
+  // Get records as per filter criteria & get hourly labels as per local time
+  var filtered_data_list = [];
+  var date_list = [];
+
+  for(var i=0; i<disruption_record_list.length; i++)
+    {
+      if(pass_disruption_filter_criteria(disruption_record_list[i], operation_name, "hourly_analytics_filter_model", "hourly_analytics_filter_status", 
+                              "hourly_analytics_filter_workstation", "hourly_analytics_filter_user", "hourly_analytics_filter_date"))
+      {
+        filtered_data_list.push(disruption_record_list[i]);
+        var dt = decode_date(disruption_record_list[i].start_time, 1);
+
+        var date_label = dt.getHours() + ":00 - " + (dt.getHours()+1) + ":00";
+        if(date_list.indexOf(date_label) < 0) date_list.push(date_label);
+      }
+    }
+  
+    date_list = date_list.sort(function(a, b)
+    {
+      const val1 = Number(a.split(":")[0]);
+      const val2 = Number(b.split(":")[0]);
+      return val1-val2;
+    });
+    var data_count = {};
+    var breakdown_categories = [];
+
+
+  // disruption minutes breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_disruption_mins")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i].start_time,1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      var disruption_minutes =  (decode_date(filtered_data_list[i].end_time|| new Date(),1) - decode_date(filtered_data_list[i].start_time,1)) / (1000 * 60);
+      disruption_minutes = Math.round(disruption_minutes); // save number to 1 decimal place only
+
+      data_count[category][index] += disruption_minutes;
+    }
+
+  }
+  
+
+  // disruption count breakdown view
+  if(breakdown_mode == "hourly_analytics_graph_disruption_count")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(date_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var entry_dt = decode_date(filtered_data_list[i].start_time,1);
+      var date_label = entry_dt.getHours() + ":00 - " + (entry_dt.getHours()+1) + ":00";
+
+      var index = date_list.indexOf(date_label);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : date_list
+         };
+
+}
+
+function render_hourly_analytics_graph( chart_container, data_obj , operation_name,  breakdown_mode = "hourly_analytics_graph_default")
+{
+
+  chart_data = data_obj.dataset;
+  chart_labels =  data_obj.axis_labels;
+
+  var chart_title = "Number of Jobs Per Hour (" + operation_name + ")";
+  if(breakdown_mode == "hourly_analytics_graph_job_hours") chart_title = "Total Cycle Time of Jobs Processed per Hour (hours)";
+  if(breakdown_mode == "hourly_analytics_graph_disruption_mins") chart_title = "Disruptions Reported for " + operation_name + " (minutes)";
+  if(breakdown_mode == "hourly_analytics_graph_disruption_count") chart_title = "# Disruptions Reported for " + operation_name;
+
+  empty_container_byReference(chart_container);
+  var canvas = document.createElement('canvas');
+  canvas.id = "hourly_analytics_charts_canvas";
+  chart_container.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+    
+  var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+  var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true, barThickness: 'flex', }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+  var myChart = new Chart(ctx, {
+                                    type: 'bar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                });
+
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                        Display WIP Inventory Analytics - sub section of Dashboard                             //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize WIP Inventory analytics section
+
+async function initialize_wip_inventory_analytics_section()
+{
+  await reset_sections();
+  var wip_inventory_model_seclect_container = document.getElementById("wip_inventory_analytics_model_select");
+  empty_container_byReference(wip_inventory_model_seclect_container);
+  document.getElementById("wip_inventory_analytics_main_content").style.display = "none";
+
+  if( is_null(gl_model_list) )
+  gl_model_list = await read_model_list();
+
+  set_select_options(wip_inventory_model_seclect_container,gl_model_list.sort())
+
+
+  fetch_wip_inventory_analytics_data_btn.onclick = async function(){
+
+    const model_name = wip_inventory_model_seclect_container.value;
+
+    try{
+      start_loading();  
+      const download_wip_inventory_analytics_data = functions.httpsCallable('download_wip_invenotry_analytics_data');
+      const fetched_data = (await download_wip_inventory_analytics_data({"model_type" : model_name})).data;
+      console.log(fetched_data);
+      gl_analytics_records_list = fetched_data;
+
+      var table_container = document.getElementById("wip_inventory_analytics_job_records_table_container");
+          empty_container_byReference(table_container);
+          let table = document.createElement("table");
+          table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+          table.style = "width:100%";
+          table.id = "wip_inventory_analytics_table";
+          table_container.appendChild(table);
+  
+  
+      process_wip_inventory_analytics_data(gl_analytics_records_list, model_name);
+      render_table_job_records(gl_analytics_records_list, "wip_inventory_analytics_table");
+  
+      document.getElementById("wip_inventory_analytics_main_content").style.display = "block";
+  
+      stop_loading();
+      }
+      catch(error)
+      {
+        display_error(error.message);
+        return false;
+      }
+
+  }
+}
+
+
+
+function process_wip_inventory_analytics_data(wip_inventory_records_list, model_name)
+{ 
+  var operation_id_list = [];
+
+  // Get all available options of operations present
+  for(var i=0; i< wip_inventory_records_list.length; i++)
+  {
+    operation_id_list = operation_id_list.concat(wip_inventory_records_list[i]["Basic Info"].op_order);
+  }
+
+  //Keep only unique options
+  operation_id_list = Array.from(new Set(operation_id_list));
+
+
+  var wip_inventory_analytics_charts_container = document.getElementById("wip_inventory_charts_container");
+  wip_inventory_analytics_charts_container.style.height = (50) + "vh";
+
+  var data_obj = convert_data_to_wip_inventory_analytics_chart_dataset(wip_inventory_records_list, operation_id_list);
+  render_wip_inventory_analytics_graph( wip_inventory_charts_container, data_obj, model_name);
+
+return true;
+}
+
+
+// Format chart disruption data as required by chart dataset variable
+function convert_data_to_wip_inventory_analytics_chart_dataset(wip_inventory_record_list = [], operation_id_list)
+{
+
+  // Get disruption records as per filter criteria & get daily date labels as per local time
+  var filtered_data_list = wip_inventory_record_list;
+  var operation_name_list = [];
+
+  for(var i=0; i<operation_id_list.length; i++)
+    {
+        if(gl_user_permission.admin == 1 || gl_user_permission[operation_id_list[i]] >= 1)
+        {
+          operation_name_list.push(operation_id_list[i]);
+        }
+    }
+
+    operation_name_list.push("Ready for Dispatch");
+
+    //Keep only unique options
+    operation_name_list = Array.from(new Set(operation_name_list));
+
+  
+    var data_count = {};
+    var breakdown_categories = [status_list[2],status_list[1],status_list[3]];
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(operation_name_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var pending_op = filtered_data_list[i]["Basic Info"]["pending_op"];
+      if(pending_op == ".") pending_op = "Ready for Dispatch";
+
+      var index = operation_name_list.indexOf(pending_op);
+      console.log(index);
+
+
+      // Select operation status category that record belongs to 
+      
+      var status = (filtered_data_list[i][pending_op] == undefined) ? 2 : filtered_data_list[i][pending_op]["status"];
+      var category = status_list[status] ;
+
+      data_count[category][index] += 1;
+    }
+
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60,
+                    barThickness: 'flex',
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : operation_name_list
+         };
+
+}
+
+
+function render_wip_inventory_analytics_graph( chart_container, data_obj, model_name)
+{
+
+  chart_data = data_obj.dataset;
+  chart_labels =  data_obj.axis_labels;
+
+  var chart_title = model_name + " - Work In Progress Inventory Status";
+ 
+  empty_container_byReference(chart_container);
+  var canvas = document.createElement('canvas');
+  canvas.id = "wip_inventory_analytics_charts_canvas";
+  chart_container.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+    
+  var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+  var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true, barThickness: 'flex', }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+  var myChart = new Chart(ctx, {
+                                    type: 'horizontalBar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                });
+
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                        Display Process Disruption Analytics - sub section of Dashboard                             //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize process disruption analytics section
+
+async function initialize_process_disruption_analytics_section()
+{
+  reset_sections();
+
+  document.getElementById("process_disruption_analytics_start_datepicker").value = "";
+  document.getElementById("process_disruption_analytics_end_datepicker").value = "";
+  document.getElementById("process_disruption_analytics_main_content").style.display = "none";
+  document.getElementById("process_disruption_analytics_breakdown_select").value = "disruption_analytics_graph_disruption_count";
+
+  $('#process_disruption_analytics_start_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+  $('#process_disruption_analytics_end_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+
+
+  fetch_process_disruption_analytics_data_btn.onclick = async function(){
+
+    var start_date = document.getElementById("process_disruption_analytics_start_datepicker").value;
+    var end_date = document.getElementById("process_disruption_analytics_end_datepicker").value;
+
+    if (is_null(start_date) || is_null(end_date) ) 
+    {
+      display_error("Please select start and end date before fetching data");
+      return false;
+    }
+    else
+    {
+      start_date = new Date(start_date);
+      end_date = new Date(end_date);
+    }
+
+    if(end_date - start_date < 0)
+    {
+      display_error("End Date should be greater than or same as Start Date");
+      return false;
+    }
+
+    if(gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["View Dashboard"]] != 1 )
+    {
+      display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+      return false;
+    }
+
+    // set start and end times of dates & get timestamps
+    start_date.setHours(0); start_date.setMinutes(0); start_date.setSeconds(0);
+    end_date.setHours(23); end_date.setMinutes(59); end_date.setSeconds(59);
+
+    const start_dt = firebase.firestore.Timestamp.fromDate(start_date);
+    const end_dt = firebase.firestore.Timestamp.fromDate(end_date);
+
+
+    try
+    {
+      start_loading();
+
+      const download_disruption_analytics_data = functions.httpsCallable('download_disruption_analytics_data');
+      const fetched_data = (await download_disruption_analytics_data({"start_date" : start_dt, "end_date" : end_dt})).data;
+
+//      var fetched_data = await get_disruption_data();
+
+      // remove records for operations where user does not have atleast "read" permission (1 - read, 2 - write, etc) from operation_names array
+      var temp_array = [];
+      gl_analytics_disruption_records_list = [];
+      for(var i=0; i< fetched_data.length; i++)
+      {
+          if(gl_user_permission.admin == 1 || gl_user_permission[fetched_data[i].operation] >=1)
+          temp_array.push(fetched_data[i]);
+      }
+      gl_analytics_disruption_records_list = temp_array;
+    
+        var table_container = document.getElementById("process_disruption_analytics_table_container");
+            empty_container_byReference(table_container);
+            let table = document.createElement("table");
+            table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+            table.style = "width:100%";
+            table.id = "process_disruption_analytics_table";
+            table_container.appendChild(table);
+    
+    
+        process_disruption_analytics_data(gl_analytics_disruption_records_list);
+        render_table_disruption_records(gl_analytics_disruption_records_list, "process_disruption_analytics_table");
+    
+        document.getElementById("process_disruption_analytics_main_content").style.display = "block";
+    
+        var process_disruption_analytics_breakdown_select = document.getElementById("process_disruption_analytics_breakdown_select");
+        process_disruption_analytics_breakdown_select.onchange=function() {    process_disruption_analytics_data(gl_analytics_disruption_records_list);}
+    
+        stop_loading();
+    }
+    catch(error)
+    {
+      display_error(error.message);
+      return false;
+    }
+
+  }
+}
+
+
+function process_disruption_analytics_data(disruption_records_list)
+{ 
+  var operation_id_list = [];
+
+  // Get all available options of operations present
+  for(var i=0; i< disruption_records_list.length; i++)
+  {
+    operation_id_list.push(disruption_records_list[i].operation);
+  }
+
+  //Keep only unique options
+  operation_id_list = Array.from(new Set(operation_id_list)).sort();
+
+
+  var process_disruption_analytics_charts_container = document.getElementById("process_disruption_analytics_charts_container");
+  process_disruption_analytics_charts_container.style.height = (50) + "vh";
+
+  var breakdown_select_container = document.getElementById("process_disruption_analytics_breakdown_select");
+
+  var data_obj = convert_data_to_disruption_analytics_chart_dataset(disruption_records_list, breakdown_select_container.value);
+  render_disruption_analytics_graph( process_disruption_analytics_charts_container, data_obj, breakdown_select_container.value);
+
+  breakdown_select_container.onchange = function(){
+
+    
+    var data_obj = {};
+    data_obj = convert_data_to_disruption_analytics_chart_dataset(disruption_records_list, breakdown_select_container.value);
+
+    render_disruption_analytics_graph( process_disruption_analytics_charts_container, data_obj, breakdown_select_container.value);
+
+  }
+
+return true;
+}
+
+
+// Format chart disruption data as required by chart dataset variable
+function convert_data_to_disruption_analytics_chart_dataset(disruption_record_list = [], breakdown_mode = "daily_analytics_graph_disruption_count")
+{
+
+  // Get disruption records as per filter criteria & get daily date labels as per local time
+  var filtered_data_list = [];
+  var operation_name_list = [];
+
+  for(var i=0; i<disruption_record_list.length; i++)
+    {
+        filtered_data_list.push(disruption_record_list[i]);
+
+        var operation_label = disruption_record_list[i].operation;
+        if(operation_name_list.indexOf(operation_label) < 0) operation_name_list.push(operation_label);
+    }
+  
+    var data_count = {};
+    var breakdown_categories = [];
+
+
+
+  // disruption hours breakdown view
+  if(breakdown_mode == "disruption_analytics_graph_disruption_mins")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(operation_name_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var index = operation_name_list.indexOf(filtered_data_list[i].operation);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      var disruption_minutes =  (decode_date(filtered_data_list[i].end_time|| new Date(),1) - decode_date(filtered_data_list[i].start_time,1)) / (1000 * 60);
+
+      disruption_minutes = Math.round(disruption_minutes); 
+
+      data_count[category][index] += disruption_minutes;
+    }
+
+  }
+
+
+
+  // disruption hours breakdown view
+  if(breakdown_mode == "disruption_analytics_graph_disruption_count")
+  {
+    // Get categories of breakdown type - eg model names, workstation names, etc
+    for(var i=0; i< filtered_data_list.length; i++)
+    {
+      if(breakdown_categories.indexOf(filtered_data_list[i].reason) < 0 )
+      {
+        breakdown_categories.push(filtered_data_list[i].reason);
+      }
+
+    }
+    breakdown_categories = breakdown_categories.sort();
+
+
+    for(var i=0; i<breakdown_categories.length; i++)
+    {
+      data_count[breakdown_categories[i]] = new Array(operation_name_list.length).fill(0)
+    }
+
+    for(var i=0; i<filtered_data_list.length; i++)
+    {
+      var index = operation_name_list.indexOf(filtered_data_list[i].operation);
+
+      // Select category model that record belongs to
+      var category = filtered_data_list[i].reason;
+
+      data_count[category][index] += 1;
+    }
+
+  }
+
+
+  // build final dataset for graph
+  var dataset = [];
+
+  for(var i=0; i< breakdown_categories.length; i++)
+  {
+    dataset.push({
+                    label : breakdown_categories[i],
+                    data : data_count[breakdown_categories[i]],
+                    stack : 1,
+                    backgroundColor: (i<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                    maxBarThickness: 60,
+                    barThickness: 'flex',
+                 })
+  }
+
+  return {
+            "dataset" : dataset,
+            "stack_labels" : breakdown_categories,
+            "axis_labels" : operation_name_list
+         };
+
+}
+
+
+function render_disruption_analytics_graph( chart_container, data_obj,  breakdown_mode = "disruption_analytics_graph_disruption_count")
+{
+
+  chart_data = data_obj.dataset;
+  chart_labels =  data_obj.axis_labels;
+
+  var chart_title = "Number of Disruptions Reported for each Operation";
+ 
+  if(breakdown_mode== "disruption_analytics_graph_disruption_mins")
+  chart_title = "Total Disruption Time for each Operation (minutes)"
+
+  empty_container_byReference(chart_container);
+  var canvas = document.createElement('canvas');
+  canvas.id = "disruptions_analytics_charts_canvas";
+  chart_container.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+    
+  var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+  var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true, barThickness: 'flex', }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+  var myChart = new Chart(ctx, {
+                                    type: 'bar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                });
+
+}
+
+
+// Function to render table with complete record data - Used in download job records & realtime analytics & daily / hourly operation analytics
+function render_table_disruption_records(disruption_record_array, table_id, selected_operation_list = [])
+{
+  var operation_names = [];
+
+  // If selected_operation_list is provided, use only those operations for table
+  if(!is_null(selected_operation_list) )
+  {
+    operation_names = selected_operation_list;
+  }
+  else
+  {
+    // Else get all operation names across all records
+    for(var i=0; i<disruption_record_array.length; i++)
+    {
+      operation_names.push(disruption_record_array[i].operation)
+    }
+  }
+
+  operation_names = Array.from(new Set(operation_names));
+
+ 
+  // create table
+  let table = document.getElementById(table_id);
+
+  let table_header = document.createElement("thead");
+  let header_row = document.createElement("tr");
+
+
+  let th_reason = document.createElement("th");
+  th_reason.innerText = "Disruption Reason"; 
+  header_row.appendChild(th_reason);
+
+  let th_operation = document.createElement("th");
+  th_operation.innerText = "Operation"; 
+  header_row.appendChild(th_operation);
+
+  let th_workstation = document.createElement("th");
+  th_workstation.innerText = "Workstation"; 
+  header_row.appendChild(th_workstation);
+
+  let th_remark = document.createElement("th");
+  th_remark.innerText = "Remark"; 
+  header_row.appendChild(th_remark);
+
+  let th_down_time = document.createElement("th");
+  th_down_time.innerText = "Total Down Time (Minutes)"; 
+  header_row.appendChild(th_down_time);
+
+  let th_reported_by = document.createElement("th");
+  th_reported_by.innerText = "Reported By"; 
+  header_row.appendChild(th_reported_by);
+
+  let th_start_time = document.createElement("th");
+  th_start_time.innerText = "Start Time"; 
+  header_row.appendChild(th_start_time);
+
+  let th_resolved_by = document.createElement("th");
+  th_resolved_by.innerText = "Resolved By"; 
+  header_row.appendChild(th_resolved_by);
+
+  let th_end_time = document.createElement("th");
+  th_end_time.innerText = "End Time"; 
+  header_row.appendChild(th_end_time);
+
+  table_header.appendChild(header_row);
+  // End of table header generation section
+
+
+  let table_body = document.createElement("tbody");
+  table_body.className = "text-break";
+
+  // Add values for each row
+  for(var i=0; i<disruption_record_array.length; i++)
+  {
+    let body_row = document.createElement("tr");
+
+    let td_reason = document.createElement("td");
+    td_reason.innerText = disruption_record_array[i].reason; 
+    body_row.appendChild(td_reason);
+
+    let td_operation = document.createElement("td");
+    td_operation.innerText = disruption_record_array[i].operation; 
+    body_row.appendChild(td_operation);
+
+    let td_workstation = document.createElement("td");
+    td_workstation.innerText = disruption_record_array[i].workstation; 
+    body_row.appendChild(td_workstation);
+     
+    let td_remark = document.createElement("td");
+    td_remark.innerText = disruption_record_array[i].remark; 
+    body_row.appendChild(td_remark);
+
+    let td_down_time = document.createElement("td");
+    td_down_time.innerText = ((decode_date(disruption_record_array[i].end_time || new Date(),1) - decode_date(disruption_record_array[i].start_time,1))/(1000*60)).toFixed(1)  || "-"; 
+    body_row.appendChild(td_down_time);
+ 
+    let td_reported_by = document.createElement("td");
+    td_reported_by.innerText = disruption_record_array[i].start_user || "-"; 
+    body_row.appendChild(td_reported_by);
+
+    let td_start_time = document.createElement("td");
+    td_start_time.innerText = decode_date(disruption_record_array[i].start_time) || "-"; 
+    body_row.appendChild(td_start_time);
+
+    let td_resolved_by = document.createElement("td");
+    td_resolved_by.innerText = disruption_record_array[i].end_user || "-"; 
+    body_row.appendChild(td_resolved_by);
+
+    let td_end_time = document.createElement("td");
+    td_end_time.innerText = decode_date(disruption_record_array[i].end_time) || "-"; 
+    body_row.appendChild(td_end_time);
+
+    table_body.appendChild(body_row);
+
+  } 
+  // End of table body generation section
+
+table.appendChild(table_header);
+table.appendChild(table_body);
+
+  $("#"+ table_id).DataTable( {
+                                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                                              "lengthChange": true,
+                                              "columnDefs": [
+                                                              { targets: '_all', visible: true,  "width": "150px" }
+                                                            ],
+                                              "colReorder": true,
+                                              "fixedColumns":   {leftColumns: 2},
+                                              "paging": true,
+                                              "dom": '<"row"<"col-sm-12 p-2"Bf>><t><"row"<"col-sm-4 mb-2 mt-2 text-left"l><"col-sm-4 mb-2 text-center"i><"col-sm-4 text-right mb-2"p>>',
+                                              "buttons": [
+                                                          "searchBuilder",
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Export Data',
+                                                            buttons: ['copy','excel','csv']
+                                                          },                                                          
+                                                         ]
+                                             });
+return true;
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                        Display Maintenance history Analytics - sub section of Dashboard                            //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize maintenance history analytics section
+async function initialize_maintenance_history_analytics_section()
+{
+  await reset_sections();
+
+  document.getElementById("maintenance_history_report_start_datepicker").value = "";
+  document.getElementById("maintenance_history_report_end_datepicker").value = "";
+  document.getElementById("maintenance_history_report_main_content").style.display = "none";
+
+  $('#maintenance_history_report_start_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+  $('#maintenance_history_report_end_datepicker').datepicker({ uiLibrary: 'bootstrap4'  });
+
+
+  fetch_maintenance_history_report_data_btn.onclick = async function(){
+
+    var start_date = document.getElementById("maintenance_history_report_start_datepicker").value;
+    var end_date = document.getElementById("maintenance_history_report_end_datepicker").value;
+
+    if (is_null(start_date) || is_null(end_date) ) 
+    {
+      display_error("Please select start and end date before fetching data");
+      return false;
+    }
+    else
+    {
+      start_date = new Date(start_date);
+      end_date = new Date(end_date);
+    }
+
+    if(end_date - start_date < 0)
+    {
+      display_error("End Date should be greater than or same as Start Date");
+      return false;
+    }
+
+    if(gl_user_permission.admin != 1 &&  gl_user_permission[section_permission_list["View Dashboard"]] != 1 )
+    {
+      display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+      return false;
+    }
+
+    // set start and end times of dates & get timestamps
+    start_date.setHours(0); start_date.setMinutes(0); start_date.setSeconds(0);
+    end_date.setHours(23); end_date.setMinutes(59); end_date.setSeconds(59);
+
+    // get number of days to calculate mtbf
+    const period = (new Date(end_date) - new Date(start_date))/(1000*60*60*24);
+
+    const start_dt = firebase.firestore.Timestamp.fromDate(start_date);
+    const end_dt = firebase.firestore.Timestamp.fromDate(end_date);
+
+
+    try
+    {
+      start_loading();
+
+      const download_maintenance_history_data = functions.httpsCallable('download_maintenance_history_data');
+      const fetched_data = (await download_maintenance_history_data({"start_date" : start_dt, "end_date" : end_dt})).data;
+
+//      var fetched_data = await get_maintenance_data();
+
+      // Filter records as per user permission
+      const temp_maintenance_list = fetched_data.maintenance_records;
+      const temp_disruption_list = fetched_data.disruption_records;
+  
+      gl_anlytics_maintenance_records_list = [];
+      gl_analytics_disruption_records_list = [];
+  
+      for(var i=0; i<temp_maintenance_list.length; i++)
+      {
+        const op_name = get_operation_name_from_workstation_id(temp_maintenance_list[i].workstation);
+  
+        if(gl_user_permission.admin == 1 || gl_user_permission[op_name] >=1)
+        gl_anlytics_maintenance_records_list.push(temp_maintenance_list[i]);
+      }
+  
+      for(var i=0; i<temp_disruption_list.length; i++)
+      {
+        const op_name = temp_disruption_list[i].operation;
+  
+        if(gl_user_permission.admin == 1 || gl_user_permission[op_name] >=1)
+        gl_analytics_disruption_records_list.push(temp_disruption_list[i]);
+      }
+  
+      var table_container = document.getElementById("maintenance_records_table_container");
+          empty_container_byReference(table_container);
+          let table = document.createElement("table");
+          table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+          table.style = "width:100%";
+          table.id = "maintenance_records_table";
+          table_container.appendChild(table);
+  
+      var maintenance_count_operation_breakdown_select = document.getElementById("maintenance_count_operation_breakdown_select");
+      var maintenance_mtbf_operation_breakdown_select = document.getElementById("maintenance_mtbf_operation_breakdown_select");
+      empty_container_byReference(maintenance_count_operation_breakdown_select);
+      empty_container_byReference(maintenance_mtbf_operation_breakdown_select);
+  
+      process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list, gl_analytics_disruption_records_list, period);
+      render_table_maintenance_records(gl_anlytics_maintenance_records_list, "maintenance_records_table");
+  
+      document.getElementById("maintenance_history_report_main_content").style.display = "block";
+  
+      maintenance_count_operation_breakdown_select.onchange=function() 
+      {   
+        maintenance_mtbf_operation_breakdown_select.value = maintenance_count_operation_breakdown_select.value;
+        process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list, gl_analytics_disruption_records_list, period);
+      }
+      maintenance_mtbf_operation_breakdown_select.onchange=function() 
+      {    
+        maintenance_count_operation_breakdown_select.value = maintenance_mtbf_operation_breakdown_select.value;
+        process_maintenance_history_chart_data(gl_anlytics_maintenance_records_list, gl_analytics_disruption_records_list, period);
+      }
+  
+      stop_loading();
+    }
+    catch(error)
+    {
+      display_error(error.message);
+      return false;
+    }
+
+  }
+}
+
+
+function process_maintenance_history_chart_data(maintenance_records_list, disruption_records_list, period)
+{
+
+  var workstation_id_list = [];
+  var operation_id_list = [];
+
+  // Get list of Workstation IDs from maintenance & disruption records
+  for(var i=0; i<maintenance_records_list.length; i++)
+  {
+    workstation_id_list.push(maintenance_records_list[i].workstation);
+  }
+  for(var i=0; i<disruption_records_list.length; i++)
+  {
+    workstation_id_list.push(disruption_records_list[i].workstation + " (" + disruption_records_list[i].operation + ")");
+  }
+
+  workstation_id_list = Array.from(new Set(workstation_id_list));
+
+  // Get list of Operations from workstation_id_list
+  for(var i=0; i<workstation_id_list.length; i++)
+  {
+    const operation_name =  get_operation_name_from_workstation_id(workstation_id_list[i]);
+    operation_id_list.push(operation_name);
+  }
+    
+  operation_id_list = Array.from(new Set(operation_id_list));
+
+  // Populate operation list for select in workstation id graph section
+  var maintenance_count_operation_breakdown_select = document.getElementById("maintenance_count_operation_breakdown_select");
+  var maintenance_mtbf_operation_breakdown_select = document.getElementById("maintenance_mtbf_operation_breakdown_select");
+
+  if(maintenance_count_operation_breakdown_select.value == "" || maintenance_mtbf_operation_breakdown_select.value == "")
+  {
+    empty_container_byReference(maintenance_count_operation_breakdown_select);
+    empty_container_byReference(maintenance_mtbf_operation_breakdown_select);
+
+    set_select_options(maintenance_count_operation_breakdown_select, operation_id_list);
+    set_select_options(maintenance_mtbf_operation_breakdown_select, operation_id_list);
+  }
+
+    // Get workstations for selected operation
+  var current_chosen_operation_for_workstation_count =  maintenance_count_operation_breakdown_select.value;
+  var current_chosen_operation_for_workstation_mtbf = maintenance_mtbf_operation_breakdown_select.value;
+
+  var selected_count_workstation_list_by_operation = [];
+  var selected_mtbf_workstation_list_by_operation = [];
+
+  for(var i=0; i<workstation_id_list.length; i++)
+  {
+    const workstation_operation_name = get_operation_name_from_workstation_id(workstation_id_list[i]);
+
+    if(current_chosen_operation_for_workstation_count == workstation_operation_name)
+    selected_count_workstation_list_by_operation.push(workstation_id_list[i]);
+
+    if(current_chosen_operation_for_workstation_mtbf == workstation_operation_name)
+    selected_mtbf_workstation_list_by_operation.push(workstation_id_list[i]);    
+  }
+
+
+  // Initialize chart data sets with zeroes
+  var maintenance_by_operation_count_data =   {
+                                                "Preventive Maintenance" : new Array(operation_id_list.length).fill(0),
+                                                "Corrective Maintenance" : new Array(operation_id_list.length).fill(0) 
+                                              };
+
+  var maintenance_by_operation_mtbf_data =    {
+                                                "MTBF in Days" : new Array(operation_id_list.length).fill(0)
+                                              };
+
+  var maintenance_by_workstation_count_data = {
+                                                "Preventive Maintenance" : new Array(selected_count_workstation_list_by_operation.length).fill(0),
+                                                "Corrective Maintenance" : new Array(selected_count_workstation_list_by_operation.length).fill(0) 
+                                              };
+
+  var maintenance_by_workstation_mtbf_data =  {
+                                                "MTBF in Days" : new Array(selected_mtbf_workstation_list_by_operation.length).fill(0)
+                                              };                                          
+
+    // Calculate maintenance count by operation & workstation
+  for(var i=0; i<maintenance_records_list.length; i++ )
+  {
+    var workstation_id = maintenance_records_list[i].workstation;
+    var operation_id = get_operation_name_from_workstation_id(maintenance_records_list[i].workstation);
+
+      if(maintenance_records_list[i].type == "Preventive")
+    {
+      maintenance_by_operation_count_data["Preventive Maintenance"][operation_id_list.indexOf(operation_id)]+=1;
+      maintenance_by_workstation_count_data["Preventive Maintenance"][selected_count_workstation_list_by_operation.indexOf(workstation_id)]+=1;
+    }
+    else
+    {
+      maintenance_by_operation_count_data["Corrective Maintenance"][operation_id_list.indexOf(operation_id)]+=1;
+      maintenance_by_workstation_count_data["Corrective Maintenance"][selected_count_workstation_list_by_operation.indexOf(workstation_id)]+=1;
+    }
+
+  }                                            
+
+    // Calculate failure count by operation & workstation
+    for(var i=0; i<disruption_records_list.length; i++ )
+  {
+    var workstation_id = disruption_records_list[i].workstation + " (" + disruption_records_list[i].operation + ")";
+    var operation_id = disruption_records_list[i].operation;
+
+      maintenance_by_operation_mtbf_data["MTBF in Days"][operation_id_list.indexOf(operation_id)]+=1;
+      maintenance_by_workstation_mtbf_data["MTBF in Days"][selected_mtbf_workstation_list_by_operation.indexOf(workstation_id)]+=1;
+
+  }               
+
+  //Calculate MTBF
+  for(var i=0; i<maintenance_by_operation_mtbf_data["MTBF in Days"].length; i++ )
+  {
+    if(maintenance_by_operation_mtbf_data["MTBF in Days"][i] == 0 )  maintenance_by_operation_mtbf_data["MTBF in Days"][i] = period;  // if no disruption then mtbf id equal to entire period
+    else maintenance_by_operation_mtbf_data["MTBF in Days"][i] = (period / maintenance_by_operation_mtbf_data["MTBF in Days"][i]).toFixed(1);    // else mtbf = period / no. of disruptions
+  }
+
+  for(var i=0; i<maintenance_by_workstation_mtbf_data["MTBF in Days"].length; i++ )
+  {
+    if(maintenance_by_workstation_mtbf_data["MTBF in Days"][i] == 0 )  maintenance_by_workstation_mtbf_data["MTBF in Days"][i] = period;  // if no disruption then mtbf id equal to entire period
+    else maintenance_by_workstation_mtbf_data["MTBF in Days"][i] = (period / maintenance_by_workstation_mtbf_data["MTBF in Days"][i]).toFixed(1);    // else mtbf = period / no. of disruptions
+  }
+  console.log(maintenance_by_workstation_mtbf_data["MTBF in Days"]);
+
+
+// Setup chart container & properties of maintenance charts (By operation & By workstation)
+
+var maintenance_count_by_operation_container = document.getElementById("maintenance_count_by_operation_charts_container");
+maintenance_count_by_operation_container.style.height = (operation_id_list.length * 10 + 12) + "vh";
+empty_container_byReference(maintenance_count_by_operation_container);
+var canvas = document.createElement('canvas');
+canvas.id = "maintenance_count_by_operation_chart";
+maintenance_count_by_operation_container.appendChild(canvas);
+
+var maintenance_mtbf_by_operation_container = document.getElementById("maintenance_mtbf_by_operation_charts_container");
+maintenance_mtbf_by_operation_container.style.height = (operation_id_list.length * 10 + 12) + "vh";
+empty_container_byReference(maintenance_mtbf_by_operation_container);
+canvas = document.createElement('canvas');
+canvas.id = "maintenance_mtbf_by_operation_chart";
+maintenance_mtbf_by_operation_container.appendChild(canvas);
+
+var maintenance_count_by_workstation_container = document.getElementById("maintenance_count_by_workstation_charts_container");
+maintenance_count_by_workstation_container.style.height = (selected_count_workstation_list_by_operation.length * 10 + 12) + "vh";
+empty_container_byReference(maintenance_count_by_workstation_container);
+canvas = document.createElement('canvas');
+canvas.id = "maintenance_count_by_workstation_chart";
+maintenance_count_by_workstation_container.appendChild(canvas);
+
+var maintenance_mtbf_by_workstation_container = document.getElementById("maintenance_mtbf_by_workstation_charts_container");
+maintenance_mtbf_by_workstation_container.style.height = (selected_mtbf_workstation_list_by_operation.length * 10 + 12) + "vh";
+empty_container_byReference(maintenance_mtbf_by_workstation_container);
+canvas = document.createElement('canvas');
+canvas.id = "maintenance_mtbf_by_workstation_chart";
+maintenance_mtbf_by_workstation_container.appendChild(canvas);
+
+// Render all charts
+render_maintenance_chart(operation_id_list, convert_maintenance_data_to_chart_dataset(maintenance_by_operation_count_data), 'maintenance_count_by_operation_chart', "Count of Maintenance Work Done" );
+render_maintenance_chart(operation_id_list, convert_maintenance_data_to_chart_dataset(maintenance_by_operation_mtbf_data), 'maintenance_mtbf_by_operation_chart', "Mean Time Between Failure (in Days)" );
+render_maintenance_chart(selected_count_workstation_list_by_operation, convert_maintenance_data_to_chart_dataset(maintenance_by_workstation_count_data), 'maintenance_count_by_workstation_chart', "Count of Maintenance Work Done" );
+render_maintenance_chart(selected_mtbf_workstation_list_by_operation, convert_maintenance_data_to_chart_dataset(maintenance_by_workstation_mtbf_data), 'maintenance_mtbf_by_workstation_chart', "Mean Time Between Failure (in Days)" );
+}
+
+
+function render_maintenance_chart(chart_labels,chart_data, chart_id, chart_title)
+{
+    var formatted_chart_labels = [];
+    // Split labels into multiple lines if too long             
+    for(var i=0; i< chart_labels.length; i++)   formatted_chart_labels[i] = formatLabel(chart_labels[i]);
+
+
+    var chart_options = {
+                          responsive:true,
+                          maintainAspectRatio:false,
+                          scales: {
+                                    xAxes: [{ stacked: true,
+                                              scaleLabel: 
+                                              {
+                                                display: true,
+                                                labelString: chart_title
+                                              }      
+                                            }],
+                                    yAxes: [{ gridLines: { display:false},
+                                              stacked: true, }]
+                                  },
+                          legend: {
+                                    display: true
+                                  }
+                        }
+
+
+    var ctx = document.getElementById(chart_id).getContext('2d');
+
+    var myChart = new Chart(ctx, {
+                                    type: 'horizontalBar',
+                                    data: {
+                                            labels: formatted_chart_labels,
+                                            datasets: chart_data
+                                          },
+                                    options: chart_options
+                                  });
+
+}
+
+
+// Function to render table with complete record data - Used in download job records & realtime analytics & daily / hourly operation analytics
+function render_table_maintenance_records(maintenance_record_array, table_id, selected_operation_list = [])
+{
+  var operation_names = [];
+  var maintenance_parameters_list = [];      // get list of parameters
+
+  // If selected_operation_list is provided, use only those operations for table
+  if(!is_null(selected_operation_list) )
+  {
+    operation_names = selected_operation_list;
+  }
+  else
+  {
+    // Else get all operation names across all records
+    for(var i=0; i<maintenance_record_array.length; i++)
+    {
+      operation_names.push(get_operation_name_from_workstation_id(maintenance_record_array[i].workstation))
+    }
+  }
+
+  operation_names = Array.from(new Set(operation_names));
+
+  for(var i=0; i<maintenance_record_array.length; i++)
+  {
+    var op_name = get_operation_name_from_workstation_id(maintenance_record_array[i].workstation);
+
+    if(operation_names.indexOf(op_name) >= 0)
+    {
+      maintenance_parameters_list = maintenance_parameters_list.concat(Object.keys(maintenance_record_array[i].param_list));
+    }
+
+  }
+  //remove duplicate parameter names
+  maintenance_parameters_list = Array.from(new Set(maintenance_parameters_list));
+ 
+  // create table
+  let table = document.getElementById(table_id);
+
+  let table_header = document.createElement("thead");
+  let header_row = document.createElement("tr");
+
+
+  let th_type = document.createElement("th");
+  th_type.innerText = "Maintenance Type"; 
+  header_row.appendChild(th_type);
+
+  let th_workstation = document.createElement("th");
+  th_workstation.innerText = "Workstation ID"; 
+  header_row.appendChild(th_workstation);
+
+  let th_remark = document.createElement("th");
+  th_remark.innerText = "Maintenance Description"; 
+  header_row.appendChild(th_remark);
+
+  let th_timestamp = document.createElement("th");
+  th_timestamp.innerText = "Maintenance Time"; 
+  header_row.appendChild(th_timestamp);
+
+  let th_user = document.createElement("th");
+  th_user.innerText = "Maintenance By"; 
+  header_row.appendChild(th_user);
+
+
+  // Maintenance parameters added to column group heading
+  for(var i=0; i<maintenance_parameters_list.length; i++)
+  {
+    let th_parameter = document.createElement("th");
+    th_parameter.innerText = maintenance_parameters_list[i]; 
+    header_row.appendChild(th_parameter);
+  }
+
+  table_header.appendChild(header_row);
+  // End of table header generation section
+
+  let table_body = document.createElement("tbody");
+  table_body.className = "text-break";
+
+  // Add values for each row
+  for(var i=0; i<maintenance_record_array.length; i++)
+  {
+    let body_row = document.createElement("tr");
+
+    let td_type = document.createElement("td");
+    td_type.innerText = maintenance_record_array[i].type; 
+    body_row.appendChild(td_type);
+  
+    let td_workstation = document.createElement("td");
+    td_workstation.innerText = maintenance_record_array[i].workstation; 
+    body_row.appendChild(td_workstation);
+     
+    let td_remark = document.createElement("td");
+    td_remark.innerText = maintenance_record_array[i].remark; 
+    body_row.appendChild(td_remark);
+
+    let td_timestamp = document.createElement("td");
+    td_timestamp.innerText = decode_date(maintenance_record_array[i].timestamp) || "-"; 
+    body_row.appendChild(td_timestamp);
+ 
+    let td_user = document.createElement("td");
+    td_user.innerText = maintenance_record_array[i].user || "-"; 
+    body_row.appendChild(td_user);
+   
+
+    for(j=0; j<maintenance_parameters_list.length; j++)
+    {
+      let td_parameter = document.createElement("td");
+      td_parameter.innerText = maintenance_record_array[i].param_list[maintenance_parameters_list[j]] || "n/a"; 
+      body_row.appendChild(td_parameter);
+    }
+
+
+    table_body.appendChild(body_row);
+
+  } 
+  // End of table body generation section
+
+table.appendChild(table_header);
+table.appendChild(table_body);
+
+  $("#"+ table_id).DataTable( {
+                                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                                              "lengthChange": true,
+                                              "columnDefs": [
+                                                              { targets: '_all', visible: true,  "width": "150px" }
+                                                            ],
+                                              "colReorder": true,
+                                              "fixedColumns":   {leftColumns: 2},
+                                              "paging": true,
+                                              "dom": '<"row"<"col-sm-12 p-2"Bf>><t><"row"<"col-sm-4 mb-2 mt-2 text-left"l><"col-sm-4 mb-2 text-center"i><"col-sm-4 text-right mb-2"p>>',
+                                              "buttons": [
+                                                          "searchBuilder",
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Export Data',
+                                                            buttons: ['copy','excel','csv']
+                                                          },                                                          
+                                                         ]
+                                             });
+return true;
+}
+
+
+function get_operation_name_from_workstation_id(workstation_id)
+{
+    //position of ")"
+    var start_index = workstation_id.length;
+
+    while( workstation_id[start_index] != "(" )
+    {
+      start_index--;
+    }
+
+    var operation_name = workstation_id.substr(start_index+1);                       // Get substring after last "("
+    operation_name = operation_name.substr(0, operation_name.length-1) ;        // Remove end ")"
+
+    return(operation_name);
+}
+
+
+// Format chart data as required by chart dataset variable
+function convert_maintenance_data_to_chart_dataset(input_data)
+{
+  var dataset = [];
+
+  var keys = Object.keys(input_data);
+  for(var i=0; i< keys.length; i++)
+  {
+    var dataset_item = 
+                       {
+                        label: keys[i],
+                        data: input_data[keys[i]],
+                        maxBarThickness: 50,
+                        barThickness: 'flex',
+                        stack: 1,
+                        backgroundColor: (keys.length<=indexcolors.length) ? indexcolors[i] : "#4E73DF" ,
+                       }
+    dataset.push(dataset_item);
+  }
+return dataset;
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                  Pending Jobs by Operation - sub section of Dashboard                              //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+async function initialize_operation_pending_jobs_section()
+{
+  reset_sections();
+  empty_container("operation_pending_jobs_select");
+  document.getElementById("operation_pending_jobs_table_container").style.display = "none";
+
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+
+  var operation_name_list = Object.keys(gl_current_operations_list);
+  operation_name_list = operation_name_list.sort();
+  var permitted_operation_list = ["Select Operation"];
+
+  // Set list of operations where user has read permissions
+  for(var i=0; i<operation_name_list.length; i++)
+  {
+    if(gl_user_permission.admin == 1 || gl_user_permission[operation_name_list[i]] >= 1 )
+    permitted_operation_list.push(operation_name_list[i]);
+  }
+
+  permitted_operation_list.push("Ready for Dispatch");
+  
+  set_select_options(document.getElementById("operation_pending_jobs_select"), permitted_operation_list);
+ 
+  fetch_data_operation_pending_jobs_btn.onclick = async function(){
+   
+    gl_analytics_operation_name = document.getElementById("operation_pending_jobs_select").value;
+
+    if(gl_analytics_operation_name == "Select Operation" || is_null(gl_analytics_operation_name) )
+    {
+      display_error("Please select Operation before fetching data");
+      return false;
+    }
+
+    if(gl_user_permission.admin != 1 && (gl_user_permission[gl_analytics_operation_name] < 1 || gl_user_permission[section_permission_list["View Dashboard"]] != 1 ) )
+    {
+      display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+      return false;
+    }    
+
+    try{
+      start_loading();  
+      const download_operation_pending_jobs_data = functions.httpsCallable('download_operation_pending_jobs_data');
+      gl_analytics_records_list = (await download_operation_pending_jobs_data({"operation_name" : gl_analytics_operation_name})).data;
+      
+      var table_container = document.getElementById("operation_pending_jobs_table_container");
+      empty_container_byReference(table_container);
+      let table = document.createElement("table");
+      table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+      table.style = "width:100%";
+      table.id = "operation_pending_jobs_table";
+      table_container.appendChild(table);
+
+
+      await render_table_operation_pending_jobs(gl_analytics_records_list, table.id);
+      document.getElementById("operation_pending_jobs_table_container").style.display = "block";
+    
+      stop_loading();
+      }
+      catch(error)
+      {
+        display_error(error.message);
+        return false;
+      }
+
+
+  }
+
+}
+
+
+// Function to render table of operation pending jobs
+function render_table_operation_pending_jobs(operation_pending_jobs_list, table_id)
+{
+  // create table
+  let table = document.getElementById(table_id);
+  
+  let table_header = document.createElement("thead");
+  let header_row = document.createElement("tr");
+
+  let th_operation = document.createElement("th");
+  th_operation.innerText = "Operation"; 
+  header_row.appendChild(th_operation);  
+
+  let th_model = document.createElement("th");
+  th_model.innerText = "Model"; 
+  header_row.appendChild(th_model);
+
+  let th_serial = document.createElement("th");
+  th_serial.innerText = "Serial ID"; 
+  header_row.appendChild(th_serial);
+
+  let th_op_status = document.createElement("th");
+  th_op_status.innerText = "Job Status"; 
+  header_row.appendChild(th_op_status);
+  
+  let th_op_pending_since_days = document.createElement("th");
+  th_op_pending_since_days.innerText = "Pending since (days)"; 
+  header_row.appendChild(th_op_pending_since_days);
+  
+  let th_op_pending_since_date = document.createElement("th");
+  th_op_pending_since_date.innerText = "Pending since (date)"; 
+  header_row.appendChild(th_op_pending_since_date);
+
+  table_header.appendChild(header_row);
+  // End of table header generation section
+
+  let table_body = document.createElement("tbody");
+  table_body.className = "text-break";
+
+  // Add values for each row
+  for(var i=0; i<operation_pending_jobs_list.length; i++)
+  {
+    let body_row = document.createElement("tr");
+
+    let td_operation = document.createElement("td");
+    td_operation.innerText = operation_pending_jobs_list[i].operation; 
+    body_row.appendChild(td_operation);
+
+    let td_model = document.createElement("td");
+    td_model.innerText = operation_pending_jobs_list[i].model; 
+    body_row.appendChild(td_model);
+  
+    let td_serial = document.createElement("td");
+    td_serial.innerText = operation_pending_jobs_list[i].serial; 
+    body_row.appendChild(td_serial);
+  
+    let td_op_status = document.createElement("td");
+    td_op_status.innerText = status_list[operation_pending_jobs_list[i].status]; 
+    body_row.appendChild(td_op_status);
+    
+    let td_op_pending_since_days = document.createElement("td");
+    var days_pending = Math.abs(new Date() - decode_date(operation_pending_jobs_list[i].pending_since_dt,1) )/(1000*60*60*24);
+    td_op_pending_since_days.innerText = days_pending.toFixed(0); 
+    body_row.appendChild(td_op_pending_since_days);
+    
+    let td_op_pending_since_date = document.createElement("td");
+    td_op_pending_since_date.innerText = decode_date(operation_pending_jobs_list[i].pending_since_dt);
+    body_row.appendChild(td_op_pending_since_date);
+    
+    table_body.appendChild(body_row);
+
+    }
+
+
+  // End of table body generation section
+
+table.appendChild(table_header);
+table.appendChild(table_body);
+
+
+  $("#"+ table_id).DataTable( {
+                                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                                              "lengthChange": true,
+                                              "colReorder": true,
+                                              "paging": true,
+                                              "dom": '<"row"<"col-sm-12 p-2"Bf>><t><"row"<"col-sm-4 mb-2 mt-2 text-left"l><"col-sm-4 mb-2 text-center"i><"col-sm-4 text-right mb-2"p>>',
+                                              "buttons": [                                                  
+                                                          "searchBuilder",
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Export Data',
+                                                            buttons: ['copy','excel','csv']
+                                                          },                                                          
+                                                         ]
+                                             });
+return true;
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                  Deviation Required Jobs - sub section of Dashboard                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+async function initialize_deviation_required_jobs_section()
+{
+  await reset_sections();
+  fetch_data_deviation_required_jobs_btn.onclick = async function(){
+
+      // check user permissions
+      if(gl_user_permission.admin == 1 || gl_user_permission[section_permission_list["View Dashboard"]] == 1 )
+      {
+        var records_array = [];
+//        records_array = get_dummy_records();
+        try{
+        start_loading();  
+
+        if (is_null(gl_current_operations_list) )
+        gl_current_operations_list = await read_production_operations_list();
+
+        var operations_list = Object.keys(gl_current_operations_list); 
+        
+        const download_deviation_required_jobs_data = functions.httpsCallable('download_deviation_required_jobs_data');
+        records_array = (await download_deviation_required_jobs_data({"operations": operations_list})).data;
+
+
+        var table_container = document.getElementById("deviation_required_jobs_table_container");
+
+        empty_container_byReference(table_container);
+        let table = document.createElement("table");
+        table.className="table table-responsive table-striped table-bordered nowrap display stripe row-border";
+        table.style = "width:100%";
+        table.id = "deviation_required_jobs_table";
+        table_container.appendChild(table);
+
+        await render_table_deviation_required_jobs(records_array, "deviation_required_jobs_table");
+        stop_loading();
+        }
+        catch(error)
+        {
+          display_error(error.message);
+          return false;
+        }
+
+        return true;
+      }
+      else 
+      {
+        display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+        return false;
+      }
+
+
+  }
+
+}
+
+// Function to render table of jobs requiring deviations
+function render_table_deviation_required_jobs(deviation_operation_list, table_id)
+{
+  // create table
+  let table = document.getElementById(table_id);
+  
+  let table_header = document.createElement("thead");
+  let header_row = document.createElement("tr");
+
+  let th_operation = document.createElement("th");
+  th_operation.innerText = "Operation"; 
+  header_row.appendChild(th_operation);  
+
+  let th_model = document.createElement("th");
+  th_model.innerText = "Model"; 
+  header_row.appendChild(th_model);
+
+  let th_serial = document.createElement("th");
+  th_serial.innerText = "Serial ID"; 
+  header_row.appendChild(th_serial);
+
+  let th_op_status = document.createElement("th");
+  th_op_status.innerText = "Status"; 
+  header_row.appendChild(th_op_status);
+  
+  let th_op_workstation = document.createElement("th");
+  th_op_workstation.innerText = "Workstation ID"; 
+  header_row.appendChild(th_op_workstation);
+
+  let th_op_pending_since_days = document.createElement("th");
+  th_op_pending_since_days.innerText = "Pending since (days)"; 
+  header_row.appendChild(th_op_pending_since_days);
+  
+  let th_op_log_entry_dt = document.createElement("th");
+  th_op_log_entry_dt.innerText = "Entry Date"; 
+  header_row.appendChild(th_op_log_entry_dt);
+  
+  let th_op_log_entry_by = document.createElement("th");
+  th_op_log_entry_by.innerText = "Entry By"; 
+  header_row.appendChild(th_op_log_entry_by);
+  
+
+  table_header.appendChild(header_row);
+  // End of table header generation section
+
+  let table_body = document.createElement("tbody");
+  table_body.className = "text-break";
+
+  // Add values for each row
+  for(var i=0; i<deviation_operation_list.length; i++)
+  {
+    let body_row = document.createElement("tr");
+
+    let td_operation = document.createElement("td");
+    td_operation.innerText = deviation_operation_list[i].operation; 
+    body_row.appendChild(td_operation);
+
+    let td_model = document.createElement("td");
+    td_model.innerText = deviation_operation_list[i].model; 
+    body_row.appendChild(td_model);
+  
+    let td_serial = document.createElement("td");
+    td_serial.innerText = deviation_operation_list[i].serial; 
+    body_row.appendChild(td_serial);
+  
+    let td_op_status = document.createElement("td");
+    td_op_status.innerText = status_list[deviation_operation_list[i].status]; 
+    body_row.appendChild(td_op_status);
+    
+    let td_op_workstation = document.createElement("td");
+    td_op_workstation.innerText = deviation_operation_list[i].workstation.toString(); 
+    body_row.appendChild(td_op_workstation);
+    
+    let td_op_pending_since_days = document.createElement("td");
+    var days_pending = Math.abs(new Date() - decode_date(deviation_operation_list[i].entry_dt,1) )/(1000*60*60*24);
+    td_op_pending_since_days.innerText = days_pending.toFixed(0); 
+    body_row.appendChild(td_op_pending_since_days);
+    
+    let td_op_log_entry_dt = document.createElement("td");
+    td_op_log_entry_dt.innerText = decode_date(deviation_operation_list[i].entry_dt); 
+    body_row.appendChild(td_op_log_entry_dt);
+    
+    let td_op_log_entry_by = document.createElement("td");
+    td_op_log_entry_by.className = "text-break";
+    td_op_log_entry_by.innerText = deviation_operation_list[i].entry_by; 
+    body_row.appendChild(td_op_log_entry_by);
+    
+    table_body.appendChild(body_row);
+
+    }
+
+
+  // End of table body generation section
+
+table.appendChild(table_header);
+table.appendChild(table_body);
+
+
+  $("#"+ table_id).DataTable( {
+                                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                                              "lengthChange": true,
+                                              "colReorder": true,
+                                              "paging": true,
+                                              "dom": '<"row"<"col-sm-12 p-2"Bf>><t><"row"<"col-sm-4 mb-2 mt-2 text-left"l><"col-sm-4 mb-2 text-center"i><"col-sm-4 text-right mb-2"p>>',
+                                              "buttons": [                                                  
+                                                          "searchBuilder",
+                                                          {
+                                                            extend: 'collection',
+                                                            text: 'Export Data',
+                                                            buttons: ['copy','excel','csv']
+                                                          },                                                          
+                                                         ]
+                                             });
+return true;
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                  Display Job Records - sub section of Dashboard                                    //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize download job record section
+async function initialize_download_job_records_section()
+{
+  document.getElementById("search_mode_download_job_records_section").value = "Search By";
+  await reset_sections();
+
+  // onclick function to fetch & display records
+  fetch_data_download_job_records_btn.onclick = async function(){
+
+    var starting_serial = document.getElementById("from_serial_download_job_records_section").value;
+    var ending_serial = document.getElementById("to_serial_download_job_records_section").value;
+    var mode = document.getElementById("search_mode_download_job_records_section").value;
+
+    if(mode == "External ID") mode = 1;
+    else mode = 0;
+
+
+    // if serial number fields are invalid or improper format display error and return false
+    if(! (validate_serial_number(starting_serial) && validate_serial_number(ending_serial)  )) return false;
+
+    if ( starting_serial > ending_serial )
+    {
+      display_error("Starting serial number cannot be greater than ending serial number.");
+      return false;
+    }
+
+    // check user permissions
+    if(gl_user_permission.admin == 1 || gl_user_permission[section_permission_list["View Dashboard"]] == 1 )
+      {
+        var records_array = [];
+        try{
+        start_loading();  
+        const download_job_records = functions.httpsCallable('download_job_records');
+        records_array = (await download_job_records({"starting_serial" : starting_serial.toString(), "ending_serial" : ending_serial.toString(), "mode" : mode})).data;
+
+        var table_container = document.getElementById("download_job_records_table_container");
+
+        empty_container_byReference(table_container);
+        let table = document.createElement("table");
+        table.className="table table-responsive table-striped table-bordered wrap display stripe row-border";
+        table.style = "width:100%";
+        table.id = "download_job_records_table";
+        table_container.appendChild(table);
+
+        await render_table_job_records(records_array, "download_job_records_table");
+
+        stop_loading();
+        }
+        catch(error)
+        {
+          display_error(error.message);
+          return false;
+        }
+
+        return true;
+      }
+      else 
+      {
+        display_error("You do not have sufficient permissions for this operation. Please contact your admin.");
+        return false;
+      }
+  }
+
+}
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                             Create Serial Number                                                   //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize create serial number section
+
+async function initialize_create_serial_section()
+{
+await reset_sections();
+// error if user is not authorised to create serial number
+if(gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Add New Job"]] != 1) 
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+await set_model_list_display();
+var total_serial_number_select_container = document.getElementById("total_serial_number_select_list");
+await empty_container_byReference(total_serial_number_select_container);
+await set_select_options( total_serial_number_select_container, await generate_min_max_array(1,100));
+document.getElementById("total_serial_number_select_list").value = 1;
+}
+
+// support function to break text to multi line in canvas print
+function canvas_print_break( context , text, x, y, lineHeight, fitWidth, align = "center")
+{
+  context.fillStyle = "black";
+  context.font = lineHeight + "px Verdana";
+  context.textAlign = align; 
+
+  var str_list = [];
+  var current_line_number = -1;
+
+  for(var i=0; i<text.length; i++)
+  {
+    if(i%fitWidth == 0)
+    {
+      current_line_number += 1;
+      str_list[current_line_number] = "";
+    }
+
+    str_list[current_line_number] += text[i];
+
+  }
+
+  for(var i=0; i<= current_line_number; i++)
+  {
+    context.fillText(str_list[i], x, y + lineHeight * i * 1.2)
+  }
+
+  return true;
+}
+
+
+//Function to validate & write serial number to database and then display
+async function create_and_display_QR(serial_number, model_id)
+{
+  try
+  {
+    await start_loading();  
+    let status = await write_serial_number(serial_number, model_id);
+    if (status == true) 
+    {
+    display_QR(serial_number, model_id);
+    //         current_credits_remaining = current_credits_remaining - 1;
+    }
+  }
+  catch(error)
+  {
+    await display_error("Serial Number record could not be created. Please check if you have sufficient credits remaining.")
+  }
+}
+
+//Create QR Label PDF for download
+async function create_qr_label_pdf(serial_number, model_id = "", date="")
+
+{
+const pdf_width = 100;          // label dimensions in mm
+const pdf_height = 50;
+const starting_height = 4;
+var vertical_pos = starting_height;
+const spacing = 4;
+
+const img_edge = 35; // measurement of qr img length / side
+const maxLineWidth = pdf_width - img_edge - spacing*2.5;
+
+var text = "";
+
+const doc = new jspdf.jsPDF({ orientation: "landscape", unit: "mm", format: [pdf_width, pdf_height] });
+
+
+var QR_img = new Image();
+QR_img.setAttribute('crossOrigin', 'anonymous');
+QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURIComponent(serial_number);
+
+doc.addImage(QR_img, "PNG", spacing, starting_height, img_edge, img_edge);
+
+// set company name
+const company_name = gl_curr_user_details.company;
+text += company_name + "\n\n";
+
+//doc.setTextColor("black");  
+//doc.setFontSize(12);
+//doc.text(company_name, img_edge + 1.5*spacing, vertical_pos+=spacing*1.5, {align:"left"});    
+
+// set model_ id
+doc.setTextColor("black");  
+doc.setFontSize(12);
+text += "Model: " + model_id + "\n\n";
+
+if(date!="") text += "Date: " + await decode_date(date);
+
+var textLines = doc.setFontSize(11).splitTextToSize(text, maxLineWidth);
+doc.text(textLines, img_edge + spacing*1.5 , starting_height + spacing*1.4);
+
+//doc.text("Model ID:\n" + model_id, img_edge + 1.5*spacing, vertical_pos+=spacing*2, {align:"left"});    
+
+// set serial number
+doc.setTextColor("black");  
+doc.setFontSize(12);
+doc.text( serial_number, pdf_width/2, pdf_height-spacing, {align:"center"});    
+
+
+
+
+doc.save(serial_number +"_label.pdf");
+}
+
+
+//Function to draw & display serial number QR canvas section
+async function display_QR(serial_number, model_id = "", date="")
+{
+  await start_loading();  
+  var white_rgb="255-255-255";  
+  var QR_img = new Image();
+  QR_img.setAttribute('crossOrigin', 'anonymous');
+  QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURI(serial_number);
+//  QR_img.src = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&bgcolor="+white_rgb+"&data=" + encodeURI(serial_number);
+
+  const img_x_start = 5;
+  const img_y_start = 10;
+  const text_fit_width = 30;
+  const text_y_gap = 15;
+  var text_y_start = img_y_start*3 + text_y_gap/2;
+
+  QR_img.onload = async function()
+  {
+    try
+    {
+      var qrCanvas = document.getElementById("qr_canvas");
+      qrCanvas.width = "400";
+      qrCanvas.height = "200";
+
+      var qr_ctx = qrCanvas.getContext("2d");
+      qr_ctx.clearRect(0,0,qrCanvas.width,qrCanvas.height);
+  
+      qr_ctx.fillStyle = "white";
+      qr_ctx.fillRect(0,0,qrCanvas.width,qrCanvas.height);
+  
+      qr_ctx.drawImage(QR_img,img_x_start,img_y_start);
+  
+
+      canvas_print_break( qr_ctx , gl_curr_user_details.company, img_x_start + QR_img.width, text_y_start , text_y_gap, text_fit_width, "left");
+      text_y_start += (Math.floor(gl_curr_user_details.company.length / text_fit_width) + 2) * text_y_gap;
+
+      var model_id_text = "Model ID: " + model_id; 
+      canvas_print_break( qr_ctx , model_id_text, img_x_start + QR_img.width, text_y_start, text_y_gap, text_fit_width, "left");
+      text_y_start += (Math.floor(model_id_text.length / text_fit_width) + 2) * text_y_gap;
+
+      if(date!= "")
+      {
+        const date_text = "Date: " + date;
+        canvas_print_break( qr_ctx , date_text, img_x_start + QR_img.width, text_y_start, text_y_gap, text_fit_width, "left");
+        text_y_start += (Math.floor(date_text.length / text_fit_width) + 2) * text_y_gap;  
+      }
+
+      const serial_number_text = serial_number;
+      canvas_print_break( qr_ctx , serial_number_text, qrCanvas.width/2, img_y_start + QR_img.height + text_y_gap*1.2, text_y_gap + 2 , text_fit_width, "center");
+
+// No resize required as using PDF format for label download      
+//      qrCanvas = await resize_canvas(qrCanvas,gl_image_scale_factor);
+
+      document.getElementById("download_qr_btn").href = "#";
+      document.getElementById("download_qr_btn").onclick = async function() {await create_qr_label_pdf(serial_number, model_id, date);}
+//      document.getElementById("download_qr_btn").download = serial_number + ".png";
+  
+      document.getElementById("navigation_create_serial_1").style.display = "none";
+      document.getElementById("navigation_create_serial_2").style.display = "flex";  
+  
+      await stop_loading();
+      return true;
+    }
+    catch(error)
+    {
+      console.log(error);
+      await display_error("Failed to display QR label. Please try again.");
+      return false;
+    }
+
+  }
+
+
+}
+
+
+// Function to populate model select list
+async function set_model_list_display()
+{
+let container = document.getElementById("model_select_list"); 
+empty_container("model_select_list");
+
+if( is_null(gl_model_list) )
+gl_model_list = await read_model_list();
+
+gl_model_list.sort();
+var tot_models = gl_model_list.length;
+
+for(i=0; i<tot_models;i++)
+{
+var option = document.createElement("option");                  
+  option.innerText = gl_model_list[i];
+  container.appendChild(option);
+
+}
+
+} 
+
+//Function to reset view to create another serial number
+function reset_create_serial(field_id)
+{
+document.getElementById(field_id).value = "";
+document.getElementById("total_serial_number_select_list").value = 1;
+
+var qrCanvas = document.getElementById("qr_canvas");
+var qr_ctx = qrCanvas.getContext("2d");
+qr_ctx.clearRect(0,0,qrCanvas.width,qrCanvas.height);
+
+document.getElementById("navigation_create_serial_2").style.display = "none";
+document.getElementById("navigation_create_serial_1").style.display = "flex";
+
+}
+
+// Function to delete serial number
+async function remove_new_serial(serial_number)
+{
+  if(validate_serial_number(serial_number))
+  {
+    await display_confirmation("Are you sure you want to delete Serial Number <b>" + serial_number + "</b>?", delete_serial_number, serial_number);
+    document.getElementById("serial_number_delete_section").value = "";
+    return true;
+  }
+}
+
+// Function to create new serial number
+async function create_new_serial(serial_number,ending_serial= 0, remaining_serial_numbers = 0)
+{
+let model_id = document.getElementById("model_select_list").value; 
+
+
+if (validate_serial_number(serial_number) && validate_input(model_id))
+{
+var record = await read_serial_number_record(serial_number);
+
+if (record !== false) 
+  { 
+    display_confirmation("Serial Number - <b>" + serial_number + "</b> already exists. Do you want to view the QR label again?", display_QR, serial_number, record["Basic Info"].model);
+  }
+else 
+  {
+    if(remaining_serial_numbers != 0)
+    display_confirmation("Starting creation of " + (remaining_serial_numbers+1) + " serial numbers from "+ serial_number +
+                         " to "+ ending_serial + ".<hr>Are you sure you want to create serial number <b>" + serial_number + 
+                         "</b> of type <b>" + model_id + "</b> ?", create_and_display_QR, serial_number, model_id);
+    else
+    display_confirmation("Are you sure you want to create serial number <b>"+serial_number+"</b> of type <b>" + model_id + "</b> ?", create_and_display_QR, serial_number, model_id);
+  }
+}
+
+}
+
+// Support function to generate multi serial numbers create list
+function setup_multi_serial_number_create_list()
+{
+  var serial = document.getElementById("serial_number_create_section").value.toString();
+//  var model = document.getElementById("model_select_list").value;
+  var tot_serial_numbers = document.getElementById("total_serial_number_select_list").value;
+  gl_pending_multi_serial_number_create_list = [];
+
+  var index = -1; 
+  for(var i=serial.length-1; i>=0; i--)
+  {
+    if(isNaN(serial[i]) == true && index == -1)
+    index = i+1;
+  }
+  if(index==-1) index = 0;
+
+  var prefix_string = serial.substr(0, index);
+  var ini_num_string = serial.substr(index, serial.length - index);       // starting serial number - String type
+  var ini_num = Number(ini_num_string);                                   // starting serial number - Number type
+
+  for(var i=tot_serial_numbers-1; i>=0; i--)
+  {
+    var curr_number = String(ini_num+i);
+    gl_pending_multi_serial_number_create_list.push(String(prefix_string + curr_number.padStart(serial.length - index,'0') ) ); 
+//    console.log(prefix_string + curr_number.padStart(serial.length - index,'0') );
+  }
+
+  return ([gl_pending_multi_serial_number_create_list.pop(), gl_pending_multi_serial_number_create_list[0] || 0,  gl_pending_multi_serial_number_create_list.length]);
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                View / Update Serial Number Record Section                                          //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////    
+
+//Support Function to format record for create_process_record_pdf
+async function convert_record_to_array_log(record)
+{
+  var record_array_log = [];
+  var processing_history_array_log = [];                // contains history of saves / updates by users
+  var operation_list = record["Basic Info"]["op_order"];
+
+  for(var i=0; i<operation_list.length; i++)
+  {
+
+  // Don't print full operation list. Check if useris admin or has minimum Read access permission (1) before printing. Also check operation status
+  if((gl_user_permission.admin == 1 || gl_user_permission[operation_list[i]] > 0) && record[operation_list[i]].status != 2 )
+    {
+
+      var param_list = record[operation_list[i]].param_list;
+
+      for(var j=0; j<param_list.length; j++)
+      {
+        const param_name = param_list[j].name;
+        const param_value = record[operation_list[i]].actual_value[param_name][0];
+
+        const lot_size = param_list[j].freq || 1;
+        const measurement_type = (record[operation_list[i]].actual_value[param_name][1] == 0)?"Actual" : "Sample [Lot size: " + lot_size + " pcs]"; 
+        const measurement_method = param_list[j].method || "";
+        var criteria = "";
+
+
+        if(param_list[j].type === data_types[0])          //Numeric Range Type
+        criteria = "Min Value: " + (param_list[j].value1 || "-").toString() + " , Max Value: " + (param_list[j].value2 || "-").toString();
+        
+        
+        else if (param_list[j].type === data_types[1])    //Option List - Display acceptable options
+        criteria = param_list[j].value1;
+        
+        else if (param_list[j].type === data_types[2])    //Sub-assembly part - serial number
+        criteria = param_list[j].value1 + " Type Sub-Component";
+        
+        else if (param_list[j].type === data_types[3])    //Free Response
+        criteria = "";
+
+        //validate param value
+        var validation = await validate_input_field_value(param_list[j].type, param_list[j].value1, param_list[j].value2, record[operation_list[i]].actual_value[param_list[j].name][0]); 
+        var status_check;
+        if (validation == true) status_check = "OK";   // All ok
+        else if (validation == false && record[operation_list[i]].status == 0) status_check = "DEVIATION";    // Deviation allowed
+        else status_check = "NOT OK";   // Not ok - error        
+
+        record_array_log.push([ operation_list[i], param_name, criteria, measurement_method, param_value, measurement_type, status_check ]);
+      }
+  
+      if(!is_null(record[operation_list[i]].log.entry_by))
+      {
+//        var entry_by =  record[operation_list[i]].log.entry_by + " [ " + decode_date(record[operation_list[i]].log.entry_dt) + " ]";
+//        record_array_log.push([ operation_list[i] , "Entry By" , entry_by, "" , "" ]);  
+
+        processing_history_array_log.push( [operation_list[i], "Data Entered", record[operation_list[i]].log.entry_by, decode_date(record[operation_list[i]].log.entry_dt)] );
+      }
+      if(!is_null(record[operation_list[i]].log.update_by))
+      {
+ //       var update_by =  record[operation_list[i]].log.update_by + " [ " + decode_date(record[operation_list[i]].log.update_dt) + " ]";
+  //      record_array_log.push([ operation_list[i] , "Update By" , update_by, "" , "" ]);  
+
+        processing_history_array_log.push( [operation_list[i], "Data Updated", record[operation_list[i]].log.update_by, decode_date(record[operation_list[i]].log.update_dt)] );
+
+      }    
+      if(!is_null(record[operation_list[i]].log.deviation_by))
+      {
+//        var deviation_by =  record[operation_list[i]].log.deviation_by + " [ " + decode_date(record[operation_list[i]].log.deviation_dt) + " ]";
+        var param_title = (record[operation_list[i]].status == 4) ? "Rejected" : "Deviation Allowed";
+//        record_array_log.push([ operation_list[i] , param_title , deviation_by, "", "" ]);  
+
+        processing_history_array_log.push( [operation_list[i], param_title, record[operation_list[i]].log.deviation_by, decode_date(record[operation_list[i]].log.deviation_dt)] );
+
+      }    
+      if(!is_null(record[operation_list[i]].log.remark))
+      {
+        var remark =  record[operation_list[i]].log.remark;
+//        record_array_log.push([ operation_list[i] , "Remark" , remark, "", "" ]);  
+
+        processing_history_array_log.push( [operation_list[i], "Remark", record[operation_list[i]].log.remark, "" ] );
+
+      }   
+
+    }
+
+  }
+  return [record_array_log,processing_history_array_log];
+}
+
+//Support function to get data for dispatch details table in process record pdf
+function get_dispatch_details_array_log(record)
+{
+  var array_log = [];
+
+  array_log.push(["Dispatch ID", record["Basic Info"].external_id]);
+  array_log.push(["Dispatch Remarks", record["Basic Info"]["log"].remark]);
+
+  array_log.push(["Dispatch Date", decode_date(record["Basic Info"]["log"].entry_dt) ] );
+  array_log.push(["Entry By", record["Basic Info"]["log"].entry_by ] );
+
+  if(!is_null(record["Basic Info"]["log"].update_by))
+  {
+    array_log.push(["Update Date", decode_date(record["Basic Info"]["log"].update_dt) ] );
+    array_log.push(["Update By", record["Basic Info"]["log"].update_by ] );   
+  }
+
+  return array_log;
+}
+
+
+/*
+//Function to downlaod dispatch QR label section
+async function download_dispatch_qr_label(serial_number, model_id = "", date="")
+{
+  await start_loading();  
+  var white_rgb="255-255-255";  
+  var QR_img = new Image();
+  QR_img.setAttribute('crossOrigin', 'anonymous');
+  QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURI(serial_number);
+//  QR_img.src = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&bgcolor="+white_rgb+"&data=" + encodeURI(serial_number);
+
+  const img_x_start = 5;
+  const img_y_start = 10;
+  const text_fit_width = 30;
+  const text_y_gap = 15;
+  var text_y_start = img_y_start*3 + text_y_gap/2;
+
+  QR_img.onload = async function()
+  {
+    try
+    {
+      var qrCanvas = document.createElement("canvas");
+      qrCanvas.width = "400";
+      qrCanvas.height = "200";
+
+      const dowload_btn = document.createElement("a");
+
+      var qr_ctx = qrCanvas.getContext("2d");
+      qr_ctx.clearRect(0,0,qrCanvas.width,qrCanvas.height);
+  
+      qr_ctx.fillStyle = "white";
+      qr_ctx.fillRect(0,0,qrCanvas.width,qrCanvas.height);
+  
+      qr_ctx.drawImage(QR_img,img_x_start,img_y_start);
+  
+
+      canvas_print_break( qr_ctx , gl_curr_user_details.company, img_x_start + QR_img.width, text_y_start , text_y_gap, text_fit_width, "left");
+      text_y_start += (Math.floor(gl_curr_user_details.company.length / text_fit_width) + 2) * text_y_gap;
+
+      var model_id_text = "Model ID: " + model_id; 
+      canvas_print_break( qr_ctx , model_id_text, img_x_start + QR_img.width, text_y_start, text_y_gap, text_fit_width, "left");
+      text_y_start += (Math.floor(model_id_text.length / text_fit_width) + 2) * text_y_gap;
+
+      if(date!= "")
+      {
+        const date_text = "Date: " + await decode_date(date);
+        canvas_print_break( qr_ctx , date_text, img_x_start + QR_img.width, text_y_start, text_y_gap, text_fit_width, "left");
+        text_y_start += (Math.floor(date_text.length / text_fit_width) + 2) * text_y_gap;  
+      }
+
+      const serial_number_text = serial_number;
+      canvas_print_break( qr_ctx , serial_number_text, qrCanvas.width/2, img_y_start + QR_img.height + text_y_gap*1.2, text_y_gap + 2 , text_fit_width, "center");
+
+      qrCanvas = await resize_canvas(qrCanvas,gl_image_scale_factor);
+
+      dowload_btn.href = qrCanvas.toDataURL("image/png");
+      dowload_btn.download = serial_number + ".png";
+  
+      await stop_loading();
+      await dowload_btn.click();
+      return true;
+    }
+    catch(error)
+    {
+      console.log(error);
+      await display_error("Failed to load QR label. Please try again.");
+      return false;
+    }
+
+  }
+
+
+}
+*/
+
+//Create Process Record PDF for download
+async function create_process_record_pdf(record)
+
+{
+const pdf_width = 297;          // a4 paper - dimensions in mm
+const pdf_height = 210;
+const starting_height = 10;
+var vertical_pos = starting_height;
+const spacing = 6;
+
+const doc = new jspdf.jsPDF({ orientation: "landscape", unit: "mm", format: [pdf_width, pdf_height] });
+
+// set company name on page top center
+const company_name = gl_curr_user_details.company;
+doc.setTextColor("black");  
+doc.setFontSize(17);
+doc.text(company_name, pdf_width/2, vertical_pos+=spacing, {align:"center"});    
+
+// Print process record title with serial number
+doc.setTextColor("black");  
+doc.setFontSize(12);
+var id_string = "Process Record for Serial Number : " + record["Basic Info"].serial;
+if( (record["Basic Info"].external_id != "") ) id_string += " [" + record["Basic Info"].external_id + "]";
+doc.setTextColor("black");  
+doc.text(id_string, pdf_width*0.5, vertical_pos+=spacing, {align:"center"}); 
+
+doc.setFontSize(10);        // regular font size
+
+// Print model
+doc.text("Model: " + record["Basic Info"].model, pdf_width*0.5, vertical_pos+=spacing, {align:"center"});  
+
+var status_text = status_list[record["Basic Info"].status];
+
+// SHow Status for dispatch if completed
+if(record["Basic Info"].status == 0) status_text = "Ready for Dispatch";
+if(record["Basic Info"].status == 0 && !is_null(record["Basic Info"].external_id)) status_text = "Dispatched";
+
+// Print overall process status 
+doc.text("Status : " + status_text, pdf_width*0.5, vertical_pos+=spacing, {align:"center"});    
+
+// Get data into table format & create table
+const processed_data = await convert_record_to_array_log(record);
+var record_data = processed_data[0];
+var processing_history_data = processed_data[1];
+
+doc.autoTable({
+                head: [['Operation', 'Parameter', 'Acceptance Criteria', 'Measurement Method', 'Value', 'Measurement Type', 'Status']],
+                body: record_data,
+                theme : 'grid',
+                styles: { fontSize: 11, valign: 'middle', lineColor : '#000000' },
+                headStyles : {fillColor: '#FFFFFF', textColor: '#000000', lineColor : '#000000', lineWidth: 0.1},          // Color of header
+                columnStyles: { 4: { halign: 'center' } }, // Cells in third column centered and green
+                startY: 40,
+                didParseCell: function (data) {
+                  if(data.section == "body" && data.column.index == 6 && data.cell.raw == "OK"){
+                      data.cell.styles.fillColor = "#C6EFCE";
+                      data.cell.styles.textColor = "#006100";  
+                  }
+                  else if(data.section == "body" && data.column.index == 6 && data.cell.raw == "NOT OK"){
+                      data.cell.styles.fillColor = "#FFC7CE";
+                      data.cell.styles.textColor = "#9C0006";    
+                  }  
+                  else if(data.section == "body" && data.column.index == 6 && data.cell.raw == "DEVIATION"){
+                      data.cell.styles.fillColor = "#FFEB9C";
+                      data.cell.styles.textColor = "#9C5700";    
+                  }      
+                }
+
+               });
+
+doc.setFontSize(12);    
+vertical_pos = doc.lastAutoTable.finalY+10;
+doc.text("Job Processing History", pdf_width*0.5, vertical_pos+=spacing/2, {align:"center"});    
+vertical_pos+=spacing/2
+
+doc.autoTable({
+                head: [['Operation', 'Event', 'User', 'Time']],
+                body: processing_history_data,
+                theme : 'grid',
+                styles: { fontSize: 11, valign: 'middle', lineColor : '#000000' },
+                headStyles : {fillColor: '#FFFFFF', textColor: '#000000', lineColor : '#000000', lineWidth: 0.1},          // Color of header
+                columnStyles: { 4: { halign: 'center' } }, 
+                startY: vertical_pos,
+               });               
+
+
+if(!is_null(record["Basic Info"]["log"].entry_by))
+{
+  const dispatch_data = get_dispatch_details_array_log(record);
+  
+  doc.addPage();
+  vertical_pos = starting_height;
+  doc.text("Dispatch Details", pdf_width/2, vertical_pos+=spacing, {align:"center"});
+
+console.log()
+  doc.autoTable({
+//                  head: [['Dispatch Details', '']],
+                  body: dispatch_data,
+                  theme : 'grid',
+                  styles: { fontSize: 11, valign: 'middle', lineColor : '#000000' },
+                  headStyles : {fillColor: '#FFFFFF', textColor: '#000000', lineColor : '#000000', lineWidth: 0.1},          // Color of header
+  //                columnStyles: { 4: { halign: 'center' } }, 
+                  startY: vertical_pos+= spacing,
+                 });  
+  
+}
+
+
+// Set Page Numbers & other details
+for (var i=1; i<=doc.internal.getNumberOfPages(); i++ )
+{
+    doc.setTextColor(100);  // gray color
+    doc.setFontSize(10);
+    doc.setPage(i);
+    doc.text("Job ID: "+ record["Basic Info"].serial, 10, 7, {align:'left'});
+    doc.text("Page " + i + " of " + doc.internal.getNumberOfPages(), pdf_width-10, 7, {align:'right'});
+    doc.text("Powered by Qik Process", pdf_width-10 , pdf_height-5, {align:'right'});
+
+  }
+
+doc.save(record["Basic Info"].serial +"_process_record.pdf");
+}
+
+
+//Function to display Deviation Modal for confirmation with message
+function deviation_confirmation(operation_name, onsuccess_fn, record)
+{
+document.getElementById("deviation_remark").value = "";       // reset remark
+document.getElementById("deviation_modal_message").innerText = "Do you want to allow deviation for the current operation (" + operation_name + ") ?";
+
+yes_deviation_modal_btn.onclick = function()
+{
+var remark = document.getElementById("deviation_remark").value;
+onsuccess_fn(operation_name, record, remark);
+};
+
+$("#deviationModal").modal();         
+}
+
+
+//Function to display Rejection Modal for confirmation with message
+function rejection_confirmation(operation_name, onsuccess_fn, record)
+{
+document.getElementById("rejection_remark").value = "";       // reset remark
+document.getElementById("rejection_modal_message").innerText = "Do you want to Reject the current part?";
+
+yes_rejection_modal_btn.onclick = function()
+{
+var remark = document.getElementById("rejection_remark").value;
+onsuccess_fn(operation_name, record, remark);
+};
+
+$("#rejectionModal").modal();         
+}
+
+
+// Function to validate input parameter
+async function validate_input_field_value(param_type, param_value1, param_value2, actual_value)
+{ 
+try
+{
+  
+if( is_null(gl_model_list) )
+gl_model_list = await read_model_list();
+
+if( is_null(actual_value) ) return false;
+
+if(param_type == data_types[0])           // Numeric Range
+{
+  if(isNaN(actual_value))  return false;      // check if not number
+ 
+  if( !is_null(param_value1) && !isNaN(param_value1))          //value is greater than min
+      if( Number(actual_value) < Number(param_value1) ) return false;
+
+  if( !is_null(param_value2) && !isNaN(param_value2))          //value is greater than max
+      if( Number(actual_value) > Number(param_value2) ) return false ;     
+      
+   if(actual_value.toString().length > param_value_max_length) return false;
+      
+}
+
+else if(param_type == data_types[1])           // Option List
+{
+  var accepted_options = param_value1.split(",");
+  
+  if(accepted_options.length < 1) return false;
+
+  if (!accepted_options.includes(actual_value))
+  {
+    console.log(accepted_options);
+    console.log(actual_value);
+    return false;
+
+  }
+
+}
+
+else if(param_type == data_types[2])           // Sub Component Serial
+{
+  // check model is valid and serial number is not same as current component
+
+  if(!gl_model_list.includes(param_value1) || actual_value == gl_curr_record["Basic Info"].serial) return false;
+
+  if(actual_value.toString().length > param_value_max_length) return false;
+
+  var sub_component_record = await read_serial_number_record(actual_value);    // fetch record of sub component serial
+
+  var model_id = sub_component_record["Basic Info"].model;
+  
+  // if model_id is empty or does not match model in param_value_1 -> error
+  // Also if status is not 0 (completed)
+  if( is_null(model_id) || model_id != param_value1 || sub_component_record["Basic Info"].status != 0)                     
+  return false;
+}
+
+
+else if(param_type == data_types[3])           //  Free response value
+{
+  if(is_null(actual_value.toString() || actual_value.toString().length > param_value_max_length )) return false; 
+}
+
+
+return true;
+}
+catch(error)
+{
+return false;
+}
+}
+
+
+
+// Function to render input field based on parameter type (for edit mode)
+async function render_actual_value_input_field(param_type, param_value1, param_value2, param_value, stage_status = 2, current_operation)
+{
+var input_field;
+if(param_value == undefined) param_value ="";
+
+if(param_type == data_types[0])           //numeric range
+{
+input_field = document.createElement('input'); input_field.type = "number";
+input_field.className = "form-control input mt-n1 mb-2 text-center text-dark bg-white";
+input_field.maxLength = param_value_max_length;
+input_field.value =  param_value;
+}
+
+else if(param_type == data_types[1])           //option list
+{
+var options_array = param_value1.split(",").concat(param_value2.split(","));
+
+input_field = document.createElement("select");
+input_field.className = "custom-select text-center mb-2";
+set_select_options(input_field, [""].concat(options_array));
+input_field.value =  param_value;
+}
+
+else if(param_type == data_types[2])           //sub assembly part
+{
+input_field = document.createElement('input');
+input_field.className = "form-control input mt-n1 mb-2 text-center text-dark bg-white";
+input_field.maxLength = param_value_max_length;
+input_field.value =  param_value;
+}
+
+else if(param_type == data_types[3])           //type in value
+{
+input_field = document.createElement('input');
+input_field.className = "form-control input mt-n1 mb-2 text-center text-dark bg-white";
+input_field.maxLength = param_value_max_length;
+input_field.value =  param_value;
+}
+
+input_field.onchange = async function()
+{
+var result = await validate_input_field_value(param_type, param_value1, param_value2, input_field.value);
+if(!result)       
+// if !false - field value is not valid  
+{
+if(!input_field.className.includes(" border-danger"))
+input_field.className = input_field.className + " border-danger";
+}
+else
+input_field.className = input_field.className.replace(" border-danger",""); 
+}
+
+// highlight incorrect parameters on render
+if( (stage_status == 1 || stage_status == 3 || (stage_status == 2 && param_value != "") ) 
+     &&  ! await validate_input_field_value(param_type, param_value1, param_value2, input_field.value))       
+{
+if(!input_field.className.includes(" border-danger"))
+input_field.className = input_field.className + " border-danger";
+}
+
+return input_field;
+}
+
+
+// Function get current process status  - returns object with current_operation, current_status_value, minor & major deviation list
+function current_process_status(record)
+{
+const operation_list = Object.keys(record);
+var current_operation = ".";                                        // "." - indicates last operation
+var current_status_value = 0;                                       // 0 -complete, 1 -minor deviation, 2- in progress, 3 -major deviation, 4 - rejected
+                                                                //get max value to show current status
+var operation_index = 0;                                            // 0 indicates all steps completed
+var minor_deviation_list = [];
+var major_deviation_list = [];
+
+for(var i=1; i<operation_list.length; i++)                          // Get stages with Minor or Major deviation required status
+{
+
+if (record[operation_list[i]].status > current_status_value)
+{
+current_status_value = record[operation_list[i]].status;
+current_operation = operation_list[i];
+operation_index = i;
+}
+
+if (record[operation_list[i]].status == 1)                        // 1 - Minor Deviation Required
+minor_deviation_list.push(operation_list[i]);
+
+else if (record[operation_list[i]].status == 3)                   // 3 - Major Deviation Required
+major_deviation_list.push(operation_list[i]);
+
+}
+minor_deviation_list = minor_deviation_list.join(" , ");
+major_deviation_list = major_deviation_list.join(" , ");
+
+var obj = 
+      {
+        operation_list : operation_list,              // list of operations / stages in record
+        current_operation : current_operation,        // current operation pending / to be done
+        operation_index : operation_index,            // index of current operation
+        current_status_value : current_status_value,  // status of overall process - ["Basic Info"].status
+        minor_deviation_list : minor_deviation_list,  // List of operations with minor deviation
+        major_deviation_list : major_deviation_list   // List of operations with major deviation
+      }
+
+return obj;
+}
+
+
+// Called by display_qc_stage_info_card
+// Function to create basic_info display card for set_serial_record_display
+function create_basic_info_card(select_container, container,record , edit_mode = false)
+{
+empty_container_byReference(container);
+
+var process_status = current_process_status(record);
+var operation_list = process_status.operation_list;
+var current_operation = process_status.current_operation;
+var operation_index = process_status.operation_index;
+var current_status_value = process_status.current_status_value;     
+var minor_deviation_list = process_status.minor_deviation_list;
+var major_deviation_list = process_status.major_deviation_list;
+
+                                                                // div for non editable values section
+let basic_info_card = document.createElement('div');                //Display status of serial number
+basic_info_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+let basic_info_status_title = document.createElement('p');
+basic_info_status_title.className = "text-dark";
+basic_info_status_title.innerText = "Overall Status";
+
+let basic_info_status = document.createElement('h4');
+basic_info_status.className = "text-center " + status_list_color[record["Basic Info"].status];
+basic_info_status.innerText = status_list[record["Basic Info"].status];
+basic_info_status.readOnly = true; 
+
+// If Completed Status (0) - show as ready for dispatch
+// If Completed status & dispatch_id / external_id is present - show as dispatched
+if(record["Basic Info"].status == 0) basic_info_status.innerText = "Ready for Dispatch";
+if(record["Basic Info"].status == 0 && !is_null(record["Basic Info"]["log"].entry_by)) basic_info_status.innerText = "Dispatched";
+
+
+let line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";
+
+basic_info_card.appendChild(basic_info_status_title);
+basic_info_card.appendChild(basic_info_status);
+basic_info_card.appendChild(line);
+
+if( !is_null(current_operation) && current_operation!= "." )                   //Display current operation of serial number
+{
+let basic_info_current_operation_title = document.createElement('p');
+basic_info_current_operation_title.className = "text-dark";
+basic_info_current_operation_title.innerText = "Current Operation";
+
+let basic_info_current_operation = document.createElement('a');
+basic_info_current_operation.className = "btn btn-light text-center text-break";
+basic_info_current_operation.innerText =  current_operation;
+
+basic_info_current_operation.onclick = function()
+{  
+select_container.value = current_operation;
+display_qc_stage_info_card(select_container, container, record, edit_mode);
+}
+
+line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";
+
+basic_info_card.appendChild(basic_info_current_operation_title);
+basic_info_card.appendChild(basic_info_current_operation);
+basic_info_card.appendChild(line);
+}
+
+
+if( !is_null(minor_deviation_list) )         //Display minor deviation list of serial number
+{
+let basic_info_minor_deviation_title = document.createElement('p');
+basic_info_minor_deviation_title.className = "text-dark";
+basic_info_minor_deviation_title.innerText = "Operations with Minor Deviation";
+
+let basic_info_minor_deviation = document.createElement('h5');
+basic_info_minor_deviation.className = "text-center text-danger text-break";
+basic_info_minor_deviation.innerText =  minor_deviation_list;
+basic_info_minor_deviation.readOnly = true; 
+
+line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";
+
+basic_info_card.appendChild(basic_info_minor_deviation_title);
+basic_info_card.appendChild(basic_info_minor_deviation);
+basic_info_card.appendChild(line);
+}
+
+
+if( !is_null(major_deviation_list) )         //Display major deviation list of serial number
+{
+let basic_info_major_deviation_title = document.createElement('p');
+basic_info_major_deviation_title.className = "text-dark";
+basic_info_major_deviation_title.innerText = "Operations with Major Deviation";
+
+let basic_info_major_deviation = document.createElement('h5');
+basic_info_major_deviation.className = "text-center text-danger text-break";
+basic_info_major_deviation.innerText =  major_deviation_list;
+basic_info_major_deviation.readOnly = true; 
+
+line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";
+
+basic_info_card.appendChild(basic_info_major_deviation_title);
+basic_info_card.appendChild(basic_info_major_deviation);
+basic_info_card.appendChild(line);
+}
+
+
+let editable_param_card = document.createElement('div');                // div for values edited / updated by user
+editable_param_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+
+//Display Dispatch ID (external id) of serial number - editable param
+// Also display Dispatch Remark
+
+let basic_info_external_id_title = document.createElement('p');
+basic_info_external_id_title.className = "text-dark";
+basic_info_external_id_title.innerText = "Dispatch ID";
+
+let basic_info_dispatch_remark_title = document.createElement('p');
+basic_info_dispatch_remark_title.className = "text-dark";
+basic_info_dispatch_remark_title.innerText = "Dispatch Details";
+
+var basic_info_external_id;
+var basic_info_dispatch_remark;
+
+if (edit_mode)
+{
+basic_info_external_id = document.createElement('input');
+basic_info_external_id.className = "form-control input mt-n2 text-center text-primary bg-white";
+basic_info_external_id.value =  is_null(record["Basic Info"].external_id)  ? "" : record["Basic Info"].external_id;
+basic_info_external_id.maxLength = param_value_max_length;
+
+basic_info_dispatch_remark = document.createElement('textarea');
+basic_info_dispatch_remark.className = "form-control mt-n2 text-primary bg-white";
+basic_info_dispatch_remark.rows = 5;
+basic_info_dispatch_remark.value =  is_null(record["Basic Info"]["log"].remark)  ? "" : record["Basic Info"]["log"].remark;
+basic_info_dispatch_remark.maxLength = remark_max_length;
+}
+else
+{
+basic_info_external_id = document.createElement('h5');
+basic_info_external_id.className = "text-center text-primary text-break";
+basic_info_external_id.innerText =  is_null(record["Basic Info"].external_id) ? "-" : record["Basic Info"].external_id ;
+
+basic_info_dispatch_remark = document.createElement('h5');
+basic_info_dispatch_remark.className = "text-center text-primary text-break";
+basic_info_dispatch_remark.innerText =  is_null(record["Basic Info"]["log"].remark) ? "-" : record["Basic Info"]["log"].remark ;
+
+}
+
+// Show Dispatch details if record status = 0 (complete) & it is edit mode or dispatch details are saved once
+
+if(record["Basic Info"].status == 0 && (edit_mode || !is_null(record["Basic Info"]["log"].entry_by)) )
+{
+  line = document.createElement('hr');
+  line.className = "col-sm-12 text-center";
+  line.style = "width:60%";
+  
+  editable_param_card.appendChild(basic_info_external_id_title);
+  editable_param_card.appendChild(basic_info_external_id);
+  editable_param_card.appendChild(line);
+  
+  line = document.createElement('hr');
+  line.className = "col-sm-12 text-center";
+  line.style = "width:60%";
+  
+  editable_param_card.appendChild(basic_info_dispatch_remark_title);
+  editable_param_card.appendChild(basic_info_dispatch_remark);
+  editable_param_card.appendChild(line);
+}
+
+
+let footer_card = document.createElement('div');                        // div for footer items
+footer_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+// Save / Update info button for edit_mode
+if (edit_mode)
+{
+let save_btn = document.createElement('button');
+  save_btn.className = "btn btn-outline-primary btn-block mt-2";
+  save_btn.innerText = "Save / Update Data";
+
+  let break_space = document.createElement('br');
+  footer_card.appendChild(save_btn);
+  footer_card.appendChild(break_space);
+
+// function to create & encode record to save to database  
+save_btn.onclick = async function()
+{
+  var result = await create_process_operation_record(editable_param_card, "Basic Info", record);
+  if( result )
+ {
+  var select_container = document.getElementById("qc_stage_select_list");
+  var qc_data_display_container = document.getElementById("serial_qc_data_display");
+  await display_qc_stage_info_card(select_container, qc_data_display_container, gl_curr_record, false);
+  display_info("Data saved successfully");
+ }
+}
+
+}
+
+container.appendChild(basic_info_card);
+container.appendChild(editable_param_card);                             // contains parameters or values edited / updated by user
+container.appendChild(footer_card);
+
+
+}
+
+
+// Called by display_qc_stage_info_card
+//Function to create qc_stage_info card for set_serial_record_display
+async function create_qc_stage_info_card(container, record, operation_name, edit_mode = false)
+{
+empty_container_byReference(container);
+
+
+//no display if user doesn't have read access
+if( gl_user_permission.admin != 1 && (gl_user_permission[operation_name] < 1 || is_null(gl_user_permission[operation_name]) ) ) 
+{
+// div to display insufficient permissions message to user
+let insufficient_permission_card = document.createElement('div');                     
+insufficient_permission_card.className = "col-sm-6 mx-auto text-center text-primary mt-2";
+insufficient_permission_card.innerText = "You don't have sufficient permissions to view this section. Contact your administrator for access.";
+container.appendChild(insufficient_permission_card);
+return false;
+}
+
+let header_info_card = document.createElement('div');                     // div for items not edited / updated by user
+header_info_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+let stage_status_title = document.createElement('p');
+stage_status_title.className = "text-dark";
+stage_status_title.innerText = "Operation Status";
+header_info_card.appendChild(stage_status_title);
+
+let stage_status = document.createElement('h4');
+stage_status.className = status_list_color[record[operation_name].status] + " mb-2";
+stage_status.innerHTML = status_list[record[operation_name].status] ;
+header_info_card.appendChild(stage_status);
+
+line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";        
+header_info_card.appendChild(line);
+
+
+
+let qc_stage_info_card = document.createElement('div');                 // div for parameters that are edited / updated by user
+qc_stage_info_card.className = "col-sm-6 mx-auto text-center mt-2";
+let param_list = await record[operation_name].param_list;
+let tot_parameters = param_list.length;
+
+for(i=0; i<tot_parameters; i++)
+{
+let parameter_title = document.createElement('div');
+parameter_title.className = "row text-break mb-2";
+
+if(!is_null(param_list[i].link))
+parameter_title.innerHTML = '<div class="col-sm-12"><a class="btn btn-primary float-right pl-3 pr-3 rounded-circle" target="_blank" rel = "noopener nofollow external noreferrer"  href="' + 
+param_list[i].link + '"><i class="fa fa-info"></i></a></div>';
+
+parameter_title.innerHTML += '<div class="col-sm-12 text-dark">' + param_list[i].name + '</div>';
+
+
+var actual_value;
+var param_value = record[operation_name].actual_value[param_list[i].name][0];
+if (param_value == undefined || param_value == "")
+param_value = get_parameter_value_from_cache(record["Basic Info"].model, operation_name, param_list[i].name, param_list[i].freq, edit_mode);
+
+var param_type = param_list[i].type;                      
+var param_value1 = param_list[i].value1;
+var param_value2 = param_list[i].value2;
+
+if(edit_mode)                                                             // Create input field for edit mode
+{
+actual_value = await render_actual_value_input_field(param_type, param_value1, param_value2, param_value, record[operation_name].status, operation_name);
+}
+else
+{
+actual_value = document.createElement('h5');
+actual_value.className = "text-center text-primary text-break";
+if (param_value == "") param_value = "-";
+actual_value.innerText = param_value;
+
+if(record[operation_name].status == 1 || record[operation_name].status == 3)        // if Minor or major deviation present in current step
+{
+if( (await validate_input_field_value(param_type, param_value1, param_value2, param_value)) == false)    
+// input field value is not validated
+actual_value.className = "text-center text-danger font-weight-bold";                            // highlight value red
+}
+
+}
+
+let parameter_info_div = document.createElement('div');
+var parameter_description;
+
+if (edit_mode) 
+{
+if (param_list[i].type === data_types[2])    //Sub-assembly part serial number    - Create scanner button for edit mode
+{
+parameter_description = document.createElement('div');
+
+let scan_qr_btn = document.createElement('button');
+scan_qr_btn.className = "btn btn-outline-dark";
+scan_qr_btn.id = "scan-btn";
+scan_qr_btn.innerText = "Scan QR";
+scan_qr_btn.onclick = function(){popup_scanner(scan_qr_btn.parentElement.previousElementSibling);}
+
+let criteria = document.createElement('div');
+criteria.className = "text-primary mt-1";
+criteria.innerHTML = "Enter <u>" + param_list[i].value1 + "</u> Type Job ID";
+
+parameter_description.appendChild(scan_qr_btn);
+parameter_description.appendChild(criteria);
+}
+else
+{
+parameter_description = document.createElement('div');
+parameter_description.className = "text-primary";
+
+if(param_list[i].type === data_types[0])          //Numeric Range Type
+parameter_description.innerText = "Min Value: " + (param_list[i].value1 || "-").toString() + " , Max Value: " + (param_list[i].value2 || "-").toString();
+
+else if (param_list[i].type === data_types[1])    //Option List - Display acceptable options
+parameter_description.innerText = "Valid Options: " + param_list[i].value1;
+
+else if (param_list[i].type === data_types[3])    // Free Response value
+parameter_description.innerText = "Enter value (max 50 characters)";
+}
+}
+
+else
+{
+parameter_description = document.createElement('div');
+parameter_description.className = "text-muted";
+
+if(param_list[i].type === data_types[0])          //Numeric Range Type
+parameter_description.innerText = "Min Value: " + (param_list[i].value1 || "-").toString() + " , Max Value: " + (param_list[i].value2 || "-").toString();
+
+
+else if (param_list[i].type === data_types[1])    //Option List - Display acceptable options
+parameter_description.innerText = "Valid Options: " + param_list[i].value1;
+
+else if (param_list[i].type === data_types[2])    //Sub-assembly part - serial number
+parameter_description.innerHTML = "Enter <u>" + param_list[i].value1 + "</u> Type Job ID";
+
+else if (param_list[i].type === data_types[3])    //Free Response
+parameter_description.innerText = "Enter value (max 50 characters)";
+}
+
+parameter_info_div.appendChild(parameter_description);
+
+
+let measurement_method = document.createElement('div');
+measurement_method.className = (edit_mode == true) ? "text-primary text-break" : "text-muted text-break";
+if(!is_null(param_list[i].method))
+{
+  measurement_method.innerText = "Measurement Method: " + param_list[i].method;
+  parameter_info_div.appendChild(measurement_method);
+}
+
+line = document.createElement('hr');
+line.className = "col-sm-12 text-center";
+line.style = "width:60%";
+
+
+qc_stage_info_card.appendChild(parameter_title);
+qc_stage_info_card.appendChild(actual_value);
+qc_stage_info_card.appendChild(parameter_info_div);
+qc_stage_info_card.appendChild(line);
+
+}
+
+let footer_card = document.createElement('div');                 // div for items in footer. not edited / updated by user
+footer_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+
+// Workstation select container setup
+let workstation_name_select_title = document.createElement('p');
+workstation_name_select_title.className = "text-dark";
+workstation_name_select_title.innerText = "Workstation ID";
+
+let workstation_name_select = "";
+
+if(edit_mode)
+{
+  workstation_name_select = document.createElement("select"); 
+  workstation_name_select.className = "custom-select text-center mb-5";
+
+  if (is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+
+  let workstation_options = gl_current_operations_list[operation_name] || [];
+
+  // If no workstation names or operation was deleted from gl_current_operations_list then use "default" workstation  
+  if( is_null(workstation_options) )
+  {
+    set_select_options(workstation_name_select, ["-"]);
+    workstation_name_select.value = "-";
+  }
+  else
+  {
+    set_select_options(workstation_name_select, [""].concat(workstation_options) );
+    if(!is_null(record[operation_name].workstation))
+    workstation_name_select.value = record[operation_name].workstation;
+    else
+    workstation_name_select.value = "";
+  }
+
+}
+else
+{
+  workstation_name_select = document.createElement('p');
+  workstation_name_select.className = "text-primary text-break";
+
+  if(record[operation_name].workstation == "" || is_null(record[operation_name].workstation))
+  workstation_name_select.innerText = "-";
+  else
+  workstation_name_select.innerText = record[operation_name].workstation;
+
+  workstation_name_select.value = record[operation_name].workstation || "-";
+}
+
+let break_space = document.createElement('br');
+
+
+footer_card.appendChild(workstation_name_select_title);
+footer_card.appendChild(workstation_name_select);
+footer_card.appendChild(break_space);
+
+
+
+
+var current_step_index = (Object.keys(record)).indexOf(operation_name);
+
+// Save / Update info button for edit_mode
+if (edit_mode && record["Basic Info"].status != 4 && (current_step_index <= (current_process_status(record)).operation_index || record[operation_name].status != 2 )  )
+{
+let save_btn = document.createElement('button');
+save_btn.className = "btn btn-outline-primary btn-block mt-2";
+save_btn.innerText = "Save / Update Data";
+
+break_space = document.createElement('br');
+footer_card.appendChild(save_btn);
+footer_card.appendChild(break_space);
+
+// function to create & encode record to save to database  
+save_btn.onclick = async function()
+{
+  var result = await create_process_operation_record(qc_stage_info_card, operation_name, record, workstation_name_select.value);
+ if( result )
+ {
+  var select_container = document.getElementById("qc_stage_select_list");
+  var qc_data_display_container = document.getElementById("serial_qc_data_display");
+  await display_qc_stage_info_card(select_container, qc_data_display_container, gl_curr_record, false);
+  display_info("Data saved successfully");
+ }
+}
+}
+
+container.appendChild(header_info_card);  
+container.appendChild(qc_stage_info_card);                        // contains parameters edited / updated by user
+container.appendChild(footer_card);
+
+}
+
+
+// Function to create previous_pending_info_card to indicate previous stage pending message
+function create_previous_pending_info_card(container, pending_operation)
+{
+empty_container_byReference(container);
+
+let header_info_card = document.createElement('div');                     // div for items not edited / updated by user
+header_info_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+let stage_status = document.createElement('p');
+stage_status.className = "text-center text-danger font-weight-bold";
+stage_status.innerText = "'" + pending_operation + "' has to be completed before this step. Check 'Basic Info' section for more info.";
+header_info_card.appendChild(stage_status);
+container.appendChild(header_info_card);
+}
+
+
+//Function to show qc_stage or basic _info display card
+async function display_qc_stage_info_card(select_container, qc_data_display_container, record, edit_mode = false)
+{
+empty_container_byReference(qc_data_display_container);
+
+
+if(select_container.value == "Basic Info") 
+{
+await create_basic_info_card(select_container, qc_data_display_container, record, false);
+}
+else 
+{
+var process_status = current_process_status(record);
+var operation_list = process_status.operation_list;
+var current_operation = process_status.current_operation;
+var operation_to_display_index = operation_list.indexOf(select_container.value);
+var current_operation_index = process_status.operation_index;
+var current_status_value = process_status.current_status_value;             // 0 indicates all steps completed
+
+// Previous step is pending 
+if(current_status_value != 0 && operation_to_display_index > current_operation_index && record[select_container.value].status > 0)     
+{
+  await create_previous_pending_info_card(qc_data_display_container, current_operation);  // displays previous step pending message
+  return;
+}
+
+else
+await create_qc_stage_info_card(qc_data_display_container, record, select_container.value, false);
+}
+
+
+//Show Action button to edit / save data based on user permissions & current edit_mode value. 1 = read, 2 = write, 3 = edit
+if(edit_mode != true)      // Not in edit mode & status is not rejected
+{
+let edit_card = document.createElement('div');                 // div for edit_button, allow_deviation_btn, reject_btn, change_log_btn
+edit_card.className = "col-sm-6 mx-auto text-center mt-2";
+
+  // write / update access available - edit, deviation & reject btn
+  if(
+      (       
+            // user is admin
+            gl_user_permission.admin == 1
+            // user has write permission & stage record is not entered yet
+            || (record[select_container.value].log.entry_by == "" && gl_user_permission[select_container.value]>1)   
+            // or user has update permission for stage record
+            || (gl_user_permission[select_container.value]>2)              
+      )  
+      &&
+      (
+            // and part is not rejected & process is not completed (0-status) or it is "Basic Info" section
+            (record["Basic Info"].status < 4) && ( (record["Basic Info"].status > 0) || select_container.value == "Basic Info" )
+      )
+    )
+
+  {
+
+      let edit_btn = document.createElement('button');               // create edit_btn
+      edit_btn.className = "btn btn-outline-primary btn-block";
+      edit_btn.innerText = "Edit Data";
+
+      // Modify edit_btn text if mode = "Basic Info"
+      if(select_container.value == "Basic Info")
+      edit_btn.innerText = "Add / Edit Dispatch Details";
+
+
+      edit_btn.onclick = async function()
+      {
+        if(select_container.value == "Basic Info") await create_basic_info_card(select_container, qc_data_display_container,record, true);
+        else await create_qc_stage_info_card(qc_data_display_container, record, select_container.value, true);
+      }
+
+      let break_space = document.createElement('br');
+
+      // For "Basic Info" mode, show edit button only if record status = 0 (complete). FOr other modes show if record status != 0 & != 4 (as per above)
+
+      if(select_container.value!= "Basic Info" || (select_container.value == "Basic Info" && record["Basic Info"].status == 0) )
+      {
+        edit_card.appendChild(edit_btn);
+      
+        edit_card.appendChild(break_space);  
+      }
+
+
+      // Show deviation button if user is admin or has edit/ update permission & record has minor (1) or major (3) deviation status
+      // no deviation or rejection for Basic Info section
+      if( (gl_user_permission.admin == 1 || gl_user_permission[select_container.value]>2) 
+       && (record[select_container.value].status == 1 || record[select_container.value].status == 3) 
+       && select_container.value != "Basic Info")
+      {
+      let allow_deviation_btn = document.createElement('button');               // allow_deviation_btn
+      allow_deviation_btn.className = "btn btn-outline-primary btn-block";
+      allow_deviation_btn.innerText = "Allow Deviation";
+
+      allow_deviation_btn.onclick = async function()                                  // function to display deviation modal message
+      {
+       var result = await deviation_confirmation(select_container.value, allow_deviation_operation_record, record);
+      }
+
+      break_space = document.createElement('br');
+
+      edit_card.appendChild(allow_deviation_btn);
+      edit_card.appendChild(break_space);
+
+
+      let reject_deviation_btn = document.createElement('button');               // reject_deviation_btn
+      reject_deviation_btn.className = "btn btn-outline-primary btn-block";
+      reject_deviation_btn.innerText = "Reject Part";
+
+      reject_deviation_btn.onclick = async function()                                  // function to display deviation modal message
+      {
+        var result = await rejection_confirmation(select_container.value, allow_rejection_operation_record, record);
+      }
+
+      break_space = document.createElement('br');
+
+      edit_card.appendChild(reject_deviation_btn);
+      edit_card.appendChild(break_space);
+
+      }
+
+  }
+
+
+  // read access available - show-change-log-button - if user is admin or has read permission(1) or higher for stage OR stage == 'Basic Info'
+  if(gl_user_permission.admin == 1 || gl_user_permission[select_container.value]>0 || select_container.value == "Basic Info")                      
+{
+
+let show_change_log_btn = document.createElement('button');               // show_change_log_btn
+show_change_log_btn.className = "btn btn-outline-primary btn-block";
+show_change_log_btn.innerText = "View Change Log";
+
+let break_space = document.createElement('br');
+
+edit_card.appendChild(show_change_log_btn);
+edit_card.appendChild(break_space);
+
+show_change_log_btn.onclick = function() 
+  { 
+    var message = "";
+ 
+    // first entry saved details 
+    if (gl_curr_record[select_container.value].log.entry_by != "" && gl_curr_record[select_container.value].log.entry_by != undefined)
+    {
+    var name = gl_curr_record[select_container.value].log.entry_by;  
+    var full_date = decode_date(gl_curr_record[select_container.value].log.entry_dt);
+
+    message = message + "Data entered by " + name + " on " + full_date + ".<hr>";
+    }
+   
+    // last entry update details 
+    if (gl_curr_record[select_container.value].log.update_by != "" && gl_curr_record[select_container.value].log.update_by != undefined)
+    {
+    var name = gl_curr_record[select_container.value].log.update_by;  
+    var full_date = decode_date(gl_curr_record[select_container.value].log.update_dt);
+
+    message = message + "Last updated by " + name  + " on " + full_date + ".<hr>";
+    }
+    // deviation details 
+    if (gl_curr_record[select_container.value].log.deviation_by != "" && gl_curr_record[select_container.value].log.deviation_by != undefined)
+    {
+    var name = gl_curr_record[select_container.value].log.deviation_by;  
+    var full_date = decode_date(gl_curr_record[select_container.value].log.deviation_dt);
+    var remark = gl_curr_record[select_container.value].log.remark;
+    
+    var message_starting = "Deviation allowed by ";
+    if(gl_curr_record[select_container.value].status == 4)                     // if rejected
+    message_starting = "Rejected by ";
+   
+    message = message + message_starting + name + " on " + full_date + ". Remarks- " + remark + "<hr>";
+    }
+   
+   
+   if (message == "") message = "No changes yet!"; 
+   
+
+    display_info(message); 
+
+  }
+}
+
+
+// Dispatch QR label Download button
+if(select_container.value == "Basic Info" && record["Basic Info"].log.entry_by != "")                      
+{
+let dispatch_qr_label_download_btn = document.createElement('button');               // dispatch_qr_label_btn - download QR label as per dispatch id
+dispatch_qr_label_download_btn.className = "btn btn-outline-primary btn-block";
+dispatch_qr_label_download_btn.innerText = "Download Dispatch QR Label";
+
+let break_space = document.createElement('br');
+
+edit_card.appendChild(dispatch_qr_label_download_btn);
+edit_card.appendChild(break_space);
+
+dispatch_qr_label_download_btn.onclick = async function() {await create_qr_label_pdf(record["Basic Info"].external_id, record["Basic Info"].model, record["Basic Info"].log.entry_dt); }
+
+}
+
+// Process Record PDF Download button
+if(select_container.value == "Basic Info")                      
+{
+let process_record_pdf_btn = document.createElement('button');               // process_record_pdf_btn - download PDF of record
+process_record_pdf_btn.className = "btn btn-outline-primary btn-block";
+process_record_pdf_btn.innerText = "Download Record PDF";
+
+let break_space = document.createElement('br');
+
+edit_card.appendChild(process_record_pdf_btn);
+edit_card.appendChild(break_space);
+
+process_record_pdf_btn.onclick = function() { create_process_record_pdf(record); }
+
+}
+
+
+qc_data_display_container.appendChild(edit_card);
+
+}
+
+
+}
+
+
+// Function to set & display data for create / update serial number record section
+async function set_serial_record_display(record)
+{
+document.getElementById("navigation_update_serial_2_number").innerHTML = "Record for Serial No: " + record["Basic Info"].serial + "<br/>(" + record["Basic Info"].model + ")"; 
+
+var stage_list = Object.keys(record); 
+
+
+var select_container = document.getElementById("qc_stage_select_list");
+var qc_data_display_container = document.getElementById("serial_qc_data_display");
+await empty_container_byReference(select_container);
+await empty_container_byReference(qc_data_display_container);
+
+
+set_select_options(select_container, stage_list);
+await display_qc_stage_info_card(select_container, qc_data_display_container, record);
+
+
+//add listeners to navigate between cards of different qc_stages
+select_container.onchange = async function()
+{
+  await display_qc_stage_info_card(select_container, qc_data_display_container, gl_curr_record);
+}
+      
+
+btn_next_qc_stage_select.onclick = async function()
+{
+  var current_stage = select_container.value;
+  var current_index = stage_list.indexOf(current_stage);
+
+  if(current_index < stage_list.length - 1) 
+  {
+  current_index = current_index + 1;
+  select_container.value = stage_list[current_index];
+
+  await display_qc_stage_info_card(select_container, qc_data_display_container, gl_curr_record, false);
+  }
+}
+
+btn_prev_qc_stage_select.onclick = async function()
+{
+  var current_stage = select_container.value;
+  var current_index = stage_list.indexOf(current_stage);
+
+  if(current_index >0 ) 
+  {
+  current_index = current_index - 1;
+  select_container.value = stage_list[current_index];
+
+  await display_qc_stage_info_card(select_container, qc_data_display_container, gl_curr_record, false);
+  }
+}
+
+}
+
+
+
+// Function to retrive all data for given serial number       
+async function get_serial_history(field_id)
+{
+var serial_number = document.getElementById(field_id).value;
+
+if(validate_serial_number(serial_number) == true)
+gl_curr_record = await read_serial_number_record(serial_number);  //record - global var
+else return false;
+
+if (gl_curr_record == false) {display_error("Serial Number not found."); return;}
+else
+{
+set_serial_record_display(gl_curr_record);
+
+document.getElementById("navigation_update_serial_1").style.display = "none";
+document.getElementById("navigation_update_serial_2").style.display = "block";
+
+}
+}
+
+
+/////////////////////////////////////////////////
+// Support Functions for Parameter Values Cache//
+/////////////////////////////////////////////////
+
+// Support Function to remove expired parameter values from cache
+function reset_cache_expired_parameters()
+{
+  const cache_param_values_list = Object.keys(gl_parameter_cache);
+
+  for(var i=0;i<cache_param_values_list.length; i++)
+  { 
+    //if time expired, reset freq_remaining to 0
+    if( (new Date() - gl_parameter_cache[cache_param_values_list[i]].record_time)/(1000*60*60) > gl_parameter_cache_expiry_hours )
+    {
+      gl_parameter_cache[cache_param_values_list[i]].freq_remaining = 0;
+    }
+  }
+  return true;
+}
+
+// Checks if non expired value for frequency sampling based parameter is in cache & returns value
+function get_parameter_value_from_cache(model,operation,parameter_desc,param_frequency, edit_mode)
+{
+  if(edit_mode == false || param_frequency<=1) return ""; // Only display mode or uncached parameter
+
+  reset_cache_expired_parameters();
+  const param_name = model + "." + operation + "." + parameter_desc;
+
+  //If value is expired or not present return 0
+  if(gl_parameter_cache[param_name] == undefined || (new Date() - gl_parameter_cache[param_name].record_time)/(1000*60*60) > gl_parameter_cache_expiry_hours || 
+     gl_parameter_cache[param_name].freq_remaining <= 0 )
+     return "";
+  //else return cached value
+  else return gl_parameter_cache[param_name].value;   
+}
+
+// Checkes if parameter value is from cache (return 1) or not (returns 0) when saving operation parameter values 1st time
+function get_cache_flag_value_on_record_save(model,operation,parameter_desc,value,param_frequency)
+{
+  if(param_frequency<=1)return 0;        // uncached parameter
+
+  const param_name = model + "." + operation + "." + parameter_desc;
+
+  if(gl_parameter_cache[param_name] == undefined || gl_parameter_cache[param_name].value != value || gl_parameter_cache[param_name].freq_remaining <= 0 )
+  return 0;
+  // else parameter value is from cache
+  else return 1;
+}
+
+// Checkes if parameter value is from cache (return 1) or not (returns 0) when updateing operation parameter values
+function get_cache_flag_value_on_record_update(old_value, new_value, old_flag)
+{
+  if(old_flag == 0) return 0;
+  else if (old_flag == 1 && old_value != new_value) return 0;
+  else return 1;
+}
+
+function update_cache(model, operation, updated_record)
+{
+  var param_list = updated_record[operation].param_list;
+
+  for(var i=0; i<param_list.length; i++)
+  {
+    if(param_list[i].freq != undefined && param_list[i].freq > 1)
+    {
+      const param_name = model + "." + operation + "." + param_list[i].name;
+      const final_value = updated_record[operation].actual_value[param_list[i].name][0];
+
+      if(gl_parameter_cache[param_name] == undefined || gl_parameter_cache[param_name].freq_remaining <=0 ||
+         gl_parameter_cache[param_name].value != final_value )
+         {
+          gl_parameter_cache[param_name] ={
+                                            "value": final_value,
+                                            "freq_remaining": param_list[i].freq-1,
+                                            "record_time": new Date()
+                                          };
+         }
+      else if(gl_parameter_cache[param_name] != undefined && gl_parameter_cache[param_name].freq_remaining >0 &&
+        gl_parameter_cache[param_name].value == final_value )
+        {
+          gl_parameter_cache[param_name].freq_remaining = gl_parameter_cache[param_name].freq_remaining - 1;
+        }
+    }
+  }
+
+
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                             View / Report Process Disruptions                                      //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize process disruptions section
+async function initialize_process_disruption_section()
+{
+await reset_sections();
+const report_process_disruption_container = document.getElementById("report_process_disruption_section");
+const view_process_disruptions_container = document.getElementById("view_process_disruptions_section");
+await empty_container_byReference(report_process_disruption_container);
+await empty_container_byReference(view_process_disruptions_container);
+await empty_container_byReference(report_process_disruption_container);
+await empty_container_byReference(view_process_disruptions_container);
+
+// error if user is not authorised to create serial number
+if(gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Report Process Disruptions"]] != 1) 
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+if (gl_disruption_alerts==undefined) await subscribe_alert_notifications();
+else
+{
+  await render_disruption_input_section();
+  await render_active_disruptions_section();
+}
+
+
+}
+
+// Function to get any active process disruptions reported by current user or for which user has notification access
+async function get_current_user_active_disruption_records()
+{
+  const disruption_list = gl_disruption_alerts;
+  var curr_user_disruption_list = [];                // check if any disruption record exists for current user email
+
+  for(var i=0; i<disruption_list.length; i++)
+  {
+    if(disruption_list[i].start_user == gl_curr_user_details.email || gl_user_permission[disruption_list[i].operation + "_an"] == 1)
+    curr_user_disruption_list.push(disruption_list[i]);
+  }
+
+return curr_user_disruption_list;
+}
+
+// Function to display disruption input section to user if no current disruption is reported by user
+async function render_disruption_input_section()
+{
+  const report_process_disruption_container = document.getElementById("report_process_disruption_section");
+  await empty_container_byReference(report_process_disruption_container);
+
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();  
+
+  var operation_name_list = Object.keys(gl_current_operations_list)
+
+  var permitted_operations = [];
+  for(var i=0; i<operation_name_list.length; i++)
+  {
+    // get operations where user is allowed to read or has admin permission
+    if(gl_user_permission.admin == 1 || gl_user_permission[operation_name_list[i]] >= 1)
+    permitted_operations.push(operation_name_list[i]);
+  }
+
+
+  
+  var reason_group = document.createElement('div');
+  reason_group.className = "form-row justify-content-center mt-4";
+  
+  var reason_desc = document.createElement("p");
+  reason_desc.className = "col mb-2 text-primary";
+  reason_desc.innerText = "Select Reason";
+  reason_group.appendChild(reason_desc);
+  
+  var reason_value = document.createElement("select");
+  reason_value.className = "custom-select mb-2 text-center col-sm-6";
+  set_select_options(reason_value, [" "].concat(disruption_reasons));
+  reason_group.appendChild(reason_value);
+  
+  var operation_group = document.createElement('div');
+  operation_group.className = "form-row justify-content-center mt-2";
+  
+  var operation_desc = document.createElement("p");
+  operation_desc.className = "col mb-2 text-primary";
+  operation_desc.innerText = "Select Operation";
+  operation_group.appendChild(operation_desc);
+  
+  var operation_value = document.createElement("select");
+  operation_value.className = "custom-select mb-2 text-center col-sm-6";
+  set_select_options(operation_value,[" "].concat(permitted_operations));
+  operation_group.appendChild(operation_value);
+  
+  var workstation_group = document.createElement('div');
+  workstation_group.className = "form-row justify-content-center mt-2";
+  
+  var workstation_desc = document.createElement("p");
+  workstation_desc.className = "col mb-2 text-primary";
+  workstation_desc.innerText = "Select Workstation";
+  workstation_group.appendChild(workstation_desc);
+  
+  var workstation_value = document.createElement("select");
+  workstation_value.className = "custom-select mb-2 text-center col-sm-6";
+  set_select_options(workstation_value, [" "]);
+  workstation_group.appendChild(workstation_value);
+  
+  var remark_group = document.createElement('div');
+  remark_group.className = "form-row justify-content-center mt-2";
+  
+  var remark_desc = document.createElement("p");
+  remark_desc.className = "col mb-2 text-primary";
+  remark_desc.innerText = "Enter Remark";
+  remark_group.appendChild(remark_desc);
+  
+  var remark_value = document.createElement("input");
+  remark_value.className = "form-control mb-2 text-center col-sm-6";
+  remark_value.maxLength = param_value_max_length;
+  remark_group.appendChild(remark_value);
+
+  //Display message with current active disruptions reported by user
+  var curr_user_disruption_list = await get_current_user_active_disruption_records();                // check if any disruption record exists for current user email
+
+  var current_active_disruptions = document.createElement("p");
+  current_active_disruptions.className = "col mb-2 mt-4 text-danger";
+  current_active_disruptions.innerText = curr_user_disruption_list.length + " Active Process Disruption(s) Reported by you";
+
+  var submit_btn = document.createElement("div");
+  submit_btn.className = "btn btn-primary btn-block mt-4";
+  submit_btn.innerText = "Report Process Disruption";                                     
+  
+
+  report_process_disruption_container.appendChild(reason_group);
+  report_process_disruption_container.appendChild(operation_group);
+  report_process_disruption_container.appendChild(workstation_group);
+  report_process_disruption_container.appendChild(remark_group);
+  report_process_disruption_container.appendChild(submit_btn);
+
+  if(curr_user_disruption_list.length>0) report_process_disruption_container.appendChild(current_active_disruptions);
+
+
+  operation_value.onchange = function(){
+                                          empty_container_byReference(workstation_value);   
+                                          set_select_options(workstation_value,gl_current_operations_list[operation_value.value] || [" "]);
+                                       }
+  
+
+  
+  submit_btn.onclick = async function(){
+                                    // validate data  
+                                    if( is_null(reason_value.value, [" "]) || is_null(operation_value.value, [" "]) || is_null(workstation_value.value, [" "]) )
+                                    {
+                                      display_error("Please fill all fields before submitting");
+                                      return false;
+                                    }
+  
+                                    await display_confirmation("Are you sure you want to Report Process Disruption",
+                                    await_loading, create_process_disruption_record,reason_value.value, operation_value.value, workstation_value.value, remark_value.value );
+  //                                  await initialize_process_disruption_section();
+                                    return true;
+                                 }
+  return true;
+}
+
+// Function to display current active process diruptions (all or generated by self depending on permissions)
+async function render_active_disruptions_section()
+{
+  const view_process_disruptions_container = document.getElementById("view_process_disruptions_section");
+  await empty_container_byReference(view_process_disruptions_container);
+
+  var notification_list = [];
+  
+  if(gl_user_permission.admin == 1) notification_list = gl_disruption_alerts;
+  
+  else notification_list = await get_current_user_active_disruption_records();
+
+  if(notification_list.length <= 0)
+  {
+    let message = document.createElement("div");
+    message.className = "text-primary mt-4";
+    message.innerText = "No active process disruptions";
+    view_process_disruptions_container.appendChild(message);
+    return true;
+  }
+
+  else for(var i=0; i<notification_list.length; i++)
+  {
+    let notification_card = document.createElement("div");
+    notification_card.className = "card mt-3 mb-3";
+    notification_card.id = notification_list[i].id;
+
+    let notification_card_body = document.createElement("div");
+    notification_card_body.className = "card-body text-center";
+
+    let elapsed_time_section = document.createElement("div");
+    elapsed_time_section.className = "text-dark text-right";
+    elapsed_time_section.innerHTML = "<br>";
+
+    setInterval(display_elapsed_time, 1000, notification_list[i].start_time, elapsed_time_section );
+
+    let reason_section = document.createElement("div");
+    reason_section.className = "text-center text-danger mt-2 mb-3 h5";
+    reason_section.innerText = notification_list[i].reason;
+
+    let operation_section = document.createElement("div");
+    operation_section.className = "mb-2 text-dark";
+    operation_section.innerHTML = "Operation & Workstation<br>";
+
+    let operation_value = document.createElement("div");
+    operation_value.className = "text-primary";
+    operation_value.innerText = notification_list[i].operation + " | " + notification_list[i].workstation;
+
+    operation_section.appendChild(operation_value);
+
+    let reported_by_section = document.createElement("div");
+    reported_by_section.className = "mb-2 text-dark";
+    reported_by_section.innerHTML = "Reported By<br>";
+
+    reported_by_value = document.createElement("div");
+    reported_by_value.className = "text-primary";
+    reported_by_value.innerText = notification_list[i].start_user;
+    reported_by_section.appendChild(reported_by_value);
+
+    let remark_section = document.createElement("div");
+    remark_section.className = "mb-2 text-dark";
+    remark_section.innerHTML = "Remark<br>";
+
+    remark_value = document.createElement("div");
+    remark_value.className = "text-primary text-break";
+    remark_value.innerText = notification_list[i].remark;
+    remark_section.appendChild(remark_value);    
+
+    let disruption_fixed_btn = document.createElement("div");
+    disruption_fixed_btn.className = "btn btn-block btn-primary";
+    disruption_fixed_btn.innerText = "Disruption Fixed";
+
+    disruption_fixed_btn.onclick = async function() { 
+                                                      await display_confirmation("Are you sure you want to mark disruption as fixed ?",
+                                                              await_loading, close_process_disruption_record, notification_card.id); 
+                                                    };
+
+    notification_card_body.appendChild(elapsed_time_section);
+    notification_card_body.appendChild(reason_section);
+    notification_card_body.appendChild(document.createElement("hr"));
+    notification_card_body.appendChild(operation_section);
+    notification_card_body.appendChild(reported_by_section);
+    
+    if(remark_value.innerText.length>0)
+    notification_card_body.appendChild(remark_section);
+    
+    notification_card_body.appendChild(disruption_fixed_btn);
+    
+    notification_card.appendChild(notification_card_body);
+    view_process_disruptions_container.appendChild(notification_card);
+  }
+
+
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                      View / Update Scheduled Maintenance Status                                    //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+
+//Function to initialize maintenance updates section
+async function initialize_maintenance_updates_section(mode=0)
+{
+  await reset_sections();
+  const maintenance_update_container = document.getElementById("maintenance_update_container_dynamic");
+  await empty_container_byReference(maintenance_update_container);
+
+  // error if user is not authorised to create serial number
+  if(gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Update Maintenance Records"]] != 1) 
+  {
+  display_error("You do not have sufficient permissions for this operation.");
+  return false;
+  }
+
+  if(mode==0)
+  gl_maintenance_updates_list = await read_global_maintenance_updates();
+
+  // Setup Preventive Maintenance Section
+  if(is_null(gl_maintenance_updates_list) ) 
+  {
+    var help_notice = document.createElement("div");
+    help_notice.className="text-danger";
+    help_notice.innerText = "No preventive maintenance scheduled for workstations. Please setup in Maintenance Settings.";
+    maintenance_update_container.appendChild(help_notice);
+  }
+
+  else
+  {
+    var workstation_names_list = Object.keys(gl_maintenance_updates_list);
+    for(i=0;i<workstation_names_list.length; i++)
+    {
+      let main_col_container = document.createElement('div');
+      main_col_container.className = "col-md-4";
+
+
+      const last_update = new Date(decode_date(gl_maintenance_updates_list[workstation_names_list[i]].last_update,1));
+      const maintenance_due_date_string = new Date (last_update.setDate(last_update.getDate() + gl_maintenance_updates_list[workstation_names_list[i]].cycle_time));
+      const today_date = new Date();
+      const maintenance_due_in_days = ((maintenance_due_date_string - today_date)/(1000*60*60*24)).toFixed(1);
+      const highlight_text_color = (maintenance_due_in_days>=0) ? " text-primary" : " text-danger" ;                   // set based on maintenance due date
+      const maintenance_due_message = (maintenance_due_in_days>=0) ?  "Maintenance Due in" : "Maintenace Overdue by" ;
+
+      //create card & button & due dates
+      let maintenance_card = document.createElement('div');
+      maintenance_card.className = "card p-2 mb-3";
+      
+      let maintenance_card_header = document.createElement('div');
+      maintenance_card_header.className = "card-header bg-white" + highlight_text_color;
+      maintenance_card_header.innerHTML = "<h4>" + workstation_names_list[i] + "</h4>";
+      
+      let maintenance_card_body = document.createElement('div');
+      maintenance_card_body.className= "card-body";
+
+      let maintenance_message = document.createElement('div');
+      maintenance_message.className="text-dark mb-1";
+      maintenance_message.innerHTML = maintenance_due_message + "<br>";
+
+      let maintenance_days_display = document.createElement('div');
+      maintenance_days_display.className="h2"+highlight_text_color;
+      maintenance_days_display.innerText = Math.abs(maintenance_due_in_days);
+      
+      let maintenance_days_ending = document.createElement('div');  
+      maintenance_days_ending.className="text-dark mb-1";
+      maintenance_days_ending.innerText = "Days";
+
+      let maintenance_date_display = document.createElement('div');
+      maintenance_date_display.innerHTML = "Due Date: " + maintenance_due_date_string.toDateString() + "<br>";
+
+      let maintenance_submit_update_btn = document.createElement('div');
+      maintenance_submit_update_btn.className = "btn btn-primary btn-block mt-3";
+      maintenance_submit_update_btn.innerText = "Update Status";
+      maintenance_submit_update_btn.id = workstation_names_list[i];
+      maintenance_submit_update_btn.onclick = async function(){
+                                                                const selected_workstation_id = maintenance_submit_update_btn.id;
+                                                                await await_loading(create_maintenance_update_modal,selected_workstation_id, "Preventive");
+                                                              };
+
+      maintenance_card_body.appendChild(maintenance_message);
+      maintenance_card_body.appendChild(maintenance_days_display);
+      maintenance_card_body.appendChild(maintenance_days_ending);
+      maintenance_card_body.appendChild(maintenance_date_display);
+      maintenance_card_body.appendChild(maintenance_submit_update_btn);
+
+      maintenance_card.appendChild(maintenance_card_header);
+      maintenance_card.appendChild(maintenance_card_body);
+      main_col_container.appendChild(maintenance_card);
+
+      maintenance_update_container.appendChild(main_col_container);
+
+    } 
+  }
+
+
+  // Setup Corrective Maintenance Section
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+  
+  var workstation_select_list = get_workstation_names_from_operations_obj(gl_current_operations_list);
+
+  let corrective_maintenance_workstation_select_container = document.getElementById("select_workstation_corrective_maintenance_section");
+  await empty_container_byReference(corrective_maintenance_workstation_select_container);
+  await set_select_options (corrective_maintenance_workstation_select_container, workstation_select_list);
+
+  corrective_maintenance_add_update_btn.onclick = async function()
+      {
+        const selected_workstation_id = document.getElementById("select_workstation_corrective_maintenance_section").value;
+        await await_loading(create_maintenance_update_modal,selected_workstation_id, "Corrective");  
+      }
+
+
+}
+
+//Function to create modal to submit maintenance update entry
+async function create_maintenance_update_modal(workstation_id, maintenance_update_type="Preventive")
+{
+  var maintenance_modal_title_container = document.getElementById("maintenance_modal_title_section");
+  var maintenance_modal_params_container = document.getElementById("maintenance_modal_params_section");
+  var maintenance_modal_remark_container = document.getElementById("maintenance_modal_remark_section");
+  var maintenance_modal_error_container = document.getElementById("maintenance_modal_error_message_section");
+ 
+  maintenance_modal_title_container.innerHTML = "";
+  maintenance_modal_error_container.innerText= "";
+  empty_container_byReference(maintenance_modal_params_container);
+  empty_container_byReference(maintenance_modal_remark_container);
+
+  maintenance_modal_title_container.innerHTML = "<h5>" + maintenance_update_type + " Maintenance Update for " + workstation_id + "</h5>";
+
+  if(maintenance_update_type == "Preventive")
+  {
+    gl_curr_maintenance_plan = await read_maintenance_plan(workstation_id);
+    const param_list = gl_curr_maintenance_plan.param_list;
+
+    for(var i=0; i<param_list.length; i++)
+    {
+
+      let parameter_title = document.createElement('div');
+      parameter_title.className = "row text-break mb-2";
+      
+      if(!is_null(param_list[i].link))
+      parameter_title.innerHTML = '<div class="col-sm-12"><a class="btn btn-primary float-right pl-3 pr-3 rounded-circle" target="_blank" rel = "noopener nofollow external noreferrer"  href="' + 
+      param_list[i].link + '"><i class="fa fa-info"></i></a></div>';
+      
+      parameter_title.innerHTML += '<div class="col-sm-12 text-dark mb-2">' + param_list[i].name + '</div>';
+      
+      var actual_value = await render_actual_value_input_field(param_list[i].type, param_list[i].value1, param_list[i].value2, "");
+
+      let parameter_description = document.createElement('div');
+      parameter_description.className = "text-primary";
+      
+      if(param_list[i].type === data_types[0])          //Numeric Range Type
+      parameter_description.innerText = "Min Value: " + (param_list[i].value1 || "-").toString() + " , Max Value: " + (param_list[i].value2 || "-").toString();
+      
+      else if (param_list[i].type === data_types[1])    //Option List - Display acceptable options
+      parameter_description.innerText = "Valid Options: " + param_list[i].value1;
+      
+      else if (param_list[i].type === data_types[3])    // Free Response value
+      parameter_description.innerText = "Enter value (max 50 characters)";      
+
+      let line = document.createElement('hr');
+      line.className = "col-sm-12 text-center";
+      line.style = "width:60%";      
+
+      maintenance_modal_params_container.appendChild(parameter_title);
+      maintenance_modal_params_container.appendChild(actual_value);
+      maintenance_modal_params_container.appendChild(parameter_description);
+      maintenance_modal_params_container.appendChild(line);
+
+    }
+  }
+
+  let remark_title = document.createElement('div');
+  remark_title.className = "text-center text-dark text-break mt-3 mb-2";
+  remark_title.innerText = "Details of " + maintenance_update_type + " Maintenance done";
+
+  let remark_input = document.createElement('textarea');
+  remark_input.className = "form-control mb-3";
+  remark_input.rows = 5;
+  remark_input.maxlength = 250;
+
+  maintenance_modal_remark_container.appendChild(remark_title);
+  maintenance_modal_remark_container.appendChild(remark_input);
+
+  maintenance_modal_submit_btn.onclick = async function() 
+                                { 
+                                  const param_list = gl_curr_maintenance_plan.param_list;
+
+                                  let param_actual_value_list = {};
+
+                                  if(maintenance_update_type == "Preventive")
+                                  {
+                                    for(var i=0; i<param_list.length; i++)
+                                    {
+                                      var actual_value = maintenance_modal_params_container.childNodes[1 + i*4].value;
+                                      console.log(actual_value);
+                                      if(await validate_input_field_value(param_list[i].type, param_list[i].value1, param_list[i].value2, actual_value))
+                                        {
+                                          param_actual_value_list[param_list[i].name] = actual_value;
+                                        }
+                                      else
+                                        {
+                                          maintenance_modal_error_container.innerText = "Please check parameter input values";
+                                          return false;
+                                        }
+                                    }
+                                  }
+
+
+                                  var remark = remark_input.value;
+
+                                  if(remark.length<=0)
+                                    {
+                                      maintenance_modal_error_container.innerText = "Please add details of maintenance work";
+                                      return false;
+                                    }
+
+                                  const maintenance_record_obj = {
+                                                                    "type" : maintenance_update_type,
+                                                                    "workstation" : workstation_id,
+                                                                    "user" : gl_curr_user_details.email,
+                                                                    "timestamp" : firebase.firestore.FieldValue.serverTimestamp(),
+                                                                    "remark" : remark,
+                                                                    "param_list" : param_actual_value_list
+                                                                 };
+
+                                  await await_loading(write_maintenance_record,maintenance_record_obj);
+                                  return true;
+                                };
+
+  maintenance_modal_params_container.onchange = function() { maintenance_modal_error_container.innerText = ""; }
+
+  await dismiss_all_modals();  
+$("#maintenance_updateModal").modal();    
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Configure QC plan for Parts / Models Section                                   //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//Function to initialize QC plan section
+async function initialize_create_qc_plan_section()
+{
+  await reset_sections();
+
+// error if user is not authorised to configure process plan
+if(gl_user_permission.admin != 1 && gl_user_permission.sp_system_settings != 1) 
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+document.getElementById("navigation_model_qc_plans_2").style.display = "none";
+document.getElementById("navigation_model_qc_plans_1").style.display = "flex";
+
+let model_select_container = document.getElementById("select_model_id_qc_plan_section");
+let model_id_container = document.getElementById("model_id_qc_plan_section");
+
+empty_container_byReference(model_select_container);
+
+if( is_null(gl_model_list) )
+gl_model_list = await read_model_list();
+
+for (var i =0; i<gl_model_list.length; i++)
+{
+let model_option = document.createElement('option');
+model_option.innerText = gl_model_list[i];
+model_select_container.appendChild(model_option);
+}
+
+model_select_container.value = "";  model_id_container.value = "";
+model_select_container.onchange = function(){ model_id_container.value = model_select_container.value; };
+model_id_container.onchange = function(){model_select_container.value = ""; };
+
+}
+
+
+
+//Function to get unused / remaining operations when setting up QC Plan
+function get_unused_operations(container)
+{
+var used_operations_list = [];
+var unused_operations_list = [];
+
+if( is_null(gl_current_operations_list) )
+gl_current_operations_list = read_production_operations_list();
+
+current_operations_list = Object.keys(gl_current_operations_list);
+
+for (var i = 0; i<container.childElementCount; i++ )
+{
+if (container.childNodes[i].childNodes[0].childNodes[1].value !== "")
+used_operations_list.push (container.childNodes[i].childNodes[0].childNodes[1].value);
+}
+
+for(var i=0; i<current_operations_list.length; i++)
+{
+if (!used_operations_list.includes (current_operations_list[i]) )
+unused_operations_list.push(current_operations_list[i]);
+}
+
+return unused_operations_list;
+}
+
+
+
+//Function to dynamically add stages in a qc plan
+async function add_qc_stage()
+{
+var container = document.getElementById("create_qc_plan_dynamic");
+var index = container.childElementCount;
+
+if( is_null(gl_current_operations_list) )
+gl_current_operations_list = await read_production_operations_list();
+
+var current_operations_list = Object.keys(gl_current_operations_list);
+
+if (index+1 > max_qc_stages) 
+  {display_error("Max limit reached. Only " + max_qc_stages + " QC stages allowed")}
+else if (index+1 > current_operations_list.length) 
+  {display_error("No operations remaining. Add more in 'Configure Production Operations' before continuing")}
+else{
+  let card = document.createElement('div');
+  card.className = 'col-sm-4 card shadow cursor-pointer mb-2 justify-content-center text-center';
+  card.id = "qc_step"+index;
+  card.name = "qc_step_group";
+
+  let cardHeader = document.createElement('div');
+  cardHeader.className = 'card-header';
+
+  let title = document.createElement('h5');
+  title.innerText = "Step "+(index+1) + " Operation:";
+  title.className = 'card-title';
+
+
+  let qc_stage_description = document.createElement("select"); 
+  qc_stage_description.className = "custom-select text-center border-danger";
+
+  var unused_operations_list = get_unused_operations(container);
+  set_select_options(qc_stage_description, unused_operations_list);
+  qc_stage_description.value = "";
+  if(qc_stage_description.value!== "") qc_stage_description.className = "custom-select text-center";
+
+
+  qc_stage_description.onfocus = function()     //Checks & populates unused option for select container
+  {
+    empty_container_byReference(qc_stage_description);
+    var unused_operations_list = get_unused_operations(container);
+    set_select_options(qc_stage_description, unused_operations_list);
+    if(qc_stage_description.value!== "") qc_stage_description.className = "custom-select text-center";
+
+  }; 
+
+  let cycle_time = document.createElement("input"); cycle_time.type = "number";
+  cycle_time.className = "form-control col-sm-12 mt-1 input-lg text-center";
+  cycle_time.placeholder ="Operation Cycle Time (minutes)";
+  cycle_time.min = 0;
+  cycle_time.max = 24*60;
+
+  cardHeader.appendChild(title);
+  cardHeader.appendChild(qc_stage_description);
+  cardHeader.appendChild(cycle_time);
+
+
+
+  let CardBody = document.createElement('div');
+  CardBody.className = 'card-body text-center';
+  CardBody.id = "qc_step_body"+index;
+
+
+
+  let ButtonRow = document.createElement('div');
+  ButtonRow.className = "row text-center mt-3";
+
+
+  let add_parameter_btn = document.createElement('a');
+  add_parameter_btn.className = "col btn btn-outline-dark text-dark";
+  add_parameter_btn.innerText = "+ Parameter";
+  add_parameter_btn.addEventListener("click",function(){add_parameter_qc_stage(CardBody.id);}, false);
+
+  let remove_parameter_btn = document.createElement('a');
+  remove_parameter_btn.className = "col btn btn-outline-dark text-dark";
+  remove_parameter_btn.innerText = "- Parameter";
+  remove_parameter_btn.addEventListener("click",function(){remove_parameter_qc_stage(CardBody.id);}, false);
+
+  ButtonRow.appendChild(add_parameter_btn);
+  ButtonRow.appendChild(remove_parameter_btn);
+  cardHeader.appendChild(ButtonRow);
+
+  card.appendChild(cardHeader);
+  card.appendChild(CardBody);
+  //card.appendChild(CardFooter);
+
+  container.appendChild(card);
+  return card;
+}
+}
+
+
+//Function to dynamically remove stages in a qc plan
+function remove_qc_stage()
+{
+  var container = document.getElementById("create_qc_plan_dynamic");
+//  var index = container.childElementCount;
+  container.removeChild(container.lastChild);
+}      
+
+
+//Function to create parameter input boxes
+function render_parameter_input_box(param_group_container , param_type)
+{
+
+while (param_group_container.childElementCount>12)
+param_group_container.removeChild(param_group_container.lastChild);
+
+var parameter_value1, parameter_value2, parameter_hint, line;
+
+if (param_type == data_types[0])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "text";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Min Value";
+      parameter_value1.maxLength = param_value_max_length; 
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.placeholder ="Max Value";
+      parameter_value2.maxLength = param_value_max_length; 
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Enter minimum and maximum acceptable numeric values of parameter. Leave blank if no limit.";
+      parameter_hint.className = "col-sm-12 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+}
+
+if (param_type == data_types[1])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "text";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Ok 1,Ok 2,Ok 3";
+      parameter_value1.maxLength = param_value_max_length; 
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.placeholder ="Not Ok 1,Not Ok 2";
+      parameter_value2.maxLength = param_value_max_length;  
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Enter acceptable options list in Field 1 and unacceptable options list in Field 2. Separate options with a comma.";
+      parameter_hint.className = "col-sm-12 mb-2 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+
+}
+
+else if (param_type == data_types[2])
+{
+      parameter_value1 = document.createElement("select");
+      parameter_value1.className = "custom-select text-center";
+      set_select_options(parameter_value1, gl_model_list);
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.maxLength = 0;
+      parameter_value2.style.display = "none";  
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.className = "col-sm-12 text-primary text-wrap";
+      parameter_hint.innerText = "Select a Job Type. This input allows linking of child / sub jobs of selected Job Type.";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+
+}
+else if (param_type == data_types[3])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "text";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Free Response";
+      parameter_value1.maxLength = param_value_max_length; 
+      parameter_value1.readOnly = true;
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.maxLength = 0;
+      parameter_value2.style.display = "none";  
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Free response allows a user to enter any value (max 50 characters). Input value is not checked/validated.";
+      parameter_hint.className = "col-sm-12 mb-2 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+}
+
+  param_group_container.appendChild(parameter_value1);
+  param_group_container.appendChild(parameter_value2);
+  param_group_container.appendChild(parameter_hint);
+  param_group_container.appendChild(line);
+
+
+}      
+
+
+
+//Function to dynamically add parameters in a qc plan stage
+function add_parameter_qc_stage(container_id)
+{
+  var container = document.getElementById(container_id);
+
+  var index = container.childElementCount;
+
+  if (index+1 > max_qc_stage_parameters) {display_error("Max " + max_qc_stage_parameters + " parameters allowed")}
+  else
+      {
+      var parameter_group = document.createElement('div');
+      parameter_group.className = "form-row justify-content-center";
+
+      var parameter_name_desc = document.createElement("p");
+      parameter_name_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_name_desc.innerText = "Parameter Name";
+
+      var parameter_name = document.createElement("input"); parameter_name.type = "text";
+      parameter_name.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_name.placeholder ="Parameter Name";
+      parameter_name.maxLength= param_name_max_length; 
+
+
+
+      var parameter_criticality_desc = document.createElement("p");
+      parameter_criticality_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_criticality_desc.innerText = "Parameter Criticality";
+
+      var parameter_criticality = document.createElement("select");
+      parameter_criticality.className = "custom-select mb-2 text-center col-sm-6";
+      set_select_options(parameter_criticality, parameter_criticality_level);
+
+      var parameter_reflink_desc = document.createElement("p");
+      parameter_reflink_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_reflink_desc.innerText = "Parameter Reference Link";
+
+      var parameter_reflink = document.createElement("input"); parameter_reflink.type = "text";
+      parameter_reflink.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_reflink.placeholder ="https://reference-link.com";
+      parameter_reflink.maxLength= url_max_length; 
+
+      var parameter_measurement_method_desc = document.createElement("p");
+      parameter_measurement_method_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_measurement_method_desc.innerText = "Measurement Method";
+
+      var parameter_measurement_method = document.createElement("input"); parameter_measurement_method.type = "text";
+      parameter_measurement_method.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_measurement_method.placeholder ="Measurement Method";
+      parameter_measurement_method.maxLength= param_name_max_length; 
+
+      var parameter_measurement_frequency_desc = document.createElement("p");
+      parameter_measurement_frequency_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_measurement_frequency_desc.innerText = "Measurement Frequency";
+
+      var parameter_measurement_frequency = document.createElement("input"); parameter_measurement_frequency.type = "number";
+      parameter_measurement_frequency.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_measurement_frequency.placeholder ="Measurement Frequency";
+      parameter_measurement_frequency.min = 1;
+      parameter_measurement_frequency.value = 1;
+      parameter_measurement_frequency.maxLength= param_name_max_length;       
+
+      var parameter_type_desc = document.createElement("p");
+      parameter_type_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_type_desc.innerText = "Parameter Type";      
+
+      var parameter_type = document.createElement("select");
+      parameter_type.className = "custom-select mb-2 col-sm-6 text-center";
+
+      var option1 = document.createElement("option");
+      option1.innerText = data_types[0];
+
+      var option2 = document.createElement("option");
+      option2.innerText = data_types[1];
+
+      var option3 = document.createElement("option");
+      option3.innerText = data_types[2];
+
+      var option4 = document.createElement("option");
+      option4.innerText = data_types[3];
+
+      parameter_type.appendChild(option1);
+      parameter_type.appendChild(option2);
+      parameter_type.appendChild(option3);
+      parameter_type.appendChild(option4);
+
+      parameter_group.appendChild(parameter_name_desc);
+      parameter_group.appendChild(parameter_name);
+
+      parameter_group.appendChild(parameter_criticality_desc);
+      parameter_group.appendChild(parameter_criticality);
+
+      parameter_group.appendChild(parameter_reflink_desc);
+      parameter_group.appendChild(parameter_reflink);
+
+      parameter_group.appendChild(parameter_measurement_method_desc);
+      parameter_group.appendChild(parameter_measurement_method);      
+      
+      parameter_group.appendChild(parameter_measurement_frequency_desc);
+      parameter_group.appendChild(parameter_measurement_frequency);    
+
+      parameter_group.appendChild(parameter_type_desc);
+      parameter_group.appendChild(parameter_type);
+
+
+      render_parameter_input_box(parameter_group, parameter_type.value);    //create input fields as per param_type
+
+      parameter_type.addEventListener("change",function(){render_parameter_input_box(parameter_group, parameter_type.value);}, false);
+      container.appendChild(parameter_group);
+      return parameter_group;
+    }
+} 
+
+
+//Function to dynamically remove parameters in a qc plan stage
+function remove_parameter_qc_stage(container_id)
+{
+var container = document.getElementById(container_id);
+container.removeChild(container.lastChild);
+}        
+
+
+//Function to populate existing process plan
+async function populate_process(process_plan)
+{
+if(is_null(process_plan)) return false;                       // return if process plan empty
+var operation_list = Object.keys(process_plan);
+
+for (var i=0; i<operation_list.length; i++)                                   // iterate through stages (keys) of proces_plan 
+{
+var stage_card = await add_qc_stage();                     // create new stage card
+if(is_null(stage_card)) return false;                // Max stage limit reached
+
+stage_card.childNodes[0].childNodes[1].dispatchEvent(new Event('focus', { 'bubbles': true }));    // trigger onfocus event for operation name select contatiner
+stage_card.childNodes[0].childNodes[1].value = operation_list[i];  // stage container - card -> 0 : card header -> 1 : operation name select contatiner
+stage_card.childNodes[0].childNodes[2].value = process_plan[operation_list[i]].cycle_time || "";    // 2 : Operation Cycle Time
+
+
+for (var j=0; j<process_plan[operation_list[i]].param_list.length; j++)
+{
+var param_list = process_plan[operation_list[i]].param_list[j];
+var param_container = await add_parameter_qc_stage(stage_card.childNodes[1].id);
+if(is_null(param_container))return false;                 // Max param limit reached
+
+// 0 -(parameter_name_desc)  1 - (parameter_name)  2- (parameter_criticality_desc)  3 - (parameter_criticality)
+// 4 - (parameter_reflink_desc)  5 - (parameter_reflink)  6 - (parameter_measurement_method_desc)  7 - (parameter_measurement_method)
+// 8 - (parameter_type_desc)  9 - (parameter_type)  10 - (parameter_value1)  11 - (parameter_value2)  12 - (parameter_hint)
+// 13 - (line)
+
+// param_list ->  {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link: "https://web.com", method: "Visual" },
+
+param_container.childNodes[1].value = param_list.name || "";
+param_container.childNodes[3].value = param_list.level || "";
+param_container.childNodes[5].value = param_list.link || "";
+param_container.childNodes[7].value = param_list.method || "";
+param_container.childNodes[9].value = param_list.freq || 1;
+
+
+param_container.childNodes[11].value = param_list.type;
+param_container.childNodes[11].dispatchEvent(new Event('change', { 'bubbles': true }));        // set param type & trigger onchange function to render inputs
+
+
+param_container.childNodes[12].value = param_list.value1;
+param_container.childNodes[13].value = param_list.value2;
+
+
+
+}
+
+}
+return true;
+}
+
+
+
+//Function to render screen for creating / updating QC Plan for a model
+// mode = 1 indicates called again after copying template from existing process plan
+async function create_qc_plan_screen(model_input_field_id, mode = 0)
+{
+var model_id = document.getElementById(model_input_field_id).value;
+
+if(!validate_input(model_id)) return false;   //displays error if field empty
+
+// Check if existing process plan exists & populate it if so
+gl_curr_process_plan = await read_qc_plan(model_id);
+
+// if empty process plan, prompt user to copy template from existing process plan
+if(is_null(gl_curr_process_plan))
+{
+  await display_process_plan_template_selection_modal(model_id, gl_model_list);
+}
+populate_process(gl_curr_process_plan);
+
+if( is_null(gl_current_operations_list) )
+gl_current_operations_list = await read_production_operations_list();
+
+var header = document.getElementById("qc_plan_create_header");
+header.model_id = model_id;
+header.innerText = "Process Plan for " + header.model_id;
+
+document.getElementById("navigation_model_qc_plans_2").style.display = "block";
+document.getElementById("navigation_model_qc_plans_1").style.display = "none";
+
+// function to save process plan on button click
+save_qc_plan_btn.onclick=function()
+{ create_qc_process_object("create_qc_plan_dynamic", "qc_plan_create_header"); }
+
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Configure Maintenance Plan Section                                             //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Function to initialize maintenance plan setup section
+async function initialize_configure_maintenance_plan_section()
+{
+
+  await reset_sections();
+  gl_curr_maintenance_plan = {};
+  // error if user is not authorised to configure production operations
+  if(gl_user_permission.admin != 1 && gl_user_permission.sp_system_settings != 1) 
+  {
+  display_error("You do not have sufficient permissions for this operation.");
+  return false;
+  }
+
+  document.getElementById("navigation_configure_maintenance_schedule_1").style.display = "flex";
+  document.getElementById("navigation_configure_maintenance_schedule_2").style.display = "none";
+
+
+  if( is_null(gl_current_operations_list) )
+  gl_current_operations_list = await read_production_operations_list();
+  
+  var workstation_select_list = get_workstation_names_from_operations_obj(gl_current_operations_list);
+
+  let maintenance_plan_select_container = document.getElementById("select_workstation_id_maintenance_section");
+  await empty_container_byReference(maintenance_plan_select_container);
+  await set_select_options (maintenance_plan_select_container, workstation_select_list);
+
+  create_maintenance_plan_btn.onclick = async function(){await await_loading(create_maintenance_plan_screen, maintenance_plan_select_container.value); }
+
+
+}
+
+//Support Function to get workstation names list from operations object
+function get_workstation_names_from_operations_obj(operations_list)
+{  
+  var operation_names_list = Object.keys(operations_list);
+  var workstation_names_list = [];
+
+  for(var i=0; i<operation_names_list.length; i++)
+  {
+    var workstation_names = operations_list[operation_names_list[i]];
+
+    for(var j=0; j<workstation_names.length; j++ )
+    {
+      workstation_names_list.push(workstation_names[j] + " (" + operation_names_list[i] + ")" );
+    }
+  };
+
+  return workstation_names_list;
+
+}
+
+//Function to create maintenance parameter input boxes
+function render_maintenance_parameter_input_box(param_group_container , param_type)
+{
+
+while (param_group_container.childElementCount>6)
+param_group_container.removeChild(param_group_container.lastChild);
+
+var parameter_value1, parameter_value2, parameter_hint, line;
+
+if (param_type == data_types[0])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "number";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Min Value";
+      parameter_value1.maxLength = param_value_max_length; 
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "number";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.placeholder ="Max Value";
+      parameter_value2.maxLength = param_value_max_length; 
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Enter minimum and maximum acceptable numeric values of parameter. Leave blank if no limit.";
+      parameter_hint.className = "col-sm-12 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+}
+
+else if (param_type == data_types[1])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "text";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Ok 1,Ok 2,Ok 3";
+      parameter_value1.maxLength = param_value_max_length; 
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.placeholder ="Not Ok 1,Not Ok 2";
+      parameter_value2.maxLength = param_value_max_length;  
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Enter acceptable options list in Field 1 and unacceptable options list in Field 2. Separate options with a comma.";
+      parameter_hint.className = "col-sm-12 mb-2 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+
+}
+
+else if (param_type == data_types[2])
+{
+      parameter_value1 = document.createElement("select");
+      parameter_value1.className = "custom-select text-center";
+      set_select_options(parameter_value1, gl_model_list);
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.maxLength = 0;
+      parameter_value2.style.display = "none";  
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.className = "col-sm-12 text-primary text-wrap";
+      parameter_hint.innerText = "Select a Job Type. This input allows linking of child / sub jobs of selected Job Type.";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+
+}
+else if (param_type == data_types[3])
+{
+      parameter_value1 = document.createElement("input"); parameter_value1.type = "text";
+      parameter_value1.className = "form-control col input-lg text-center";
+      parameter_value1.placeholder ="Free Response";
+      parameter_value1.maxLength = param_value_max_length; 
+      parameter_value1.readOnly = true;
+
+      parameter_value2 = document.createElement("input"); parameter_value2.type = "text";      
+      parameter_value2.className = "form-control col-sm-6 input-lg text-center";
+      parameter_value2.maxLength = 0;
+      parameter_value2.style.display = "none";  
+
+
+      parameter_hint = document.createElement("p");
+      parameter_hint.innerText = "Free response allows a user to enter any value (max 50 characters). Input value is not checked/validated.";
+      parameter_hint.className = "col-sm-12 mb-2 text-primary text-wrap";
+
+      line = document.createElement('hr');
+      line.className = "col-sm-12"; 
+}
+
+  param_group_container.appendChild(parameter_value1);
+  param_group_container.appendChild(parameter_value2);
+  param_group_container.appendChild(parameter_hint);
+  param_group_container.appendChild(line);
+
+
+}  
+
+
+//Function to dynamically add parameters in a maintenance plan stage
+function add_parameter_maintenance_stage(container_id, param_stage_value={})
+{
+  var container = document.getElementById(container_id);
+
+  var index = container.childElementCount;
+
+  if (index+1 > max_maintenance_stage_parameters) {display_error("Max " + max_maintenance_stage_parameters + " parameters allowed")}
+  else
+      {
+      var parameter_group = document.createElement('div');
+      parameter_group.className = "form-row justify-content-center";
+
+      var parameter_name_desc = document.createElement("p");
+      parameter_name_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_name_desc.innerText = "Parameter Name";
+
+      var parameter_name = document.createElement("input"); parameter_name.type = "text";
+      parameter_name.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_name.placeholder ="Parameter Name";
+      parameter_name.maxLength= param_name_max_length; 
+
+
+      var parameter_reflink_desc = document.createElement("p");
+      parameter_reflink_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_reflink_desc.innerText = "Parameter Reference Link";
+
+      var parameter_reflink = document.createElement("input"); parameter_reflink.type = "text";
+      parameter_reflink.className = "form-control mb-2 col-sm-6 input-lg text-center";
+      parameter_reflink.placeholder ="https://reference-link.com";
+      parameter_reflink.maxLength= url_max_length; 
+
+      var parameter_type_desc = document.createElement("p");
+      parameter_type_desc.className = "col-sm-6 mb-2 text-dark";
+      parameter_type_desc.innerText = "Parameter Type";      
+
+      var parameter_type = document.createElement("select");
+      parameter_type.className = "custom-select mb-2 col-sm-6 text-center";
+
+      var option1 = document.createElement("option");
+      option1.innerText = data_types[0];
+
+      var option2 = document.createElement("option");
+      option2.innerText = data_types[1];
+
+//      var option3 = document.createElement("option");   // no sub job type for maintenance parameters
+//      option3.innerText = data_types[2];
+
+      var option4 = document.createElement("option");
+      option4.innerText = data_types[3];
+
+      parameter_type.appendChild(option1);
+      parameter_type.appendChild(option2);
+//      parameter_type.appendChild(option3);
+      parameter_type.appendChild(option4);
+
+      parameter_group.appendChild(parameter_name_desc);
+      parameter_group.appendChild(parameter_name);
+
+      parameter_group.appendChild(parameter_reflink_desc);
+      parameter_group.appendChild(parameter_reflink);
+
+      parameter_group.appendChild(parameter_type_desc);
+      parameter_group.appendChild(parameter_type);
+
+      parameter_type.value = param_stage_value.type || data_types[0];
+      render_parameter_input_box(parameter_group, parameter_type.value);    //create input fields as per param_type
+
+      parameter_type.addEventListener("change",function(){render_maintenance_parameter_input_box(parameter_group, parameter_type.value);}, false);
+      container.appendChild(parameter_group);
+
+      // Add parameter values if present
+      if(!is_null(param_stage_value))
+      {
+        parameter_name.value = param_stage_value.name;
+        parameter_reflink.value = param_stage_value.link;
+        parameter_group.childNodes[6].value = param_stage_value.value1;
+        parameter_group.childNodes[7].value = param_stage_value.value2;        
+      }
+
+      return parameter_group;
+    }
+} 
+
+
+//Function to dynamically remove parameters in a maintenance plan stage
+function remove_parameter_maintenance_stage(container_id)
+{
+var container = document.getElementById(container_id);
+container.removeChild(container.lastChild);
+}        
+
+//Function to populate existing process plan
+async function populate_maintenance_plan(maintenance_plan)
+{
+  var maintenance_plan_container = document.getElementById("create_maintenance_plan_dynamic");
+  empty_container_byReference(maintenance_plan_container);
+
+  let card = document.createElement('div');
+  card.className = 'col-sm-4 card shadow cursor-pointer mb-2 justify-content-center text-center';
+  card.id = "maintenance_plan_card";
+  
+  let cardHeader = document.createElement('div');
+  cardHeader.className = 'card-header';
+
+  let title = document.createElement('h6');
+  title.innerText = "Periodic Maintenance Interval (Days)";
+  title.className = 'card-title text-break';
+
+
+  let cycle_time = document.createElement("input"); cycle_time.type = "number";
+  cycle_time.className = "form-control col-sm-12 mt-1 input-lg text-center";
+  cycle_time.defaultValue = maintenance_plan.cycle_time || 1;
+  cycle_time.min = 1;
+
+  cardHeader.appendChild(title);
+  cardHeader.appendChild(cycle_time);
+
+  let ButtonRow = document.createElement('div');
+  ButtonRow.className = "row text-center mt-3";
+
+
+  let add_parameter_btn = document.createElement('a');
+  add_parameter_btn.className = "col btn btn-outline-dark text-dark";
+  add_parameter_btn.innerText = "+ Parameter";
+  add_parameter_btn.addEventListener("click",function(){add_parameter_maintenance_stage(CardBody.id);}, false);
+
+  let remove_parameter_btn = document.createElement('a');
+  remove_parameter_btn.className = "col btn btn-outline-dark text-dark";
+  remove_parameter_btn.innerText = "- Parameter";
+  remove_parameter_btn.addEventListener("click",function(){remove_parameter_maintenance_stage(CardBody.id);}, false);
+
+  ButtonRow.appendChild(add_parameter_btn);
+  ButtonRow.appendChild(remove_parameter_btn);
+  cardHeader.appendChild(ButtonRow);
+
+  let CardBody = document.createElement('div');
+  CardBody.className = 'card-body text-center';
+  CardBody.id = "maintenance_plan_card_body";
+
+  card.appendChild(cardHeader);
+  card.appendChild(CardBody);
+
+  maintenance_plan_container.appendChild(card);
+
+  // Populate parameters if plan present
+  if(!is_null(maintenance_plan))
+  {
+    var params = maintenance_plan.param_list;
+
+    for(var i=0; i<params.length; i++)
+    {
+      add_parameter_maintenance_stage(CardBody.id, params[i]);
+    }
+  }
+
+  return true;
+}
+
+//Function to render screen for creating / updating Maintenance Plan for a workstation
+async function create_maintenance_plan_screen(workstation_id)
+{
+if(!validate_input(workstation_id)) return false;   //displays error if field empty
+
+// Check if existing workstation plan exists & populate it if so
+if(is_null(gl_curr_maintenance_plan) || gl_curr_maintenance_plan["workstation"] != workstation_id)
+
+gl_curr_maintenance_plan = await read_maintenance_plan(workstation_id);
+await populate_maintenance_plan(gl_curr_maintenance_plan);
+
+var header = document.getElementById("maintenance_plan_create_header");
+header.workstation_id = workstation_id;
+header.innerText = "Maintenance Plan Setup for " + header.workstation_id;
+
+document.getElementById("navigation_configure_maintenance_schedule_1").style.display = "none";
+document.getElementById("navigation_configure_maintenance_schedule_2").style.display = "block";
+
+
+// function to save workstation maintenance plan on button click
+save_maintenance_plan_btn.onclick=async function()
+{ await await_loading(create_maintenance_plan_object,"create_maintenance_plan_dynamic", "maintenance_plan_create_header"); }
+
+delete_maintenance_plan_btn.onclick=async function()
+{ await display_confirmation("Are you sure you want to delete Maintenance Plan for " + workstation_id + " ?", await_loading, delete_maintenance_plan,[workstation_id]); }
+
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                           Configure Production Operations                                          //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Function to initialize configure production operations section
+async function initialize_production_operation_section()
+{
+  await reset_sections();
+// error if user is not authorised to configure production operations
+if(gl_user_permission.admin != 1 && gl_user_permission.sp_system_settings != 1) 
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+if( is_null(gl_current_operations_list) )
+gl_current_operations_list = await read_production_operations_list();
+
+var operation_name_list = Object.keys(gl_current_operations_list)
+
+var container = document.getElementById("production_operation_list_dynamic");
+
+for (var i=0;i<operation_name_list.length;i++)
+{
+let card = document.createElement('div');
+  card.className = 'col-sm-4 card cursor-pointer mb-2 justify-content-center text-center';
+
+  // Add operation names
+  let cardHeader = document.createElement('div');
+  cardHeader.className = 'card-header';
+
+  let title = document.createElement('h5');
+  title.innerText = "Operation Details";
+  title.className = 'card-title';
+
+  let production_operation_description = document.createElement("input"); 
+  production_operation_description.type = "text"; 
+  production_operation_description.maxLength = param_name_max_length;
+  production_operation_description.className = "form-control col input-lg text-center text-primary bg-white";
+  production_operation_description.placeholder = "Operation Description";
+  production_operation_description.value = operation_name_list[i];
+
+  cardHeader.appendChild(title);
+  cardHeader.appendChild(production_operation_description);
+
+  let ButtonRow = document.createElement('div');
+  ButtonRow.className = "row text-center mt-3";
+
+  let add_workstation_btn = document.createElement('a');
+  add_workstation_btn.className = "col btn btn-outline-dark text-dark";
+  add_workstation_btn.innerText = "+ Workstation";
+  add_workstation_btn.onclick = function(){add_workstation(CardBody.id);}
+
+  let remove_workstation_btn = document.createElement('a');
+  remove_workstation_btn.className = "col btn btn-outline-dark text-dark";
+  remove_workstation_btn.innerText = "- Workstation";
+  remove_workstation_btn.onclick = function(){remove_workstation(CardBody.id);}
+
+  ButtonRow.appendChild(add_workstation_btn);
+  ButtonRow.appendChild(remove_workstation_btn);
+  cardHeader.appendChild(ButtonRow);
+
+
+  // Add Workstation names
+  let CardBody = document.createElement('div');
+  CardBody.className = 'card-body text-center';
+  CardBody.id = "operation_body"+i;
+
+  var workstation_name_list = gl_current_operations_list[operation_name_list[i]];
+
+
+  card.appendChild(cardHeader);
+  card.appendChild(CardBody);
+
+  container.appendChild(card);
+
+  for(var j=0; j < workstation_name_list.length; j++ )
+  add_workstation(CardBody.id, workstation_name_list[j])
+ 
+}
+
+}
+
+
+//Function to dynamically add stages in configure production operations section
+function add_production_operation_stage()
+{
+var container = document.getElementById("production_operation_list_dynamic");
+var index = container.childElementCount;
+
+if (index+1 > max_production_operations ) {display_error("Max limit reached. Only " +  max_production_operations + " Operations allowed.")}
+else{
+  let card = document.createElement('div');
+  card.className = 'col-sm-4 card cursor-pointer mb-2 justify-content-center text-center';
+
+  // Operation title
+  let cardHeader = document.createElement('div');
+  cardHeader.className = 'card-header';
+
+  let title = document.createElement('h5');
+  title.innerText = "Operation Details";
+  title.className = 'card-title';
+
+  let production_operation_description = document.createElement("input"); 
+  production_operation_description.type = "text"; 
+  production_operation_description.maxLength = param_name_max_length;
+  production_operation_description.className = "form-control col input-lg text-center text-primary";
+  production_operation_description.placeholder = "Enter Operation Name";
+
+  cardHeader.appendChild(title);
+  cardHeader.appendChild(production_operation_description);
+
+  // Add or remove workstation buttons
+  let ButtonRow = document.createElement('div');
+  ButtonRow.className = "row text-center mt-3";
+
+
+  let add_workstation_btn = document.createElement('a');
+  add_workstation_btn.className = "col btn btn-outline-dark text-dark";
+  add_workstation_btn.innerText = "+ Workstation";
+  add_workstation_btn.onclick = function(){add_workstation(CardBody.id);}
+
+  let remove_workstation_btn = document.createElement('a');
+  remove_workstation_btn.className = "col btn btn-outline-dark text-dark";
+  remove_workstation_btn.innerText = "- Workstation";
+  remove_workstation_btn.onclick = function(){remove_workstation(CardBody.id);}
+
+  ButtonRow.appendChild(add_workstation_btn);
+  ButtonRow.appendChild(remove_workstation_btn);
+  cardHeader.appendChild(ButtonRow);
+
+  // Workstation names
+  let CardBody = document.createElement('div');
+  CardBody.className = 'card-body text-center';
+  CardBody.id = "operation_body"+index;
+
+
+  card.appendChild(cardHeader);
+  card.appendChild(CardBody);
+
+  container.appendChild(card);
+
+  // add empty workstation
+  add_workstation(CardBody.id);
+}
+}
+
+
+//Function to dynamically remove stages in a qc plan
+function remove_production_operation_stage()
+{
+  var container = document.getElementById("production_operation_list_dynamic");
+  container.removeChild(container.lastChild);
+} 
+
+
+//Function to dynamically add workstations in a production operations section
+function add_workstation(container_id, workstation_name_value = "")
+{
+  var container = document.getElementById(container_id);
+
+  var index = container.childElementCount;
+
+  if (index+1 > max_workstations_per_operation) {display_error("Max " + max_workstations_per_operation + " workstations allowed per operation")}
+  else
+      {
+      var workstation_group = document.createElement('div');
+      workstation_group.className = "form-row justify-content-center";
+
+      var workstation_name = document.createElement("input"); 
+      workstation_name.type = "text";
+      workstation_name.className = "form-control mb-3 col input-lg text-center";
+      workstation_name.placeholder ="Enter Workstation Name / ID";
+      workstation_name.maxLength= param_name_max_length; 
+
+      if(workstation_name_value != "")
+      workstation_name.value = workstation_name_value;
+
+      workstation_group.appendChild(workstation_name);
+
+      container.appendChild(workstation_group);
+      return workstation_group;
+    }
+} 
+
+
+//Function to dynamically remove workstation in a production operations section 
+function remove_workstation(container_id)
+{
+var container = document.getElementById(container_id);
+container.removeChild(container.lastChild);
+}  
+
+
+//Function to clear unsaved data in configure production operations section list
+async function clear_unsaved_operations()
+{
+if( is_null(gl_current_operations_list) )
+gl_current_operations_list = await read_production_operations_list();
+
+var container = document.getElementById("production_operation_list_dynamic");
+while (container.childElementCount > Object.keys(gl_current_operations_list).length)
+{container.removeChild(container.lastChild);}
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Configure User Permission Section                                              //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// Function to initialize User Configuration section
+async function initialize_user_permission_section(reload=false)
+{
+reset_sections();
+
+// error if user is not authorised to set user permissions
+if(gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Configure Users"]] != 1) 
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+document.getElementById("navigation_user_permission_2").style.display = "none";
+document.getElementById("navigation_user_permission_1").style.display = "flex";
+
+let email_select_container = document.getElementById("select_email_user_permission_section");
+let email_container = document.getElementById("email_user_permission_section");
+let password_container = document.getElementById("password_user_permission_section");
+
+email_container.value = "";
+password_container.value = "";
+
+empty_container_byReference(email_select_container);
+
+if ((gl_user_list.length == 0 || is_null(gl_user_list) ) && reload == false)        // read user permission if empty
+gl_user_list = await read_user_list();
+
+set_select_options(email_select_container, gl_user_list.sort() );
+
+/*        email_select_container.value = "";  email_container.value = "";
+email_select_container.onchange = function(){ email_container.value = email_select_container.value; };
+email_container.onchange = function(){email_select_container.value = ""; };
+*/
+}
+
+
+// Function to render permission parameters inputs
+async function render_permission_inputs(section_permission_container, alert_notification_container, basic_info_permission_container, operation_permission_container, user_permission_obj)
+{
+empty_container_byReference (section_permission_container);     // empty containers with permissions from previous run
+empty_container_byReference (alert_notification_container);
+empty_container_byReference (basic_info_permission_container);
+empty_container_byReference (operation_permission_container);
+
+var section_list = Object.keys(section_permission_list);                                 
+if( is_null(gl_current_operations_list))
+gl_current_operations_list = await read_production_operations_list();
+
+for (var i=0; i<section_list.length; i++ )                                // Permission to display & access various section
+{
+var permission_group = document.createElement('div');
+permission_group.className = "form-row justify-content-center";
+
+
+var permission_desc = document.createElement("p");
+permission_desc.className = "col mb-2 text-primary";
+permission_desc.innerText = section_list[i];
+
+var permission_value = document.createElement("select");
+permission_value.className = "custom-select mb-2 text-center col-sm-6";
+set_select_options(permission_value, permission_list_no_yes);
+
+var section_key = section_permission_list[section_list[i]];      // Read how section permission (key) is saved in user permission object
+if( !is_null(user_permission_obj[section_key]) )
+permission_value.value = permission_list_no_yes[user_permission_obj[section_key]];
+else permission_value.value = permission_list_no_yes[0];
+
+var line = document.createElement('hr');
+line.className = "col-sm-12"; 
+
+permission_group.appendChild(permission_desc);
+permission_group.appendChild(permission_value);
+permission_group.appendChild(line);
+section_permission_container.appendChild(permission_group);
+}
+section_permission_container.appendChild(document.createElement('br'));
+
+
+for (var i=0; i<1; i++)                                             // Render permission inputs for "Basic Info" section
+{
+var permission_group = document.createElement('div');
+permission_group.className = "form-row justify-content-center";
+
+var operation_name = "Basic Info";
+var permission_desc = document.createElement("p");
+permission_desc.className = "col mb-2 text-primary";
+permission_desc.innerText = operation_name;
+
+var permission_value = document.createElement("select");
+permission_value.className = "custom-select mb-2 text-center col-sm-6";
+set_select_options(permission_value, permission_list_access.slice(1,4));      // Ignore "None". Only - "Read", "Write", "Update"
+
+if( !is_null(user_permission_obj[operation_name]) )
+permission_value.value = permission_list_access[user_permission_obj[operation_name]];       // convert number to text permission
+else permission_value.value = permission_list_access[1];
+
+var line = document.createElement('hr');
+line.className = "col-sm-12"; 
+
+permission_group.appendChild(permission_desc);
+permission_group.appendChild(permission_value);
+permission_group.appendChild(line);
+basic_info_permission_container.appendChild(permission_group);
+}
+
+var operation_name_list = Object.keys(gl_current_operations_list);
+
+for (var i=0; i<operation_name_list.length; i++)             // Render permission inputs for operations access
+{
+var permission_group = document.createElement('div');
+permission_group.className = "form-row justify-content-center";
+
+var operation_name = operation_name_list[i];
+var permission_desc = document.createElement("p");
+permission_desc.className = "col mb-2 text-primary";
+permission_desc.innerText = operation_name;
+
+var permission_value = document.createElement("select");
+permission_value.className = "custom-select mb-2 text-center col-sm-6";
+set_select_options(permission_value, permission_list_access);
+
+if( !is_null(user_permission_obj[operation_name]) )
+permission_value.value = permission_list_access[user_permission_obj[operation_name]];       // convert number to text permission
+else permission_value.value = permission_list_access[0];
+
+var line = document.createElement('hr');
+line.className = "col-sm-12"; 
+
+permission_group.appendChild(permission_desc);
+permission_group.appendChild(permission_value);
+permission_group.appendChild(line);
+operation_permission_container.appendChild(permission_group);
+}
+
+operation_permission_container.appendChild(document.createElement('br'));
+
+for (var i=0; i<operation_name_list.length; i++ )                                // Permission to receive alert notifications for various operations
+{
+var permission_group = document.createElement('div');
+permission_group.className = "form-row justify-content-center";
+
+
+var permission_desc = document.createElement("p");
+permission_desc.className = "col mb-2 text-primary";
+permission_desc.innerText = operation_name_list[i];
+
+var permission_value = document.createElement("select");
+permission_value.className = "custom-select mb-2 text-center col-sm-6";
+set_select_options(permission_value, permission_list_no_yes);
+
+var section_key = operation_name_list[i] + "_an";      // Read how operation alert permission (key) is saved in user permission object
+if( !is_null(user_permission_obj[section_key]) )
+permission_value.value = permission_list_no_yes[user_permission_obj[section_key]];
+else permission_value.value = permission_list_no_yes[0];
+
+var line = document.createElement('hr');
+line.className = "col-sm-12"; 
+
+permission_group.appendChild(permission_desc);
+permission_group.appendChild(permission_value);
+permission_group.appendChild(line);
+alert_notification_container.appendChild(permission_group);
+}
+alert_notification_container.appendChild(document.createElement('br'));
+
+
+} 
+
+
+// Function to render screen for creating / updating user permissions
+async function create_user_permission_screen(user_email_field_id)
+{
+
+var user_email = document.getElementById(user_email_field_id).value;
+
+if(!validate_input(user_email)) return false;   //displays error if field empty
+
+// Check if existing user permission exists & populate it if so
+var selected_user_permission = await read_other_user_permsission(user_email);
+
+// if no permissions found, leave empty
+if( is_null(selected_user_permission) ) { selected_user_permission = {}; }
+
+var header = document.getElementById("user_permission_create_header");
+header.user_email = user_email;
+header.innerText = "Set User Permissions for " + header.user_email;
+
+
+var section_permission_container = document.getElementById("create_user_permission_static");
+var alert_notification_container = document.getElementById("create_user_permission_alert");
+var basic_info_permission_container = document.getElementById("create_user_permission_basic_info");
+var operation_permission_container = document.getElementById("create_user_permission_dynamic");
+
+render_permission_inputs(section_permission_container, alert_notification_container, basic_info_permission_container, operation_permission_container, selected_user_permission);
+
+document.getElementById("navigation_user_permission_2").style.display = "block";
+document.getElementById("navigation_user_permission_1").style.display = "none";
+
+save_user_btn.onclick = async function()
+{
+await create_user_permission_object(section_permission_container, alert_notification_container, basic_info_permission_container, operation_permission_container , "user_permission_create_header", selected_user_permission);
+}
+
+delete_user_btn.onclick = async function()
+{
+await display_confirmation("Are you sure you want to delete this user?", delete_user, "user_permission_create_header");
+}
+
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Configure Notifications Section                                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+async function initialize_configure_notifications_section()
+{
+  var notification_list = await read_notification_subscribers_list();
+
+  const low_credit_notification_list = notification_list.low_credit || [];
+  const maintenance_notification_list = notification_list.maintenance || [];
+
+  document.getElementById("low_credit_notification_email_1").value = low_credit_notification_list[0] || "";
+  document.getElementById("low_credit_notification_email_2").value = low_credit_notification_list[1] || "";
+  document.getElementById("low_credit_notification_email_3").value = low_credit_notification_list[2] || "";
+
+  document.getElementById("machine_maintenance_notification_email_1").value = maintenance_notification_list[0] || "";
+  document.getElementById("machine_maintenance_notification_email_2").value = maintenance_notification_list[1] || "";
+  document.getElementById("machine_maintenance_notification_email_3").value = maintenance_notification_list[2] || "";
+
+  save_configure_notifications_btn.onclick=async function(){ 
+                                                        const new_low_credit_notification_list=
+                                                        [
+                                                          document.getElementById("low_credit_notification_email_1").value,
+                                                          document.getElementById("low_credit_notification_email_2").value,
+                                                          document.getElementById("low_credit_notification_email_3").value
+                                                        ];
+                                                        
+                                                        const new_maintenance_notification_list=
+                                                        [
+                                                          document.getElementById("machine_maintenance_notification_email_1").value,
+                                                          document.getElementById("machine_maintenance_notification_email_2").value,
+                                                          document.getElementById("machine_maintenance_notification_email_3").value
+                                                        ];
+
+                                                        await await_loading(write_notification_list,new_low_credit_notification_list,new_maintenance_notification_list);
+                                                        return true;
+                                                     }
+
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                        Configure View Credits Section                                              //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//  function to initialize View Credits Section
+
+async function initialize_view_credits_section()
+{
+  await reset_sections();
+  gl_credits_obj = await read_credit_balance();
+
+  let credit_balance_container = document.getElementById("credit_balance")
+
+  // Populate card for credit_balance_container
+    let credit_balance_card = document.createElement('div');
+    credit_balance_card.className = "card mt-4";
+
+    let credit_balance_card_header = document.createElement('div');
+    credit_balance_card_header.className = "card-header";
+
+    let credit_balance_card_body = document.createElement('div'); 
+    credit_balance_card_body.className = "card-body";
+
+    let credit_balance_log_title = document.createElement('div');
+    credit_balance_log_title.className = "text-dark mt-2";
+    credit_balance_log_title.innerHTML = "<h3>Credit Details</h3>";
+    credit_balance_card_header.appendChild(credit_balance_log_title);
+
+      //Display Credits Available
+      let credits_available_title = document.createElement('div');
+      credits_available_title.className = "text-dark mt-4 mb-4";
+      credits_available_title.innerHTML = "<h5>Available Credits</h5>";
+
+      let credits_available = document.createElement('div');
+      credits_available.className = "text-primary mt-4 mb-4";
+      credits_available.innerHTML = "<h5>"+gl_credits_obj.val+"</h5>";
+
+      
+      let line_space_1 = document.createElement('hr');
+
+      let credits_daily_usage_title = document.createElement('div');
+      credits_daily_usage_title.className = "text-dark mt-4";
+      credits_daily_usage_title.innerHTML = "<h5>Average Usage</h5>";
+
+      let credits_daily_usage = document.createElement('div');
+      credits_daily_usage.className = "text-primary mt-4 mb-4";
+      credits_daily_usage.innerHTML = "<h5>"+Math.ceil(gl_credits_obj.avg_daily_usage)+" credits/day</h5>";
+
+      let line_space_2 = document.createElement('hr');
+
+      const validity_date = decode_date(gl_credits_obj.validity,1);
+
+      let credits_subscription_validity_title = document.createElement('div');
+      credits_subscription_validity_title.className = "text-dark mt-4";
+      credits_subscription_validity_title.innerHTML = "<h5>Subscription Expiry Date</h5>";
+
+      let credits_subscription_validity = document.createElement('div');
+      credits_subscription_validity.className = "mt-4 mb-4";
+      
+      if(validity_date < new Date) credits_subscription_validity.className += " text-danger"
+      else credits_subscription_validity.className += " text-primary";
+
+      credits_subscription_validity.innerHTML = "<h5>"+ decode_date(gl_credits_obj.validity,1).toDateString()+"</h5>";
+
+      let line_space_3 = document.createElement('hr');      
+
+
+      let credit_purchase_btn = document.createElement('div');
+      credit_purchase_btn.className = "btn btn-primary btn-block mt-4";
+      credit_purchase_btn.innerText = "Buy more credits";      
+
+      let credit_usage_statement_btn = document.createElement('div');
+      credit_usage_statement_btn.className = "btn btn-primary btn-block mt-4";
+      credit_usage_statement_btn.innerText = "Download Usage Statement";           
+
+      credit_balance_card_body.appendChild(credits_available_title);
+      credit_balance_card_body.appendChild(credits_available);
+      credit_balance_card_body.appendChild(line_space_1);
+
+      credit_balance_card_body.appendChild(credits_daily_usage_title);
+      credit_balance_card_body.appendChild(credits_daily_usage);
+      credit_balance_card_body.appendChild(line_space_2);
+
+      credit_balance_card_body.appendChild(credits_subscription_validity_title);
+      credit_balance_card_body.appendChild(credits_subscription_validity);
+      credit_balance_card_body.appendChild(line_space_3);
+
+      credit_balance_card_body.appendChild(credit_purchase_btn);
+      credit_balance_card_body.appendChild(credit_usage_statement_btn);
+
+
+    credit_balance_card.appendChild(credit_balance_card_header);
+    credit_balance_card.appendChild(credit_balance_card_body);
+
+  
+  credit_balance_container.appendChild(credit_balance_card);
+
+  // Generate credit usage statement PDF on button clock
+  credit_usage_statement_btn.onclick = async function(){await await_loading(generate_credit_usage_report_pdf,gl_credits_obj);}
+
+  return true;
+}
+
+// Support function to help sort credit log entries by date
+function compare_dates_credit_log_entries(entry_1, entry_2)
+{
+  return new Date(entry_1.dt) - new Date(entry_2.dt);
+}
+
+// Support function to render credit usage pdf report
+function render_credit_usage_pdf_report(summary_table_header, summary_table_data, transaction_log_table_header, transaction_log_table_data, date_range)
+{
+  const pdf_width = 210;          // a4 paper - dimensions in mm
+  const pdf_height = 297;
+  const starting_height = 10;
+  var vertical_pos = starting_height;
+  const spacing = 6;
+  
+  const doc = new jspdf.jsPDF({ orientation: "portrait", unit: "mm", format: [pdf_width, pdf_height] });
+  
+  // Print document title  
+  doc.setTextColor(100);  // gray color
+  doc.setFontSize(14);
+  doc.text("Qik Process", pdf_width/2, vertical_pos+=spacing, {align:"center"});    
+
+  doc.setTextColor("black");  // gray color
+  doc.setFontSize(14);
+  doc.text("Credit Usage Statement", pdf_width/2, vertical_pos+=spacing, {align:"center"});    
+
+
+  // set company name on page top center
+  const company_name = gl_curr_user_details.company;
+  doc.setTextColor(100);  
+  doc.setFontSize(10);
+  doc.text("Company Name: "+ company_name, pdf_width/2, vertical_pos+=spacing, {align:"center"});  
+  
+  doc.setFontSize(10);        // regular font size
+  doc.text("Summary " + date_range, pdf_width/2, vertical_pos+=spacing, {align:"center"});  
+   
+  doc.autoTable({
+                  head: summary_table_header,
+                  body: summary_table_data,
+                  theme : 'grid',
+                  styles: { fontSize: 10, valign: 'middle', lineColor : '#000000' },
+                  headStyles : {fillColor: '#2F8ECE', textColor: '#ffffff', lineColor : '#000000', lineWidth: 0.1},          // Color of header
+                //    columnStyles: { 3: { halign: 'center' } }, // Cells in third column centered and green
+                  startY: 38, 
+                 });
+
+doc.addPage({ orientation: "portrait", format: [pdf_width, pdf_height] })                 
+doc.text("Credit Usage Details", pdf_width/2, vertical_pos=starting_height*2, {align:"center"});  
+doc.autoTable({
+                  head: transaction_log_table_header,
+                  body: transaction_log_table_data,
+                  theme : 'grid',
+                  styles: { fontSize: 10, valign: 'middle', lineColor : '#000000' },
+                  headStyles : {fillColor: '#2F8ECE', textColor: '#ffffff', lineColor : '#000000', lineWidth: 0.1},          // Color of header
+                //    columnStyles: { 3: { halign: 'center' } }, // Cells in third column centered and green
+                  startY: 25, 
+                 });
+
+  
+  // Set Page Numbers & other details
+  for (var i=1; i<=doc.internal.getNumberOfPages(); i++ )
+  {
+      doc.setTextColor(100);  // gray color
+      doc.setFontSize(10);
+      doc.setPage(i);
+      doc.text("Page " + i + " of " + doc.internal.getNumberOfPages(), pdf_width-10, 7, {align:'right'});
+      doc.text("Powered by Qik Process", pdf_width-10 , pdf_height-5, {align:'right'});
+  
+    }
+  
+  doc.save("Credit Usage Report.pdf");
+}
+
+// Function to generate PDF report about credit usage details
+async function generate_credit_usage_report_pdf(credits_main_info)
+{
+  if(is_null(credits_main_info))
+  return false;
+
+  const start_log_doc = credits_main_info.start_log_doc;
+  const current_log_doc =  credits_main_info.current_log_doc;
+
+  var temp_credit_log_container = [];
+
+  for(var i=start_log_doc; i <= current_log_doc; i++)
+  {
+    const credit_log_doc_ref = db.collection("app").doc(gl_curr_user_details.company_id).collection("credit_logs").doc(i.toString());
+    temp_credit_log_container.push(credit_log_doc_ref.get()); 
+  }
+
+  temp_credit_log_container = await Promise.all(temp_credit_log_container);
+
+
+  var cut_off_date = new Date();
+  cut_off_date.setHours(0); cut_off_date.setMinutes(0); cut_off_date.setSeconds(0);
+  cut_off_date.setDate(1);
+  cut_off_date.setMonth(cut_off_date.getMonth()-gl_max_credit_usage_log_months);  
+
+  // var to store all credit usage entries
+  var credit_transactions_log = [];
+
+  for(var i=0; i<temp_credit_log_container.length; i++)
+  {
+    const log_content = temp_credit_log_container[i].data()["log"];
+
+    for(var j=0; j<log_content.length; j++)
+    {
+      if(log_content[j].dt.toDate() >= cut_off_date )
+      {
+        log_content[j].dt = log_content[j].dt.toDate();
+        credit_transactions_log.push(log_content[j]);
+      }
+    }
+
+  }
+
+  credit_transactions_log = credit_transactions_log.sort(compare_dates_credit_log_entries);
+
+  var credit_opening_balance = Number(credits_main_info.val);
+  for(var i=0; i<credit_transactions_log.length; i++)
+  {
+    credit_opening_balance-= credit_transactions_log[i].credit_amt;
+  }
+
+  const credit_closing_balance = Number(credits_main_info.val);
+  var monthly_stats = {};
+
+  // get monthly credit statistics
+  for(var i=0; i< credit_transactions_log.length; i++) 
+  {
+    const entry_date = credit_transactions_log[i].dt;
+    const entry_month = new Date(entry_date);
+
+    entry_month.setHours(0,0,0,1);
+    entry_month.setDate(1);
+
+    if( is_null(monthly_stats[entry_month]) )
+    monthly_stats[entry_month] = {
+                                    "credits_purchased" : 0,
+                                    "credits_used" : 0
+                                 };
+
+    if( credit_transactions_log[i]["credit_amt"] <= 0 )
+    monthly_stats[entry_month]["credits_used"] += credit_transactions_log[i]["credit_amt"];
+    else 
+    monthly_stats[entry_month]["credits_purchased"] += credit_transactions_log[i]["credit_amt"];
+
+  }
+
+
+  //Prepare data for summary_table
+
+  const summary_table_header = [["Month", "Credits Purchased", "Credits Used", "Credit Balance"]];
+  var summary_table_data = [];
+
+  summary_table_data.push(["Opening Balance", " ", " ", credit_opening_balance]);
+
+  const month_nos = Object.keys(monthly_stats);
+  month_nos.sort(compare_dates_credit_log_entries);
+  var credit_balance = credit_opening_balance;
+
+  for(var i=0; i<month_nos.length; i++)
+  {
+    var month_name = monthNames[(new Date(month_nos[i])).getMonth()] + " - " + (new Date(month_nos[i])).getFullYear();
+
+//    const current_month_number = (new Date()).getMonth();
+//    if(month_nos[i].toString() == current_month_number.toString()) month_name = "Current Month"; 
+
+    const credits_purchased = monthly_stats[month_nos[i]]["credits_purchased"];
+    const credits_used = monthly_stats[month_nos[i]]["credits_used"];
+    credit_balance += credits_purchased + credits_used;
+    summary_table_data.push([month_name, credits_purchased , Math.abs(credits_used) , credit_balance]);
+
+  }
+  summary_table_data.push(["Closing Balance", " ", " ", credit_closing_balance]);
+
+  //Prepare data for transaction_log_table
+
+  const transaction_log_table_header = [["S.no.","Date","Remark","Credit Amt","Credit Balance"]];
+  var transaction_log_table_data = [];
+  var current_tally = credit_opening_balance;
+
+  for(var i=0; i<credit_transactions_log.length; i++)
+  {
+    current_tally += credit_transactions_log[i].credit_amt;
+
+    const txn_date = await decode_date(credit_transactions_log[i].dt);
+    const txn_remark = credit_transactions_log[i].remark;
+    var txn_amount = credit_transactions_log[i].credit_amt;
+    if(txn_amount > 0 ) txn_amount = "+" + txn_amount.toString();
+    const txn_balance = current_tally;
+
+    transaction_log_table_data.push([i+1, txn_date, txn_remark, txn_amount, txn_balance]);
+
+  }
+
+  var date_range = "(" + monthNames[cut_off_date.getMonth()] + "," + cut_off_date.getFullYear() + " - " + monthNames[(new Date()).getMonth()] + "," + (new Date()).getFullYear() + ")";
+
+  render_credit_usage_pdf_report(summary_table_header, summary_table_data, transaction_log_table_header, transaction_log_table_data, date_range);
+//  console.log(monthly_stats);
+
+}
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                      DATABASE STRUCTURE                                            //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+    Credit Docs for Quick Access-
+    Credits (Main Summary Details) - db.collection("app").doc(company_id).collection("credit_logs").doc("0")
+    Credits (Detail Usage Logs) - db.collection("app").doc(company_id).collection("credit_logs").doc({doc_name}) where {doc_name} is 1, 2, 3, etc
+
+    Global Variables for Quick Access-
+    Operations List - db.collection("app").doc(company_id).collection("global").doc("operation_list")
+    Model List - db.collection("app").doc(company_id).collection("global").doc("model_list")
+    Maintenance List - db.collection("app").doc(company_id).collection("global").doc("maintenance_list")
+    User List -  - db.collection("app").doc(company_id).collection("global").doc("user_list")
+    Alert Notifcations - db.collection("app").doc(company_id).collection("global").doc("alerts")
+    Alert Subscriber List Notifcations - db.collection("app").doc(company_id).collection("global").doc("alert_subscriber_list")
+
+    Collections-
+    credit_logs - db.collection("app").doc(company_id).collection("credit_logs") 
+    global - db.collection("app").doc(company_id).collection("global")
+    records - db.collection("app").doc(company_id).collection("records")
+    maintenance_records - db.collection("app").doc(company_id).collection("maintenance_record")
+    disruptions - db.collection("app").doc(company_id).collection("disruptions")    
+    process plan models - db.collection("app").doc(company_id).collection("process_plan")
+    maintenance plans - db.collection("app").doc(company_id).collection("maintenance_plan")
+    users - db.collection("app").doc(company_id).collection("users")
+
+    Example   
+    /app/Company 1/users/u1@gmail.com
+    db.collection("app").doc(company_id).collection("users").doc(user_email).update
+
+
+*/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                             Functions to Validate Encoded Data Before Writing to Database                          //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+//Function Validate QC Process Object
+function validate_qc_process_object (qc_object, model)             //return true if ok, else return false & display error message
+{
+// check if model name is blank or undefined
+if(model == "" || model == undefined ) {display_error("Data Corrupted. Please refresh and try again."); return false;}
+
+var operations = Object.keys(qc_object);
+
+var operation_name_list = Object.keys(gl_current_operations_list);
+
+//check if no steps / stages are added to qc process
+if (operations.length <1)  {display_error("Please add some process steps before saving."); return false;}
+
+//check if operation titles exist in actual operation list. 
+for(var i=0; i<operations.length; i++)
+{
+if(operations[i] == "" || operations[i] == undefined)
+{display_error("Please select an operation for every step. [Step " + (i+1).toString() + "]" ); return false;}
+
+else if(!operation_name_list.includes(operations[i]))
+{display_error("Data Corrupted. Please refresh and try again."); return false;}
+}
+
+//check if parameters are ok and urls are properly formatted for each stage
+for(var i=0; i<operations.length; i++)
+{
+var param_name_list = [];     // list of param_names to check if they are unique
+
+if (qc_object[operations[i]].param_list.length<1)
+{display_error("Please add atleast 1 parameter for every operation. [" + operations[i] + "]"); return false;}
+else
+{ var param_list = qc_object[operations[i]].param_list;
+for(var j=0; j<param_list.length; j++)
+{
+  if(!parameter_criticality_level.includes(param_list[j].level) || !data_types.includes(param_list[j].type)  )
+  {display_error("Data Corrupted. Please refresh and try again."); return false;}
+
+  if(!is_null(param_list[j].link) && !param_list[j].link.includes("https://"))
+  {display_error("Please add https:// before all Parameter Reference Link urls. [" + param_list[j].name + " - " + operations[i] + "]"); return false;}
+
+  if(param_list[j].name == "" || param_list[j].name == undefined)
+  {display_error("Parameter Name cannot be blank. [" + operations[i] + "]"); return false;}
+  else // add to param_name_list
+  param_name_list.push(param_list[j].name);
+
+  if(param_list[j].type == data_types[0] &&  (isNaN(param_list[j].value1) || isNaN(param_list[j].value2))   )     //Numeric Range type
+  {display_error("Values should be a number for 'Numeric Range' type parameter. [" + param_list[j].name + " - " + operations[i] + "]"); return false;}
+
+  if(param_list[j].type == data_types[1] &&  (param_list[j].value1 == "" || param_list[j].value1 == undefined)   ) //Option List type
+  {display_error("Acceptable Option values required for 'Option List' type parameter. [" + param_list[j].name + " - " + operations[i] + "]"); return false;}
+
+  if(param_list[j].type == data_types[2] &&  !gl_model_list.includes(param_list[j].value1)   ) //Sub-Assembly Part type
+  {display_error("Data Corrupted. Please refresh and try again."); return false;}
+
+  if(param_list[j].value1 == qc_object.model)
+  {display_error("Sub-Assembly Part Model cannot be same as Current Plan Model. [" + param_list[j].name + " - " + operations[i] + "]"); return false;}
+
+    //Free Response Value type - no validation
+
+//              if(param_list[j].type == data_types[3] &&  (param_list[j].value1 == "" || param_list[j].value1 == undefined)   ) //Free Response Value type
+//              {display_error("Value required for 'Free Response' type parameter."); return false;}
+
+}
+
+
+}
+
+// Check if all parameter names in a particular operation are unique
+var unique_param_name_list = new Set(param_name_list);
+if( unique_param_name_list.size != param_name_list.length)
+{
+  display_error("All parameter names in an operation should be unique. [" + operations[i] + "]");
+  return false;
+}
+
+}
+return true;
+}
+
+function validate_maintenance_process_object (maintenance_object)             //return true if ok, else return false & display error message
+{
+const workstation_id = maintenance_object["workstation"];  
+// check if workstation id is blank or undefined
+if(workstation_id == "" || workstation_id == undefined ) {display_error("Data Corrupted. Please refresh and try again."); return false;}
+
+if( isNaN(maintenance_object.cycle_time) || maintenance_object.cycle_time < 1 || is_null(maintenance_object.cycle_time))
+{display_error("Periodic Maintenance Interval cannot be less than 1 Day"); return false;}
+
+
+
+//check if parameters are ok and urls are properly formatted for each stage
+var param_name_list = []; // check param names are unique
+
+var param_list = maintenance_object.param_list;
+for(var j=0; j<param_list.length; j++)
+{
+  if( !data_types.includes(param_list[j].type)  )
+  {display_error("Data Corrupted. Please refresh and try again."); return false;}
+
+  if(!is_null(param_list[j].link) && !param_list[j].link.includes("https://"))
+  {display_error("Please add https:// before all Parameter Reference Link urls."); return false;}
+
+  if(param_list[j].name == "" || param_list[j].name == undefined)
+  {display_error("Parameter Name cannot be blank."); return false;}
+  else // add to param_name_list
+  param_name_list.push(param_list[j].name);
+
+  if(param_list[j].type == data_types[0] &&  (isNaN(param_list[j].value1) || isNaN(param_list[j].value2))   )     //Numeric Range type
+  {display_error("Values should be a number for 'Numeric Range' type parameter."); return false;}
+
+  if(param_list[j].type == data_types[1] &&  (param_list[j].value1 == "" || param_list[j].value1 == undefined)   ) //Option List type
+  {display_error("Acceptable Option values required for 'Option List' type parameter."); return false;}
+
+
+    //Free Response Value type - no validation
+
+//              if(param_list[j].type == data_types[3] &&  (param_list[j].value1 == "" || param_list[j].value1 == undefined)   ) //Free Response Value type
+//              {display_error("Value required for 'Free Response' type parameter."); return false;}
+
+}
+
+
+// Check if all parameter names in a particular operation are unique
+var unique_param_name_list = new Set(param_name_list);
+if( unique_param_name_list.size != param_name_list.length)
+{
+  display_error("All parameter names in an operation should be unique");
+  return false;
+}
+
+
+return true;
+}
+
+//Function to validate User Permission Object before saving
+function validate_user_permission_obj(user_permission_obj)
+{
+var section_list = Object.keys(section_permission_list);
+var section_keys_list = [];
+
+for (var i=0; i< section_list.length; i++)                            // Get list of section keys
+{
+section_keys_list.push (section_permission_list[section_list[i]]);
+}
+
+var basic_info_keys_list = ["Basic Info"];
+var operation_keys_list = Object.keys(gl_current_operations_list);                 // Get list of operation keys
+
+var alert_keys_list = [];
+
+for (var i=0; i< operation_keys_list.length; i++)                            // Get list of alert notification keys from Operation name keys
+{
+alert_keys_list.push (operation_keys_list[i]+"_an");
+}
+
+
+
+var full_keys_list = section_keys_list.concat(basic_info_keys_list);  // List of all keys
+full_keys_list = full_keys_list.concat(alert_keys_list);
+full_keys_list = full_keys_list.concat(operation_keys_list);
+
+user_permission_obj_keys = Object.keys(user_permission_obj);
+
+if(user_permission_obj_keys.length != full_keys_list.length)    
+{
+display_error("Data corrupted 0. Please refresh and try again.");
+return false;
+}
+
+
+for (var i=0; i< full_keys_list.length; i++)
+{
+var key = full_keys_list[i];
+var permission_value = user_permission_obj[key];
+
+if( permission_value < 0 || permission_value > 3 )    // only 0, 1, 2, 3 - none, read, write, update
+{
+display_error("Data corrupted 2. Please refresh and try again.");
+return false;
+}
+
+if( key == "Basic Info" && permission_value < 1)      // atleast read permission for "Basic Info". else error
+{
+display_error("Data corrupted 3. Please refresh and try again.");
+return false;
+}
+
+}
+return true;
+
+}
+
+//Function to validate production operations list before saving
+function validate_proudction_operations_list(operation_list)
+{
+
+//  var current_operation_name_list = Object.keys(gl_current_operations_list);
+  var new_opernation_name_list = Object.keys(operation_list);
+
+if (new_opernation_name_list.length !== new Set(new_opernation_name_list).size) 
+  {
+    display_error("Operation names should be unique."); 
+    clear_unsaved_operations();
+    return false;
+  }
+
+if (new_opernation_name_list.indexOf("Basic Info") >= 0 || new_opernation_name_list.indexOf("Basic info") >= 0) // check if there is an operation called "Basic Info"     
+  {
+    display_error("Operation name cannot be 'Basic Info' "); 
+    clear_unsaved_operations();
+    return false;
+  }
+
+// Same data being saved
+if (compare_objects(gl_current_operations_list,operation_list ) == true )
+  {
+    display_info("All operations already saved."); 
+    clear_unsaved_operations();
+    return false;
+  }            
+
+// Check no duplicates in workstation names
+for(var i=0; i<new_opernation_name_list.length; i++ )
+{
+  if(operation_list[new_opernation_name_list[i]].length <=0)
+  {
+    display_error("Atleast one workstation is required for every operation."); 
+    return false;
+  }
+
+  if(operation_list[new_opernation_name_list[i]].length != new Set(operation_list[new_opernation_name_list[i]]).size )
+  {
+    display_error("Workstation names in an operation should be unique."); 
+    return false;
+  }
+
+  // check length of operation names
+  if(new_opernation_name_list[i].length > param_name_max_length)
+  {
+    display_error("Internal error. Please refresh and try again.");
+    clear_unsaved_operations();
+    return false;
+  }
+
+  // check length of workstation names
+  for(var j=0; j<operation_list[new_opernation_name_list[i]].length; j++ )
+  {
+    var workstation_name_value = operation_list[new_opernation_name_list[i]][j];
+
+    if (workstation_name_value.length > param_name_max_length )
+    {
+      display_error("Internal error. Please refresh and try again.");
+      return false;
+    }
+  }
+
+}
+
+
+return true; //all checks passed
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                    Functions to Encode Data & Write to Database                                    //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////      
+
+/* 
+RECORD UPDATE TYPES [UPDATE CODES]
+0 - Basic Info - external_id first write
+0.5 - Basic Info - external_id update
+1 - First Write to Record for some operation
+2 - Update to Record for some operation
+3 [DELETED - allow multiple attachments] - Add parent_serial to basic info to link child / sub assembly part to parent / main - assembly component
+4 - Deviation to Record for some operation
+5 - Rejection of Record
+*/
+
+// Function to encode & create object for save / update operation parameters data in process plan
+async function create_process_operation_record(data_container, current_operation, record, workstation_name = "default")
+{
+start_loading();
+var future_record = copy_record(record);       // record state after changes are made
+
+let update_record_obj = {};
+var stage_status = 0;                                                   // 0 - complete, 1 - minor dev, 2- in progress, 3- major dev, 4 - rejected
+var process_status = 0;
+
+if( is_null(current_operation) ){ display_error("Data corrupted. Please refresh and try again"); return false;}
+
+try
+{
+if (current_operation == "Basic Info")
+{
+    // Decide update type
+    if( is_null(future_record[current_operation].log.entry_dt) )                 // if empty, no entry in "Basic Info yet" 
+    {
+      // check user permission
+      if( (gl_user_permission.admin != 1 && gl_user_permission[current_operation] < permission_list_access.indexOf("Write")) 
+          || permission_list_access.indexOf("Write") < 0 ) 
+      {
+        display_error("You do not have sufficient permissions for this operation.");
+        return false; 
+      }  
+
+      //set "Basic Info" log for databse record object
+      update_record_obj[current_operation + "." + "log" + "." + "entry_dt"] = firebase.firestore.FieldValue.serverTimestamp(); // entry date
+      update_record_obj[current_operation + "." + "log" + "." + "entry_by"] = gl_curr_user_details.email; // entry by
+      update_record_obj["Basic Info" + "." + "update_type"] = 0;                       //See [UPDATE CODES]
+//      update_record_obj["Basic Info" + "." + "update_time"] = firebase.firestore.FieldValue.serverTimestamp();
+
+      // update future_record state also
+      future_record[current_operation].log.entry_dt = new Date(); // entry date
+      future_record[current_operation].log.entry_by = gl_curr_user_details.email; // entry by
+      future_record["Basic Info"].update_type = 0;
+//      future_record["Basic Info"].update_time = new Date();
+
+
+      var actual_value = data_container.childNodes[1].value;                // read value of external_id field
+      var dispatch_remark = data_container.childNodes[4].value;             // read value of dispatch remark
+      if ( is_null(actual_value) )
+      {
+        display_error("Please fill all input fields before saving.");
+        return false;
+      }
+      
+      update_record_obj["Basic Info" + "." + "external_id"] = actual_value;    // set external_id / dispatch_id
+      update_record_obj[current_operation + "." + "log" + "." + "remark"] = dispatch_remark; // set dispatch remark
+
+      future_record["Basic Info"].external_id = actual_value;
+      future_record["Basic Info"]["log"].remark = dispatch_remark;
+
+      var dbref = db.collection("app").doc(company_id).collection("records").doc(record["Basic Info"].serial);
+      var result = await dbref.update(update_record_obj);                        // update database
+
+      gl_curr_record = future_record;                                   // set record to future_record on success
+      return true;
+    }
+    else                                                                            // data already entered once in "Basic Info" 
+    {
+
+      // check user permission
+      if( (gl_user_permission.admin != 1 && gl_user_permission[current_operation] < permission_list_access.indexOf("Update")) 
+          || permission_list_access.indexOf("Update") < 0 ) 
+      {
+        display_error("You do not have sufficient permissions for this operation.");
+        return false; 
+      }  
+
+      //set "Basic Info" log for databse record object
+      update_record_obj[current_operation + "." + "log" + "." + "update_dt"] = firebase.firestore.FieldValue.serverTimestamp(); // entry date
+      update_record_obj[current_operation + "." + "log" + "." + "update_by"] = gl_curr_user_details.email; // entry by
+      update_record_obj["Basic Info" + "." + "update_type"] = 0.5;                       //See [UPDATE CODES]
+//      update_record_obj["Basic Info" + "." + "update_time"] = firebase.firestore.FieldValue.serverTimestamp();
+
+      // update future_record state also
+      future_record[current_operation].log.update_dt = new Date(); // entry date
+      future_record[current_operation].log.update_by = gl_curr_user_details.email; // entry by
+      future_record["Basic Info"].update_type = 0.5;
+//      future_record["Basic Info"].update_time = new Date();
+
+      var actual_value = data_container.childNodes[1].value;                // read value of external_id field
+      var dispatch_remark = data_container.childNodes[4].value;             // read value of dispatch remark
+
+      if ( is_null(actual_value) )
+      {
+        display_error("Please fill all input fields before saving.");
+        return false;
+      }
+      
+      update_record_obj["Basic Info" + "." + "external_id"] = actual_value;    // set external_id
+      update_record_obj[current_operation + "." + "log" + "." + "remark"] = dispatch_remark; // set dispatch remark
+
+      future_record["Basic Info"].external_id = actual_value;
+      future_record["Basic Info"]["log"].remark = dispatch_remark;
+
+
+      var dbref = db.collection("app").doc(company_id).collection("records").doc(record["Basic Info"].serial);
+      var result = await dbref.update(update_record_obj);                        // update database
+
+      gl_curr_record = future_record;                                   // set record to future_record on success
+      return true;
+    }
+}
+else                                                                             // operation other than "Basic Info"
+{
+
+  if ( is_null(future_record[current_operation].log.entry_dt) )                  // First entry to an operation
+  {
+
+    // check user permission
+    if( (gl_user_permission.admin != 1 && gl_user_permission[current_operation] < permission_list_access.indexOf("Write")) 
+        || permission_list_access.indexOf("Write") < 0) 
+      {
+    display_error("You do not have sufficient permissions for this operation.");
+    return false; 
+      }              
+
+    // Error if previous step is still incomplete or part is rejected
+    var current_step_index = (Object.keys(future_record)).indexOf(current_operation);
+
+    if( current_step_index > (current_process_status(future_record)).operation_index )
+    {
+      display_error("Previous operation has to be completed before current operation can be updated.");
+      return false; 
+    }
+    if( future_record["Basic Info"].status == 4 )
+    {
+      display_error("Data could not be saved as part is already rejected.");
+      return false; 
+    }
+
+    if( is_null(workstation_name) )
+    {
+      display_error("Please select Workstation ID before saving."); // Show error if workstation name is empty
+      return false;
+    }
+
+  // get param_list & actual_values
+  var param_list = record[current_operation].param_list;    // get param list
+  var actual_value_list = {};
+
+  for(var i=0; i<param_list.length; i++)
+    {
+      var actual_value = data_container.childNodes[4*i+1].value;
+
+      if( String(actual_value) != "0" && is_null(actual_value) )     // Show error if input value field is empty & return false
+      {
+        display_error("Please fill all input fields before saving.");
+        return false;
+      }
+
+      if ( ! await validate_input_field_value(param_list[i].type, param_list[i].value1, param_list[i].value2, actual_value) )
+      {
+        if (param_list[i].level == parameter_criticality_level[0] )       // "Minor" deviation - status 1
+        stage_status = Math.max(stage_status, 1);                           
+        else if (param_list[i].level == parameter_criticality_level[1])   // "Major" deviation - status 3
+        stage_status = Math.max(stage_status, 3);                           
+      }
+
+      // cache flage 1 indicates value is from frequency sample. not actual measurement
+      var cache_flag = get_cache_flag_value_on_record_save(future_record["Basic Info"].model,current_operation,param_list[i].name,actual_value,param_list[i].freq);
+      
+      actual_value_list[param_list[i].name] = [actual_value, cache_flag];
+    }
+
+  future_record[current_operation].status = stage_status;
+
+  // Set overall stage status - max value of all stage statuses
+  var operation_list = Object.keys(future_record);
+  for(var i=1; i<operation_list.length; i++)
+  { process_status = Math.max(process_status, future_record[operation_list[i]].status); }
+
+  var progress_obj = current_process_status(future_record);
+
+  update_record_obj["Basic Info" + "." + "current_op"] = current_operation;                      // operation being updated now
+  update_record_obj["Basic Info" + "." + "pending_op"] = progress_obj.current_operation;         // next operation pending
+  update_record_obj["Basic Info" + "." + "status"] = process_status;                             // set overall process status
+  update_record_obj[current_operation + "." + "actual_value"] = actual_value_list;               // set object containg actual param values
+  update_record_obj[current_operation + "." + "status"] = stage_status;                          // set stage status
+  update_record_obj[current_operation + "." + "workstation"] = workstation_name;                 // set workstation name
+
+
+  // set log
+  update_record_obj[current_operation + "." + "log" + "." + "entry_dt"] = firebase.firestore.FieldValue.serverTimestamp(); // entry date
+  update_record_obj[current_operation + "." + "log" + "." + "entry_by"] = gl_curr_user_details.email; // entry by
+  update_record_obj["Basic Info" + "." + "update_type"] = 1;                       //See [UPDATE CODES] - First write to operation
+  update_record_obj["Basic Info" + "." + "update_time"] = firebase.firestore.FieldValue.serverTimestamp();
+
+
+  // update future_record state also
+  future_record["Basic Info"].current_op = current_operation;                      
+  future_record["Basic Info"].pending_op = progress_obj.current_operation;         
+  future_record["Basic Info"].status = process_status;                             
+  future_record[current_operation].actual_value = actual_value_list;               
+  future_record[current_operation].status = stage_status;   
+  future_record[current_operation].workstation = workstation_name;
+
+  // set log
+  future_record[current_operation].log.entry_dt = new Date(); // entry date
+  future_record[current_operation].log.entry_by = gl_curr_user_details.email; // entry by
+  future_record["Basic Info"].update_type = 1;         
+  future_record["Basic Info"].update_time = new Date();
+
+  var dbref = db.collection("app").doc(company_id).collection("records").doc(future_record["Basic Info"].serial);
+  var result = await dbref.update(update_record_obj);               // write entry to database
+  gl_curr_record = future_record;                                   // set record to future_record on success
+ 
+  update_cache(future_record["Basic Info"].model, current_operation, future_record);
+ 
+  return true;
+
+  }
+  else                                                                           // Update to an operation
+  {
+
+    // check user permission
+    if( (gl_user_permission.admin != 1 && gl_user_permission[current_operation] < permission_list_access.indexOf("Update")) 
+        || permission_list_access.indexOf("Update") < 0 ) 
+    {
+    display_error("You do not have sufficient permissions for this operation.");
+    return false; 
+    }  
+
+
+    // Error if previous step is still incomplete or part is rejected
+    var current_step_index = (Object.keys(future_record)).indexOf(current_operation);
+
+    if( current_step_index > (current_process_status(future_record)).operation_index && future_record[current_operation].status == 2 )
+    {
+      display_error("Previous operation has to be completed before current operation can be updated.");
+      return false; 
+    }
+    if( future_record["Basic Info"].status == 4 )
+    {
+      display_error("Data could not be saved as part is already rejected.");
+      return false; 
+    }
+    if( is_null(workstation_name) )
+    {
+      display_error("Please select Workstation ID before saving."); // Show error if workstation name is empty
+      return false;
+    }
+
+  // get param_list & actual_values
+  var param_list = record[current_operation].param_list;    // get param list
+  var actual_value_list = {};
+
+  for(var i=0; i<param_list.length; i++)
+    {
+      var actual_value = data_container.childNodes[4*i+1].value;
+
+      if( String(actual_value) != "0" && is_null(actual_value) )     // Show error if input value field is empty & return false
+      {
+        display_error("Please fill all input fields before saving.");
+        return false;
+      }
+
+      if ( !await validate_input_field_value(param_list[i].type, param_list[i].value1, param_list[i].value2, actual_value) )
+      {
+        if (param_list[i].level == parameter_criticality_level[0] )       // "Minor" deviation - status 1
+        stage_status = Math.max(stage_status, 1);                           
+        else if (param_list[i].level == parameter_criticality_level[1])   // "Major" deviation - status 3
+        stage_status = Math.max(stage_status, 3);                           
+      }
+
+      // cache flage 1 indicates value is from frequency sample. not actual measurement
+      var cache_flag =  get_cache_flag_value_on_record_update(future_record[current_operation].actual_value[param_list[i].name][0],
+                                                              actual_value, future_record[current_operation].actual_value[param_list[i].name][1]);
+      actual_value_list[param_list[i].name] = [actual_value, cache_flag];
+    }
+
+  future_record[current_operation].status = stage_status;
+
+  // Set overall stage status - max value of all stage statuses
+  var operation_list = Object.keys(future_record);
+  for(var i=1; i<operation_list.length; i++)
+  { process_status = Math.max(process_status, future_record[operation_list[i]].status); }
+
+  var progress_obj = current_process_status(future_record);
+
+  update_record_obj["Basic Info" + "." + "current_op"] = current_operation;                      // operation being updated now
+  update_record_obj["Basic Info" + "." + "pending_op"] = progress_obj.current_operation;         // next operation pending
+  update_record_obj["Basic Info" + "." + "status"] = process_status;                             // set overall process status
+  update_record_obj[current_operation + "." + "actual_value"] = actual_value_list;               // set object containg actual param values
+  update_record_obj[current_operation + "." + "status"] = stage_status;                          // set stage status
+  update_record_obj[current_operation + "." + "workstation"] = workstation_name;                 // set workstation name
+
+  // set log
+  update_record_obj[current_operation + "." + "log" + "." + "update_dt"] = firebase.firestore.FieldValue.serverTimestamp(); // entry date
+  update_record_obj[current_operation + "." + "log" + "." + "update_by"] = gl_curr_user_details.email; // entry by
+  update_record_obj["Basic Info" + "." + "update_type"] = 2;                       //See [UPDATE CODES] - First write to operation
+  update_record_obj["Basic Info" + "." + "update_time"] = firebase.firestore.FieldValue.serverTimestamp();
+
+
+  // update future_record state also
+  future_record["Basic Info"].current_op = current_operation;                      
+  future_record["Basic Info"].pending_op = progress_obj.current_operation;         
+  future_record["Basic Info"].status = process_status;                             
+  future_record[current_operation].actual_value = actual_value_list;               
+  future_record[current_operation].status = stage_status;   
+  future_record[current_operation].workstation = workstation_name;   
+
+  // set log
+  future_record[current_operation].log.update_dt = new Date(); // update date
+  future_record[current_operation].log.update_by = gl_curr_user_details.email; // update by
+  future_record["Basic Info"].update_type = 2;         
+  future_record["Basic Info"].update_time = new Date();
+
+  var dbref = db.collection("app").doc(company_id).collection("records").doc(future_record["Basic Info"].serial);
+  var result = await dbref.update(update_record_obj);               // write entry to database
+  gl_curr_record = future_record;                                   // set record to future_record on success
+
+  return true;
+  
+
+
+  }
+}
+
+}
+catch(error)
+{
+  console.log(error);
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+}
+
+
+// Function to encode & allow deviation operation in process plan
+async function allow_deviation_operation_record(current_operation, record, remark)
+{
+start_loading();  
+try
+{
+var dbref = db.collection("app").doc(company_id).collection("records").doc(record["Basic Info"].serial);
+var future_record = JSON.parse(JSON.stringify(record));       // record state after changes are made
+future_record[current_operation].status = 0;                  // set status of current operation to 0 - complete
+var process_status = current_process_status(future_record);   // get process_status of future record
+
+var result = await dbref.update(
+{
+// Set values for current operation
+[current_operation + "." + "status"] : 0,
+[current_operation + "." + "log" + "." + "deviation_dt"] : firebase.firestore.FieldValue.serverTimestamp(),
+[current_operation + "." + "log" + "." + "deviation_by"] : gl_curr_user_details.email,
+[current_operation + "." + "log" + "." + "remark"] : remark,
+
+// Update values in Basic Info
+["Basic Info" + "." + "status"] : process_status.current_status_value,     //overall process status of future_record
+["Basic Info" + "." + "current_op"] : current_operation,                   // operation where deviation is being allowed. If complete -> value = 0
+["Basic Info" + "." + "pending_op"] : process_status.current_operation,    // next operation to be done. If complete -> value = ""
+["Basic Info" + "." + "update_type"] : 4,                           // [UPDATE CODES] - See list above for key
+["Basic Info" + "." + "update_time"] : firebase.firestore.FieldValue.serverTimestamp()
+});
+
+// Update local copy of curr_record after database write is successful
+record[current_operation].status = 0;
+record[current_operation].log.deviation_dt = new Date();
+record[current_operation].log.deviation_by = gl_curr_user_details.email;
+record[current_operation].log.remark = remark;
+
+record["Basic Info"].status = process_status.current_status_value;
+record["Basic Info"].current_op = current_operation;
+record["Basic Info"].pending_op = process_status.current_operation;
+record["Basic Info"].update_type = 4;
+record["Basic Info"].update_time = new Date();
+
+gl_curr_record = record;
+
+var select_con = document.getElementById("qc_stage_select_list");
+var qc_data_display_con = document.getElementById("serial_qc_data_display");
+await display_qc_stage_info_card(select_con, qc_data_display_con, gl_curr_record, false);
+display_info("Data saved successfully");
+return true;
+}
+
+catch(error)
+{
+display_error("Operation could not be completed. Please try again later.");
+return false;
+}
+
+}
+
+
+// Function to encode & allow rejection operation in process plan
+async function allow_rejection_operation_record(current_operation, record, remark)
+{
+start_loading();  
+try
+{
+var dbref = db.collection("app").doc(company_id).collection("records").doc(record["Basic Info"].serial);
+var future_record = JSON.parse(JSON.stringify(record));       // record state after changes are made
+future_record[current_operation].status = 4;                  // set status of current operation to 4 - rejected
+var process_status = current_process_status(future_record);   // get process_status of future record
+
+var result = await dbref.update(
+{
+// Set values for current operation
+[current_operation + "." + "status"] : 4,                     // Reject status = 4
+[current_operation + "." + "log" + "." + "deviation_dt"] : firebase.firestore.FieldValue.serverTimestamp(),
+[current_operation + "." + "log" + "." + "deviation_by"] : gl_curr_user_details.email,
+[current_operation + "." + "log" + "." + "remark"] : remark,
+
+// Update values in Basic Info
+["Basic Info" + "." + "status"] : process_status.current_status_value,     //overall process status of future_record
+["Basic Info" + "." + "current_op"] : current_operation,                   // operation where deviation is being allowed. If complete -> value = 0
+["Basic Info" + "." + "pending_op"] : current_operation,    // next operation to be done. 
+["Basic Info" + "." + "update_type"] : 5,                           // [UPDATE CODES] - See list above for key
+["Basic Info" + "." + "update_time"] : firebase.firestore.FieldValue.serverTimestamp()
+
+});
+
+// Update local copy of curr_record after database write is successful
+record[current_operation].status = 4;
+record[current_operation].log.deviation_dt = new Date();
+record[current_operation].log.deviation_by = gl_curr_user_details.email;
+record[current_operation].log.remark = remark;
+
+record["Basic Info"].status = process_status.current_status_value;
+record["Basic Info"].current_op = current_operation;
+record["Basic Info"].pending_op = current_operation;
+record["Basic Info"].update_type = 5;
+record["Basic Info"].update_time = new Date();
+
+
+gl_curr_record = record;
+
+var select_con = document.getElementById("qc_stage_select_list");
+var qc_data_display_con = document.getElementById("serial_qc_data_display");
+await display_qc_stage_info_card(select_con, qc_data_display_con, gl_curr_record, false);
+display_info("Data saved successfully");
+
+return true;
+}
+
+catch(error)
+{
+display_error("Operation could not be completed. Please try again later.");
+return false;
+}
+}
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+// Functions to Create / Update Process Disruption Records
+
+async function create_process_disruption_record(reason, operation, workstation, remark)
+{
+
+  try
+  {
+      var disruption_record = {
+        ["reason"] : reason,
+        ["operation"] : operation,
+        ["workstation"] : workstation,
+        ["remark"] : remark,             
+        ["start_user"] : gl_curr_user_details.email,
+        ["start_time"] : firebase.firestore.FieldValue.serverTimestamp(),
+        ["end_time"] : "",
+        ["end_user"] : ""
+    };
+
+    // create disruption main doc
+    var dbref = db.collection("app").doc(company_id).collection("disruptions");
+    const disruption_doc_ref = await dbref.add(disruption_record);
+
+    var updated_alert = copy_disruption_record(gl_disruption_alerts);
+
+    updated_alert.push({
+            ["id"] : disruption_doc_ref.id,
+            ["operation"] : operation,
+            ["workstation"] : workstation, 
+            ["reason"] : reason,
+            ["remark"] : remark,             
+            ["start_user"] : gl_curr_user_details.email,
+            ["start_time"] : new Date()
+        });
+
+    await alert_notification_update(updated_alert)
+
+    display_info("Disruption reported successfully")
+    return true;     
+  }
+  catch(e)
+  {
+    display_error("Process Disruption Report could not be created. Please try again later or contact your system administrator.");
+    return false;
+  }
+                   
+}
+
+
+async function close_process_disruption_record(document_id)
+{
+  try
+  {
+    var disruption_record = 
+    {
+      ["end_time"] : firebase.firestore.FieldValue.serverTimestamp(),
+      ["end_user"] : gl_curr_user_details.email
+    };
+
+  // create disruption main doc
+  var dbref = db.collection("app").doc(company_id).collection("disruptions").doc(document_id);
+  const disruption_doc_ref = await dbref.update(disruption_record);
+
+
+  var updated_alert = copy_disruption_record(gl_disruption_alerts);
+  
+  var temp_disruption_list = []; 
+
+  var closed_disruption_record;
+
+  for(var i=0; i<updated_alert.length; i++ )
+  {
+    if(updated_alert[i].id != document_id )
+    temp_disruption_list.push(updated_alert[i]);
+    else
+    closed_disruption_record = updated_alert[i];
+  }
+
+  updated_alert = temp_disruption_list;
+  await alert_notification_update(updated_alert);
+
+  //Prompt for "Corrective Maintenance Update" if user has permission
+  const selected_workstation = closed_disruption_record.workstation + " (" + closed_disruption_record.operation + ")";
+  const disruption_reason = closed_disruption_record.reason;
+
+  if ((gl_user_permission.admin == 1 || gl_user_permission[section_permission_list["Update Maintenance Records"]] == 1)
+      && disruption_reason == disruption_reasons[0])
+  {
+    await await_loading(create_maintenance_update_modal,selected_workstation, "Corrective");  
+  }
+  else
+  {
+    await display_info("Disruption status updated successfully")
+  }
+
+  return true;
+  }
+  catch(e)
+  {
+    console.log(e);
+    await initialize_process_disruption_section();
+    display_error("Process Disruption status could not be updated. Please try again later or contact your system administrator.");
+    return false;
+  }
+}
+
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+// Functions to Save Maintenance Record Updates
+
+async function write_maintenance_record(maintenance_record_object)
+{
+    try
+    {
+      console.log(maintenance_record_object);
+
+      var dbref = db.collection("app").doc(company_id).collection("maintenance_record");
+      var result = await dbref.add(maintenance_record_object);
+
+      if(maintenance_record_object.type == "Preventive")
+      {
+        gl_maintenance_updates_list[maintenance_record_object.workstation].last_update = new Date();
+        await initialize_maintenance_updates_section(1);  
+      }
+
+      display_info("Data saved successfully");
+
+      return true;
+    }
+
+  catch(error)
+    {
+      console.log(error);
+      display_error("Operation could not be completed. Please try again later.");
+      return false;
+    }
+}
+
+
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+
+//Function to encode & create object for Maintenance Plan
+async function create_maintenance_plan_object(maintenance_stage_container_id , workstation_header_field) 
+{
+start_loading();  
+let maintenance_object = {};
+var workstation_name = document.getElementById(workstation_header_field).workstation_id;
+maintenance_stage_container = document.getElementById(maintenance_stage_container_id);
+
+var cycle_time = maintenance_stage_container.childNodes[0].childNodes[0].childNodes[1].value;
+
+maintenance_object["workstation"] = workstation_name;
+maintenance_object["cycle_time"] = Number(cycle_time);
+maintenance_object["param_list"] = [];
+
+
+var parameter_list_container = maintenance_stage_container.childNodes[0].childNodes[1];
+
+for(var j=0; j<parameter_list_container.childElementCount; j++)
+  {         
+
+    var param_group = {
+                        name : parameter_list_container.childNodes[j].childNodes[1].value,    //parameter name
+                        link : parameter_list_container.childNodes[j].childNodes[3].value,    //parameter reference url
+                        type : parameter_list_container.childNodes[j].childNodes[5].value,    //type - numeric range, option list, etc
+                        value1 : parameter_list_container.childNodes[j].childNodes[6].value,  //input value 1 field  based on parameter type
+                        value2 : parameter_list_container.childNodes[j].childNodes[7].value,   //input value 2 field  based on parameter type
+                      };
+
+    maintenance_object["param_list"].push(param_group);
+  }
+
+
+if (!is_null(gl_curr_maintenance_plan) && compare_objects(gl_curr_maintenance_plan, maintenance_object) )
+{
+await display_info("Data already saved");
+return true;
+}
+
+
+if(!validate_maintenance_process_object (maintenance_object)) return false;
+
+// Global doc to montor maintenance due dates
+var global_maintenance_list_obj = {
+                                    "cycle_time" : Number(maintenance_object["cycle_time"])
+                                  };
+
+if(is_null(gl_curr_maintenance_plan)) global_maintenance_list_obj["last_update"] = firebase.firestore.FieldValue.serverTimestamp();
+
+// Update database
+try
+{
+// update global -> scheduled_maintenance_list in database
+var dbref = db.collection("app").doc(company_id).collection("global").doc("maintenance_list");
+let res = await dbref.set( { [ workstation_name ] : global_maintenance_list_obj}, {merge:true} ); 
+
+// save maintenance_plan in database
+dbref = db.collection("app").doc(company_id).collection("maintenance_plan").doc(workstation_name);
+res = await dbref.set(maintenance_object);
+
+
+
+// set current gl_curr_maintenance_plan to maintenance_object
+gl_curr_maintenance_plan = maintenance_object;
+
+display_info("Data saved successfully");
+
+return true;
+}
+catch(error)
+{
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+
+}
+
+//Function to delete maintenance plan and remove entry from global maintenance object
+// mode = 1 indicates not called from maintenance plan configuration section
+async function delete_maintenance_plan(workstation_names_list, mode = 0)
+{
+  try{
+        var removed_workstation_object = {};
+
+        for(var i=0; i<workstation_names_list.length; i++)
+        {
+          removed_workstation_object[workstation_names_list[i].toString()] = firebase.firestore.FieldValue.delete();
+
+        // delete maintenance_plan in database
+        var dbref = db.collection("app").doc(company_id).collection("maintenance_plan").doc(workstation_names_list[i].toString());
+        await dbref.delete();
+        }
+
+        console.log(removed_workstation_object);
+
+        // update global -> scheduled_maintenance_list in database
+        var dbref = db.collection("app").doc(company_id).collection("global").doc("maintenance_list");
+        let res = await dbref.update( removed_workstation_object ); 
+        
+        if(mode==0)
+        {
+          gl_curr_maintenance_plan = {};
+          await initialize_configure_maintenance_plan_section();
+          display_info("Maintenance Plan deleted successfully");  
+        }
+
+        return true;
+     }
+     catch(error)
+     {
+      console.log(error);
+      
+      // display error for mode 0, else fail silently as document does not exist
+      if(mode==0)
+      display_error("Operation Failed. Please try again later.");
+      
+      return false;
+     }
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Support Function to convert & encode qc_process object to a qc_record. New serial numbers can be created by copying the qc_record & editing serial number.
+// Makes validation easier & better while creating new serial number.
+function convert_qc_object_to_record(process_obj, model)
+{
+var operation_list = Object.keys(process_obj);                     
+
+var record = 
+        {
+          ["Basic Info"] :
+                          {
+                            serial : "",
+                            model : model,
+                            status : 2,                        // In progress = 2
+                            external_id : "",
+                            current_op : "",
+                            pending_op : "",
+                            op_order : operation_list,        // Array showing order of operations. Operation order of object keys is not preserved in database.
+                            update_type : ".",
+                            update_time : firebase.firestore.FieldValue.serverTimestamp(),
+                            log : {
+                                    entry_dt: "",
+                                    entry_by: "",
+                                    update_dt: "",
+                                    update_by: ""
+                                  }
+                          }
+
+        };
+
+
+
+for (var i =0; i< operation_list.length; i++)
+{
+var param_list = process_obj[operation_list[i]].param_list;     // param list stored in qc_process
+var actual_value_obj = {};                                      // object containing actual values. to be added to record
+
+for( var j=0; j<param_list.length; j++)                         
+{
+actual_value_obj[param_list[j].name] = "";                    // add parameter names as keys
+}
+
+var log_obj = {                                                 // empty log object
+              entry_dt: "",
+              entry_by: "",
+              update_dt: "",
+              update_by: "",
+              deviation_dt:  "",
+              deviation_by: "",
+              remark: ""
+            };
+
+var stage_obj = {                                                // create stage object for each operation
+                ["workstation"] : "",
+                ["status"] : 2,
+                ["cycle_time"] : process_obj[operation_list[i]].cycle_time,
+                ["param_list"] : param_list,
+                ["log"] : log_obj,
+                ["actual_value"] : actual_value_obj
+              };
+
+record[operation_list[i]] = stage_obj;                          // add stage_obj to record with operation name key
+
+}
+return record;
+}
+
+//Function to encode & create object for QC Process Plan
+async function create_qc_process_object(qc_stage_container_id , model_header_field) 
+{
+start_loading();  
+let qc_object = {};
+var model = document.getElementById(model_header_field).model_id;
+qc_stage_container = document.getElementById(qc_stage_container_id);
+
+for(var i=0; i<qc_stage_container.childElementCount;i++)
+{
+var stage_name = qc_stage_container.childNodes[i].childNodes[0].childNodes[1].value;
+var cycle_time = qc_stage_container.childNodes[i].childNodes[0].childNodes[2].value;
+
+qc_object[stage_name] = {};                   //initialize properties
+qc_object[stage_name].param_list = [];         
+qc_object[stage_name].cycle_time = cycle_time;
+
+
+var parameter_list_container = qc_stage_container.childNodes[i].childNodes[1];
+
+
+
+for(var j=0; j<parameter_list_container.childElementCount; j++)
+  {         
+    if(Number(parameter_list_container.childNodes[j].childNodes[9].value)<1)
+    parameter_list_container.childNodes[j].childNodes[9].value=Number(1);
+
+    var param_group = {
+                        name : parameter_list_container.childNodes[j].childNodes[1].value,    //parameter name
+                        level : parameter_list_container.childNodes[j].childNodes[3].value,   //criticality of parameter - Minor / Major
+                        link : parameter_list_container.childNodes[j].childNodes[5].value,    //parameter reference url
+                        method : parameter_list_container.childNodes[j].childNodes[7].value,    //parameter measurement method, eg - vernier caliper, visual, etc
+                        freq : Number(parameter_list_container.childNodes[j].childNodes[9].value),    //freq - measurement frequency of parameter - eq- if 10, then check parameter once out of 10 parts
+                        type : parameter_list_container.childNodes[j].childNodes[11].value,    //type - numeric range, option list, etc
+                        value1 : parameter_list_container.childNodes[j].childNodes[12].value,  //input value 1 field  based on parameter type
+                        value2 : parameter_list_container.childNodes[j].childNodes[13].value   //input value 2 field  based on parameter type
+                      };
+
+    qc_object[stage_name].param_list.push(param_group);
+  }
+}
+
+if (!is_null(gl_curr_process_plan) && compare_objects(gl_curr_process_plan, qc_object) )
+{
+await display_info("Data already saved");
+return true;
+}
+
+if(!validate_qc_process_object (qc_object,model)) return false;
+
+var qc_record = convert_qc_object_to_record(qc_object, model);
+
+
+// Update database
+try
+{
+// save process_plan_record in database
+var dbref = db.collection("app").doc(company_id).collection("process_plan").doc(model);
+let res = await dbref.set(qc_record);
+
+// update global -> model_list in database
+if(gl_model_list.indexOf(model) < 0 )
+{
+dbref = db.collection("app").doc(company_id).collection("global").doc("model_list");
+res = await dbref.update( { val: firebase.firestore.FieldValue.arrayUnion(model) }  ); 
+gl_model_list.push(model);
+}
+
+// set currentgl_curr_process_plan to qc_object
+gl_curr_process_plan = qc_object;
+
+display_info("Data saved successfully");
+
+return true;
+}
+catch(error)
+{
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+
+}
+
+/* Firestore security rules - 
+
+Validation while creating qc_process_plan / record
+
+Basic Checks-
+check-> record["Basic Info"].model == request path model
+check-> record["Basic Info"].status == 2
+check -> record["Basic Info"].update_type === "."
+check-> record["Basic Info"].update_time == request.time
+check -> "Basic Info" object keys
+check-> max keys & keys > 2 (atleast "Basic Info" + 1 operation)
+check-> no duplicate operations
+check-> no empty operation
+check-> sub keys of each operation !?
+
+check-> user.customClaims company != "" && company_id match document path 
+
+Checks with additional reads-      
+check-> user.customClaims for permission to create qc_process_plan / record
+
+======================================================================================
+
+Validation while editing global - model_list
+
+Basic Checks-
+check-> user.customClaims company != "" && company_id match document path 
+check-> user.customClaims for permission to creat qc_process_plan / record      
+
+Checks with additional reads-      
+check-> array.val difference has only 1 changed value
+check-> is qc_process_plan object exists
+*/
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+//Function to encode & create user permission object
+async function create_user_permission_object(stage_permission_container, alert_notification_container, basic_info_permission_container, operation_permission_container , user_email_header_field, old_user_permission_obj)
+{
+start_loading();
+// if no permission to add / edit users. (0 - no)
+if (gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Configure Users"]] == permission_list_no_yes[0] )   
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+user_email = document.getElementById(user_email_header_field).user_email;
+
+var user_permission_obj = {};
+
+var section_list = Object.keys(section_permission_list);                                 
+if( is_null(gl_current_operations_list))
+gl_current_operations_list = await read_production_operations_list();
+
+var operation_list = Object.keys(gl_current_operations_list);
+
+for(var i=0; i< section_list.length; i++)                  // Get permissions for sections
+{
+var permission_key = section_permission_list[section_list[i]];            // convert permission name to key. eg -> sp_dashboard
+var permission_value = stage_permission_container.childNodes[i].childNodes[1].value;    // get permission value - yes / no
+permission_value = permission_list_no_yes.indexOf(permission_value);                    // convert no / yes to 0 /1 
+
+if( user_email == gl_curr_user_details.email && permission_key == section_permission_list["Configure Users"])
+permission_value = gl_user_permission[permission_key];                   // for self email - can't remove user editing access. reset to original permission
+
+user_permission_obj[permission_key] = permission_value;                    // add to user permission object
+}
+
+for(var i=0; i< operation_list.length; i++)                  // Get permissions for alert notifications
+{
+var permission_key = operation_list[i] + "_an";            // convert operation name to key by adding "_an" eg -> operation1_an
+var permission_value = alert_notification_container.childNodes[i].childNodes[1].value;    // get permission value - yes / no
+permission_value = permission_list_no_yes.indexOf(permission_value);                    // convert no / yes to 0 /1 
+
+user_permission_obj[permission_key] = permission_value;                    // add to user permission object
+}
+
+for(var i=0; i< 1; i++)               // Get permissions for Basic Info
+{
+var permission_key = "Basic Info";                           // only Basic Info
+var permission_value = basic_info_permission_container.childNodes[i].childNodes[1].value;    // get permission value - none, read, write, update
+permission_value = permission_list_access.indexOf(permission_value);                    // convert to 0 , 1 , 2, 3
+
+user_permission_obj[permission_key] = permission_value;                    // add to user permission object
+}
+
+
+for(var i=0; i< operation_list.length; i++)               // Get permissions for operations
+{
+var permission_key = operation_list[i];            // convert permission name to key. eg -> sp_dashboard
+var permission_value = operation_permission_container.childNodes[i].childNodes[1].value;    // get permission value - none, read, write, update
+permission_value = permission_list_access.indexOf(permission_value);                    // convert to 0 , 1 , 2, 3
+
+user_permission_obj[permission_key] = permission_value;                    // add to user permission object
+}
+
+
+if ( !validate_user_permission_obj(user_permission_obj) )
+{
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+if (is_null(old_user_permission_obj) ) old_user_permission_obj = {};
+
+if( compare_objects(user_permission_obj, old_user_permission_obj) == true )
+{
+display_info("Data already saved");
+return true;
+}
+
+// Update database
+
+var dbref = db.collection("app").doc(company_id).collection("users").doc(user_email);
+try
+{
+  await dbref.update(user_permission_obj);
+
+  if(user_email == gl_curr_user_details.email)
+    {
+      window.location.reload();
+      display_info("Data saved successfully");
+
+    }
+  else
+    {
+    initialize_user_permission_section();
+    display_info("Data saved successfully");
+    }
+  return true;
+}
+catch(error)
+{
+  console.log(error);
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+
+
+}
+
+/* Firestore security rules - 
+
+Validation while setting user permissions
+
+Basic Checks-
+check-> user.customClaims company != "" && company_id match document path 
+check-> request.resource.data["Basic Info"] >=1 
+check-> self permission -> can't remove user permission edit access
+
+check-> max keys & keys > 3 (atleast "Basic Info" + company_id + company) + section_keys + operation_keys
+check-> values of section_keys are 0 or 1
+
+Checks with additional reads-      
+check-> user.customClaims for permission to edit user permissions
+check-> keys iclude only "Basic Info", section_keys + operation_keys
+*/
+
+
+// Function to create a new user with email & password
+async function create_new_user (email_field, password_field)
+{
+start_loading();  
+var email = document.getElementById(email_field).value;
+var password = document.getElementById(password_field).value;
+
+
+// 1 = yes. Check user permission
+if ( gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Configure Users"]] != 1 )
+{
+display_error("Unauthorized request");
+return false;
+}      
+
+else if (!validate_input(email) || !validate_input(password))
+{
+display_error("Email / Password cannot be blank");
+return false;
+}
+
+else if ( !validate_email(email) )
+{
+display_error("Please enter a valid email");
+return false;
+}
+
+else if(password.length < 10)
+{
+display_error("Password should be minimum 10 characters");
+return false;
+}
+
+else if (gl_user_list.indexOf(email) >=0 )     // user already exists
+{
+display_info("User already exists");
+return false;
+}
+
+
+try
+{
+const add_new_user = functions.httpsCallable('add_new_user');
+var res = await add_new_user({email:email, password:password});
+
+if(gl_user_list.indexOf(email) < 0 ) gl_user_list.push(email);
+
+initialize_user_permission_section();
+
+display_info("User created successfully");
+}
+catch(error)
+{
+display_error(error.message);
+return false;
+}
+
+}
+
+// Function to delete user
+async function delete_user(user_email_header_field)
+{
+  start_loading();  
+try
+{
+var user_email = document.getElementById(user_email_header_field).user_email;
+
+if (user_email == gl_curr_user_details.email )
+{
+display_error("Can't delete own account");
+return false;
+}
+
+
+
+// if no permission to add / edit users. (0 - no)
+if ( gl_user_permission.admin != 1 && gl_user_permission[section_permission_list["Configure Users"]] == 0 )
+{
+display_error("You do not have sufficient permissions for this operation.");
+return false;
+}
+
+
+const dbref = db.collection("app").doc(company_id).collection("users").doc(user_email);
+var res = await dbref.delete();
+gl_user_list = remove_string_from_array(gl_user_list, user_email);       // remove user from global user list
+initialize_user_permission_section(true);
+display_info("User deleted successfully");
+return true;
+}
+catch(error)
+{
+display_error("Operation failed. Please try again later");
+return false;
+}
+}
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+// Function to update notification list for events like low credit, machine maintenace, etc
+async function write_notification_list(low_credit_notification_list,maintenance_notification_list)
+{
+  var final_low_credit_list= [];
+  var final_maintenance_list= [];
+  try
+  {
+    for(var i=0; i<low_credit_notification_list.length; i++)
+    {
+      if(!validate_email(low_credit_notification_list[i]) && low_credit_notification_list[i]!="")
+      {
+        display_error("<b>Invalid email</b> entered for <b>Low Credit Balance Notifications</b>. Please check and try again.");
+        return false;
+      }
+
+      if(validate_email(low_credit_notification_list[i])) final_low_credit_list.push(low_credit_notification_list[i]);
+    }
+
+    for(var i=0; i<maintenance_notification_list.length; i++)
+    {
+      if(!validate_email(maintenance_notification_list[i]) && maintenance_notification_list[i]!="")
+      {
+        display_error("<b>Invalid email</b> entered for <b>Machine Maintenance Notifications</b>. Please check and try again.");
+        return false;
+      }
+      if(validate_email(maintenance_notification_list[i])) final_maintenance_list.push(maintenance_notification_list[i]);
+    }
+
+    var dbref = db.collection("app").doc(company_id).collection("global").doc("alert_subscriber_list");
+    var res = await dbref.update({
+                                    "low_credit":final_low_credit_list,
+                                    "maintenance":final_maintenance_list
+                                 });
+
+    display_info("Notification settings updated successfully");
+    return true;
+  }
+  catch(e)
+  {
+    display_error("Notification settings could not be updated. Please try again later.");
+    return false;
+  }
+
+}
+
+
+/* Firestore security rules - 
+
+Validation while deleting user
+
+Basic Checks-
+check-> user.customClaims company != "" && company_id match document path 
+check-> user.customClaims for permission to edit user permissions
+check-> auth.email != email of user being deleted
+
+*/
+
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+
+//Function to encode, validate & save production operations list
+async function save_production_operation_list()
+{
+start_loading();  
+var operation_list = {};
+
+var container = document.getElementById("production_operation_list_dynamic");
+var operation_count = container.childElementCount;
+
+for(var i=0;i<operation_count;i++)
+{
+var operation_name = container.childNodes[i].childNodes[0].childNodes[1].value;
+var workstation_name_list = [];
+var workstation_container = container.childNodes[i].childNodes[1];
+
+if (operation_name !== "") 
+  {
+
+    // get list of workstation names in an operation
+    for(var j=0; j < workstation_container.childElementCount; j++)
+    {
+      if(!is_null(workstation_container.childNodes[j].childNodes[0].value) )
+      workstation_name_list.push(workstation_container.childNodes[j].childNodes[0].value);
+      else
+      {
+        display_error("Workstation Name cannot be empty"); 
+        return false;
+      }
+
+    }
+
+    // format operation name
+    operation_name = operation_name.toLowerCase();
+    operation_name = operation_name.charAt(0).toUpperCase() + operation_name.slice(1);
+    container.childNodes[i].childNodes[0].childNodes[1].value = operation_name;  
+
+    operation_list[operation_name] = workstation_name_list;
+  }
+else 
+  {
+    display_error("Operation Name cannot be empty"); 
+    await clear_unsaved_operations();
+    return false;
+  }
+}
+
+if (!validate_proudction_operations_list(operation_list)) return false;
+
+// Update database
+
+var dbref = db.collection("app").doc(company_id).collection("global").doc("operation_list");
+try
+{
+let res = await dbref.set( operation_list ); 
+
+// Remove workstations from global maintenance_list
+var old_workstation_names_list = get_workstation_names_from_operations_obj(gl_current_operations_list);
+var new_workstation_names_list = get_workstation_names_from_operations_obj(operation_list);
+let removed_workstation_names_list = old_workstation_names_list.filter(x => new_workstation_names_list.indexOf(x) === -1);
+await delete_maintenance_plan(removed_workstation_names_list,1);
+
+gl_current_operations_list = operation_list;
+display_info("Data saved successfully");
+return true;
+}
+catch(error)
+{
+  console.log(error);
+display_error("Operation failed. Please try again later.");
+return false;
+}
+
+}
+
+/* Firestore security rules - 
+
+Validation while saving production_operation_list
+only updates
+
+Basic Checks-
+check-> user.customClaims company != "" && company_id match document path 
+check-> user.customClaims for permission to edit create / edit operations
+check-> length of keys?
+check-> map.diff has no removed keys. tot_keys < 15
+*/
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                   DB Functions for Database Operations - Write Data                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////      
+
+
+//function to create new serial number in database
+async function write_serial_number(serial_number, model)
+{
+try
+{
+
+var dbref = db.collection("app").doc(company_id).collection("process_plan").doc(model);
+var process_obj = await dbref.get();    // get process object
+process_obj = process_obj.data();       // get data from firestore promise
+
+
+if (is_null(process_obj) )
+{
+display_error("Serial number could not be created.");
+return false;
+}
+else
+{
+process_obj["Basic Info"].serial = serial_number;
+process_obj["Basic Info"].update_time = firebase.firestore.FieldValue.serverTimestamp();
+process_obj["Basic Info"].pending_op = process_obj["Basic Info"]["op_order"][0];
+
+//added key
+process_obj["Basic Info"].created_by = gl_curr_user_details.email;
+}
+
+dbref = db.collection("app").doc(company_id).collection("records").doc(serial_number);
+var result = await dbref.set(process_obj);
+return true;
+}
+
+catch(error)
+{
+display_error("Serial Number record could not be created. Please check if you have sufficient credits remaining & subscription is not expired.");
+return false;
+}
+}
+
+//function to delete serial number in database
+async function delete_serial_number(serial_number)
+{
+  try
+  {
+    dbref = db.collection("app").doc(company_id).collection("records").doc(serial_number);
+    var result = await dbref.delete();
+    display_info("Serial Number " + serial_number + " deleted successfully");
+    return true;
+  }
+  catch(error)
+  {
+  
+    display_error("Serial Number " + serial_number + " could not be deleted. Please check if it exists & no information is entered");
+    return false;
+  }
+}
+
+/* Firestore security rules - 
+
+Validation while creating serial number
+only write
+
+Basic Checks-
+check-> user.customClaims company != "" && company_id match document path 
+check-> record["Basic Info"].update_type == "." (same as process_plan_obj from where its copied)
+check-> record["Basic Info"].update_time == request.time
+
+
+Checks with additional reads- 
+check-> serial number does not already exist
+check-> user.permission for permission to edit create serial_numbers
+check-> no affected/changed keys from process_plan_obj except "Basic Info" & "Basic Info".serial, "Basic Info".update_time
+check-> credits available     
+
+*/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Functions for Database Operations - Read Data                                  //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////      
+
+//Function to read serial number record from database
+async function read_serial_number_record(serial_number)
+{
+    var dbref = db.collection("app").doc(company_id).collection("records");
+    var record = await dbref.doc(serial_number).get();
+
+    if( !record.exists || is_null(record.data()) )
+      return false;
+  
+    else 
+      {
+        record = record.data();
+  
+        // make record object with operations in actual order as per op_order. Operation order gets disturebed while storing in database.
+        var operation_list = record["Basic Info"].op_order;
+        var decoded_record = {};                                     
+  
+        decoded_record["Basic Info"] = record["Basic Info"];
+  
+        // now add operation keys
+        for(var i=0; i< operation_list.length; i++)
+        {
+          decoded_record[operation_list[i]] = record[operation_list[i]];
+        }
+  
+        return decoded_record;
+      }
+}
+
+
+//Function to read list of parts / models from database
+async function read_model_list()   
+{
+    var dbref = db.collection("app").doc(company_id).collection("global");
+    var model_list = await dbref.doc("model_list").get();
+
+    if( !model_list.exists || is_null(model_list.data()) )
+    return [];
+  
+    else 
+    {
+    model_list = await model_list.data().val;
+    return model_list;
+    }
+}  
+
+
+//Function to read production operations list
+async function read_production_operations_list()
+{
+    var dbref = db.collection("app").doc(company_id).collection("global");
+    var operation_list = (await dbref.doc("operation_list").get());
+
+    if( !operation_list.exists || is_null(operation_list.data()) )
+    return [];
+
+    else
+    {
+      // Sort operation list as per operation name and return
+      operation_list = operation_list.data();
+
+      var operation_name_list = Object.keys(operation_list);
+      operation_name_list = operation_name_list.sort();
+      var sorted_operation_list = {};
+
+      for(var i=0; i< operation_name_list.length; i++)
+      {
+        sorted_operation_list[operation_name_list[i]] = operation_list[operation_name_list[i]] ;
+      }
+
+      return sorted_operation_list;
+    }
+}
+
+//Function to read qc_plan / process plan
+async function read_qc_plan(model_id)
+{
+
+var dbref = db.collection("app").doc(company_id).collection("process_plan");
+var process_plan = await dbref.doc(model_id).get();
+
+if( !process_plan.exists || is_null(process_plan.data()) )
+return {};
+
+else                    // Decode qc_record to qc_plan_object
+{
+
+var qc_record = process_plan.data();                         
+var operation_list = qc_record["Basic Info"].op_order;
+
+// Convert qc_record to qc_object
+
+var qc_plan_obj = {};   // initialize object
+
+for(var i=0; i< operation_list.length; i++)
+{
+  if(operation_list[i] != "Basic Info")
+  {
+    qc_plan_obj[operation_list[i]] = {};
+    qc_plan_obj[operation_list[i]].cycle_time = qc_record[operation_list[i]].cycle_time;
+    qc_plan_obj[operation_list[i]].param_list = qc_record[operation_list[i]].param_list;
+  }
+}
+
+return qc_plan_obj;
+} 
+
+}
+
+//Function to read maintenance plan of a workstations
+async function read_maintenance_plan(workstation_id)
+{
+  var dbref = db.collection("app").doc(company_id).collection("maintenance_plan");
+  var maintenance_plan = await dbref.doc(workstation_id).get();
+
+  if( !maintenance_plan.exists || is_null(maintenance_plan.data()) )
+  return {};
+  else
+  return maintenance_plan.data();
+}
+
+//Function to read global maintenance updates list for all workstations
+async function read_global_maintenance_updates()
+{
+  var dbref = db.collection("app").doc(company_id).collection("global").doc("maintenance_list");
+  var maintenance_list = await dbref.get();
+
+  if( !maintenance_list.exists || is_null(maintenance_list.data()) )
+  return {};
+  else
+  return maintenance_list.data();
+}
+
+//Function to read credits remaining
+async function read_credit_balance()
+{
+    var dbref = db.collection("app").doc(company_id).collection("credit_logs").doc("0");
+    var credits = await dbref.get();
+
+    if( !credits.exists || is_null(credits.data()) )
+    return "-";
+    
+    else return credits.data();
+}
+
+
+//Function to read permission of user with given email
+async function read_other_user_permsission(email)
+{
+
+var dbref = db.collection("app").doc(company_id).collection("users");
+var user_permission = await dbref.doc(email).get();
+
+if( !user_permission.exists || is_null(user_permission.data()) ) // return false if cant read or insufficient permissions
+return {};
+
+else return user_permission.data();
+
+}
+
+
+//Function to read current user permissions
+async function read_user_permission()
+{
+
+var email = gl_curr_user_details.email;
+var dbref = db.collection("app").doc(company_id).collection("users").doc(email);
+var user_permission = await dbref.get();
+
+if( !user_permission.exists || is_null(user_permission.data()) ) // return false if cant read or insufficient permissions
+return {};
+
+else return user_permission.data();
+
+}
+
+
+//Function to read list of authorized users
+async function read_user_list()
+{
+
+var dbref = db.collection("app").doc(company_id).collection("global");
+var user_list = await dbref.doc("user_list").get();
+
+if( !user_list.exists || is_null(user_list.data().val ) )
+return [];
+
+else return user_list.data().val;
+
+}
+
+//Function to read list of notification subscribers
+async function read_notification_subscribers_list()
+{
+
+  var dbref = db.collection("app").doc(company_id).collection("global");
+  var notification_list = await dbref.doc("alert_subscriber_list").get();
+
+  if( !notification_list.exists || is_null(notification_list.data() ) )
+  return {};
+
+  else return notification_list.data();
+
+}
+
+async function subscribe_alert_notifications()
+{
+  var dbref = db.collection("app").doc(company_id).collection("global");
+
+  if(gl_disruption_alerts_is_subscribed == false)
+  await dbref.doc("alerts").onSnapshot(async function(alerts_doc) 
+  {
+    if( !alerts_doc.exists || is_null(alerts_doc.data() ) )
+    {
+      console.log("empty");
+      return (await alert_notification_update([]));
+    }
+  
+    else
+    {
+      var alerts = alerts_doc.data();
+      const disruption_keys = Object.keys(alerts);
+      var disruptions_list = [];
+      //decode disruption list
+      for(var i=0; i<disruption_keys.length; i++)
+      {
+
+        disruptions_list.push ({
+                                  "id" : disruption_keys[i],
+                                  "operation" : alerts[disruption_keys[i]].operation,
+                                  "workstation" : alerts[disruption_keys[i]].workstation,
+                                  "reason" : alerts[disruption_keys[i]].reason,
+                                  "remark" : alerts[disruption_keys[i]].remark,                                  
+                                  "start_user" : alerts[disruption_keys[i]].start_user,
+                                  "start_time" : new Date(decode_date(alerts[disruption_keys[i]].start_time,1))
+                               });
+      }
+
+      gl_disruption_alerts_is_subscribed = true; // mark as already subscribed
+      console.log(disruptions_list);
+      return (await alert_notification_update(disruptions_list));
+    }
+  
+  });
+                                                                      
+
+/*
+  var obj = 
+            {
+              low_credit : 1,
+              disruptions : [
+                {id : "123", operation : "Child Part Assembly", workstation : "Workstation 1",  reason : "No power", start_user : "test@cet.com", start_time : new Date()},
+
+                {id : "121222132asd", operation : "op1", workstation : "ws1",  reason : "Machinery Breakdown", start_user : "avinash.jaiswal@simplexmetalprocessors.com", start_time : new Date()}
+                            ]
+            };
+  await alert_notification_update(obj);
+  return obj;
+*/
+}
+
+
+async function await_loading(fn , arg1 = "", arg2 = "", arg3="", arg4="")
+{
+  let result = true;
+  await start_loading();
+
+  try
+  {
+   result =  await fn(arg1, arg2, arg3, arg4);
+  }
+  catch(e)
+  {
+    console.log(e);
+    display_error("Failed to load request. Please check your internet connection and try again.");
+    return false;
+  }
+  await stop_loading();
+  return result;
+}
+
+
+
+// Functions to run on initialization
+navigation_helper("navigation_menu");
+reset_sections();
+
+//Click Listeners for Display / Update Serial Number Record
+scan_qr_update_serial_btn.onclick = async function() {await popup_scanner(document.getElementById("serial_number_update_section")); }
+update_serial_btn.onclick = async function(){await await_loading(get_serial_history,"serial_number_update_section");}
+create_serial_btn.onclick =  async function(){ var result = setup_multi_serial_number_create_list(); await await_loading(create_new_serial,result[0],result[1], result[2]); }
+delete_create_serial_btn.onclick = async function(){await await_loading(remove_new_serial,document.getElementById("serial_number_delete_section").value) };
+reset_create_serial_btn.onclick =  async function(){ if(gl_pending_multi_serial_number_create_list.length>0)
+                                                      {
+                                                        var serial = gl_pending_multi_serial_number_create_list.pop();
+                                                        await await_loading(create_new_serial,serial);
+                                                      }
+                                                     else
+                                                      await reset_create_serial("serial_number_create_section");
+                                             }
+
+//Listeners for navigation
+navigation_menu_btn.onclick = function(){navigation_helper("navigation_menu"); reset_sections();}
+navigation_update_serial_btn.onclick = async function(){await navigation_helper("navigation_update_serial");}
+
+// Dashboard Section Navigation
+navigation_dashboard_btn.onclick =  async function(){await initialize_dashboard(); navigation_helper("navigation_dashboard"); }
+  
+  // back button to return to setting from below sub sections
+  back_dashboard_menu_btn.onclick = async function(){await initialize_dashboard(); navigation_helper("navigation_dashboard"); } 
+  navigation_realtime_analytics_btn.onclick = async function(){await await_loading(initialize_realtime_analytics_section); navigation_helper("navigation_realtime_analytics");}
+  navigation_daily_operation_analytics_btn.onclick = async function(){await await_loading(initialize_daily_operation_analytics_section); navigation_helper("navigation_daily_operation_analytics");}
+  navigation_hourly_operation_analytics_btn.onclick = async function(){await await_loading(initialize_hourly_operation_analytics_section); navigation_helper("navigation_hourly_operation_analytics");}
+  
+  navigation_wip_inventory_analytics_btn.onclick = async function(){await await_loading(initialize_wip_inventory_analytics_section); navigation_helper("navigation_wip_inventory_analytics");}
+  navigation_process_disruption_analytics_btn.onclick = async function(){await await_loading(initialize_process_disruption_analytics_section); navigation_helper("navigation_process_disruption_analytics");}
+  navigation_maintenance_history_analytics_btn.onclick = async function(){await await_loading(initialize_maintenance_history_analytics_section); navigation_helper("navigation_maintenance_history_analytics");}
+  
+  navigation_operation_pending_jobs_btn.onclick = async function(){await await_loading(initialize_operation_pending_jobs_section); navigation_helper("navigation_operation_pending_jobs");}
+  navigation_deviation_required_jobs_btn.onclick = async function(){await await_loading(initialize_deviation_required_jobs_section); navigation_helper("navigation_deviation_required_jobs");}
+  navigation_download_job_records_btn.onclick = async function(){await await_loading(initialize_download_job_records_section); navigation_helper("navigation_download_job_records");}
+
+
+// Create Serial Section Navigation
+navigation_create_serial_btn.onclick = async function(){await await_loading(initialize_create_serial_section); navigation_helper("navigation_create_serial");}
+
+
+// Report Process Disruption Section Navigation
+navigation_process_disruptions_btn.onclick = async function(){await await_loading(initialize_process_disruption_section); navigation_helper("navigation_process_disruption");}
+
+
+// Maintenance Update Section Navigation
+navigation_maintenance_updates_btn.onclick = async function(){await await_loading(initialize_maintenance_updates_section); navigation_helper("navigation_maintenance_updates");}
+
+
+//Configure Settings Section Navigation
+navigation_configure_settings_btn.onclick = async function(){navigation_helper("navigation_configure_settings_section");}
+  
+  // back button to return to setting from below sub sections
+  back_configure_settings_menu_btn.onclick = async function(){navigation_helper("navigation_configure_settings_section");}  
+  navigation_configure_production_operations_btn.onclick = async function(){await await_loading(initialize_production_operation_section); navigation_helper("navigation_configure_production_operations");}
+  navigation_model_qc_plans_btn.onclick = async function(){await await_loading(initialize_create_qc_plan_section); navigation_helper("navigation_model_qc_plans");}
+  navigation_configure_maintenance_schedule_btn.onclick = async function(){await await_loading(initialize_configure_maintenance_plan_section); navigation_helper("navigation_configure_maintenance_schedule");}
+  navigation_configure_notifications_btn.onclick = async function(){await await_loading(initialize_configure_notifications_section); navigation_helper("navigation_configure_notifications");}
+  navigation_user_permission_btn.onclick = async function(){await await_loading(initialize_user_permission_section); navigation_helper("navigation_user_permission");}
+
+navigation_view_credits_btn.onclick= async function(){ await await_loading(initialize_view_credits_section); navigation_helper("navigation_view_credits");}
+
+//Click Listeners for Create Process Plan for Part / Model
+create_model_qc_plan_btn.onclick = async function(){await await_loading(create_qc_plan_screen, "model_id_qc_plan_section"); }
+add_stage_qc_plan_btn.onclick = async function(){await add_qc_stage(); }
+remove_stage_qc_plan_btn.onclick = async function(){await remove_qc_stage(); }
+
+//Click Listeners for User Permission Section
+create_new_user_btn.onclick = async function(){await await_loading(create_new_user, "email_user_permission_section","password_user_permission_section"); }
+set_user_permission_btn.onclick = async function(){ await await_loading(create_user_permission_screen, "select_email_user_permission_section"); }
+
+
+//Click Listeners for Configure Production Operations
+add_production_operation_btn.onclick = async function(){await add_production_operation_stage(); }
+remove_production_operation_btn.onclick = async function()
+{await display_confirmation("Are you sure you want to remove the last operation? You won't be able to monitor it in the dashboard if removed!", remove_production_operation_stage); }
+save_production_operation_btn.onclick = async function(){await save_production_operation_list(); }
+
+logout_btn.onclick = async function() {await sign_out_user(); }
+
+
+
+// Help Tips for different sections
+
+process_plan_help.onclick = function() { display_help("Each Process Plan is a set of specifications that define a particular product model.<br><br>Example: Suppose you make tables of 3 different sizes. You would have to create a Process Plan for each different table model-<br><br><ul><li>4 seater table</li><li>6 seater table</li><li>8 seater table</li></ul>"); }
+
+process_operation_help.onclick = function() { display_help("Operations are individual stages of a process.<br><br>Example: Suppose you want to make a table. It's process plan could have operations like-<br><br><ul><li>Make 4 table legs</li><li>Make 1 table top</li><li>Assemble table legs and top</li></ul>"); }
+
+
+// Check if browser is online or offline
+window.addEventListener('online', () => dismiss_all_modals());
+window.addEventListener('offline', () => display_offline_message());
+
+if(window.navigator.onLine == false) display_offline_message();
+
+function display_offline_message()
+{display_info_no_dismiss("<div class='text-center m-3 text-primary'>No internet connection available. Please check your device settings.</div>");}
+
+function get_dummy_records(starting_serial = 0, ending_serial = 15)
+{
+  var record_array = [];
+  for (var i = Number(starting_serial); i<= Number(ending_serial); i++)
+  {
+    var rand_seed = Math.random();
+    rand_seed = Math.round(rand_seed);
+
+    var rand_seed1 = Math.random();
+    rand_seed1 = Math.round(rand_seed1);
+
+    var rand_seed2 = Math.random();
+    rand_seed2 = Math.round(rand_seed2);
+
+    let record = {
+
+      ["Basic Info"] : {
+                    serial: i, 
+                    model: (rand_seed2 == 0)?"Model X":"Model Y",
+    
+    
+                    status : 2,                      // 0: completed, 1: minor deviation required before completion, 2: all ok/in progress,  
+                                                     // 3: major deviation required, 4: rejected. Value is max value of all sub - statuses in operations
+                                                     
+                    external_id: i+"EXTL",
+    
+                    current_op : "Bending",   // possible values - current operation names, blank "" - if all operations done 
+                    pending_op : "Punching",  // next operation to be done
+                    op_order : ['Bending', 'Punching'],     // array showing order of operations
+                    update_type:1,           // indicates what kind of update is done and what parameters to check
+                    update_time : new Date(),   // Timestamp when last operation entry / update happened (except for Basic Info changes)
+
+                    log :    {
+                                  entry_dt: new Date(),
+                                  entry_by: "user1@gmail.com",
+                                  update_dt: "",
+                                  update_by: ""
+                             }
+    
+                    },
+    
+      ["Bending"] : 
+            {
+                    workstation: (rand_seed == 0)?"WS 1":"WS 2",
+                    cycle_time : 10,
+                    status: (rand_seed == 0)?0:1, // 0: completed, 1: minor deviation required before completion, 2: in progress, 3: major deviation required, 4: rejected       
+                    param_list: [
+                                  {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                                  {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                                  {name:"Param3", type: data_types[2], level:"Major", value1: "Model A", value2:"", link:"https://web.com", method:"visual" },
+                                  {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"", link:"https://web.com", method:"visual" }
+    
+                                ],
+    
+                      log :    {
+                                  entry_dt: (rand_seed1 == 0)?new Date():new Date("5 Nov 20"),
+                                  entry_by: "user1@gm.com",
+                                  update_dt: new Date(),
+                                  update_by: "user1@gm.com",
+                                  deviation_dt:  new Date(),
+                                  deviation_by: "adm",
+                                  remark: "sample remark"
+                                },
+    
+                  actual_value: {
+                                  "Param1" : (rand_seed == 0)?10:11,
+                                  "Param2" : "Yes",
+                                  "Param3" : (rand_seed == 0)?"Model A":"Model B",
+                                  "Param4" : "test",
+    
+                                }
+            }, 
+    
+            ["Punching"] : 
+            {
+                    workstation: "",
+                    cycle_time : 10,
+                    status: (rand_seed == 0)?1:3, // 0: completed, 1: minor deviation required before completion, 2: in progress, 3: major deviation required, 4: rejected       
+                    param_list: [
+                                  {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                                  {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                                  {name:"Param3", type: data_types[2], level:"Major", value1: "Model B", value2:"" , link:"https://web.com", method:"visual"},
+                                  {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"" , link:"https://web.com", method:"visual"}
+    
+                                ],
+    
+                      log :    {
+                                  entry_dt: "",
+                                  entry_by: "",
+                                  update_dt: "",
+                                  update_by: "",
+                                  deviation_dt: "",
+                                  deviation_by: "",
+                                  remark: "sample remark"
+                                },
+    
+                  actual_value: {
+                                  "Param1" : (rand_seed == 0)?12:11,
+                                  "Param2" : (rand_seed == 0)?"Yes":"No",
+                                  "Param3" : (rand_seed == 0)?"Model B":"Model A",
+                                  "Param4" : "test",
+    
+                                }
+            }                 
+    
+    
+    }
+    record_array.push(record);
+    
+  }
+  return record_array;
+}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Sample objects
+/*
+//Also includes basic info, log, actual_value, etc. same as record in new version
+        var qc_plan = {
+                    ["Bending"] : 
+                            {
+                                    param_list: [
+                                                  {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                                                  {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                                                  {name:"Param3", type: data_types[2], level:"Major", value1: gl_model_list[1], value2:"", link:"https://web.com", method:"visual" },
+                                                  {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"", link:"https://web.com", method:"visual" }
+
+                                                ]
+                            },
+
+                     ["Punching"] : 
+                            {
+                                    param_list: [
+                                                  {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                                                  {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                                                  {name:"Param3", type: data_types[2], level:"Major", value1: gl_model_list[1], value2:"", link:"https://web.com", method:"visual" },
+                                                  {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"", link:"https://web.com", method:"visual" }
+
+                                                ]
+                            }                            
+
+                    }
+
+
+}
+
+
+disruption_record = {
+                        ["reason"] : reason,
+                        ["operation"] : operation,
+                        ["workstation"] : workstation,
+                        ["remark"] : remark,             
+                        ["start_user"] : gl_curr_user_details.email,
+                        ["start_time"] : firebase.firestore.FieldValue.serverTimestamp(),
+                        ["end_time"] : "",
+                        ["end_user"] : ""
+                    };
+
+
+
+
+maintenance_record = {
+                      "type" : maintenance_update_type,
+                      "workstation" : workstation_id,
+                      "remark" : "Description of maintenance work done goes here",
+                      "timestamp" : firebase.firestore.FieldValue.serverTimestamp(),
+                      "user" : gl_curr_user_details.email,
+                      "param_list" : { "Param1" : 10, "Param2" : "Yes" }
+                     };
+
+
+let record = {
+
+  ["Basic Info"] : {
+                serial: "1247", 
+                model: "Long Member AS2",
+
+
+                status : 2,                      // 0: completed, 1: minor deviation required before completion, 2: all ok/in progress,  
+                                                 // 3: major deviation required, 4: rejected. Value is max value of all sub - statuses in operations
+                                                 
+                external_id: "1247ECL",
+
+                current_op : "Bending",   // possible values - current operation names, blank "" - if all operations done 
+                pending_op : "Punching",  // next operation to be done
+                op_order : ['Bending', 'Punching'],     // array showing order of operations
+                update_type:1,           // indicates what kind of update is done and what parameters to check
+                update_time : new Date(), // indicates timestamp of last operation stage entry / update / change (except for Basic Info changes)
+
+                log :    {
+                              entry_dt: new Date().toISOString(),
+                              entry_by: "user1@gmail.com",
+                              update_dt: "",
+                              update_by: ""
+                         }
+
+                },
+
+  ["Bending"] : 
+        {
+                workstation: "",
+                status: 1, // 0: completed, 1: minor deviation required before completion, 2: in progress, 3: major deviation required, 4: rejected       
+                param_list: [
+                              {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                              {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                              {name:"Param3", type: data_types[2], level:"Major", value1: "Model A", value2:"", link:"https://web.com", method:"visual" },
+                              {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"", link:"https://web.com", method:"visual" }
+
+                            ],
+
+                  log :    {
+                              entry_dt: new Date().toISOString(),
+                              entry_by: "user1@gm.com",
+                              update_dt: new Date().toISOString(),
+                              update_by: "user1@gm.com",
+                              deviation_dt:  new Date().toISOString(),
+                              deviation_by: "adm",
+                              remark: "sample remark"
+                            },
+
+              actual_value: {
+                              "Param1" : 9,
+                              "Param2" : "Yes",
+                              "Param3" : 1247,
+                              "Param4" : "test",
+
+                            }
+        }, 
+
+        ["Punching"] : 
+        {
+                workstation: "",
+                status: 2, // 0: completed, 1: minor deviation required before completion, 2: in progress, 3: major deviation required, 4: rejected       
+                param_list: [
+                              {name:"Param1", type:"Numeric Range", level:"Minor", value1:10, value2:12, link:"https://web.com", method:"visual" },
+                              {name:"Param2", type:"Option List", level:"Major", value1:"Yes", value2:"No,Maybe", link:"https://web.com", method:"visual" },
+                              {name:"Param3", type: data_types[2], level:"Major", value1: "Model B", value2:"", link:"https://web.com", method:"visual" },
+                              {name:"Param4", type: data_types[3], level:"Major", value1:"Test entry", value2:"", link:"https://web.com", method:"visual" }
+
+                            ],
+
+                  log :    {
+                              entry_dt: "",
+                              entry_by: "",
+                              update_dt: "",
+                              update_by: "",
+                              deviation_dt: "",
+                              deviation_by: "",
+                              remark: "sample remark"
+                            },
+
+              actual_value: {
+                              "Param1" : 11,
+                              "Param2" : "Yes",
+                              "Param3" : 1247,
+                              "Param4" : "test",
+
+                            }
+        }                 
+
+
+}
+
+
+*/
