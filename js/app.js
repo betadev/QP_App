@@ -10814,26 +10814,35 @@ async function cloud_download_maintenance_history_data(s_date, e_date)
 
             const start_date = new firebase.firestore.Timestamp( s_date.seconds , s_date.nanoseconds );
             const end_date = new firebase.firestore.Timestamp( e_date.seconds , e_date.nanoseconds );
+  
 
-            console.log(s_date);
-            console.log(start_date);
+            // Get operation record between selected dates            
+            const query_ref = db.collection("app").doc(gl_curr_user_details.company_id).collection("maintenance_record")
+            .where('timestamp','>=', start_date).where('timestamp','<=', end_date);
 
-            // Get maintenance report record between selected dates            
-            const disruption_query_ref = db.collection("app").doc(gl_curr_user_details.company_id).collection("maintenance_record")
-            .where('timestamp','>=', start_date).where('timestamp','<=', end_date).orderBy('timestamp');
+            // Get disruption report record between selected dates            
+            const disruption_query_ref = db.collection("app").doc(gl_curr_user_details.company_id).collection("disruptions")
+            .where('start_time','>=', start_date).where('start_time','<=', end_date).orderBy('start_time');
             
 
+            let results = [];
             let disruption_record_results = [];
+
+            // store operation data records
+            let query_snap = await query_ref.get();
+
+            query_snap.forEach((doc)=> { 
+                                         results.push(doc.data()); 
+                                       });
 
            // store disruptions data records
            let disruption_query_snap = await disruption_query_ref.get();
 
            disruption_query_snap.forEach((doc)=> { 
-                                        let disruption_record = doc.data(); 
-                                        disruption_record_results.push(disruption_record); 
-                                      });
-
-           return disruption_record_results;                           
+                                                    disruption_record_results.push(doc.data()); 
+                                                 });
+    
+            return ({maintenance_records : results, disruption_records : disruption_record_results});                      
 }
 
 
