@@ -1,1 +1,111 @@
-var _0xa596=['innerHTML','signInWithEmailAndPassword','display','prototype','nqlck','main_body','onclick','setSeconds','#loadingModal','location','{}.constructor(\x22return\x20this\x22)(\x20)','dtBIJ','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','bind','function\x20*\x5c(\x20*\x5c)','bg-gradient-primary','hide','apply','return\x20(function()\x20','#errorModal','length','warn','CQEkH','#infoModal','init','href','log','reset_password.html','initializeApp','eZRPO','error','gQoAR','debu','email_login_section','action','trace','table','kUyZc','kxlDH','bMchv','modal','while\x20(true)\x20{}','password_login_section','app.html','app_install_alert','matchMedia','ZXvFi','pdjmR','value','gger','className','style','console','emailVerified','main_login_section','string','none','message','chain','getSeconds','return\x20/\x22\x20+\x20this\x20+\x20\x22/','ppjir','standalone','test','input','auth','constructor','loading_modal_footer','exception','block','getElementById','info_modal_message','xBhcT','toString','ZyVvy','onAuthStateChanged','app_install_instruction_section'];(function(_0x676e86,_0x30b19e){var _0xa59651=function(_0x2cea7c){while(--_0x2cea7c){_0x676e86['push'](_0x676e86['shift']());}},_0x45ebd1=function(){var _0x2e861f={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x1812cd,_0x738929,_0x515719,_0xf7e7bb){_0xf7e7bb=_0xf7e7bb||{};var _0x1800a9=_0x738929+'='+_0x515719,_0x2c021e=0x0;for(var _0x1ce042=0x0,_0x48451b=_0x1812cd['length'];_0x1ce042<_0x48451b;_0x1ce042++){var _0x2c2bec=_0x1812cd[_0x1ce042];_0x1800a9+=';\x20'+_0x2c2bec;var _0x18b323=_0x1812cd[_0x2c2bec];_0x1812cd['push'](_0x18b323),_0x48451b=_0x1812cd['length'],_0x18b323!==!![]&&(_0x1800a9+='='+_0x18b323);}_0xf7e7bb['cookie']=_0x1800a9;},'removeCookie':function(){return'dev';},'getCookie':function(_0x2ebc53,_0x36f6d1){_0x2ebc53=_0x2ebc53||function(_0x13202e){return _0x13202e;};var _0x1eff20=_0x2ebc53(new RegExp('(?:^|;\x20)'+_0x36f6d1['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0xe9579f=function(_0x56666b,_0x4e706f){_0x56666b(++_0x4e706f);};return _0xe9579f(_0xa59651,_0x30b19e),_0x1eff20?decodeURIComponent(_0x1eff20[0x1]):undefined;}},_0x2a623d=function(){var _0x2dffd7=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x2dffd7['test'](_0x2e861f['removeCookie']['toString']());};_0x2e861f['updateCookie']=_0x2a623d;var _0x3959d2='';var _0x5248db=_0x2e861f['updateCookie']();if(!_0x5248db)_0x2e861f['setCookie'](['*'],'counter',0x1);else _0x5248db?_0x3959d2=_0x2e861f['getCookie'](null,'counter'):_0x2e861f['removeCookie']();};_0x45ebd1();}(_0xa596,0x11e));var _0x45eb=function(_0x676e86,_0x30b19e){_0x676e86=_0x676e86-0xff;var _0xa59651=_0xa596[_0x676e86];return _0xa59651;};var _0x161cbb=_0x45eb,_0x2c021e=function(){var _0x1cee4a=!![];return function(_0x64880f,_0xa7afd1){var _0xc6ecab=_0x45eb;if(_0xc6ecab(0x134)!==_0xc6ecab(0x13a)){var _0x5882e3=_0x1cee4a?function(){var _0x41b97c=_0xc6ecab;if(_0xa7afd1){var _0x71bef9=_0xa7afd1[_0x41b97c(0x126)](_0x64880f,arguments);return _0xa7afd1=null,_0x71bef9;}}:function(){};return _0x1cee4a=![],_0x5882e3;}else{function _0x1f2923(){var _0x58d2f6=_0xc6ecab;_0x56e9de[_0x58d2f6(0x10e)]('info_modal_message')[_0x58d2f6(0x115)]=_0x192c9c,_0x2d11dc(_0x58d2f6(0x12c))[_0x58d2f6(0x13d)]();}}};}(),_0x1800a9=_0x2c021e(this,function(){var _0x4dc427=function(){var _0x4c6333=_0x45eb,_0x1bad67=_0x4dc427[_0x4c6333(0x10a)](_0x4c6333(0x104))()[_0x4c6333(0x10a)]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x1bad67[_0x4c6333(0x107)](_0x1800a9);};return _0x4dc427();});_0x1800a9();var _0x738929=function(){var _0x49a428=!![];return function(_0x110ab2,_0x120042){var _0x19831f=_0x49a428?function(){var _0x58c1b6=_0x45eb;if(_0x120042){if('noCqM'!==_0x58c1b6(0x13b)){var _0xf8fab=_0x120042[_0x58c1b6(0x126)](_0x110ab2,arguments);return _0x120042=null,_0xf8fab;}else{function _0x2549f0(){var _0x5d2010=_0x58c1b6;_0x306483[_0x5d2010(0x10e)](_0x5d2010(0x14b))[_0x5d2010(0x148)][_0x5d2010(0x117)]=_0x5d2010(0x100),_0x52d3ca[_0x5d2010(0x10e)](_0x5d2010(0x114))[_0x5d2010(0x148)]['display']=_0x5d2010(0x10d);}}}}:function(){};return _0x49a428=![],_0x19831f;};}();(function(){_0x738929(this,function(){var _0x49ac20=_0x45eb;if(_0x49ac20(0x105)!==_0x49ac20(0x105)){function _0x3a76a2(){var _0x5d35a9=_0x4f80e9?function(){if(_0x29a27e){var _0x54d4eb=_0x7690d0['apply'](_0x4aa54c,arguments);return _0x5f2ac5=null,_0x54d4eb;}}:function(){};return _0x20a79d=![],_0x5d35a9;}}else{var _0x245ec9=new RegExp(_0x49ac20(0x123)),_0x22f636=new RegExp('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i'),_0x2193d1=_0x1812cd(_0x49ac20(0x12d));!_0x245ec9[_0x49ac20(0x107)](_0x2193d1+'chain')||!_0x22f636[_0x49ac20(0x107)](_0x2193d1+_0x49ac20(0x108))?_0x2193d1('0'):_0x1812cd();}})();}());var _0x2a623d=function(){var _0x41ce2d=!![];return function(_0x24190f,_0x532f8d){if('NQuwB'==='NQuwB'){var _0x1e6819=_0x41ce2d?function(){var _0x100ab9=_0x45eb;if(_0x532f8d){if(_0x100ab9(0x110)!==_0x100ab9(0x143)){var _0xadb3f0=_0x532f8d[_0x100ab9(0x126)](_0x24190f,arguments);return _0x532f8d=null,_0xadb3f0;}else{function _0x8410a(){var _0x77384b=_0x100ab9;if(_0x37cf8a&&_0x31f6bf[_0x77384b(0x14a)]==!![])_0x20a002[_0x77384b(0x11e)]['href']=_0x77384b(0x140);else{if(_0x12af16&&_0x128b51['emailVerified']==![])_0x11d132();}}}}}:function(){};return _0x41ce2d=![],_0x1e6819;}else{function _0x2e98b0(){_0x27bb83();}}};}(),_0x2e861f=_0x2a623d(this,function(){var _0x184d09=_0x45eb,_0x2afa96=function(){var _0x4c7b97=_0x45eb,_0x4882d0;try{_0x4882d0=Function(_0x4c7b97(0x127)+_0x4c7b97(0x11f)+');')();}catch(_0x3a9de4){_0x4882d0=window;}return _0x4882d0;},_0x17fcbd=_0x2afa96(),_0x604b7=_0x17fcbd[_0x184d09(0x149)]=_0x17fcbd[_0x184d09(0x149)]||{},_0x34a51a=[_0x184d09(0x12f),_0x184d09(0x12a),'info',_0x184d09(0x133),_0x184d09(0x10c),_0x184d09(0x139),_0x184d09(0x138)];for(var _0x3d82e5=0x0;_0x3d82e5<_0x34a51a[_0x184d09(0x129)];_0x3d82e5++){if(_0x184d09(0x120)!==_0x184d09(0x12b)){var _0x2f3669=_0x2a623d[_0x184d09(0x10a)][_0x184d09(0x118)][_0x184d09(0x122)](_0x2a623d),_0x5884a3=_0x34a51a[_0x3d82e5],_0xb375da=_0x604b7[_0x5884a3]||_0x2f3669;_0x2f3669['__proto__']=_0x2a623d[_0x184d09(0x122)](_0x2a623d),_0x2f3669[_0x184d09(0x111)]=_0xb375da['toString'][_0x184d09(0x122)](_0xb375da),_0x604b7[_0x5884a3]=_0x2f3669;}else{function _0x420948(){var _0x37637a=_0x184d09;if(new _0xf4854f()>=_0x1d3dd2)_0x5e8332[_0x37637a(0x10e)](_0x37637a(0x10b))[_0x37637a(0x148)][_0x37637a(0x117)]=_0x37637a(0x10d);}}}});_0x2e861f(),firebase[_0x161cbb(0x131)](Config);if(!navigator[_0x161cbb(0x106)]&&!window[_0x161cbb(0x142)]('(display-mode:\x20standalone)')['matches'])document[_0x161cbb(0x10e)](_0x161cbb(0x141))['style'][_0x161cbb(0x117)]='block';close_app_instruction_btn[_0x161cbb(0x11b)]=function(){var _0x284c74=_0x161cbb;document[_0x284c74(0x10e)]('main_body')[_0x284c74(0x147)]=_0x284c74(0x124),document['getElementById'](_0x284c74(0x114))[_0x284c74(0x148)][_0x284c74(0x117)]=_0x284c74(0x100),document[_0x284c74(0x10e)](_0x284c74(0x14b))[_0x284c74(0x148)][_0x284c74(0x117)]=_0x284c74(0x10d);},install_app_btn[_0x161cbb(0x11b)]=function(){var _0x3dbd9d=_0x161cbb;document[_0x3dbd9d(0x10e)](_0x3dbd9d(0x14b))['style'][_0x3dbd9d(0x117)]='none',document['getElementById']('app_install_instruction_section')[_0x3dbd9d(0x148)][_0x3dbd9d(0x117)]=_0x3dbd9d(0x10d);},login_btn[_0x161cbb(0x11b)]=function(){sign_in_user();},reset_btn[_0x161cbb(0x11b)]=function(){var _0x2365e2=_0x161cbb;window[_0x2365e2(0x11e)][_0x2365e2(0x12e)]=_0x2365e2(0x130);},firebase[_0x161cbb(0x109)]()[_0x161cbb(0x113)](async function(_0xea825c){var _0x579421=_0x161cbb;if(_0xea825c&&_0xea825c['emailVerified']==!![])window['location'][_0x579421(0x12e)]=_0x579421(0x140);else{if(_0xea825c&&_0xea825c[_0x579421(0x14a)]==![])sign_out_user();}});async function sign_in_user(){var _0x116542=_0x161cbb,_0x55416e=document['getElementById'](_0x116542(0x136))[_0x116542(0x145)],_0x28116f=document[_0x116542(0x10e)](_0x116542(0x13f))[_0x116542(0x145)];if(_0x55416e==''||_0x28116f=='')return display_error('Email\x20/\x20Password\x20cannot\x20be\x20blank'),![];start_loading();try{let _0x494648=await firebase['auth']()[_0x116542(0x116)](_0x55416e,_0x28116f);}catch(_0x241aa9){if(_0x116542(0x119)!==_0x116542(0x119)){function _0x45e12f(){return!![];}}else return stop_loading(),display_error(_0x241aa9[_0x116542(0x101)]),![];}}async function sign_out_user(){var _0x42b41f=_0x161cbb;await firebase[_0x42b41f(0x109)]()['signOut'](),window[_0x42b41f(0x11e)][_0x42b41f(0x12e)]='index.html';}function display_error(_0x59d1e8){var _0x5cdd6d=_0x161cbb;document[_0x5cdd6d(0x10e)]('error_modal_message')[_0x5cdd6d(0x115)]=_0x59d1e8,$(_0x5cdd6d(0x128))['modal']();}function display_info(_0x5deac1){var _0x1eac60=_0x161cbb;document[_0x1eac60(0x10e)](_0x1eac60(0x10f))[_0x1eac60(0x115)]=_0x5deac1,$(_0x1eac60(0x12c))[_0x1eac60(0x13d)]();}var flag_start_loading_ver;const gl_loading_dismiss_time=0xc;setInterval(function(){_0x1812cd();},0xfa0);function start_loading(){var _0x133c18=_0x161cbb;flag_start_loading_ver=new Date(),flag_start_loading_ver[_0x133c18(0x11c)](flag_start_loading_ver[_0x133c18(0x103)]()+gl_loading_dismiss_time-0x1),document[_0x133c18(0x10e)](_0x133c18(0x10b))[_0x133c18(0x148)][_0x133c18(0x117)]=_0x133c18(0x100),$(_0x133c18(0x11d))[_0x133c18(0x13d)](),setTimeout(function(){var _0x2e5ad7=_0x133c18;if(_0x2e5ad7(0x144)!==_0x2e5ad7(0x144)){function _0x6e1e3b(){var _0x29c2d7=_0x2e5ad7;_0x5b8ad7['getElementById'](_0x29c2d7(0x11a))[_0x29c2d7(0x147)]='bg-gradient-primary',_0x3b84eb['getElementById'](_0x29c2d7(0x114))[_0x29c2d7(0x148)][_0x29c2d7(0x117)]='none',_0x5a98e2[_0x29c2d7(0x10e)](_0x29c2d7(0x14b))[_0x29c2d7(0x148)][_0x29c2d7(0x117)]=_0x29c2d7(0x10d);}}else{if(new Date()>=flag_start_loading_ver)document[_0x2e5ad7(0x10e)](_0x2e5ad7(0x10b))['style'][_0x2e5ad7(0x117)]=_0x2e5ad7(0x10d);}},gl_loading_dismiss_time*0x3e8);}function stop_loading(){var _0x4863ee=_0x161cbb;$('#loadingModal')[_0x4863ee(0x13d)](_0x4863ee(0x125));}function _0x1812cd(_0x2bdfb1){var _0x23d22e=_0x161cbb;function _0x2e2bfc(_0x13f007){var _0x5077e9=_0x45eb;if(typeof _0x13f007===_0x5077e9(0xff)){if('ZyVvy'!==_0x5077e9(0x112)){function _0x28929b(){var _0x3a8103=_0x5077e9,_0x2eea1a=_0x4da111[_0x3a8103(0x126)](_0x56525f,arguments);return _0x48d4af=null,_0x2eea1a;}}else return function(_0x18c3b6){}['constructor'](_0x5077e9(0x13e))[_0x5077e9(0x126)]('counter');}else{if((''+_0x13f007/_0x13f007)[_0x5077e9(0x129)]!==0x1||_0x13f007%0x14===0x0)(function(){return!![];}[_0x5077e9(0x10a)](_0x5077e9(0x135)+_0x5077e9(0x146))['call'](_0x5077e9(0x137)));else{if(_0x5077e9(0x132)!==_0x5077e9(0x132)){function _0xb65cd9(){var _0x1125db=_0x5077e9,_0x58d973=_0x139c39[_0x1125db(0x10a)]('return\x20/\x22\x20+\x20this\x20+\x20\x22/')()[_0x1125db(0x10a)](_0x1125db(0x121));return!_0x58d973[_0x1125db(0x107)](_0x2ed062);}}else(function(){return![];}[_0x5077e9(0x10a)](_0x5077e9(0x135)+_0x5077e9(0x146))[_0x5077e9(0x126)]('stateObject'));}}_0x2e2bfc(++_0x13f007);}try{if(_0x2bdfb1)return _0x2e2bfc;else{if(_0x23d22e(0x13c)==='vhqnw'){function _0x438545(){_0x11f606(this,function(){var _0x20df30=_0x45eb,_0x47133f=new _0x5b561e(_0x20df30(0x123)),_0x351268=new _0x18f01c('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i'),_0x57c1fc=_0x1c7842(_0x20df30(0x12d));!_0x47133f['test'](_0x57c1fc+_0x20df30(0x102))||!_0x351268[_0x20df30(0x107)](_0x57c1fc+'input')?_0x57c1fc('0'):_0x265fed();})();}}else _0x2e2bfc(0x0);}}catch(_0x376a76){}}
+// Initialize Firebase
+firebase.initializeApp(Config);
+
+// Check if app installed or mobile web before showing installation prompt
+if (!navigator.standalone && !window.matchMedia('(display-mode: standalone)').matches)
+document.getElementById("app_install_alert").style.display = "block";
+
+
+// On close app install button click
+close_app_instruction_btn.onclick = function()
+{
+  document.getElementById("main_body").className = "bg-gradient-primary";
+  document.getElementById("app_install_instruction_section").style.display = "none";
+  document.getElementById("main_login_section").style.display = "block";
+}
+
+// On app install button click
+install_app_btn.onclick = function()
+{
+//  document.getElementById("main_body").className = "bg-white";  
+  document.getElementById("main_login_section").style.display = "none";
+  document.getElementById("app_install_instruction_section").style.display = "block";
+}
+
+
+login_btn.onclick = function() { sign_in_user(); }
+reset_btn.onclick = function() { window.location.href = "reset_password.html"; }
+
+// Listen for changes in user auth state & send to app
+firebase.auth().onAuthStateChanged(async function(user) {
+  
+  if (user && user.emailVerified == true) 
+  window.location.href = "app.html";
+
+  else if (user && user.emailVerified == false) 
+  sign_out_user();
+});
+
+
+
+// Function to sign in user
+async function sign_in_user()
+{
+    var email = document.getElementById("email_login_section").value;
+    var pass = document.getElementById("password_login_section").value
+
+    // Check if email / password field is blank
+    if(email == "" || pass == "") {   display_error("Email / Password cannot be blank");    return false;   }
+
+    start_loading();
+    try
+    {
+      let res = await firebase.auth().signInWithEmailAndPassword(email, pass); 
+    }
+
+  catch(error) 
+    {   
+        stop_loading();
+        display_error(error.message);
+        return false;
+    }
+
+}
+
+
+// Function to sign out user
+async function sign_out_user() 
+{ 
+await firebase.auth().signOut(); 
+window.location.href = "index.html";
+}
+
+
+// Function to display an error Modal with message
+function display_error(error_message)
+{
+   document.getElementById("error_modal_message").innerHTML = error_message;
+   $("#errorModal").modal();    
+}
+
+// Function to display an info Modal with message
+function display_info(info_message)
+{
+  document.getElementById("info_modal_message").innerHTML = info_message;
+  $("#infoModal").modal();    
+}
+
+
+//Function to display loading modal
+
+// FLAG - start_loading_ver
+var flag_start_loading_ver;              // Flag to track execution version
+const gl_loading_dismiss_time = 12; // 12 seconds before loading dismiss message appears if taking too long
+function start_loading()
+{
+  flag_start_loading_ver = new Date;
+  flag_start_loading_ver.setSeconds(flag_start_loading_ver.getSeconds() + gl_loading_dismiss_time - 1);
+
+  document.getElementById("loading_modal_footer").style.display = "none";
+  $("#loadingModal").modal();
+
+  // Show dismiss message & button if current time greater than (last function runtime + loading dismiss time) calculated
+  setTimeout(function() {if(new Date >= flag_start_loading_ver) document.getElementById("loading_modal_footer").style.display = "block"}, gl_loading_dismiss_time*1000);
+
+}
+
+//Function to stop loading modal
+function stop_loading()
+{
+  $("#loadingModal").modal("hide");
+}
