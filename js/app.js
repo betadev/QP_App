@@ -4825,8 +4825,8 @@ async function display_QR(serial_number, model_id = "", date="")
   var white_rgb="255-255-255";  
   var QR_img = new Image();
   QR_img.setAttribute('crossOrigin', 'anonymous');
-  QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURI(serial_number);
-//  QR_img.src = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&bgcolor="+white_rgb+"&data=" + encodeURI(serial_number);
+//  QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURI(serial_number);
+  QR_img.src = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&bgcolor="+white_rgb+"&data=" + encodeURI(serial_number);
 
   const img_x_start = 5;
   const img_y_start = 10;
