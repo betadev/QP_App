@@ -4782,7 +4782,9 @@ const doc = new jspdf.jsPDF({ orientation: "landscape", unit: "mm", format: [pdf
 
 var QR_img = new Image();
 QR_img.setAttribute('crossOrigin', 'anonymous');
-QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURIComponent(serial_number);
+// QR_img.src = "https://chart.googleapis.com/chart?cht=qr&chs=140x140&choe=UTF-8&chld=L|0&chl=" + encodeURIComponent(serial_number);
+QR_img.src = "https://api.qrserver.com/v1/create-qr-code/?size=140x140&bgcolor=255-255-255"+"&data=" + encodeURIComponent(serial_number);
+
 
 doc.addImage(QR_img, "PNG", spacing, starting_height, img_edge, img_edge);
 
